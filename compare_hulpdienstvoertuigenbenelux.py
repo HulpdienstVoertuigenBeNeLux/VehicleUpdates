@@ -135,8 +135,10 @@ def compare_json(old: Any, new: Any) -> dict:
             if item_without_roepnummer_adres(old_item) == item_without_roepnummer_adres(new_item):
                 # Treat as a change (Roepnummer and/or Adres changed)
                 changed.append({'key': f"{old_item.get('Roepnummer','')}->{new_item.get('Roepnummer','')}", 'old': old_item, 'new': new_item})
-                removed.remove(old_item)
-                added.remove(new_item)
+                if old_item in removed:
+                    removed.remove (old_item)
+                if new_item in added:
+                    added.remove(new_item)
                 break
 
     return {'added': added, 'removed': removed, 'changed': changed}
