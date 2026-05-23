@@ -124,22 +124,22 @@ def compare_json(old: Any, new: Any) -> dict:
         for k in new_dict if k in old_dict and old_dict[k] != new_dict[k]
     ]
 
-    # Detect Roepnummer changes (removed+added with all other fields the same)
-    def item_without_roepnummer_adres(item):
-        return {k: v for k, v in item.items() if k not in ('Roepnummer', 'Adres')}
-
+    # Detect Roepnummer changes by checking if a removed Roepnummer's Kenteken still exists in the new data with a different Roepnummer
     removed_copy = removed[:]
     added_copy = added[:]
+    kenteken_to_new = {item.get('Kenteken', '').strip(): item for item in new}
+    kenteken_to_old = {item.get('Kenteken', '').strip(): item for item in old}
     for old_item in removed_copy:
-        for new_item in added_copy:
-            if item_without_roepnummer_adres(old_item) == item_without_roepnummer_adres(new_item):
-                # Treat as a change (Roepnummer and/or Adres changed)
+        kenteken = old_item.get('Kenteken', '').strip()
+        if kenteken and kenteken in kenteken_to_new:
+            new_item = kenteken_to_new[kenteken]
+            # Only treat as a Roepnummer change if Roepnummer is different
+            if old_item.get('Roepnummer', '').strip() != new_item.get('Roepnummer', '').strip():
                 changed.append({'key': f"{old_item.get('Roepnummer','')}->{new_item.get('Roepnummer','')}", 'old': old_item, 'new': new_item})
                 if old_item in removed:
-                    removed.remove (old_item)
+                    removed.remove(old_item)
                 if new_item in added:
                     added.remove(new_item)
-                break
 
     return {'added': added, 'removed': removed, 'changed': changed}
 
@@ -216,7 +216,7 @@ def main():
         for field in new:
             if field in old and new[field] != old[field]:
                 if field == 'Roepnummer':
-                    descs.append(f"{old_roepnummer} -> {new_roepnummer}: Roepnummer van '{old_roepnummer}' naar '{new_roepnummer}' aangepast")
+                    descs.append(f"'{old_roepnummer}' omgtenummerd naar '{new_roepnummer}'")
                 else:
                     descs.append(f"{old_roepnummer}: {field} van '{old[field]}' naar '{new[field]}' aangepast")
         return descs
