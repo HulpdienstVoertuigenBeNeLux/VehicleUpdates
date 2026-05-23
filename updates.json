@@ -373,6 +373,11 @@
         "Hulpdienst": "Ambulance",
         "Regio": "13",
         "Description": "13-test LC-Ambu verwijderd van Test"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-3481 DB verwijderd van Den Ham"
       }
     ],
     "changed": [
@@ -1750,6 +1755,26 @@
         "Hulpdienst": "Brandweer",
         "Regio": "9",
         "Description": "09-1863: Bijzonderheden van 'Test 1' naar '' aangepast"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-3401: Afkorting van 'HC' naar 'DB' aangepast"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-3401: TypeVoertuig van 'Handcrew voertuig' naar 'Dienstbus' aangepast"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-3401: Bijzonderheden van 'T.b.v HC Bus Handcrew Oost' naar 'Bezetting: 8 personen.' aangepast"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-3461 -> 05-3462: Roepnummer van '05-3461' naar '05-3462' aangepast"
       }
     ]
   }
