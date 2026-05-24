@@ -152,7 +152,8 @@ def compare_json(old: Any, new: Any) -> dict:
 
 def main():
     # Prepare changelog for updates.json
-    changelog = {"date": datetime.datetime.now().strftime("%Y-%m-%d"), "added": [], "removed": [], "changed": []}
+    now = datetime.datetime.now()
+    changelog = {"date": now.strftime("%Y-%m-%d"), "added": [], "removed": [], "changed": []}
 
     # Format for added/removed: Hulpdienst, Regio, Description
     def make_description(item, action):
@@ -239,7 +240,8 @@ def main():
             changelog["added"].append({
                 "Hulpdienst": item.get("Hulpdienst", ""),
                 "Regio": item.get("Regio", ""),
-                "Description": make_description(item, "added")
+                "Description": make_description(item, "added"),
+                "Time": now.strftime("%d-%m-%Y %H:%M:%S")
             })
     if result['removed']:
         log("\nRemoved items:")
@@ -253,7 +255,8 @@ def main():
             changelog["removed"].append({
                 "Hulpdienst": item.get("Hulpdienst", ""),
                 "Regio": item.get("Regio", ""),
-                "Description": make_description(item, "removed")
+                "Description": make_description(item, "removed"),
+                "Time": now.strftime("%d-%m-%Y %H:%M:%S")
             })
     if result['changed']:
         log("\nChanged items:")
@@ -288,7 +291,8 @@ def main():
                 changelog["changed"].append({
                     "Hulpdienst": item['old'].get("Hulpdienst", ""),
                     "Regio": item['old'].get("Regio", ""),
-                    "Description": desc
+                    "Description": desc,
+                    "Time": now.strftime("%d-%m-%Y %H:%M:%S")
                 })
 
 
