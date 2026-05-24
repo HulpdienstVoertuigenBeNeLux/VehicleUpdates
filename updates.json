@@ -1,7 +1,14 @@
 [
   {
     "date": "2026-05-24",
-    "added": [],
+    "added": [
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "22",
+        "Description": "22-2481 HC toegevoegd aan Eindhoven Woensel",
+        "Time": "24-05-2026 10:35:57"
+      }
+    ],
     "removed": [],
     "changed": [
       {
@@ -68,6 +75,66 @@
         "Hulpdienst": "Brandweer",
         "Regio": "7",
         "Description": "07-9225: Regio van '7' naar '25' aangepast"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-1107: Afkorting van 'DB' naar 'HC' aangepast",
+        "Time": "24-05-2026 10:35:57"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-1107: TypeVoertuig van 'Dienstbus' naar 'Handcrew voertuig' aangepast",
+        "Time": "24-05-2026 10:35:57"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-1107: Bijzonderheden van 'Bezetting: 8 personen.' naar 'T.b.v HC Bus Handcrew Zuid' aangepast",
+        "Time": "24-05-2026 10:35:57"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-1108: Afkorting van 'DB' naar 'HC' aangepast",
+        "Time": "24-05-2026 10:35:57"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-1108: TypeVoertuig van 'Dienstbus' naar 'Handcrew voertuig' aangepast",
+        "Time": "24-05-2026 10:35:57"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-1108: Bijzonderheden van 'Bezetting: 8 personen.' naar 'T.b.v HC Bus Handcrew Zuid' aangepast",
+        "Time": "24-05-2026 10:35:57"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "21",
+        "Description": "21-4181: Afkorting van 'HC' naar 'PM' aangepast",
+        "Time": "24-05-2026 10:35:57"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "21",
+        "Description": "21-4181: TypeVoertuig van 'Handcrew voertuig' naar 'Personeel/materieelvoertuig' aangepast",
+        "Time": "24-05-2026 10:35:57"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "21",
+        "Description": "21-4181: Bijzonderheden van 'T.b.v HC Bus Handcrew Zuid' naar 'Bezetting: 6 personen.' aangepast",
+        "Time": "24-05-2026 10:35:57"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "23-4701: Bijzonderheden van 'T.b.v HC bus Handcrew Zuid' naar 'T.b.v HC Bus Handcrew Zuid' aangepast",
+        "Time": "24-05-2026 10:35:57"
       }
     ]
   },
