@@ -122,6 +122,10 @@ def main():
     ]
     # Combine and deduplicate
     to_check = list(dict.fromkeys(unknowns + expired))
+    # Limit to max 1000 per run
+    if len(to_check) > 1000:
+        print(f"Let op: er zijn {len(to_check)} kentekens om te checken, maar maximaal 1000 worden nu verwerkt.")
+        to_check = to_check[:1000]
     output_lines = []
     print(f"Start batch check van {len(to_check)} kentekens...")
     for idx, kenteken in enumerate(to_check, 1):
@@ -157,14 +161,23 @@ def main():
                     pass
             if verlengt:
                 print(f"  {kenteken}: APK verlengt tot {expiry}")
-                msg = f"{kenteken}{roep_str}: APK verlengt tot {expiry}"
-                webhook_APK(msg)
-                time.sleep(10)
+                # Only send Discord message if previous expiry was a week or more ago
+                if previous_expiry:
+                    try:
+                        prev_expiry_date = datetime.strptime(previous_expiry, "%Y-%m-%d").date()
+                        if (today - prev_expiry_date).days >= 7:
+                            msg = f"{kenteken}{roep_str}: APK verlengt tot {expiry}"
+                            webhook_APK(msg)
+                            time.sleep(10)
+                    except Exception:
+                        pass
             elif not valid:
                 print(f"  {kenteken}: verlopen op {expiry}")
-                msg = f"{kenteken}{roep_str}: APK verlopen op {expiry}"
-                webhook_APK(msg)
-                time.sleep(10)
+                # Only send Discord message if expiry was a week or more ago
+                if expiry and (today - expiry).days >= 7:
+                    msg = f"{kenteken}{roep_str}: APK verlopen op {expiry}"
+                    webhook_APK(msg)
+                    time.sleep(10)
             else:
                 print(f"  {kenteken}: APK geldig tot {expiry}")
     save_kenteken_status(status)
