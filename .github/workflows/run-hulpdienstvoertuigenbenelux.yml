@@ -1,6 +1,7 @@
 name: Run hulpdienstvoertuigenbenelux Script
 
 on:
+  push:
     branches:
       - master
   workflow_dispatch:     # <-- Voeg deze regel toe om handmatig te kunnen starten!
