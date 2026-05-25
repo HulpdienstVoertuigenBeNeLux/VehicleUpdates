@@ -1,9 +1,6 @@
 name: Run hulpdienstvoertuigenbenelux Script
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # Elke uur
-  push:
     branches:
       - master
   workflow_dispatch:     # <-- Voeg deze regel toe om handmatig te kunnen starten!
