@@ -142,10 +142,20 @@ def compare_json(old: Any, new: Any) -> dict:
 
     added = [new_dict[k] for k in new_dict if k not in old_dict]
     removed = [old_dict[k] for k in old_dict if k not in new_dict]
-    changed = [
-        {'key': k, 'old': old_dict[k], 'new': new_dict[k]}
-        for k in new_dict if k in old_dict and old_dict[k] != new_dict[k]
-    ]
+    changed = []
+    for k in new_dict:
+        if k in old_dict:
+            old_item = old_dict[k]
+            new_item = new_dict[k]
+            old_hulpdienst = old_item.get('Hulpdienst', '').strip().lower()
+            new_hulpdienst = new_item.get('Hulpdienst', '').strip().lower()
+
+            # A vehicle change cannot cross hulpdienst boundaries.
+            if old_hulpdienst != new_hulpdienst:
+                removed.append(old_item)
+                added.append(new_item)
+            elif old_item != new_item:
+                changed.append({'key': k, 'old': old_item, 'new': new_item})
 
     # Detect Roepnummer changes by checking if a removed Roepnummer's Kenteken still exists in the new data with a different Roepnummer
 
@@ -185,7 +195,7 @@ def compare_json(old: Any, new: Any) -> dict:
             # If Kenteken is valid, try to match by Kenteken
             if is_valid_kenteken(kenteken) and kenteken in kenteken_to_new:
                 new_item = kenteken_to_new[kenteken]
-                if old_item.get('Roepnummer', '').strip() != new_item.get('Roepnummer', '').strip():
+                if old_item.get('Hulpdienst', '').strip().lower() == new_item.get('Hulpdienst', '').strip().lower() and old_item.get('Roepnummer', '').strip() != new_item.get('Roepnummer', '').strip():
                     changed.append({'key': f"{old_item.get('Roepnummer','')}->{new_item.get('Roepnummer','')}", 'old': old_item, 'new': new_item})
                     if old_item in removed:
                         removed.remove(old_item)
@@ -196,7 +206,7 @@ def compare_json(old: Any, new: Any) -> dict:
                 adres_to_new = {item.get('Adres', '').strip().upper(): item for item in new}
                 if adres in adres_to_new:
                     new_item = adres_to_new[adres]
-                    if old_item.get('Roepnummer', '').strip() != new_item.get('Roepnummer', '').strip():
+                    if old_item.get('Hulpdienst', '').strip().lower() == new_item.get('Hulpdienst', '').strip().lower() and old_item.get('Roepnummer', '').strip() != new_item.get('Roepnummer', '').strip():
                         changed.append({'key': f"{old_item.get('Roepnummer','')}->{new_item.get('Roepnummer','')}", 'old': old_item, 'new': new_item})
                         if old_item in removed:
                             removed.remove(old_item)
@@ -205,7 +215,7 @@ def compare_json(old: Any, new: Any) -> dict:
         # If Roepnummer is valid, fallback to Kenteken as before
         elif is_valid_kenteken(kenteken) and kenteken in kenteken_to_new:
             new_item = kenteken_to_new[kenteken]
-            if old_item.get('Roepnummer', '').strip() != new_item.get('Roepnummer', '').strip():
+            if old_item.get('Hulpdienst', '').strip().lower() == new_item.get('Hulpdienst', '').strip().lower() and old_item.get('Roepnummer', '').strip() != new_item.get('Roepnummer', '').strip():
                 changed.append({'key': f"{old_item.get('Roepnummer','')}->{new_item.get('Roepnummer','')}", 'old': old_item, 'new': new_item})
                 if old_item in removed:
                     removed.remove(old_item)
