@@ -2,8 +2,25 @@ import os
 import datetime
 import json
 import requests
+import sys
 from typing import Any
 import time
+
+
+REGION_CONFIGS = {
+    "NL": {
+        "updates_path": "updates.json",
+        "local_file": "hulpdienstvoertuigenbenelux_raw.json",
+        "webhook_env": "DISCORD_WEBHOOK_URL",
+        "discord_username": "[NL] HulpdienstVoertuigenBeNeLux",
+    },
+    "BE": {
+        "updates_path": "updates.json",
+        "local_file": "hulpdienstvoertuigenbenelux_be_raw.json",
+        "webhook_env": "DISCORD_WEBHOOK_URL",
+        "discord_username": "[BE] HulpdienstVoertuigenBeNeLux",
+    },
+}
 
 def download_json(url: str) -> list:
     response = requests.get(url)
@@ -225,9 +242,18 @@ def compare_json(old: Any, new: Any) -> dict:
     return {'added': added, 'removed': removed, 'changed': changed}
 
 
-def main():
-    # Remove all updates.json entries older than 1 month
-    updates_path = "updates.json"
+def run_region(region: str) -> None:
+    region = region.upper()
+    if region not in REGION_CONFIGS:
+        raise ValueError(f"Unsupported region '{region}'. Expected one of: {', '.join(REGION_CONFIGS)}")
+
+    config = REGION_CONFIGS[region]
+    updates_path = config["updates_path"]
+    local_file = config["local_file"]
+
+    print(f"=== Processing {region} ===")
+
+    # Remove all updates entries older than 1 month
     try:
         if os.path.exists(updates_path):
             with open(updates_path, "r", encoding="utf-8") as f:
@@ -247,7 +273,7 @@ def main():
     updates = [entry for entry in updates if parse_date(entry) and parse_date(entry) >= one_month_ago]
     with open(updates_path, "w", encoding="utf-8") as f:
         json.dump(updates, f, ensure_ascii=False, indent=2)
-    # Prepare changelog for updates.json
+
     now = datetime.datetime.now()
     changelog = {"date": now.strftime("%Y-%m-%d"), "added": [], "removed": [], "changed": []}
 
@@ -260,14 +286,12 @@ def main():
             return f"{item.get('Roepnummer', '')} {item.get('Afkorting', '')} verwijderd van {item.get('Adres', '')}"
         return ""
 
-    # Discord webhook URL from environment variable or hardcoded (replace with your webhook if needed)
-    DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")  # or set your webhook URL here
+    discord_webhook_url = os.environ.get(config["webhook_env"], "")
 
     def send_discord_embed(title, description, color):
-        if not DISCORD_WEBHOOK_URL:
+        if not discord_webhook_url:
             print("No Discord webhook URL set. Skipping Discord notification.")
             return
-        import requests
         embed = {
             "title": title,
             "description": description,
@@ -275,19 +299,18 @@ def main():
             "timestamp": datetime.datetime.now(datetime.UTC).isoformat()
         }
         data = {
-            "username": "[NL] HulpdienstVoertuigenBeNeLux",
+            "username": config["discord_username"],
             "embeds": [embed]
         }
         try:
-            response = requests.post(DISCORD_WEBHOOK_URL, json=data)
+            response = requests.post(discord_webhook_url, json=data)
             if response.status_code >= 400:
                 print(f"Failed to send Discord message: {response.status_code} {response.text}")
         except Exception as e:
             print(f"Error sending Discord message: {e}")
         time.sleep(3)
 
-    url = "https://hulpdienstvoertuigenbenelux.nl/fetch-sheet?region=NL"
-    local_file = "hulpdienstvoertuigenbenelux_raw.json"
+    url = f"https://hulpdienstvoertuigenbenelux.nl/fetch-sheet?region={region}"
 
 
     print("Downloading latest JSON...")
@@ -298,6 +321,12 @@ def main():
     compare_new_json = [item for item in new_json if item.get('Hulpdienst', '').strip().lower() not in exclude_hulpdiensten]
 
     print("Loading local JSON...")
+    if not os.path.exists(local_file):
+        print("Local file not found. First run: saving current data and exiting.")
+        with open(local_file, 'w', encoding='utf-8') as f:
+            json.dump(new_json, f, ensure_ascii=False, indent=2)
+        print(f"Saved {len(new_json)} records to {local_file}. Run again to start tracking changes.")
+        return
     old_json = load_local_json(local_file)
     print(f"Loaded {len(old_json)} records from local file.")
     # Filter out unwanted Hulpdienst categories
@@ -343,6 +372,7 @@ def main():
                 color=0x00ff00
             )
             changelog["added"].append({
+                "Land": region,
                 "Hulpdienst": item.get("Hulpdienst", ""),
                 "Regio": item.get("Regio", ""),
                 "Description": make_description(item, "added"),
@@ -358,6 +388,7 @@ def main():
                 color=0xff0000
             )
             changelog["removed"].append({
+                "Land": region,
                 "Hulpdienst": item.get("Hulpdienst", ""),
                 "Regio": item.get("Regio", ""),
                 "Description": make_description(item, "removed"),
@@ -394,6 +425,7 @@ def main():
             descs = changed_descriptions(item['old'], item['new'])
             for desc in descs:
                 changelog["changed"].append({
+                    "Land": region,
                     "Hulpdienst": item['old'].get("Hulpdienst", ""),
                     "Regio": item['old'].get("Regio", ""),
                     "Description": desc,
@@ -402,8 +434,6 @@ def main():
 
 
 
-    # Insert changelog into updates.json, merging with today's entry if it exists
-    updates_path = "updates.json"
     try:
         if os.path.exists(updates_path):
             with open(updates_path, "r", encoding="utf-8") as f:
@@ -433,6 +463,29 @@ def main():
     # After all checks and logging, store the latest online version in the raw file
     with open(local_file, 'w', encoding='utf-8') as f:
         json.dump(new_json, f, ensure_ascii=False, indent=2)
+
+
+def parse_regions(args: list[str]) -> list[str]:
+    if not args:
+        return ["NL"]
+
+    normalized = [arg.upper() for arg in args]
+    if "ALL" in normalized:
+        return list(REGION_CONFIGS.keys())
+
+    invalid_regions = [region for region in normalized if region not in REGION_CONFIGS]
+    if invalid_regions:
+        raise ValueError(
+            f"Unsupported region(s): {', '.join(invalid_regions)}. Use NL, BE, or ALL."
+        )
+
+    return normalized
+
+
+def main(args: list[str] | None = None) -> None:
+    regions = parse_regions(sys.argv[1:] if args is None else args)
+    for region in regions:
+        run_region(region)
 
 if __name__ == "__main__":
     main()

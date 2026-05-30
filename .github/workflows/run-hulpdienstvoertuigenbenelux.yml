@@ -34,7 +34,7 @@ jobs:
           DISCORD_APK: ${{ secrets.DISCORD_APK }}
         run: |
           git pull
-          python compare_hulpdienstvoertuigenbenelux.py
+          python compare_hulpdienstvoertuigenbenelux.py ALL
           python apk_check.py
 
       - name: Commit and push changes
