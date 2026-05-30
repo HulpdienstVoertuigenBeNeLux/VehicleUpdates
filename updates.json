@@ -1489,6 +1489,12 @@
         "Regio": "17",
         "Description": "Buitenpolikliniek Franciscus Maassluis toegevoegd aan ",
         "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "22",
+        "Description": "26-8184 GOH-LO toegevoegd aan Lieshout",
+        "Time": "30-05-2026 15:00:12"
       }
     ],
     "removed": [
@@ -1509,6 +1515,12 @@
         "Regio": "17",
         "Description": "  verwijderd van ",
         "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "22",
+        "Description": "22-5126 LOH verwijderd van Lieshout",
+        "Time": "30-05-2026 15:00:12"
       }
     ],
     "changed": [
@@ -1907,6 +1919,30 @@
         "Regio": "17",
         "Description": ": Bijzonderheden van '275 Bedden' naar '' aangepast",
         "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "22",
+        "Description": "22-3441: Bijzonderheden van 'Bezetting: 7 personen.' naar 'Tevens TS-GO. Bezetting: 7 personen.' aangepast",
+        "Time": "30-05-2026 15:00:12"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "22",
+        "Description": "22-3641: Bijzonderheden van 'Bezetting: 7 personen.' naar 'Tevens TS-GO. Bezetting: 7 personen.' aangepast",
+        "Time": "30-05-2026 15:00:12"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "22",
+        "Description": "26-8125: Afkorting van 'GOH-LO' naar 'GOH-DC' aangepast",
+        "Time": "30-05-2026 15:00:12"
+      },
+      {
+        "Hulpdienst": "Brandweer",
+        "Regio": "22",
+        "Description": "26-8125: TypeVoertuig van 'Grootschalige ontsmetting haakarmbak logistiek' naar 'Grootschalige ontsmetting haakarmbak decontaminatie' aangepast",
+        "Time": "30-05-2026 15:00:12"
       }
     ]
   },
