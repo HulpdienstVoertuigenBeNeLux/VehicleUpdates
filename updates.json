@@ -1375,9 +1375,142 @@
         "Regio": "25",
         "Description": "Plek voor: 113 Gedetineerden  toegevoegd aan Caribisch Nederland",
         "Time": "30-05-2026 13:12:57"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "13",
+        "Description": "Buitenpolikliniek Ziekenhuis Amstelland Buitenpolikliniek Uithoorn toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "13",
+        "Description": "Kinderziekenhuis Emma Kinderziekenhuis toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "13",
+        "Description": "Buitenpolikliniek Tergooi locatie Weesp toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "14",
+        "Description": "Buitenpolikliniek Tergooi MC Clinics toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "15",
+        "Description": "Ziekenhuis HMC Antoniushove toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "15",
+        "Description": "Buitenpolikliniek HMC Gezondheidscentrum Wassenaar toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "15",
+        "Description": "Ziekenhuis Reinier de Graaf Voorburg toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "15",
+        "Description": "Buitenpolikliniek Reinier de Graaf Naaldwijk toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "15",
+        "Description": "Buitenpolikliniek HagaZiekenhuis Zorgplein Westland toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "15",
+        "Description": "Buitenpolikliniek Huidkliniek Zoetermeer toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "16",
+        "Description": "Buitenpolikliniek Alrijne Katwijk toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "16",
+        "Description": "Buitenpolikliniek Alrijne Sassenheim toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "16",
+        "Description": "Buitenpolikliniek Groene Hart Ziekenhuis Zuidplas toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "16",
+        "Description": "Buitenpolikliniek Groene Hart Ziekenhuis Schoonhoven toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "16",
+        "Description": "Buitenpolikliniek Groene Hart Ziekenhuis Bodegraven toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "16",
+        "Description": "Kinderziekenhuis Willem-Alexander Kinderziekenhuis toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Academisch ziekenhuis Erasmus Medisch Centrum toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Kinderziekenhuis Erasmus Medisch Centrum Sophia kinderziekenhuis toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "Buitenpolikliniek Franciscus Maassluis toegevoegd aan ",
+        "Time": "30-05-2026 14:00:12"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Kinderziekenhuis Willem-Alexander Kinderziekenhuis verwijderd van ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "  verwijderd van ",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "  verwijderd van ",
+        "Time": "30-05-2026 14:00:12"
+      }
+    ],
     "changed": [
       {
         "Hulpdienst": "",
@@ -1408,6 +1541,372 @@
         "Regio": "",
         "Description": "Kinderziekenhuis: Kenteken van 'Dit ziekenhuis heeft: 120 Bedden' naar 'Dit ziekenhuis heeft: 90 Bedden' aangepast",
         "Time": "30-05-2026 13:12:57"
+      },
+      {
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Buitenpolikliniek: Afkorting van 'Groene Hart Ziekenhuis Bodegraven' naar 'Spijkenisse Medisch Centrum Buitenpolikliniek Oud-Beijerland' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Buitenpolikliniek: TypeVoertuig van 'Willem de Zwijgerstraat 9c, Bodegraven' naar 'Zoomwijckplein 15, Oud-Beijerland' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Ziekenhuis: Afkorting van 'Reinier de Graaf Voorburg' naar 'Erasmus Medisch Centrum Kanker Instituut' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Ziekenhuis: TypeVoertuig van 'Fonteynenburghlaan 5, Voorburg' naar 'Dr. Molewaterplein 40, Rotterdam' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Ziekenhuis: Kenteken van 'Dit ziekenhuis heeft: 230 Bedden' naar 'Bij de 1125 Bedden van EMC in' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": ": Kenteken van '' naar '510 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": ": Bijzonderheden van '510 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": ": Kenteken van '' naar '323 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": ": Bijzonderheden van '323 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": ": Kenteken van '' naar '179 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "18",
+        "Description": ": Bijzonderheden van '179 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Kenteken van '' naar '364 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Bijzonderheden van '364 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Kenteken van '' naar '257 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Bijzonderheden van '257 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Kenteken van '' naar '290 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Bijzonderheden van '290 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Kenteken van '' naar '369 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "19",
+        "Description": ": Bijzonderheden van '369 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '' naar '502 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Bijzonderheden van '502 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '' naar '472 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Bijzonderheden van '472 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '' naar '367 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Bijzonderheden van '367 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '' naar '673 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Bijzonderheden van '673 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '' naar '615 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Bijzonderheden van '615 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Kenteken van '' naar '323 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "20",
+        "Description": ": Bijzonderheden van '323 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "21",
+        "Description": ": Kenteken van '' naar '380 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "21",
+        "Description": ": Bijzonderheden van '380 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Afkorting van '' naar 'IJsselland Ziekenhuis' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Kenteken van '' naar 'Dit ziekenhuis heeft: 332 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Bijzonderheden van '390 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Afkorting van '' naar 'Het Van Weel-Bethesda Ziekenhuis' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Kenteken van '' naar 'Dit ziekenhuis heeft: 190 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Bijzonderheden van '190 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Afkorting van '' naar 'Franciscus Gasthuis' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Kenteken van '' naar 'Dit ziekenhuis heeft: 613 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Bijzonderheden van '435 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Afkorting van '' naar 'Ikazia Ziekenhuis Rotterdam' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Kenteken van '' naar 'Dit ziekenhuis heeft: 375 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Bijzonderheden van '359 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Afkorting van '' naar 'Maasstad Ziekenhuis' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Kenteken van '' naar 'Dit ziekenhuis heeft: 600 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Bijzonderheden van '561 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Afkorting van '' naar 'Franciscus Vlietland' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Kenteken van '' naar 'Dit ziekenhuis heeft: 260 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Bijzonderheden van '452 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": "'' omgenummerd naar 'Ziekenhuis'",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Afkorting van '' naar 'Spijkenisse Medisch Centrum' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Kenteken van '' naar 'Dit ziekenhuis heeft: 275 Bedden' aangepast",
+        "Time": "30-05-2026 14:00:12"
+      },
+      {
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "17",
+        "Description": ": Bijzonderheden van '275 Bedden' naar '' aangepast",
+        "Time": "30-05-2026 14:00:12"
       }
     ]
   },
