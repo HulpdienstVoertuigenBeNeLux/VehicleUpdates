@@ -44,7 +44,7 @@
     "Interne opmerking": "Brandweer / Ambulance"
   },
   {
-    "Adres": "Leek 1",
+    "Adres": "Leek",
     "Roepnummer": "01-1003",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
@@ -55,7 +55,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Leek 2",
+    "Adres": "Leek",
     "Roepnummer": "01-1031",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -66,23 +66,12 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Leek 3",
+    "Adres": "Leek",
     "Roepnummer": "01-1032",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BT-VS-39",
     "Bijzonderheden": "Bezetting: 6 personen.",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "1",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Leek 4",
-    "Roepnummer": "Test",
-    "Afkorting": "Test",
-    "TypeVoertuig": "Test",
-    "Kenteken": "Test",
-    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -404,7 +393,7 @@
     "Bijzonderheden": "Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
-    "Interne opmerking": ""
+    "Interne opmerking": "1"
   },
   {
     "Adres": "Zuidhorn",
@@ -12951,7 +12940,7 @@
     "Roepnummer": "04-1234",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
-    "Kenteken": "59-BBF-4",
+    "Kenteken": "BD-089-H",
     "Bijzonderheden": "Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "4",
@@ -26416,6 +26405,17 @@
     "Afkorting": "BSA",
     "TypeVoertuig": "Brandstoftankaanhanger",
     "Kenteken": "66-WJ-NL",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "7",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Ede Centrum",
+    "Roepnummer": "07-7007",
+    "Afkorting": "TD",
+    "TypeVoertuig": "Technische dienst",
+    "Kenteken": "42-BXK-1",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "7",
@@ -40891,7 +40891,7 @@
     "Roepnummer": "10-6801",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
-    "Kenteken": "ONBEKEND",
+    "Kenteken": "4-STX-97",
     "Bijzonderheden": "Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
@@ -48151,7 +48151,7 @@
     "Roepnummer": "13-4131",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
-    "Kenteken": "86-BDK-6",
+    "Kenteken": "BB-608-Z",
     "Bijzonderheden": "Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "13",
@@ -59613,7 +59613,7 @@
     "Roepnummer": "17-1151",
     "Afkorting": "HW",
     "TypeVoertuig": "Hoogwerker",
-    "Kenteken": "BV-FF-98",
+    "Kenteken": "BD-086-L",
     "Bijzonderheden": "Lengte: 34 meter.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
@@ -61011,7 +61011,7 @@
     "Afkorting": "TS-IB",
     "TypeVoertuig": "Tankautospuit industrie brandbestrijding",
     "Kenteken": "BB-248-V",
-    "Bijzonderheden": "Bezetting: 7 personen.",
+    "Bijzonderheden": "Tevens ON-UHD. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -63507,7 +63507,7 @@
     "Roepnummer": "17-9991",
     "Afkorting": "L-COPI",
     "TypeVoertuig": "Leider COPI",
-    "Kenteken": "JJL-04-R",
+    "Kenteken": "JDV-58-R",
     "Bijzonderheden": "Veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
@@ -63607,6 +63607,17 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "JBD-46-G",
+    "Bijzonderheden": "Secundaire veiligheidsregio huisstijl. Bezetting: 5 personen.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Regionaal/Wilhelminakade",
+    "Roepnummer": "GEEN",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
+    "Kenteken": "JJL-04-R",
     "Bijzonderheden": "Secundaire veiligheidsregio huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
@@ -63993,6 +64004,17 @@
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "V-17-NTL",
     "Bijzonderheden": "BU-RK en BU-VTHS. Reserve voertuig",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Logistiek/Driemanssteeweg ",
+    "Roepnummer": "17-9085",
+    "Afkorting": "VZA-WC",
+    "TypeVoertuig": "Verzorgingsaanhanger met WC",
+    "Kenteken": "VKS-23-L",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -82962,7 +82984,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "22-12 Luyksgestel, Zoeferbeemt 14",
+    "Adres": "22-12 Luyksgestel, Zoeferbeemd 14",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -96041,7 +96063,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Vliegbasis Gilze-Rijen, Rijksweg 121 Rijen",
+    "Adres": "Vliegbasis Gilze-Rijen (Chinook Hangaar), Rijksweg 121d-750 Rijen",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -96057,7 +96079,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96068,7 +96090,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96079,7 +96101,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96090,7 +96112,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96101,7 +96123,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96112,7 +96134,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96123,7 +96145,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96134,7 +96156,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96145,7 +96167,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96156,7 +96178,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96167,7 +96189,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96178,7 +96200,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96189,7 +96211,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96200,7 +96222,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96211,7 +96233,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96222,7 +96244,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96233,7 +96255,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96244,7 +96266,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96255,7 +96277,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96266,7 +96288,7 @@
     "Afkorting": "Chinook",
     "TypeVoertuig": "Chinook Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96316,12 +96338,34 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "28",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Vliegbasis Gilze-Rijen (Cougar Hangaar), Rijksweg 121d-800 Rijen",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "28",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Vliegbasis Gilze-Rijen",
     "Roepnummer": "S-419",
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96332,7 +96376,7 @@
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96343,7 +96387,7 @@
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96354,7 +96398,7 @@
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96365,7 +96409,7 @@
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96376,7 +96420,7 @@
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96387,7 +96431,7 @@
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96398,7 +96442,7 @@
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96409,7 +96453,7 @@
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96420,7 +96464,7 @@
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96431,7 +96475,7 @@
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96442,7 +96486,7 @@
     "Afkorting": "Cougar",
     "TypeVoertuig": "Cougar Defensie t.b.v. FBO",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "FBO bij Natruur Branden ",
+    "Bijzonderheden": "T.b.v. FBO. Max 6 bambi buckets tegelijk.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -100551,6 +100595,50 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Circuit Assen, De Haar",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "3",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "TT Circuit Assen",
+    "Roepnummer": "MTV-1",
+    "Afkorting": "HC-Ambu",
+    "TypeVoertuig": "Ambulance hoogcomplexe zorg",
+    "Kenteken": "ZK-762-L",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "3",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "TT Circuit Assen",
+    "Roepnummer": "MTV-2",
+    "Afkorting": "HC-Ambu",
+    "TypeVoertuig": "Ambulance hoogcomplexe zorg",
+    "Kenteken": "ZN-943-P",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "3",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "3",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Rode Kruis Assen, Zendmastweg 15",
     "Roepnummer": "",
     "Afkorting": "",
@@ -100962,7 +101050,7 @@
     "Roepnummer": "04-301",
     "Afkorting": "MICU",
     "TypeVoertuig": "Mobiele intensive care unit",
-    "Kenteken": "6-STL-87",
+    "Kenteken": "KFF-09-X",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "4",
@@ -122727,39 +122815,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Gulpen, Oude Rijksweg 32",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "24",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Gulpen",
-    "Roepnummer": "24-141",
-    "Afkorting": "HC-Ambu",
-    "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "S-802-PT",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "24",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "24",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Geleen, Demystraat 15",
     "Roepnummer": "",
     "Afkorting": "",
@@ -122838,10 +122893,10 @@
   },
   {
     "Adres": "Geleen",
-    "Roepnummer": "24-383",
+    "Roepnummer": "24-381",
     "Afkorting": "RR/OVD-G",
     "TypeVoertuig": "Rapid responder/Officier van dienst geneeskundig",
-    "Kenteken": "G-035-HB",
+    "Kenteken": "G-037-HB",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -122874,7 +122929,7 @@
     "Roepnummer": "24-120",
     "Afkorting": "HC-Ambu",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "KP-237-R",
+    "Kenteken": "GNB-95-N",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -122885,7 +122940,7 @@
     "Roepnummer": "24-121",
     "Afkorting": "HC-Ambu",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "SJ-222-G",
+    "Kenteken": "GXG-86-S",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -122959,50 +123014,6 @@
   },
   {
     "Adres": "Heerlen",
-    "Roepnummer": "24-156",
-    "Afkorting": "HC-Ambu",
-    "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "S-213-RV",
-    "Bijzonderheden": "Reserve voertuig ",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "24",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Heerlen",
-    "Roepnummer": "24-230",
-    "Afkorting": "MC-Ambu",
-    "TypeVoertuig": "Ambulance middencomplexe zorg",
-    "Kenteken": "RS-002-D",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "24",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Heerlen",
-    "Roepnummer": "24-231",
-    "Afkorting": "MC-Ambu",
-    "TypeVoertuig": "Ambulance middencomplexe zorg",
-    "Kenteken": "RS-003-D",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "24",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Heerlen",
-    "Roepnummer": "24-381",
-    "Afkorting": "RR/OVD-G",
-    "TypeVoertuig": "Rapid responder/Officier van dienst geneeskundig",
-    "Kenteken": "G-037-HB",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "24",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Heerlen",
     "Roepnummer": "24-382",
     "Afkorting": "RR/OVD-G",
     "TypeVoertuig": "Rapid responder/Officier van dienst geneeskundig",
@@ -123047,9 +123058,9 @@
   },
   {
     "Adres": "Maastricht ",
-    "Roepnummer": "24-131",
-    "Afkorting": "HC-Ambu",
-    "TypeVoertuig": "Ambulance hoogcomplexe zorg",
+    "Roepnummer": "24-231",
+    "Afkorting": "MC-Ambu",
+    "TypeVoertuig": "Ambulance middencomplexe zorg",
     "Kenteken": "S-809-PT",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
@@ -123105,7 +123116,7 @@
     "Roepnummer": "24-136",
     "Afkorting": "HC-Ambu",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "RD-350-D",
+    "Kenteken": "RZ-350-D",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -123116,7 +123127,7 @@
     "Roepnummer": "24-137",
     "Afkorting": "HC-Ambu",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "KV-263-G",
+    "Kenteken": "GXG-91-S",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -123146,6 +123157,28 @@
   },
   {
     "Adres": "Maastricht ",
+    "Roepnummer": "24-230",
+    "Afkorting": "MC-Ambulance",
+    "TypeVoertuig": "Middel Complex Ambulance ",
+    "Kenteken": "RS-002-D",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Maastricht ",
+    "Roepnummer": "24-231",
+    "Afkorting": "MC-Ambulance",
+    "TypeVoertuig": "Middel Complex Ambulance ",
+    "Kenteken": "RS-003-D",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Maastricht ",
     "Roepnummer": "24-301",
     "Afkorting": "MICU",
     "TypeVoertuig": "Mobiele intensive care unit",
@@ -123157,10 +123190,10 @@
   },
   {
     "Adres": "Maastricht ",
-    "Roepnummer": "24-384",
+    "Roepnummer": "24-383",
     "Afkorting": "RR/OVD-G",
     "TypeVoertuig": "Rapid responder/Officier van dienst geneeskundig",
-    "Kenteken": "G-036-HB",
+    "Kenteken": "G-035-HB",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -123171,8 +123204,8 @@
     "Roepnummer": "24-385",
     "Afkorting": "RR/OVD-G",
     "TypeVoertuig": "Rapid responder/Officier van dienst geneeskundig",
-    "Kenteken": "56-VZJ-4",
-    "Bijzonderheden": "",
+    "Kenteken": "GR-673-V",
+    "Bijzonderheden": "Reserve voertuig",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
     "Interne opmerking": ""
@@ -123212,21 +123245,43 @@
   },
   {
     "Adres": "Maastricht ",
-    "Roepnummer": "24-842",
-    "Afkorting": "AC-GZ",
-    "TypeVoertuig": "Algemeen commandant geneeskundige zorg",
-    "Kenteken": "Onbekend",
+    "Roepnummer": "24-801",
+    "Afkorting": "CVD-G",
+    "TypeVoertuig": "Commandant van dienst geneeskundig",
+    "Kenteken": "XG-147-B",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
     "Interne opmerking": ""
   },
   {
-    "Adres": "Maastricht ",
-    "Roepnummer": "24-801",
-    "Afkorting": "CVD-G",
-    "TypeVoertuig": "Commandant van dienst geneeskundig",
-    "Kenteken": "XG-147-B",
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Gulpen, Oude Rijksweg 32",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Gulpen",
+    "Roepnummer": "24-141",
+    "Afkorting": "HC-Ambu",
+    "TypeVoertuig": "Ambulance hoogcomplexe zorg",
+    "Kenteken": "S-802-PT",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -123281,7 +123336,7 @@
     "Roepnummer": "24-153",
     "Afkorting": "HC-Ambu",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "SJ-880-F",
+    "Kenteken": "GNB-97-N",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -123310,6 +123365,28 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Landgraaf",
+    "Roepnummer": "24-156",
+    "Afkorting": "HC-Ambu",
+    "TypeVoertuig": "Ambulance hoogcomplexe zorg",
+    "Kenteken": "S-213-RV",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Landgraaf",
+    "Roepnummer": "24-384",
+    "Afkorting": "RR/OVD-G",
+    "TypeVoertuig": "Rapid responder/Officier van dienst geneeskundig",
+    "Kenteken": "G-036-HB",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "",
     "Roepnummer": "",
     "Afkorting": "",
@@ -123332,7 +123409,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Brandweee Born",
+    "Adres": "Brandweer Born",
     "Roepnummer": "24-830",
     "Afkorting": "NHT",
     "TypeVoertuig": "Noodhulpvoertuig",
@@ -123413,7 +123490,7 @@
     "Roepnummer": "24-712",
     "Afkorting": "HAP",
     "TypeVoertuig": "Huisarts",
-    "Kenteken": "PD-127-V",
+    "Kenteken": "ONBEKEND",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -123446,7 +123523,7 @@
     "Roepnummer": "24-721",
     "Afkorting": "HAP",
     "TypeVoertuig": "Huisarts",
-    "Kenteken": "KZ-012-B",
+    "Kenteken": "T-376-RN",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -123457,7 +123534,7 @@
     "Roepnummer": "24-722",
     "Afkorting": "HAP",
     "TypeVoertuig": "Huisarts",
-    "Kenteken": "NG-500-H",
+    "Kenteken": "T-764-TP",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -123468,7 +123545,7 @@
     "Roepnummer": "24-723",
     "Afkorting": "HAP",
     "TypeVoertuig": "Huisarts",
-    "Kenteken": "NG-922-D",
+    "Kenteken": "T-765-TP",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -134343,6 +134420,61 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Jeroen Bosch Ziekenhuis",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "8",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Jeroen Bosch Dichtbij Zaltbommel Kerkstraat",
+    "TypeVoertuig": "Kerkstraat 2, Zaltbommel",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "8",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Jeroen Bosch Ziekenhuis Zaltbommel Gamerschestraat",
+    "TypeVoertuig": "Gamerschestraat 32a, Zaltbommel",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "8",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "8",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "8",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Veiligheidsregio Utrecht",
     "Roepnummer": "",
     "Afkorting": "",
@@ -135834,8 +135966,8 @@
     "TypeVoertuig": "Cypruslaan 410, Capelle a/d IJssel",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -135845,8 +135977,8 @@
     "TypeVoertuig": "Groenendaal 1, Krimpen a/d IJssel",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -135856,8 +135988,8 @@
     "TypeVoertuig": "Oudedijk 15, Rotterdam",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -135900,8 +136032,8 @@
     "TypeVoertuig": "Vliet 4, Hellevoetsluis",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -135911,8 +136043,8 @@
     "TypeVoertuig": "Amer 22, Brielle",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -135922,8 +136054,8 @@
     "TypeVoertuig": "Herman Heijermansstraat 1a, Hellevoetsluis",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -135977,8 +136109,8 @@
     "TypeVoertuig": "Dr. Molewaterplein 40, Rotterdam ",
     "Kenteken": "Bij de 1125 Bedden van EMC in",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -135988,8 +136120,8 @@
     "TypeVoertuig": "Haringvliet 1, Rotterdam",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -136054,8 +136186,8 @@
     "TypeVoertuig": "Boerhaavestraat 19, Berkel en Rodenrijs",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -136065,8 +136197,19 @@
     "TypeVoertuig": "Willemsplein 495, Rotterdam",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -136098,8 +136241,8 @@
     "TypeVoertuig": "Middeldijkerplein 36, Barendrecht-Carnisselande",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -136109,8 +136252,8 @@
     "TypeVoertuig": "Prinses Margrietstraat 42, Ridderkerk",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -136120,8 +136263,8 @@
     "TypeVoertuig": "Haringvliet 72, Rotterdam",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -136131,8 +136274,8 @@
     "TypeVoertuig": "K.P. van er Mandelelaan 10, Rotterdam",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -136219,8 +136362,8 @@
     "TypeVoertuig": "Blankenburg 6, Rozenburg",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -136230,8 +136373,41 @@
     "TypeVoertuig": "Zoomwijckplein 15, Oud-Beijerland",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Albert Schweitzer",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Albert Schweitzer Buitenpoli GOED Ridderkerk",
+    "TypeVoertuig": "Jan Luykenstraat 8, Ridderkerk",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "17",
     "Interne opmerking": ""
   },
   {
@@ -136257,7 +136433,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Albert Schweitzer Ziekenhuis",
+    "Adres": "Albert Schweitzer",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -136269,10 +136445,10 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Albert Schweitzer locatie Dordwijk",
     "TypeVoertuig": "Albert Schweitzerplaats 25, Dordrecht ",
-    "Kenteken": "510 Bedden",
+    "Kenteken": "Dit ziekenhuis heeft: 300 Bedden",
     "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "18",
@@ -136280,65 +136456,109 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "18",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Beatrixziekenhuis ",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "18",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Banneweg 57, Gorinchem ",
-    "Kenteken": "323 Bedden",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "18",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "18",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Albert Schweitzer Ziekenhuis ",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "18",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Albert Schweitzer locatie Zwijndrecht",
     "TypeVoertuig": "Langeweg 336, Zwijndrecht ",
-    "Kenteken": "179 Bedden",
+    "Kenteken": "Dit ziekenhuis heeft: 100 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "18",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Albert Schweitzer locatie Sliedrecht",
+    "TypeVoertuig": "Stationspark 401, Sliedrecht",
+    "Kenteken": "Dit ziekenhuis heeft: 100 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "18",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Albert Schweitzer Polikliniek Dermatologie",
+    "TypeVoertuig": "A. Schweitzerplaats 8, Dordrecht",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "18",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "18",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Rivas Zorggroep",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "18",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Beatrixziekenhuis",
+    "TypeVoertuig": "Banneweg 57, Gorinchem ",
+    "Kenteken": "Dit ziekenhuis heeft: 219 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "18",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Lingepolikliniek",
+    "TypeVoertuig": "Lingesteynplantsoen 3, Leerdam",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "18",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "18",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Erasmus Medisch Centrum",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "18",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Erasmus Medisch Centrum Radiotherapie - locatie Dordrecht",
+    "TypeVoertuig": "Karel Lotsyweg 30, Dordrecht",
+    "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "18",
@@ -136367,7 +136587,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Admiraal de Ruyter Ziekenhuis ",
+    "Adres": "Admiraal De Ruyter",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -136379,10 +136599,10 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Admiraal De Ruyter Ziekenhuis Goes",
     "TypeVoertuig": "s-Gravenpolderseweg 114, Goes ",
-    "Kenteken": "364 Bedden",
+    "Kenteken": "Dit ziekenhuis heeft: 260 Bedden",
     "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "19",
@@ -136390,98 +136610,87 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "19",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "ZorgSaam Ziekenhuis ",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "19",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Pastoor van Genklaan 6, Oostburg ",
-    "Kenteken": "257 Bedden",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "19",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "19",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "ZorgSaam Ziekenhuis",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "19",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "WielingenLaan 2, Terneuzen ",
-    "Kenteken": "290 Bedden",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "19",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "19",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Admiraal de Ruyter Ziekenhuis ",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "19",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Admiraal De Ruyter Ziekenhuis Vlissingen",
     "TypeVoertuig": "Koudekerkseweg 88, Vlissingen ",
-    "Kenteken": "369 Bedden ",
+    "Kenteken": "Dit ziekenhuis heeft: 130 Bedden ",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "19",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Admiraal De Ruyter Ziekenhuis locatie Borrendamme Zierikzee",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "19",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "19",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "ZorgSaam Zorggroep Zeeuws-Vlaanderen",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "19",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Zorgsaam Ziekenhuis Locatie De Honte",
+    "TypeVoertuig": "WielingenLaan 2, Terneuzen ",
+    "Kenteken": "Dit ziekenhuis heeft: 110 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "19",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Zorgsaam Ziekenhuis Locatie Antonius",
+    "TypeVoertuig": "Pastoor van Genklaan 6, Oostburg ",
+    "Kenteken": "Dit ziekenhuis heeft: 140 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "19",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Zorgsaam Ziekenhuis Locatie Liduina",
+    "TypeVoertuig": "Lyceumstraat 20, Hulst",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "19",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Zorgsaam Cardiologie Centrum",
+    "TypeVoertuig": "Buitenruststraat 16, Middelburg",
+    "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "19",
@@ -136522,142 +136731,32 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Pasteurlaan 9, Oosterhout",
-    "Kenteken": "502 Bedden ",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Bravis Ziekenhuis",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Boerhaavelaan 25, Roosendaal ",
-    "Kenteken": "472 Bedden ",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Bravis Ziekenhuis",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Boerhaaveplein 1, Bergen op Zoom ",
-    "Kenteken": "367 Bedden ",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Elisabeth-TweeSteden Ziekenhuis ",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Hilvarenbeekseweg 60, Tilburg ",
-    "Kenteken": "673 Bedden ",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Amphia Ziekenhuis ",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "20",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Amphia Breda",
     "TypeVoertuig": "Molengracht 21, Breda ",
-    "Kenteken": "615 Bedden",
+    "Kenteken": "Dit ziekenhuis heeft: 635 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Amphia Oosterhout",
+    "TypeVoertuig": "Pasteurlaan 9, Oosterhout",
+    "Kenteken": "Dit ziekenhuis heeft: 170 Bedden ",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Amphia Etten-Leur",
+    "TypeVoertuig": "Trivium 76, Etten-Leur",
+    "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "20",
@@ -136675,7 +136774,18 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Elisabeth-TweeSteden Ziekenhuis ",
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Bravis Ziekenhuis",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -136687,10 +136797,153 @@
   },
   {
     "Adres": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Bravis Ziekenhuis Roosendaal",
+    "TypeVoertuig": "Boerhaavelaan 25, Roosendaal ",
+    "Kenteken": "Dit ziekenhuis heeft: 472 Bedden ",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Bravis Ziekenhuis Bergen op Zoom",
+    "TypeVoertuig": "Boerhaaveplein 1, Bergen op Zoom ",
+    "Kenteken": "Dit ziekenhuis heeft: 367 Bedden ",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Bravispunt Oudenbosch",
+    "TypeVoertuig": "West Vaardeke 11a, Oudenbosch",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Bravis Ziekenhuis polikliniek Etten-Leur",
+    "TypeVoertuig": "Schoonhout 215, Etten-Leur",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Bravispunt Steenbergen",
+    "TypeVoertuig": "De Wei 26, Steenbergen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Bravispunt St. Willebrord",
+    "TypeVoertuig": "Pastoor Bastiaansensingel 17e, St. Willebrord",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Bravispunt Tholen",
+    "TypeVoertuig": "Vliethof 10, Tholen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Bravispunt Huijbergen",
+    "TypeVoertuig": "Siardus Bogaertslaan 8a, Huijbergen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
     "Roepnummer": "",
     "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Elisabeth-TweeSteden",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "ETZ Elisabeth",
+    "TypeVoertuig": "Hilvarenbeekseweg 60, Tilburg ",
+    "Kenteken": "Dit ziekenhuis heeft: 519 Bedden ",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "ETZ TweeSteden",
     "TypeVoertuig": "Dr Deelenlaan 5, Tilburg ",
-    "Kenteken": "323 Bedden",
+    "Kenteken": "Dit ziekenhuis heeft: 323 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "ETZ Waalwijk",
+    "TypeVoertuig": "Kasteellaan 2, Waalwijk",
+    "Kenteken": "Dit ziekenhuis heeft: 100 Bedden ",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Dialyse Koetshuis Waalwijk",
+    "TypeVoertuig": "Koetshuislaan 619, Waalwijk",
+    "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "20",
@@ -136719,7 +136972,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Bernhoven",
+    "Adres": "Ziekenhuis Bernhoven",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -136731,10 +136984,21 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Ziekenhuis Bernhoven Uden",
     "TypeVoertuig": "Nistelrodeseweg 10, Uden ",
-    "Kenteken": "380 Bedden",
+    "Kenteken": "Dit ziekenhuis heeft: 392 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "21",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Ziekenhuis Bernhoven Oss",
+    "TypeVoertuig": "",
+    "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "21",
@@ -136764,11 +137028,77 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Jeroen Bosch Ziekenhuis 's-Hertogenbosch",
     "TypeVoertuig": "Henri Dunantstraat 1, Den Bosch",
+    "Kenteken": "Dit ziekenhuis heeft: 760 Bedden ",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "21",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Jeroen Bosch Dichtbij Boxtel",
+    "TypeVoertuig": "Liduinahof 35, Boxtel",
     "Kenteken": "",
-    "Bijzonderheden": "730 Bedden ",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "21",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Jeroen Bosch Dichtbij Rosmalen",
+    "TypeVoertuig": "De Hoef 90, Rosmalen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "21",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Jeroen Bosch Ziekenhuis Sport Medisch Centrum",
+    "TypeVoertuig": "Marathonloop 9, s-Hertogenbosch",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "21",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Jeroen Bosch Dichtbij Drunen",
+    "TypeVoertuig": "Tinie de Munnikstraat 17, Drunen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "21",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Jeroen Bosch Ziekenhuis Tolbrug locatie Uden",
+    "TypeVoertuig": "Annaboulevard 6, Uden",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "21",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Atlent Kinderexpertisecentrum",
+    "TypeVoertuig": "Kooikersweg 303, s-Hertogenbosch",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "21",
     "Interne opmerking": ""
@@ -136785,7 +137115,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Maasziekenhuis Pantein",
+    "Adres": "Pantein",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -136797,11 +137127,11 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Maasziekenhuis Pantein",
     "TypeVoertuig": "Dokter Kopstraat 1, Beugen ",
-    "Kenteken": "",
-    "Bijzonderheden": "190 Bedden",
+    "Kenteken": "Dit ziekenhuis heeft: 170 Bedden",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "21",
     "Interne opmerking": ""
@@ -136829,7 +137159,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Catharina Ziekenhuis ",
+    "Adres": "Stichting Catharina Ziekenhuis",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -136841,11 +137171,11 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Catharina Ziekenhuis",
     "TypeVoertuig": "Michelangelolaan 2, Eindhoven ",
-    "Kenteken": "",
-    "Bijzonderheden": "696 Bedden",
+    "Kenteken": "Dit ziekenhuis heeft: 696 Bedden",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "22",
     "Interne opmerking": ""
@@ -136862,7 +137192,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Elkerliek Ziekenhuis ",
+    "Adres": "Elkerliek Ziekenhuis",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -136874,11 +137204,44 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Elkerliek Helmond",
     "TypeVoertuig": "Wesselmanlaan 25, Helmond ",
+    "Kenteken": "Dit ziekenhuis heeft: 494 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "22",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Elkerliek locatie Deurne",
+    "TypeVoertuig": "Dunantweg 16, Deurne",
     "Kenteken": "",
-    "Bijzonderheden": "494 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "22",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Elkerliek polikliniek Gemert",
+    "TypeVoertuig": "Julianastraat 2, Gemert",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "22",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Elkerliek Vitaliek",
+    "TypeVoertuig": "Julianalaan 2, Helmond",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "22",
     "Interne opmerking": ""
@@ -136907,11 +137270,22 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Máxima Medisch Centrum Veldhoven",
     "TypeVoertuig": "De Run 4600, Veldhoven",
-    "Kenteken": "",
-    "Bijzonderheden": "560 Bedden",
+    "Kenteken": "Dit ziekenhuis heeft: 940 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "22",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Máxima Medisch Centrum Eindhoven",
+    "TypeVoertuig": "Ds. Th. Fliednerstraat 1, Eindhoven",
+    "Kenteken": "Dit ziekenhuis heeft: 560 Bedden",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "22",
     "Interne opmerking": ""
@@ -136928,7 +137302,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "St. Anna Ziekenhuis",
+    "Adres": "St. Anna Zorggroep",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -136940,11 +137314,22 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "St. Anna Ziekenhuis Geldrop",
     "TypeVoertuig": "Bogardeind 2, Geldrop ",
+    "Kenteken": "Dit ziekenhuis heeft: 320 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "22",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "St. Anna Ziekenhuis Eindhoven",
+    "TypeVoertuig": "",
     "Kenteken": "",
-    "Bijzonderheden": "320 Bedden",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "22",
     "Interne opmerking": ""
@@ -136957,7 +137342,7 @@
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
-    "Regio": "22",
+    "Regio": "",
     "Interne opmerking": ""
   },
   {
@@ -136972,7 +137357,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Laurentius Ziekenhuis ",
+    "Adres": "Laurentius Ziekenhuis",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -136984,11 +137369,22 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Laurentius Ziekenhuis",
     "TypeVoertuig": "Mgr. Driessenstraat 6, Roermond ",
+    "Kenteken": "Dit ziekenhuis heeft: 384 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "23",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Servicepunt Laurentius Echt",
+    "TypeVoertuig": "Nobelweg 10, Echt",
     "Kenteken": "",
-    "Bijzonderheden": "384 Bedden",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "23",
     "Interne opmerking": ""
@@ -137005,7 +137401,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "St. Jans Gasthuis",
+    "Adres": "SJG Weert",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -137017,11 +137413,44 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "St. Jans Gasthuis Weert",
     "TypeVoertuig": "Vogelsbeek 5, Weert ",
+    "Kenteken": "Dit ziekenhuis heeft: 234 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "23",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "St. Jans Gasthuis Budels Medisch Centrum",
+    "TypeVoertuig": "Grensweg 1, Budel",
     "Kenteken": "",
-    "Bijzonderheden": "297 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "23",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "St. Jans Gasthuis Medisch centrum Ittervoort",
+    "TypeVoertuig": "Leliestraat 4, Ittervoort",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "23",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "St. Jans Gasthuis Verloskundigepraktijk Van Hal",
+    "TypeVoertuig": "Steenstraat 103, Panningen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "23",
     "Interne opmerking": ""
@@ -137038,7 +137467,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "VieCuri Medisch Centrum ",
+    "Adres": "VieCuri Medisch Centrum",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -137050,32 +137479,10 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "VieCuri Medisch Centrum Venlo",
     "TypeVoertuig": "Tegelseweg 210, Venlo ",
-    "Kenteken": "",
-    "Bijzonderheden": "481 Bedden",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "23",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "23",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "VieCuri Medisch Centrum ",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
+    "Kenteken": "Dit ziekenhuis heeft: 479 Bedden",
     "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "23",
@@ -137083,11 +137490,44 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "VieCuri Medisch Centrum Venray",
     "TypeVoertuig": "Merseloseweg 130, Venray ",
+    "Kenteken": "Dit ziekenhuis heeft: 88 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "23",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "VieCuri Medisch Centrum Regiopoli Horst",
+    "TypeVoertuig": "Westsingel 94, Horst",
     "Kenteken": "",
-    "Bijzonderheden": "88 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "23",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "VieCuri Medisch Centrum Regiopoli Peel en Maas in Panningen",
+    "TypeVoertuig": "Steenbakkerstraat 6, Panningen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "23",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Geboortecentrum Noord-Limburg",
+    "TypeVoertuig": "Pfofessor Gelissensingel 20, Venlo",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "23",
     "Interne opmerking": ""
@@ -137115,7 +137555,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Maastricht Universitair Medisch Centrum ",
+    "Adres": "Maastricht UMC+",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -137127,11 +137567,44 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Academisch ziekenhuis",
+    "Afkorting": "Maastricht UMC+",
     "TypeVoertuig": "P. Debyelaan 25, Maastricht ",
+    "Kenteken": "Dit ziekenhuis heeft: 715 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Medisch centrum Annadal",
+    "TypeVoertuig": "Brouwersweg 100, Maastricht",
     "Kenteken": "",
-    "Bijzonderheden": "715 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Stadspoli Oost",
+    "TypeVoertuig": "Vijverdalseweg 2-4, Maastricht",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Stadspoli West",
+    "TypeVoertuig": "Clavecymbelstraat 71a-77a, Maastricht",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "24",
     "Interne opmerking": ""
@@ -137148,7 +137621,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Zuyderland Medisch Centrum ",
+    "Adres": "Zuyderland Medisch Centrum",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -137160,32 +137633,10 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Zuyderland Medisch Centrum Heerlen",
     "TypeVoertuig": "Henri Dunanstraat 5 Heerlen ",
-    "Kenteken": "",
-    "Bijzonderheden": "598 Bedden",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "24",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "24",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Zuyderland Medisch Centrum ",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
+    "Kenteken": "Dit ziekenhuis heeft: 598 Bedden",
     "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "24",
@@ -137193,11 +137644,44 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Zuyderland Medisch Centrum Sittard-Geleen",
     "TypeVoertuig": "Dr. H. van der Hoffplein 1, Sittard-Geleen",
+    "Kenteken": "Dit ziekenhuis heeft: 425 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Zuyderland Medisch Centrum Brunssum",
+    "TypeVoertuig": "Prins Hendriklaan 376, Brunssum",
     "Kenteken": "",
-    "Bijzonderheden": "425 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Zuyderland Medisch Centrum Kerkrade",
+    "TypeVoertuig": "Wijngracht 45, Kerkrade",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Buitenpoli de Egthe",
+    "TypeVoertuig": "De Egthe 1, Echt",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "24",
     "Interne opmerking": ""
@@ -137237,11 +137721,22 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Flevoziekenhuis",
     "TypeVoertuig": "Hospitaalweg 1, Almere ",
+    "Kenteken": "Dit ziekenhuis heeft: 394 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "25",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Flevoland ziekenhuis polikliniek Almere Haven",
+    "TypeVoertuig": "",
     "Kenteken": "",
-    "Bijzonderheden": "385",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "25",
     "Interne opmerking": ""
@@ -137258,7 +137753,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Medisch Centrum Zuiderzeeziekenhuis ",
+    "Adres": "Stichting Christelijk Ziekenhuis St. Jansdal",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -137270,11 +137765,33 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Ziekenhuis St. Jansdal Lelystad",
     "TypeVoertuig": "Ziekenhuisweg 100, Lelystad ",
+    "Kenteken": "Dit ziekenhuis heeft: 280 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "25",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Polikliniek St. Jansdal Dronten",
+    "TypeVoertuig": "Koning Willem Alexanderplein 9, Dronten",
     "Kenteken": "",
-    "Bijzonderheden": "280 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "25",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Polikliniek Zeewolde",
+    "TypeVoertuig": "Horsterweg 32, Zeewolde",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "25",
     "Interne opmerking": ""
@@ -137291,7 +137808,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Antonius Ziekenhuis",
+    "Adres": "Antonius Zorggroep",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -137303,11 +137820,22 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Antonius Ziekenhuis Emmeloord",
     "TypeVoertuig": "Urkerweg 4, Emmeloord ",
     "Kenteken": "",
-    "Bijzonderheden": "25 Bedden",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "25",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Buitenpolikliniek",
+    "Afkorting": "Antonius in Dokter Jansencentrum",
+    "TypeVoertuig": "Urkerweg 1, Emmeloord",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "25",
     "Interne opmerking": ""
@@ -137347,11 +137875,11 @@
   },
   {
     "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
+    "Roepnummer": "Ziekenhuis",
+    "Afkorting": "Centraal Militair Hospitaal",
     "TypeVoertuig": "Lundlaan 1, Utrecht ",
-    "Kenteken": "",
-    "Bijzonderheden": "500 Bedden ",
+    "Kenteken": "Dit ziekenhuis heeft: 500 Bedden ",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "28",
     "Interne opmerking": ""
