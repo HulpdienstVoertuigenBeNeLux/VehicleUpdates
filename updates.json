@@ -10,7 +10,7 @@
         "Time": "02-06-2026 09:00:18"
       }
     ],
-    "removed": [],
+    "removed": [ ],
     "changed": [
       {
         "Land": "NL",
@@ -18,20 +18,6 @@
         "Regio": "1",
         "Description": "01-1301: Interne opmerking van '' naar '1' aangepast",
         "Time": "02-06-2026 07:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1",
-        "Description": "01-1003: Interne opmerking van '' naar 'None' aangepast",
-        "Time": "02-06-2026 08:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1",
-        "Description": "01-1003: Interne opmerking van 'None' naar '' aangepast",
-        "Time": "02-06-2026 09:00:18"
       },
       {
         "Land": "NL",
@@ -53,20 +39,6 @@
         "Regio": "17",
         "Description": "17-1151: Kenteken van 'BV-FF-98' naar 'BD-086-L' aangepast",
         "Time": "02-06-2026 12:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-9074: Interne opmerking van '' naar 'None' aangepast",
-        "Time": "02-06-2026 13:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-9074: Interne opmerking van 'None' naar '' aangepast",
-        "Time": "02-06-2026 16:00:19"
       }
     ]
   },
@@ -4452,9 +4424,9 @@
   },
   {
     "date": "2026-05-26",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [ ],
+    "removed": [ ],
+    "changed": [ ]
   },
   {
     "date": "2026-05-25",

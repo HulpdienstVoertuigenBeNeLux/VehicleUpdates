@@ -64,6 +64,8 @@ def download_json(url: str) -> list:
     for row in data_rows:
         row = row + [''] * (n - len(row))
         item = {local_headers[i]: row[i] for i in range(n)}
+        if item.get("Interne opmerking") is None:
+            item["Interne opmerking"] = ""
         result.append(item)
     return result
 
