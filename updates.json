@@ -1,9 +1,215 @@
 [
   {
     "date": "2026-06-04",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14",
+        "Description": "14-7189 TS toegevoegd aan Bussum",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-9032 TS toegevoegd aan Tilburg Centrum",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "ON49 Teambureau Liemers-IJsselstreek  toegevoegd aan Zevenaar",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "ON47 Politiepost Groot, Liemers-IJsselstreek  toegevoegd aan Velp",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "ON49 Politiepost Klein, Liemers-IJsselstreek  toegevoegd aan Doesburg",
+        "Time": "04-06-2026 19:00:17"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14",
+        "Description": "14-1289 TS verwijderd van Bussum",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16",
+        "Description": "16-1704 DA verwijderd van Katwijk",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "ON47 Teambureau IJsselwaarden  verwijderd van Velp",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "ON47 Politiepost Klein, IJsselwaarden  verwijderd van Doesburg",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "ON48 Teambureau Rivierenland Oost  verwijderd van Zevenaar",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "ON48 Politiepost Klein, Rivierenland Oost  verwijderd van Duiven",
+        "Time": "04-06-2026 19:00:17"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "7",
+        "Description": "07-2097: Kenteken van 'H-726-SN' naar 'JJN-88-L' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "7",
+        "Description": "07-9295: Kenteken van 'XB-239-K' naar 'JJN-84-L' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "7",
+        "Description": "07-4096: Kenteken van 'K-688-DS' naar 'JJN-90-L' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9",
+        "Description": "09-8094: Kenteken van '46-RD-PK' naar 'JT-116-G' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-0032: Kenteken van 'BV-ZD-20' naar 'BX-ZZ-28' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-0191: Afkorting van 'DA' naar 'DB' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-0191: TypeVoertuig van 'Dienstauto' naar 'Dienstbus' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-0191: Kenteken van 'GZ-804-F' naar 'KS-219-J' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-0191: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Bezetting: 8 personen.' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "23-2671: Afkorting van 'HV' naar 'HVT' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "23-2671: TypeVoertuig van 'Hulpverleningsvoertuig' naar 'Hulpverleningsvoertuig terreinvaardig' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "23-2679: Kenteken van 'VG-611-N' naar 'VG-632-N' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "23-3283: Kenteken van 'VDF-65-V' naar 'VDF-85-V' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-0192: Afkorting van 'AC-B' naar 'HOVD-B' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-0192: TypeVoertuig van 'Algemeen commandant brandweer' naar 'Hoofdofficier van dienst Brandweer' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-0192: Bijzonderheden van '' naar 'T.b.v HOVD ( Oost )' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-0193: Bijzonderheden van 'T.b.v HOvD West' naar 'T.b.v HOVD ( West  )' aangepast",
+        "Time": "04-06-2026 19:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "'23-3282' omgenummerd naar '23-6184'",
+        "Time": "04-06-2026 19:00:17"
+      }
+    ]
   },
   {
     "date": "2026-06-03",
