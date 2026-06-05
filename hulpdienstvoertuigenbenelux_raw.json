@@ -16666,17 +16666,6 @@
   },
   {
     "Adres": "Hengelo Centrum",
-    "Roepnummer": "05-9231",
-    "Afkorting": "TS",
-    "TypeVoertuig": "Tankautospuit",
-    "Kenteken": "64-BRT-3",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "5",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Hengelo Centrum",
     "Roepnummer": "05-9232",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -19696,6 +19685,17 @@
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "J-498-BT",
     "Bijzonderheden": "Bezetting: 5 personen.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "5",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Oefencentrum Troned",
+    "Roepnummer": "05-9231",
+    "Afkorting": "TS",
+    "TypeVoertuig": "Tankautospuit",
+    "Kenteken": "64-BRT-3",
+    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -33862,7 +33862,7 @@
     "Roepnummer": "09-8894",
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
-    "Kenteken": "57-ZVV-6",
+    "Kenteken": "TK-891-S",
     "Bijzonderheden": "District Lekstroom",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
@@ -104006,6 +104006,17 @@
   },
   {
     "Adres": "Arnhem",
+    "Roepnummer": "07-127",
+    "Afkorting": "HC-Ambu",
+    "TypeVoertuig": "Ambulance hoogcomplexe zorg",
+    "Kenteken": "KDH-31-V",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "7",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Arnhem",
     "Roepnummer": "07-201",
     "Afkorting": "MC-Ambu",
     "TypeVoertuig": "Ambulance middencomplexe zorg",
@@ -104149,7 +104160,7 @@
   },
   {
     "Adres": "Arnhem",
-    "Roepnummer": "07-595",
+    "Roepnummer": "07-596",
     "Afkorting": "GGB",
     "TypeVoertuig": "Grootschalige geneeskundige bijstand",
     "Kenteken": "VR-689-N",
@@ -104292,7 +104303,7 @@
   },
   {
     "Adres": "Ede",
-    "Roepnummer": "07-596",
+    "Roepnummer": "07-595",
     "Afkorting": "GGB",
     "TypeVoertuig": "Grootschalige geneeskundige bijstand",
     "Kenteken": "VP-077-S",
@@ -104416,7 +104427,7 @@
     "Roepnummer": "07-505",
     "Afkorting": "OO-GZ",
     "TypeVoertuig": "Opleidingsvoertuig geneeskundige zorg",
-    "Kenteken": "WT-31-JK",
+    "Kenteken": "NS-228-R",
     "Bijzonderheden": "T.b.v Opleiden",
     "Hulpdienst": "Ambulance ",
     "Regio": "7",
@@ -104425,8 +104436,8 @@
   {
     "Adres": "Barneveld",
     "Roepnummer": "07-506",
-    "Afkorting": "OO-GZ",
-    "TypeVoertuig": "Opleidingsvoertuig geneeskundige zorg",
+    "Afkorting": "LOA-GZ",
+    "TypeVoertuig": "Logistiek aanhanger geneeskundige zorg",
     "Kenteken": "WT-08-JK",
     "Bijzonderheden": "T.b.v Opleiden",
     "Hulpdienst": "Ambulance ",
