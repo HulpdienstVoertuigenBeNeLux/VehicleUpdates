@@ -8,9 +8,52 @@
         "Regio": "9",
         "Description": "09-510 LO-GZ toegevoegd aan Soesterberg",
         "Time": "06-06-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-208 MC-Ambu toegevoegd aan Emmen",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-209 MC-Ambu toegevoegd aan Emmen",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-204 MC-Ambu toegevoegd aan Meppel",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-151 HC-Ambu toegevoegd aan Hoogeveen",
+        "Time": "06-06-2026 17:00:12"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-401 LC-Ambu verwijderd van Assen",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-402 LC-Ambu verwijderd van Hoogeveen",
+        "Time": "06-06-2026 17:00:12"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -109,6 +152,188 @@
         "Regio": "18",
         "Description": "18-5401: Bijzonderheden van '' naar 'Tijdelijk buiten dienst na ongeluk' aangepast",
         "Time": "06-06-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1",
+        "Description": "01-706: Kenteken van 'HB-047-N' naar 'ONBEKEND' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "2",
+        "Description": "02-109: Kenteken van 'R-464-ZR' naar 'R-336-BG' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-104: Kenteken van 'XV-003-K' naar 'JZR-08-V' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-105: Kenteken van 'P-317-GF' naar 'T-086-BN' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-107: Kenteken van 'ZN-943-P' naar 'JZL-05-K' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-201: Adres van 'Emmen' naar 'Assen' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-201: Kenteken van 'L-410-JN' naar 'HFX-70-Z' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-202: Adres van 'Hoogeveen' naar 'Assen' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-202: Kenteken van 'G-270-DH' naar 'HGF-31-B' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-102: Kenteken van 'XP-729-L' naar 'JXJ-56-N' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-106: Kenteken van 'ZK-762-L' naar 'T-280-DR' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-133: Kenteken van 'HHFF-24-X' naar 'HFF-24-X' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-141: Kenteken van 'JXJ-57N' naar 'JXJ-57-N' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-153: Kenteken van 'G-209-DX' naar 'T-341-GN' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-156: Kenteken van 'XV-003-K' naar 'T-339-GN' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-154: Kenteken van 'RT-939-J' naar 'JXJ-55-N' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-3402: Adres van 'Breda' naar 'Teteringen' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "'20-3402' omgenummerd naar '20-3103'",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-3402: Bijzonderheden van 'Bezetting: 8 personen.' naar 'Bezetting: 9 personen.' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "'03-407' omgenummerd naar '03-207'",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-407: Afkorting van 'LC-Ambu' naar 'MC-Ambu' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-407: TypeVoertuig van 'Ambulance laagcomplexe zorg' naar 'Ambulance middencomplexe zorg' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-403: Adres van 'Hoogeveen' naar 'Meppel' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "'03-403' omgenummerd naar '03-203'",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-403: Afkorting van 'LC-Ambu' naar 'MC-Ambu' aangepast",
+        "Time": "06-06-2026 17:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-403: TypeVoertuig van 'Ambulance laagcomplexe zorg' naar 'Ambulance middencomplexe zorg' aangepast",
+        "Time": "06-06-2026 17:00:12"
       }
     ]
   },
