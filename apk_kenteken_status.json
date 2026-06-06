@@ -10697,7 +10697,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "06-1301",
       "06-3201"
     ],
     "last_check_date": "2026-05-24"
@@ -11220,7 +11219,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "06-2631",
       "06-3331"
     ],
     "last_check_date": "2026-05-24"
@@ -17147,15 +17145,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "55-ZVV-6": {
-    "expiry": "2027-03-13",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "09-8694"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "2-TTF-73": {
     "expiry": "2026-09-19",
     "checked": true,
@@ -17179,8 +17168,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "09-9303",
-      "09-9309"
+      "09-9303"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -18657,7 +18645,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "09-4531",
       "09-8231"
     ],
     "last_check_date": "2026-05-24"
@@ -18833,15 +18820,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "84-RTZ-8": {
-    "expiry": "2026-06-28",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "09-9301"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "24-BPF-9": {
     "expiry": "2027-02-25",
     "checked": true,
@@ -18946,8 +18924,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "09-4701",
-      "09-4901"
+      "09-4701"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -19208,7 +19185,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "09-5502",
       "09-8003"
     ],
     "last_check_date": "2026-05-24"
@@ -19488,8 +19464,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "09-5532",
-      "09-6232"
+      "09-5532"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -25700,8 +25675,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "13-9185",
-      "13-9301"
+      "13-9185"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -70314,5 +70288,77 @@
       "07-505"
     ],
     "last_check_date": "2026-06-05"
+  },
+  "15-BGT-6": {
+    "expiry": "2026-08-02",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "06-2631"
+    ],
+    "last_check_date": "2026-06-06"
+  },
+  "TN-504-K": {
+    "expiry": "2026-11-26",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "09-8694"
+    ],
+    "last_check_date": "2026-06-06"
+  },
+  "38-BVN-6": {
+    "expiry": "2027-04-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "09-4531"
+    ],
+    "last_check_date": "2026-06-06"
+  },
+  "8-ZRL-08": {
+    "expiry": "2027-03-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "09-4901"
+    ],
+    "last_check_date": "2026-06-06"
+  },
+  "VV-166-X": {
+    "expiry": "2027-07-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "09-5502"
+    ],
+    "last_check_date": "2026-06-06"
+  },
+  "64-BKX-2": {
+    "expiry": "2027-05-21",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "09-6232"
+    ],
+    "last_check_date": "2026-06-06"
+  },
+  "V-89-KZJ": {
+    "expiry": "2028-01-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "13-9301"
+    ],
+    "last_check_date": "2026-06-06"
+  },
+  "VR-682-N": {
+    "expiry": "2026-09-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "09-510"
+    ],
+    "last_check_date": "2026-06-06"
   }
 }
