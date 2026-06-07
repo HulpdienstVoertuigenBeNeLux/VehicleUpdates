@@ -2,8 +2,38 @@
   {
     "date": "2026-06-07",
     "added": [],
-    "removed": [],
-    "changed": []
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-5541 TST-NB verwijderd van Wierden",
+        "Time": "07-06-2026 12:00:16"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "23-5132: Kenteken van 'ONBEKEND' naar 'BD-013-K' aangepast",
+        "Time": "07-06-2026 12:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-108: Adres van 'Rhoden' naar 'Roden' aangepast",
+        "Time": "07-06-2026 12:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-153: Adres van 'Dieverburg' naar 'Dieverbrug' aangepast",
+        "Time": "07-06-2026 12:00:16"
+      }
+    ]
   },
   {
     "date": "2026-06-06",
