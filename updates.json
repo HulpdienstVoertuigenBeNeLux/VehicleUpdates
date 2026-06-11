@@ -8,9 +8,52 @@
         "Regio": "15",
         "Description": "15-729 ARTS-HP toegevoegd aan Spoed HAP Den Haag",
         "Time": "11-06-2026 09:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "826 TS-BB toegevoegd aan Bedrijfsbrandweer Ter Apelkanaal",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN AMBU-LC toegevoegd aan Air Ambulance & Medical Repatriation Winterswijk",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN EH toegevoegd aan Sportdokters, Maastricht",
+        "Time": "11-06-2026 10:00:15"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "22",
+        "Description": "22-899 CGV verwijderd van Eindhoven Noord",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23",
+        "Description": "23-506 OO-RAV verwijderd van Weert",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23",
+        "Description": "L02 EH verwijderd van Sportdokters, Maastricht",
+        "Time": "11-06-2026 10:00:15"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -53,6 +96,76 @@
         "Regio": "17",
         "Description": "36-6460: Kenteken van 'V-539-RN' naar 'V-08-GFH' aangepast",
         "Time": "11-06-2026 09:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-1889: Afkorting van 'VZH' naar 'ABH' aangepast",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-1889: TypeVoertuig van 'Verzorgingshaakarmbak' naar 'Adembescherming haakarmbak' aangepast",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "1227: Kenteken van 'NZ-150-F' naar 'ONBEKEND' aangepast",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "1: Kenteken van 'RL-791-B' naar 'RK-791-B' aangepast",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "2: Kenteken van 'PN-469-9' naar 'PN-469-G' aangepast",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "12",
+        "Description": "12-172: Kenteken van 'H-027-FF' naar 'GGX-12-S' aangepast",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "15",
+        "Description": "15-212: Kenteken van 'K-360-RX' naar 'K-360-RK' aangepast",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "21",
+        "Description": "21-802: Kenteken van '19-KGK-5' naar 'J-561-GV' aangepast",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "22",
+        "Description": "AES-13: Kenteken van '69-PZS-8' naar 'ONBEKEND' aangepast",
+        "Time": "11-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "25-215: Kenteken van 'RX-728-B' naar 'RX-381-B' aangepast",
+        "Time": "11-06-2026 10:00:15"
       }
     ]
   },
