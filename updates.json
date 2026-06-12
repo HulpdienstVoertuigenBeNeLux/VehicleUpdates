@@ -120,6 +120,20 @@
         "Regio": "12",
         "Description": "Geen SAR-Heli POL-Heli toegevoegd aan ",
         "Time": "12-06-2026 14:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "GEEN MMTL toegevoegd aan Lelystad Airport",
+        "Time": "12-06-2026 19:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "GEEN MMTL toegevoegd aan Lelystad Airport",
+        "Time": "12-06-2026 19:00:15"
       }
     ],
     "removed": [
@@ -171,6 +185,13 @@
         "Regio": "10",
         "Description": "10-449 DB-RK verwijderd van Wognum",
         "Time": "12-06-2026 13:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "GEEN MMTL verwijderd van Lelystad Airport",
+        "Time": "12-06-2026 19:00:15"
       }
     ],
     "changed": [
@@ -1790,6 +1811,13 @@
         "Regio": "25",
         "Description": "GEEN: Bijzonderheden van '' naar 'Reserve Mobiel medisch team luchtvaartuig' aangepast",
         "Time": "12-06-2026 17:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "21",
+        "Description": "08-993: Kenteken van 'GEEN' naar 'PH-UMC' aangepast",
+        "Time": "12-06-2026 19:00:15"
       }
     ]
   },
