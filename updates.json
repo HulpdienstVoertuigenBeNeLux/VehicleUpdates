@@ -1,9 +1,82 @@
 [
   {
     "date": "2026-06-12",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6",
+        "Description": "GEEN SI toegevoegd aan Bedrijfsbrandweer Steenderen",
+        "Time": "12-06-2026 10:00:12"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-18MSA MSA verwijderd van Groningen Hoofdpost",
+        "Time": "12-06-2026 10:00:12"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-0399: Afkorting van 'COH-MU' naar 'CO-MU' aangepast",
+        "Time": "12-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-0399: TypeVoertuig van 'Commando haakarmbak multidisciplinair' naar 'Commando voertuig multidisciplinair' aangepast",
+        "Time": "12-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "31: Adres van 'Schiphol Vijfhuizen' naar 'Bedrijfsbrandweer Tilburg' aangepast",
+        "Time": "12-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "31: Afkorting van 'CT' naar 'TS-BB' aangepast",
+        "Time": "12-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "31: TypeVoertuig van 'Crashtender' naar 'Tankautospuit bedrijfsbrandweer' aangepast",
+        "Time": "12-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "31: Kenteken van 'GEEN' naar 'BR-FS-12' aangepast",
+        "Time": "12-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "31: Bijzonderheden van '' naar 'Bezetting: 8 personen.' aangepast",
+        "Time": "12-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "31: Regio van '12' naar '20' aangepast",
+        "Time": "12-06-2026 10:00:12"
+      }
+    ]
   },
   {
     "date": "2026-06-11",
