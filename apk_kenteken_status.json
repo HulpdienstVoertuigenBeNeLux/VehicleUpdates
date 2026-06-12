@@ -63152,24 +63152,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "PH-HOW / PH-OOP": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "Medic 1"
-    ],
-    "last_check_date": "2026-06-07"
-  },
-  "PH-OOP / PH-HOW": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "Medic 2"
-    ],
-    "last_check_date": "2026-06-07"
-  },
   "1-KJP-91": {
     "expiry": "2027-05-20",
     "checked": true,
@@ -64313,7 +64295,9 @@
     "expiry": null,
     "checked": true,
     "unknown": true,
-    "roepnummers": [],
+    "roepnummers": [
+      "Zie hierboven."
+    ],
     "last_check_date": "2026-06-07"
   },
   "N-088": {
@@ -70722,6 +70706,24 @@
     "unknown": true,
     "roepnummers": [
       "Geen SAR-Heli"
+    ],
+    "last_check_date": "2026-06-12"
+  },
+  "PH-HOW": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Medic 1"
+    ],
+    "last_check_date": "2026-06-12"
+  },
+  "PH-OOP": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Medic 2"
     ],
     "last_check_date": "2026-06-12"
   }
