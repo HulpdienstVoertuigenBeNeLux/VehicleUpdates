@@ -10,7 +10,15 @@
         "Time": "13-06-2026 09:00:13"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-7202 DA verwijderd van Dokkum",
+        "Time": "13-06-2026 12:00:11"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -53,6 +61,20 @@
         "Regio": "2",
         "Description": "'ONBEKEND' omgenummerd naar '02-7404'",
         "Time": "13-06-2026 09:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "28-4293: Bijzonderheden van 'TST-NB, Out-of-area' naar 'Out-of-area' aangepast",
+        "Time": "13-06-2026 12:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "28-4294: Bijzonderheden van 'TST-NB, Out-of-area' naar 'Out-of-area' aangepast",
+        "Time": "13-06-2026 12:00:11"
       }
     ]
   },
