@@ -3811,7 +3811,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "ONBEKEND"
+      "02-7404"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -70771,5 +70771,23 @@
       "GEEN"
     ],
     "last_check_date": "2026-06-12"
+  },
+  "S-856-NH": {
+    "expiry": "2027-03-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "02-7203"
+    ],
+    "last_check_date": "2026-06-13"
+  },
+  "PH-PXB": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Geen SAR-Heli"
+    ],
+    "last_check_date": "2026-06-13"
   }
 }

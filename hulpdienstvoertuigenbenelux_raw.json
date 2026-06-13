@@ -4720,6 +4720,17 @@
   },
   {
     "Adres": "Dokkum",
+    "Roepnummer": "02-7203",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
+    "Kenteken": "S-856-NH",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "2",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Dokkum",
     "Roepnummer": "02-7204",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
@@ -4757,7 +4768,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "H-374-KT",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "OVD-B Noord-Oost",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7767,6 +7778,17 @@
   },
   {
     "Adres": "Heerenveen",
+    "Roepnummer": "02-7404",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
+    "Kenteken": "JXL-75-P",
+    "Bijzonderheden": "Regionaal voertuig. Bezetting: 5 personen.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "2",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Heerenveen",
     "Roepnummer": "02-7437",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -7783,17 +7805,6 @@
     "TypeVoertuig": "Specialistische technische hulpverlening haakarmbak stutmaterieel",
     "Kenteken": "GEEN",
     "Bijzonderheden": "T.b.v THU IFV",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "2",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Heerenveen",
-    "Roepnummer": "ONBEKEND",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "JXL-75-P",
-    "Bijzonderheden": "Regionaal voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -9157,7 +9168,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "X-266-VX",
-    "Bijzonderheden": "Bezetting: 5 personen.",
+    "Bijzonderheden": "Regionaal inzetbaar t.b.v mestincidenten. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -51911,8 +51922,8 @@
   {
     "Adres": "Loosdrecht",
     "Roepnummer": "14-2713",
-    "Afkorting": "DAT",
-    "TypeVoertuig": "Dienstauto terreinvaardig",
+    "Afkorting": "ON-BRV",
+    "TypeVoertuig": "Ondersteuningsteam brandweervaartuig",
     "Kenteken": "VZR-84-F",
     "Bijzonderheden": "T.b.v 14-2712. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
@@ -129232,6 +129243,17 @@
     "Roepnummer": "Geen SAR-Heli",
     "Afkorting": "POL-Heli",
     "TypeVoertuig": "Politie Helikopter",
+    "Kenteken": "PH-PXB",
+    "Bijzonderheden": "ZXP02",
+    "Hulpdienst": "Kustwacht",
+    "Regio": "12",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "Geen SAR-Heli",
+    "Afkorting": "POL-Heli",
+    "TypeVoertuig": "Politie Helikopter",
     "Kenteken": "PH-PXC",
     "Bijzonderheden": "ZXP03",
     "Hulpdienst": "Kustwacht",
@@ -129244,7 +129266,7 @@
     "Afkorting": "POL-Heli",
     "TypeVoertuig": "Politie Helikopter",
     "Kenteken": "PH-PXE",
-    "Bijzonderheden": "Roepnaam wisseld tussen: ZXP1/ZXP2/ZXP3/ZPX4/ZPX5/ZPX6",
+    "Bijzonderheden": "ZXP05",
     "Hulpdienst": "Kustwacht",
     "Regio": "12",
     "Interne opmerking": ""
