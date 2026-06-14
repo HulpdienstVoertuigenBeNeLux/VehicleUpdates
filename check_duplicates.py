@@ -3,7 +3,6 @@ import os
 import shutil
 import sys
 from collections import defaultdict
-from datetime import datetime
 
 REPORTS_DIR = "reports"
 OUTPUT_FILENAME = "check_duplicates_report.txt"
@@ -57,52 +56,53 @@ def find_duplicates(records: list, field: str) -> dict:
     return {value: indices for value, indices in seen.items() if len(indices) > 1}
 
 
-def check_region(region: str, filepath: str) -> bool:
-    print(header(f"Region: {region}"))
+def check_region(region: str, filepath: str, emit) -> bool:
+    emit(header(f"Region: {region}"), console=True)
 
     if not os.path.exists(filepath):
-        print(f"\n  [!] File not found: {filepath}\n")
+        emit(f"\n  [!] File not found: {filepath}\n", console=True)
         return True
 
     with open(filepath, encoding="utf-8") as f:
         records = json.load(f)
 
     if not isinstance(records, list):
-        print("\n  [!] Unexpected file format.\n")
+        emit("\n  [!] Unexpected file format.\n", console=True)
         return True
 
     filtered = [
         r for r in records
         if r.get("Hulpdienst", "").strip().lower() in RELEVANT_HULPDIENSTEN
     ]
-    print(f"\n  Records checked : {len(filtered):,}  (of {len(records):,} total)")
+    emit(f"\n  Records checked : {len(filtered):,}  (of {len(records):,} total)", console=True)
 
     found_any = False
 
     for field in ("Roepnummer", "Kenteken"):
         duplicates = find_duplicates(filtered, field)
         if not duplicates:
-            print(f"  {field:<14} : no duplicates")
+            emit(f"  {field:<14} : no duplicates", console=True)
             continue
 
         found_any = True
-        print(section(f"Duplicate {field}  --  {len(duplicates)} value(s) affected"))
+        section_line = section(f"Duplicate {field}  --  {len(duplicates)} value(s) affected")
+        emit(section_line, console=True)
 
         for value, indices in sorted(duplicates.items()):
-            print(f"\n  >> {value!r}  ({len(indices)}x)")
+            emit(f"\n  >> {value!r}  ({len(indices)}x)", console=False)
             for idx in indices:
                 r = filtered[idx]
                 adres = r.get("Adres", "").strip()
                 hulpdienst = r.get("Hulpdienst", "").strip()
                 roepnummer = r.get("Roepnummer", "").strip()
                 kenteken = r.get("Kenteken", "").strip()
-                print(f"      Adres       : {adres}")
-                print(f"      Hulpdienst  : {hulpdienst}")
-                print(f"      Roepnummer  : {roepnummer}")
-                print(f"      Kenteken    : {kenteken}")
+                emit(f"      Adres       : {adres}", console=False)
+                emit(f"      Hulpdienst  : {hulpdienst}", console=False)
+                emit(f"      Roepnummer  : {roepnummer}", console=False)
+                emit(f"      Kenteken    : {kenteken}", console=False)
 
     if not found_any:
-        print("\n  [OK] No duplicates found in Roepnummer or Kenteken.\n")
+        emit("\n  [OK] No duplicates found in Roepnummer or Kenteken.\n", console=True)
 
     return found_any
 
@@ -110,43 +110,34 @@ def check_region(region: str, filepath: str) -> bool:
 def main() -> None:
     ensure_report_path()
     ensure_raw_paths()
-    generated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as report:
-        class Tee:
-            def write(self, msg: str) -> None:
+        def emit(line: str = "", console: bool = True) -> None:
+            report.write(line + "\n")
+            if console:
                 try:
-                    sys.__stdout__.write(msg)
+                    sys.__stdout__.write(line + "\n")
                 except (UnicodeEncodeError, UnicodeDecodeError):
                     enc = sys.__stdout__.encoding or "utf-8"
-                    sys.__stdout__.write(msg.encode(enc, errors="replace").decode(enc))
-                report.write(msg)
+                    safe = (line + "\n").encode(enc, errors="replace").decode(enc)
+                    sys.__stdout__.write(safe)
 
-            def flush(self) -> None:
-                sys.__stdout__.flush()
-                report.flush()
+        emit(SEP, console=True)
+        emit("  Duplicate Check Report", console=True)
+        emit(f"  Filters   : {', '.join(sorted(RELEVANT_HULPDIENSTEN))}", console=True)
+        emit(SEP, console=True)
 
-        sys.stdout = Tee()
-        try:
-            print(SEP)
-            print("  Duplicate Check Report")
-            print(f"  Generated : {generated_at}")
-            print(f"  Filters   : {', '.join(sorted(RELEVANT_HULPDIENSTEN))}")
-            print(SEP)
+        any_duplicates = False
+        for region, filepath in FILES.items():
+            if check_region(region, filepath, emit):
+                any_duplicates = True
 
-            any_duplicates = False
-            for region, filepath in FILES.items():
-                if check_region(region, filepath):
-                    any_duplicates = True
-
-            print(f"\n{SEP}")
-            if any_duplicates:
-                print("  RESULT: Duplicates detected -- review the entries above.")
-            else:
-                print("  RESULT: All regions clean -- no duplicates found.")
-            print(f"{SEP}\n")
-        finally:
-            sys.stdout = sys.__stdout__
+        emit(f"\n{SEP}", console=True)
+        if any_duplicates:
+            emit("  RESULT: Duplicates detected -- review the entries above.", console=True)
+        else:
+            emit("  RESULT: All regions clean -- no duplicates found.", console=True)
+        emit(f"{SEP}\n", console=True)
 
     print(f"Report written to {OUTPUT_FILE}")
 

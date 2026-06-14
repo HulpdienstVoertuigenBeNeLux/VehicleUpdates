@@ -260,16 +260,12 @@ def main():
     WIDTH = 80
     SEP  = "=" * WIDTH
     THIN = "-" * WIDTH
-    generated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
         def w(line=""):
             f.write(line + "\n")
 
         w(SEP)
         w("  APK Expiry Report")
-        w(f"  Generated  : {generated_at}")
-        w(f"  Checked    : {len(to_check):,} kentekens this run")
         w(f"  Expired    : {len(expired_lines):,}")
         w(f"  Unknown    : {len(unknown_lines):,}")
         w(SEP)
