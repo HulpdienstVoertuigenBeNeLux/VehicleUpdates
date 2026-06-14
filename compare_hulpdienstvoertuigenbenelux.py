@@ -20,6 +20,12 @@ REGION_CONFIGS = {
         "webhook_env": "DISCORD_WEBHOOK_URL",
         "discord_username": "[BE] HulpdienstVoertuigenBeNeLux",
     },
+    "LUX": {
+        "updates_path": "updates.json",
+        "local_file": "hulpdienstvoertuigenbenelux_lux_raw.json",
+        "webhook_env": "DISCORD_WEBHOOK_URL",
+        "discord_username": "[LUX] HulpdienstVoertuigenBeNeLux",
+    },
 }
 
 def download_json(url: str) -> list:
@@ -88,29 +94,7 @@ def download_json(url: str) -> list:
 
     if not isinstance(values, list):
         raise ValueError(f"Unexpected online JSON shape: {type(data).__name__}")
-    # Find the header row (first row with all non-empty values)
-    header = None
-    for row in values:
-        if isinstance(row, list) and row and all(str(cell).strip() != '' for cell in row):
-            header = row
-            break
-    if not header:
-        # fallback: first non-empty row with at least 2 non-empty cells
-        for row in values:
-            if isinstance(row, list) and row and sum(1 for cell in row if str(cell).strip() != '') >= 2:
-                header = row
-                break
-    if not header:
-        raise ValueError("Could not find header row in online JSON file.")
-    header_idx = values.index(header)
-    data_rows = values[header_idx+1:]
-    data_rows = [
-        row for row in data_rows
-        if isinstance(row, list) and any(str(cell).strip() != '' for cell in row)
-    ]
-
-    # Map online headers to local headers by position
-    # Local headers (fixed, as seen in the local file)
+    # Normalize all inputs to the local schema, even when a region has fewer/different columns.
     local_headers = [
         "Adres",
         "Roepnummer",
@@ -122,12 +106,75 @@ def download_json(url: str) -> list:
         "Regio",
         "Interne opmerking"
     ]
-    # Only map as many columns as available in both
-    n = len(local_headers)
+
+    def normalize_header_name(value: Any) -> str:
+        return str(value).strip().lower().replace("_", " ")
+
+    header_aliases = {
+        "adres": "Adres",
+        "roepnummer": "Roepnummer",
+        "roepnr": "Roepnummer",
+        "afkorting": "Afkorting",
+        "typevoertuig": "TypeVoertuig",
+        "type voertuig": "TypeVoertuig",
+        "kenteken": "Kenteken",
+        "bijzonderheden": "Bijzonderheden",
+        "hulpdienst": "Hulpdienst",
+        "regio": "Regio",
+        "interne opmerking": "Interne opmerking",
+    }
+
+    # Find the header row by looking for known column names.
+    header = None
+    for row in values:
+        if not isinstance(row, list):
+            continue
+        normalized_cells = [normalize_header_name(cell) for cell in row if str(cell).strip() != ""]
+        recognized = sum(1 for cell in normalized_cells if cell in header_aliases)
+        # Require at least 3 recognized headers to avoid matching title rows.
+        if recognized >= 3:
+            header = row
+            break
+
+    if not header:
+        # fallback: first row with multiple non-empty cells
+        for row in values:
+            if isinstance(row, list) and sum(1 for cell in row if str(cell).strip() != '') >= 3:
+                header = row
+                break
+
+    if not header:
+        raise ValueError("Could not find header row in online JSON file.")
+
+    header_idx = values.index(header)
+    data_rows = values[header_idx+1:]
+    data_rows = [
+        row for row in data_rows
+        if isinstance(row, list) and any(str(cell).strip() != '' for cell in row)
+    ]
+
+    index_by_local_header: dict[str, int] = {}
+    for i, col in enumerate(header):
+        normalized = normalize_header_name(col)
+        mapped = header_aliases.get(normalized)
+        if not mapped and "type" in normalized and "voertuig" in normalized:
+            mapped = "TypeVoertuig"
+        if mapped and mapped not in index_by_local_header:
+            index_by_local_header[mapped] = i
+
     result = []
     for row in data_rows:
-        row = row + [''] * (n - len(row))
-        item = {local_headers[i]: row[i] for i in range(n)}
+        item = {key: "" for key in local_headers}
+        for key, idx in index_by_local_header.items():
+            if idx < len(row):
+                item[key] = row[idx]
+
+        # Positional fallback for legacy/unknown headers.
+        if not index_by_local_header:
+            n = len(local_headers)
+            row = row + [''] * (n - len(row))
+            item = {local_headers[i]: row[i] for i in range(n)}
+
         if item.get("Interne opmerking") is None:
             item["Interne opmerking"] = ""
         result.append(item)
@@ -175,7 +222,7 @@ def load_local_json(filepath: str) -> list:
 def is_valid_kenteken(kenteken):
     return kenteken and kenteken.upper() not in ['GEEN', 'ONBEKEND', '-']
 
-def compare_json(old: Any, new: Any) -> dict:
+def compare_json(old: Any, new: Any, region: str = "") -> dict:
     """
     Compares two JSON objects (assumed to be lists of dicts) and returns added, removed, and changed items.
     """
@@ -188,6 +235,7 @@ def compare_json(old: Any, new: Any) -> dict:
 
     old = [normalize_dict(item) for item in old]
     new = [normalize_dict(item) for item in new]
+    region = region.upper()
 
     def get_unique_id(item):
         hulpdienst = item.get('Hulpdienst', '').strip().lower()
@@ -196,6 +244,12 @@ def compare_json(old: Any, new: Any) -> dict:
         type_voertuig = item.get('TypeVoertuig', '').strip().upper()
         kenteken = item.get('Kenteken', '').strip().upper()
         adres = item.get('Adres', '').strip().upper()
+
+        # Luxembourg must only match by Kenteken.
+        if region == "LUX":
+            if is_valid_kenteken(kenteken):
+                return f"KENTEKEN:{kenteken}"
+            return None
 
         # Ziekenhuizen use Afkorting as unique key, with TypeVoertuig as fallback.
         if hulpdienst == 'ziekenhuizen':
@@ -239,6 +293,9 @@ def compare_json(old: Any, new: Any) -> dict:
                 added.append(new_item)
             elif old_item != new_item:
                 changed.append({'key': k, 'old': old_item, 'new': new_item})
+
+    if region == "LUX":
+        return {'added': added, 'removed': removed, 'changed': changed}
 
     # Detect Roepnummer changes by checking if a removed Roepnummer's Kenteken still exists in the new data with a different Roepnummer
 
@@ -409,7 +466,7 @@ def run_region(region: str) -> None:
         print(msg)
 
     log("Comparing...")
-    result = compare_json(compare_old_json, compare_new_json)
+    result = compare_json(compare_old_json, compare_new_json, region)
     log(f"Added: {len(result['added'])}")
     log(f"Removed: {len(result['removed'])}")
     log(f"Changed: {len(result['changed'])}")
