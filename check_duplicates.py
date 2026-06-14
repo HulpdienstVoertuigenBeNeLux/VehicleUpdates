@@ -3,7 +3,6 @@ import os
 import shutil
 import sys
 from collections import defaultdict
-from datetime import datetime
 
 REPORTS_DIR = "reports"
 OUTPUT_FILENAME = "check_duplicates_report.txt"
@@ -111,7 +110,6 @@ def check_region(region: str, filepath: str, emit) -> bool:
 def main() -> None:
     ensure_report_path()
     ensure_raw_paths()
-    generated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as report:
         def emit(line: str = "", console: bool = True) -> None:
@@ -126,7 +124,6 @@ def main() -> None:
 
         emit(SEP, console=True)
         emit("  Duplicate Check Report", console=True)
-        emit(f"  Generated : {generated_at}", console=True)
         emit(f"  Filters   : {', '.join(sorted(RELEVANT_HULPDIENSTEN))}", console=True)
         emit(SEP, console=True)
 
