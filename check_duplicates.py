@@ -8,6 +8,8 @@ REPORTS_DIR = "reports"
 OUTPUT_FILENAME = "check_duplicates_report.txt"
 OUTPUT_FILE = os.path.join(REPORTS_DIR, OUTPUT_FILENAME)
 RAW_DIR = "raw"
+STORAGE_DIR = "storage"
+EXCEPTIONS_FILE = os.path.join(STORAGE_DIR, "uitzonderingen.json")
 
 FILES = {
     "NL": os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_raw.json"),
@@ -46,17 +48,44 @@ def section(text: str) -> str:
     return f"\n{THIN}\n  {text}\n{THIN}"
 
 
-def find_duplicates(records: list, field: str) -> dict:
+def load_exceptions() -> dict[str, set[str]]:
+    default = {"Roepnummer": set(), "Kenteken": set()}
+    if not os.path.exists(EXCEPTIONS_FILE):
+        return default
+
+    try:
+        with open(EXCEPTIONS_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        return default
+
+    if not isinstance(data, dict):
+        return default
+
+    roep = data.get("roepnummer", [])
+    kenteken = data.get("kenteken", [])
+
+    if isinstance(roep, list):
+        default["Roepnummer"] = {str(v).strip().upper() for v in roep if str(v).strip()}
+    if isinstance(kenteken, list):
+        default["Kenteken"] = {str(v).strip().upper() for v in kenteken if str(v).strip()}
+
+    return default
+
+
+def find_duplicates(records: list, field: str, ignored_values: set[str]) -> dict:
     seen = defaultdict(list)
     for i, record in enumerate(records):
         value = record.get(field, "").strip()
         if value.lower() in INVALID_VALUES:
             continue
+        if value.upper() in ignored_values:
+            continue
         seen[value].append(i)
     return {value: indices for value, indices in seen.items() if len(indices) > 1}
 
 
-def check_region(region: str, filepath: str, emit) -> bool:
+def check_region(region: str, filepath: str, emit, ignored_by_field: dict[str, set[str]]) -> bool:
     emit(header(f"Region: {region}"), console=True)
 
     if not os.path.exists(filepath):
@@ -79,7 +108,7 @@ def check_region(region: str, filepath: str, emit) -> bool:
     found_any = False
 
     for field in ("Roepnummer", "Kenteken"):
-        duplicates = find_duplicates(filtered, field)
+        duplicates = find_duplicates(filtered, field, ignored_by_field.get(field, set()))
         if not duplicates:
             emit(f"  {field:<14} : no duplicates", console=True)
             continue
@@ -110,6 +139,7 @@ def check_region(region: str, filepath: str, emit) -> bool:
 def main() -> None:
     ensure_report_path()
     ensure_raw_paths()
+    ignored_by_field = load_exceptions()
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as report:
         def emit(line: str = "", console: bool = True) -> None:
@@ -125,11 +155,16 @@ def main() -> None:
         emit(SEP, console=True)
         emit("  Duplicate Check Report", console=True)
         emit(f"  Filters   : {', '.join(sorted(RELEVANT_HULPDIENSTEN))}", console=True)
+        emit(
+            f"  Exceptions: Roepnummer={len(ignored_by_field.get('Roepnummer', set()))}, "
+            f"Kenteken={len(ignored_by_field.get('Kenteken', set()))}",
+            console=True,
+        )
         emit(SEP, console=True)
 
         any_duplicates = False
         for region, filepath in FILES.items():
-            if check_region(region, filepath, emit):
+            if check_region(region, filepath, emit, ignored_by_field):
                 any_duplicates = True
 
         emit(f"\n{SEP}", console=True)
