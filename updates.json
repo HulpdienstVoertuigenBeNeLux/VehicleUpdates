@@ -8,6 +8,13 @@
         "Regio": "28",
         "Description": "30-9712 WO-DF toegevoegd aan Marine Den Helder",
         "Time": "14-06-2026 13:22:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25",
+        "Description": "25-5583 HA toegevoegd aan Dronten",
+        "Time": "14-06-2026 19:12:31"
       }
     ],
     "removed": [
@@ -59,6 +66,13 @@
         "Regio": "21",
         "Description": "21-0042 TST verwijderd van Zeeland",
         "Time": "14-06-2026 10:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25",
+        "Description": "25-8284 HA verwijderd van Dronten",
+        "Time": "14-06-2026 19:12:31"
       }
     ],
     "changed": [
@@ -222,6 +236,27 @@
         "Regio": "6",
         "Description": "06-502: Kenteken van '3-SNT-10' naar 'V-53-LHR' aangepast",
         "Time": "14-06-2026 13:22:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "MTV-1: TypeVoertuig van 'Ambulance hoogcomplexe zorg' naar 'Ambulance evenementenhulpverlening' aangepast",
+        "Time": "14-06-2026 19:12:31"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "MTV-2: TypeVoertuig van 'Ambulance hoogcomplexe zorg' naar 'Ambulance evenementenhulpverlening' aangepast",
+        "Time": "14-06-2026 19:12:31"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25",
+        "Description": "'25-2272' omgenummerd naar '25-5572'",
+        "Time": "14-06-2026 19:12:31"
       }
     ]
   },
