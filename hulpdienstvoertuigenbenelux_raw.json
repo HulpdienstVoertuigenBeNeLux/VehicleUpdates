@@ -95958,7 +95958,7 @@
     "Afkorting": "TS-DF",
     "TypeVoertuig": "Tankautospuit Defensie",
     "Kenteken": "DM-803-S",
-    "Bijzonderheden": "TS-SBB. Bezetting: 6 personen.",
+    "Bijzonderheden": "TS-SIB. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -95969,7 +95969,7 @@
     "Afkorting": "TS-DF",
     "TypeVoertuig": "Tankautospuit Defensie",
     "Kenteken": "DM-804-S",
-    "Bijzonderheden": "TS-SBB. Bezetting: 6 personen.",
+    "Bijzonderheden": "TS-SIB. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -95980,7 +95980,7 @@
     "Afkorting": "TS-DF",
     "TypeVoertuig": "Tankautospuit Defensie",
     "Kenteken": "DM-801-S",
-    "Bijzonderheden": "TS-SBB. Bezetting: 6 personen.",
+    "Bijzonderheden": "TS-SIB. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -95991,7 +95991,7 @@
     "Afkorting": "TS-DF",
     "TypeVoertuig": "Tankautospuit Defensie",
     "Kenteken": "DM-802-S",
-    "Bijzonderheden": "TS-SBB. Bezetting: 6 personen.",
+    "Bijzonderheden": "TS-SIB. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96166,8 +96166,19 @@
     "Roepnummer": "30-9711",
     "Afkorting": "WO-DF",
     "TypeVoertuig": "Waterongevallenvoertuig Defensie",
-    "Kenteken": "KM-17-01",
-    "Bijzonderheden": "Grijs voertuig",
+    "Kenteken": "ONBEKEND",
+    "Bijzonderheden": "Grijs voertuig. Onderdeel van DDG, standplaats gebouw IJsduiker.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "28",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Marine Den Helder",
+    "Roepnummer": "30-9712",
+    "Afkorting": "WO-DF",
+    "TypeVoertuig": "Waterongevallenvoertuig Defensie",
+    "Kenteken": "81-DMJ-8",
+    "Bijzonderheden": "Grijs voertuig. Onderdeel van DDG, standplaats gebouw IJsduiker.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96178,7 +96189,7 @@
     "Afkorting": "WO-DF",
     "TypeVoertuig": "Waterongevallenvoertuig Defensie",
     "Kenteken": "KM-77-04",
-    "Bijzonderheden": "Grijs voertuig",
+    "Bijzonderheden": "Grijs voertuig. Onderdeel van DDG, standplaats gebouw IJsduiker.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96189,7 +96200,7 @@
     "Afkorting": "WO-DF",
     "TypeVoertuig": "Waterongevallenvoertuig Defensie",
     "Kenteken": "KM-73-02",
-    "Bijzonderheden": "Grijs voertuig",
+    "Bijzonderheden": "Grijs voertuig. Onderdeel van DDG, standplaats gebouw IJsduiker.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -96200,7 +96211,7 @@
     "Afkorting": "WO-DF",
     "TypeVoertuig": "Waterongevallenvoertuig Defensie",
     "Kenteken": "KM-73-03",
-    "Bijzonderheden": "Grijs voertuig",
+    "Bijzonderheden": "Grijs voertuig. Onderdeel van DDG, standplaats gebouw IJsduiker.",
     "Hulpdienst": "Brandweer ",
     "Regio": "28",
     "Interne opmerking": ""
@@ -101092,10 +101103,10 @@
   {
     "Adres": "TT Circuit Assen",
     "Roepnummer": "MTV-1",
-    "Afkorting": "AMBU-HC",
+    "Afkorting": "AMBU-EH",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
     "Kenteken": "ZK-762-L",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "AMBU-HC",
     "Hulpdienst": "Ambulance ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -101103,10 +101114,10 @@
   {
     "Adres": "TT Circuit Assen",
     "Roepnummer": "MTV-2",
-    "Afkorting": "AMBU-HC",
+    "Afkorting": "AMBU-EH",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
     "Kenteken": "ZN-943-P",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "AMBU-HC",
     "Hulpdienst": "Ambulance ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -103019,7 +103030,7 @@
     "Roepnummer": "06-502",
     "Afkorting": "OO-RA",
     "TypeVoertuig": "Opleiding voertuig regionale ambulancevoorziening",
-    "Kenteken": "3-SNT-10",
+    "Kenteken": "V-53-LHR",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "6",
