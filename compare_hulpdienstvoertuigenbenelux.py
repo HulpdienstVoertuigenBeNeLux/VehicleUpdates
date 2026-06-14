@@ -97,6 +97,7 @@ def download_json(url: str) -> list:
     # Normalize all inputs to the local schema, even when a region has fewer/different columns.
     local_headers = [
         "Adres",
+        "DE Afkorting",
         "Roepnummer",
         "Afkorting",
         "TypeVoertuig",
@@ -112,6 +113,7 @@ def download_json(url: str) -> list:
 
     header_aliases = {
         "adres": "Adres",
+        "de afkorting": "DE Afkorting",
         "roepnummer": "Roepnummer",
         "roepnr": "Roepnummer",
         "afkorting": "Afkorting",
