@@ -23,9 +23,53 @@ REGION_CONFIGS = {
 }
 
 def download_json(url: str) -> list:
-    response = requests.get(url)
-    response.raise_for_status()
-    data = response.json()
+    headers = {
+        # Some hosting layers reject non-browser clients unless common headers are present.
+        "User-Agent": (
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+        ),
+        "Accept": "application/json, text/plain, */*",
+        "Referer": "https://hulpdienstvoertuigenbenelux.nl/",
+    }
+
+    retryable_status_codes = {415, 429, 500, 502, 503, 504}
+    max_attempts = 4
+    retry_delay_seconds = 30
+    data = None
+
+    for attempt in range(1, max_attempts + 1):
+        attempt_headers = headers
+        if attempt > 1:
+            # Include explicit content-type on retries for strict proxy/WAF paths.
+            attempt_headers = {**headers, "Content-Type": "application/json"}
+
+        try:
+            response = requests.get(url, headers=attempt_headers, timeout=30)
+
+            if response.status_code in retryable_status_codes and attempt < max_attempts:
+                print(
+                    f"Request failed with status {response.status_code}. "
+                    f"Retrying in {retry_delay_seconds}s (attempt {attempt}/{max_attempts})..."
+                )
+                time.sleep(retry_delay_seconds)
+                continue
+
+            response.raise_for_status()
+            data = response.json()
+            break
+        except (requests.ConnectionError, requests.Timeout) as exc:
+            if attempt >= max_attempts:
+                raise
+            print(
+                f"Request error: {exc}. Retrying in {retry_delay_seconds}s "
+                f"(attempt {attempt}/{max_attempts})..."
+            )
+            time.sleep(retry_delay_seconds)
+
+    if data is None:
+        raise RuntimeError(f"Failed to download JSON after {max_attempts} attempts: {url}")
+
     values = data.get('values') if isinstance(data, dict) and 'values' in data else data
     # Find the header row (first row with all non-empty values)
     header = None
@@ -316,7 +360,12 @@ def run_region(region: str) -> None:
 
 
     print("Downloading latest JSON...")
-    new_json = download_json(url)
+    try:
+        new_json = download_json(url)
+    except (requests.RequestException, RuntimeError, ValueError) as exc:
+        print(f"Failed to download or parse online JSON for region {region}: {exc}")
+        print("Skipping this region for now so the workflow can continue.")
+        return
     print(f"Loaded {len(new_json)} records from online.")
     # Filter out unwanted Hulpdienst categories
     exclude_hulpdiensten = {"hulpdienst", "alle hulpdiensten"}
