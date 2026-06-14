@@ -1,6 +1,6 @@
 ================================================================================
   Duplicate Check Report
-  Generated : 2026-06-14 18:36:30
+  Generated : 2026-06-14 19:12:52
   Filters   : ambulance, brandweer, knrm, reddingsbrigade, rode kruis
 ================================================================================
 
@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 12,470  (of 19,357 total)
+  Records checked : 12,470  (of 19,356 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  33 value(s) affected
@@ -456,7 +456,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 7,638  (of 9,476 total)
+  Records checked : 7,638  (of 9,475 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  467 value(s) affected
@@ -7194,8 +7194,252 @@
   Region: LUX
 ================================================================================
 
-  [!] File not found: raw/hulpdienstvoertuigenbenelux_lux_raw.json
+  Records checked : 1,227  (of 1,341 total)
+  Roepnummer     : no duplicates
 
+--------------------------------------------------------------------------------
+  Duplicate Kenteken  --  24 value(s) affected
+--------------------------------------------------------------------------------
+
+  >> 'BN 1001'  (2x)
+      Adres       : Esch-sur-Alzette
+      Hulpdienst  : Ambulance
+      Roepnummer  : 
+      Kenteken    : BN 1001
+      Adres       : Esch-sur-Alzette
+      Hulpdienst  : Ambulance
+      Roepnummer  : 
+      Kenteken    : BN 1001
+
+  >> 'CG 1105'  (2x)
+      Adres       : Alebësch
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1105
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1105
+
+  >> 'CG 1293'  (2x)
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1293
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1293
+
+  >> 'CG 1337'  (2x)
+      Adres       : Alebësch
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1337
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1337
+
+  >> 'CG 1382'  (2x)
+      Adres       : Findel
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1382
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1382
+
+  >> 'CG 1391'  (2x)
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1391
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1391
+
+  >> 'CG 1394'  (2x)
+      Adres       : Lintgen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1394
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1394
+
+  >> 'CG 1417'  (2x)
+      Adres       : Hosingen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1417
+      Adres       : Lintgen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1417
+
+  >> 'CG 1462'  (2x)
+      Adres       : Alebësch
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1462
+      Adres       : Lintgen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1462
+
+  >> 'CG 1465'  (2x)
+      Adres       : Lintgen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1465
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1465
+
+  >> 'CG 1469'  (2x)
+      Adres       : Lintgen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1469
+      Adres       : Steinfort
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1469
+
+  >> 'CG 1475'  (2x)
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1475
+      Adres       : Mondercange
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1475
+
+  >> 'CG 1566'  (2x)
+      Adres       : Esch-sur-Alzette
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1566
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1566
+
+  >> 'CG 1636'  (2x)
+      Adres       : Schifflange
+      Hulpdienst  : Ambulance
+      Roepnummer  : 
+      Kenteken    : CG 1636
+      Adres       : Linger
+      Hulpdienst  : Ambulance
+      Roepnummer  : 
+      Kenteken    : CG 1636
+
+  >> 'CG 1775'  (2x)
+      Adres       : Béiwen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1775
+      Adres       : Boulaide
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1775
+
+  >> 'CG 1777'  (2x)
+      Adres       : Béiwen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1777
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1777
+
+  >> 'CG 2047'  (2x)
+      Adres       : Hosingen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2047
+      Adres       : Weiler
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2047
+
+  >> 'CG 2092'  (2x)
+      Adres       : Alebësch
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2092
+      Adres       : Echternach
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2092
+
+  >> 'CG 2188'  (2x)
+      Adres       : Osweiler
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2188
+      Adres       : Steinheim
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2188
+
+  >> 'CG 2255'  (2x)
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2255
+      Adres       : Mondercange
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2255
+
+  >> 'CG 2347'  (2x)
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2347
+      Adres       : Schifflange
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2347
+
+  >> 'CG 2348'  (2x)
+      Adres       : Feulen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2348
+      Adres       : Nommern
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2348
+
+  >> 'CG 2408'  (2x)
+      Adres       : Luxembourg-Centrum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2408
+      Adres       : Redange
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 2408
+
+  >> 'CR 2200'  (2x)
+      Adres       : Luxemburg
+      Hulpdienst  : Ambulance
+      Roepnummer  : 
+      Kenteken    : CR 2200
+      Adres       : Luxemburg
+      Hulpdienst  : Ambulance
+      Roepnummer  : 
+      Kenteken    : CR 2200
 
 ================================================================================
   RESULT: Duplicates detected -- review the entries above.
