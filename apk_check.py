@@ -3,15 +3,44 @@ import json
 from datetime import datetime
 import time
 import os
+import shutil
 
-KENTEKEN_STATUS_FILE = "apk_kenteken_status.json"
-REPORT_FILE = "apk_expiry_report.txt"
+REPORTS_DIR = "reports"
+REPORT_FILENAME = "apk_expiry_report.txt"
+REPORT_FILE = os.path.join(REPORTS_DIR, REPORT_FILENAME)
+RAW_DIR = "raw"
+RAW_NL_FILE = os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_raw.json")
+STORAGE_DIR = "storage"
+KENTEKEN_STATUS_FILENAME = "apk_kenteken_status.json"
+KENTEKEN_STATUS_FILE = os.path.join(STORAGE_DIR, KENTEKEN_STATUS_FILENAME)
+
+
+def ensure_report_path():
+    os.makedirs(REPORTS_DIR, exist_ok=True)
+    root_path = REPORT_FILENAME
+    if os.path.exists(root_path) and not os.path.exists(REPORT_FILE):
+        shutil.move(root_path, REPORT_FILE)
+
+
+def ensure_raw_input_path():
+    os.makedirs(RAW_DIR, exist_ok=True)
+    root_path = "hulpdienstvoertuigenbenelux_raw.json"
+    if os.path.exists(root_path) and not os.path.exists(RAW_NL_FILE):
+        shutil.move(root_path, RAW_NL_FILE)
+
+
+def ensure_status_path():
+    os.makedirs(STORAGE_DIR, exist_ok=True)
+    root_path = KENTEKEN_STATUS_FILENAME
+    if os.path.exists(root_path) and not os.path.exists(KENTEKEN_STATUS_FILE):
+        shutil.move(root_path, KENTEKEN_STATUS_FILE)
 
 # 1. Collect all kentekens from the relevant JSON files
 def collect_kentekens_with_roepnummer():
     kenteken_map = {}
-    # Use hulpdienstvoertuigenbenelux_raw.json for all kentekens
-    with open('hulpdienstvoertuigenbenelux_raw.json', encoding='utf-8') as f:
+    ensure_raw_input_path()
+    # Use NL raw file for all kentekens
+    with open(RAW_NL_FILE, encoding='utf-8') as f:
         data = json.load(f)
         for entry in data:
             kenteken = entry.get('Kenteken', '').strip()
@@ -127,6 +156,8 @@ def webhook_APK(message):
 
 # 6. Main script
 def main():
+    ensure_report_path()
+    ensure_status_path()
     kenteken_map = collect_kentekens_with_roepnummer()
     status = load_kenteken_status(kenteken_map)
     # Prioritize unknown, then expired, then others
@@ -215,24 +246,58 @@ def main():
         roepnummers = v.get("roepnummers", [])
         roep_str = f" ({', '.join(roepnummers)})" if roepnummers else ""
         if v["unknown"] or v["expiry"] in [None, "None", "null", ""]:
-            unknown_lines.append(f"{kenteken}{roep_str}")
+            unknown_lines.append((kenteken, roep_str))
         else:
             try:
                 expiry_date = datetime.strptime(v["expiry"], "%Y-%m-%d").date()
                 if expiry_date < today:
-                    expired_lines.append(f"{kenteken}{roep_str}: verlopen op {v['expiry']}")
+                    expired_lines.append((kenteken, roep_str, v["expiry"]))
             except Exception:
-                expired_lines.append(f"{kenteken}{roep_str}: verlopen op {v['expiry']}")
-    # Remove duplicates and sort
+                expired_lines.append((kenteken, roep_str, v["expiry"]))
     expired_lines = sorted(set(expired_lines))
     unknown_lines = sorted(set(unknown_lines))
+
+    WIDTH = 80
+    SEP  = "=" * WIDTH
+    THIN = "-" * WIDTH
+    generated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
-        f.write(f"Expired ({len(expired_lines)}):\n")
-        for line in expired_lines:
+        def w(line=""):
             f.write(line + "\n")
-        f.write(f"\nUnknown ({len(unknown_lines)}):\n")
-        for line in unknown_lines:
-            f.write(line + "\n")
+
+        w(SEP)
+        w("  APK Expiry Report")
+        w(f"  Generated  : {generated_at}")
+        w(f"  Checked    : {len(to_check):,} kentekens this run")
+        w(f"  Expired    : {len(expired_lines):,}")
+        w(f"  Unknown    : {len(unknown_lines):,}")
+        w(SEP)
+
+        w()
+        w(THIN)
+        w(f"  Expired ({len(expired_lines)})")
+        w(THIN)
+        if expired_lines:
+            for kenteken, roep_str, expiry in expired_lines:
+                w(f"  {kenteken}{roep_str}")
+                w(f"      Verlopen op : {expiry}")
+        else:
+            w("  (geen)")
+
+        w()
+        w(THIN)
+        w(f"  Unknown ({len(unknown_lines)})")
+        w(THIN)
+        if unknown_lines:
+            for kenteken, roep_str in unknown_lines:
+                w(f"  {kenteken}{roep_str}")
+        else:
+            w("  (geen)")
+
+        w()
+        w(SEP)
+
     print(f"Rapport bijgewerkt in {REPORT_FILE}")
 
 if __name__ == "__main__":

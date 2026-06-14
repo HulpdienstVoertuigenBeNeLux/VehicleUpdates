@@ -3,30 +3,44 @@ import datetime
 import json
 import requests
 import sys
+import shutil
 from typing import Any, Optional
 import time
+
+
+RAW_DIR = "raw"
 
 
 REGION_CONFIGS = {
     "NL": {
         "updates_path": "updates.json",
-        "local_file": "hulpdienstvoertuigenbenelux_raw.json",
+        "local_file": os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_raw.json"),
         "webhook_env": "DISCORD_WEBHOOK_URL",
         "discord_username": "[NL] HulpdienstVoertuigenBeNeLux",
     },
     "BE": {
         "updates_path": "updates.json",
-        "local_file": "hulpdienstvoertuigenbenelux_be_raw.json",
+        "local_file": os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_be_raw.json"),
         "webhook_env": "DISCORD_WEBHOOK_URL",
         "discord_username": "[BE] HulpdienstVoertuigenBeNeLux",
     },
     "LUX": {
         "updates_path": "updates.json",
-        "local_file": "hulpdienstvoertuigenbenelux_lux_raw.json",
+        "local_file": os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_lux_raw.json"),
         "webhook_env": "DISCORD_WEBHOOK_URL",
         "discord_username": "[LUX] HulpdienstVoertuigenBeNeLux",
     },
 }
+
+
+def ensure_raw_file_path(path: str) -> str:
+    os.makedirs(RAW_DIR, exist_ok=True)
+    basename = os.path.basename(path)
+    raw_path = os.path.join(RAW_DIR, basename)
+    root_path = basename
+    if os.path.exists(root_path) and not os.path.exists(raw_path):
+        shutil.move(root_path, raw_path)
+    return raw_path
 
 def download_json(url: str) -> list:
     headers = {
@@ -374,7 +388,7 @@ def run_region(region: str) -> None:
 
     config = REGION_CONFIGS[region]
     updates_path = config["updates_path"]
-    local_file = config["local_file"]
+    local_file = ensure_raw_file_path(config["local_file"])
 
     print(f"=== Processing {region} ===")
 

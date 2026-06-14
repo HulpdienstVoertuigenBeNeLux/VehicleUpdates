@@ -36,6 +36,7 @@ jobs:
           git pull
           python compare_hulpdienstvoertuigenbenelux.py ALL
           python apk_check.py
+          python check_duplicates.py
 
       - name: Commit and push changes
         run: |
