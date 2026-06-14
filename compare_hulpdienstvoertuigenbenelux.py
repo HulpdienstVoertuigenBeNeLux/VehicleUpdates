@@ -360,7 +360,12 @@ def run_region(region: str) -> None:
 
 
     print("Downloading latest JSON...")
-    new_json = download_json(url)
+    try:
+        new_json = download_json(url)
+    except (requests.RequestException, RuntimeError, ValueError) as exc:
+        print(f"Failed to download or parse online JSON for region {region}: {exc}")
+        print("Skipping this region for now so the workflow can continue.")
+        return
     print(f"Loaded {len(new_json)} records from online.")
     # Filter out unwanted Hulpdienst categories
     exclude_hulpdiensten = {"hulpdienst", "alle hulpdiensten"}
