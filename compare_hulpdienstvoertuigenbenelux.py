@@ -3,7 +3,7 @@ import datetime
 import json
 import requests
 import sys
-from typing import Any
+from typing import Any, Optional
 import time
 
 
@@ -70,24 +70,44 @@ def download_json(url: str) -> list:
     if data is None:
         raise RuntimeError(f"Failed to download JSON after {max_attempts} attempts: {url}")
 
-    values = data.get('values') if isinstance(data, dict) and 'values' in data else data
+    # Support both spreadsheet-style payloads ({"values": [[...], ...]}) and
+    # direct list payloads from fallback/proxy responses.
+    if isinstance(data, list) and all(isinstance(row, dict) for row in data):
+        return data
+
+    if isinstance(data, dict):
+        if isinstance(data.get("values"), list):
+            values = data["values"]
+        else:
+            # Some wrappers nest the rows under another top-level key.
+            values = next((v for v in data.values() if isinstance(v, list)), None)
+    elif isinstance(data, list):
+        values = data
+    else:
+        values = None
+
+    if not isinstance(values, list):
+        raise ValueError(f"Unexpected online JSON shape: {type(data).__name__}")
     # Find the header row (first row with all non-empty values)
     header = None
     for row in values:
-        if row and all(cell.strip() != '' for cell in row):
+        if isinstance(row, list) and row and all(str(cell).strip() != '' for cell in row):
             header = row
             break
     if not header:
         # fallback: first non-empty row with at least 2 non-empty cells
         for row in values:
-            if row and sum(1 for cell in row if cell.strip() != '') >= 2:
+            if isinstance(row, list) and row and sum(1 for cell in row if str(cell).strip() != '') >= 2:
                 header = row
                 break
     if not header:
         raise ValueError("Could not find header row in online JSON file.")
     header_idx = values.index(header)
     data_rows = values[header_idx+1:]
-    data_rows = [row for row in data_rows if any(cell.strip() != '' for cell in row)]
+    data_rows = [
+        row for row in data_rows
+        if isinstance(row, list) and any(str(cell).strip() != '' for cell in row)
+    ]
 
     # Map online headers to local headers by position
     # Local headers (fixed, as seen in the local file)
@@ -533,7 +553,7 @@ def parse_regions(args: list[str]) -> list[str]:
     return normalized
 
 
-def main(args: list[str] | None = None) -> None:
+def main(args: Optional[list[str]] = None) -> None:
     regions = parse_regions(sys.argv[1:] if args is None else args)
     for region in regions:
         run_region(region)
