@@ -108,7 +108,7 @@ def download_json(url: str) -> list:
 
     if not isinstance(values, list):
         raise ValueError(f"Unexpected online JSON shape: {type(data).__name__}")
-    # Normalize all inputs to the local schema, even when a region has fewer/different columns.
+    # Known local schema headers; only headers present in the source are emitted.
     local_headers = [
         "Adres",
         "DE Afkorting",
@@ -178,9 +178,11 @@ def download_json(url: str) -> list:
         if mapped and mapped not in index_by_local_header:
             index_by_local_header[mapped] = i
 
+    active_headers = [h for h in local_headers if h in index_by_local_header]
+
     result = []
     for row in data_rows:
-        item = {key: "" for key in local_headers}
+        item = {key: "" for key in active_headers}
         for key, idx in index_by_local_header.items():
             if idx < len(row):
                 item[key] = row[idx]
