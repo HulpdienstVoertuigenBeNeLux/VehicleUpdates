@@ -3920,7 +3920,7 @@
     "Roepnummer": "01-3981",
     "Afkorting": "HA-BB",
     "TypeVoertuig": "Haakarmvoertuig bedrijfsbrandweer",
-    "Kenteken": "VX-25-NJ",
+    "Kenteken": "ONBEKEND",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
@@ -35344,6 +35344,17 @@
   },
   {
     "Adres": "Soesterberg",
+    "Roepnummer": "09-8069",
+    "Afkorting": "WTT",
+    "TypeVoertuig": "Watertankwagen terreinvaardig",
+    "Kenteken": "BX-TB-09",
+    "Bijzonderheden": "Reserve voertuig.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "9",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Soesterberg",
     "Roepnummer": "09-9283",
     "Afkorting": "VZ",
     "TypeVoertuig": "Verzorgingsvoertuig",
@@ -35921,17 +35932,6 @@
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-FT-19",
     "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "9",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Utrecht Leidsche Rijn",
-    "Roepnummer": "09-8069",
-    "Afkorting": "WTT",
-    "TypeVoertuig": "Watertankwagen terreinvaardig",
-    "Kenteken": "BX-TB-09",
-    "Bijzonderheden": "Reserve voertuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
