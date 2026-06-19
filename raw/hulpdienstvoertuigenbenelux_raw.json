@@ -313,7 +313,7 @@
     "Afkorting": "MMT",
     "TypeVoertuig": "Mobiel medisch team voertuig",
     "Kenteken": "1-KJP-91",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "Wordt voornamelijk alleen bij grootschalige incidenten ingezet.",
     "Hulpdienst": "Ambulance ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -346,7 +346,7 @@
     "Afkorting": "MMT",
     "TypeVoertuig": "Mobiel medisch team voertuig",
     "Kenteken": "1-KPJ-88",
-    "Bijzonderheden": "Wordt alleen bij rampen ingezet",
+    "Bijzonderheden": "Wordt voornamelijk alleen bij grootschalige incidenten ingezet.",
     "Hulpdienst": "Ambulance ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -62502,17 +62502,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ridderkerk",
-    "Roepnummer": "GEEN",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "VJG-70-K",
-    "Bijzonderheden": "T.b.v wijkbrandweer, afdeling Veilig Leven.",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "17",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "",
     "Roepnummer": "",
     "Afkorting": "",
@@ -64031,12 +64020,23 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Ridderkerk",
+    "Roepnummer": "GEEN",
+    "Afkorting": "DB",
+    "TypeVoertuig": "Dienstbus",
+    "Kenteken": "VJG-70-K",
+    "Bijzonderheden": "T.b.v veilig leven.. Bezetting: 5 personen.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Regionaal/Wilhelminakade",
     "Roepnummer": "GEEN",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "K-632-HB",
-    "Bijzonderheden": "Veilig leven. Bezetting: 5 personen.",
+    "Bijzonderheden": "T.b.v. veilig leven. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -64516,9 +64516,9 @@
   },
   {
     "Adres": "Logistiek/Driemanssteeweg ",
-    "Roepnummer": "17-9085",
-    "Afkorting": "VZA-WC",
-    "TypeVoertuig": "Verzorgingsaanhanger met WC",
+    "Roepnummer": "17-9084",
+    "Afkorting": "BSA",
+    "TypeVoertuig": "Brandstoftankaanhanger",
     "Kenteken": "GEEN",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -64527,11 +64527,22 @@
   },
   {
     "Adres": "Logistiek/Driemanssteeweg ",
+    "Roepnummer": "17-9085",
+    "Afkorting": "VZA-WC",
+    "TypeVoertuig": "Verzorgingsaanhanger met WC",
+    "Kenteken": "GEEN",
+    "Bijzonderheden": "Veiligheidsregio huisstijl.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Logistiek/Driemanssteeweg ",
     "Roepnummer": "17-9201",
-    "Afkorting": "LO",
-    "TypeVoertuig": "Logistiek voertuig",
+    "Afkorting": "AH",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "BZ-BX-60",
-    "Bijzonderheden": "Primair voor koude logistiek, secundair inzetbaar als AB/AH.",
+    "Bijzonderheden": "Tevens AB.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -64542,7 +64553,7 @@
     "Afkorting": "LO",
     "TypeVoertuig": "Logistiek voertuig",
     "Kenteken": "44-BDJ-6",
-    "Bijzonderheden": "Primair voor koude logistiek, secundair inzetbaar als AB/AH.",
+    "Bijzonderheden": "Primair voor koude logistiek. In bijzondere gevallen inzetbaar als reserve AB/AH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -64553,7 +64564,7 @@
     "Afkorting": "LO",
     "TypeVoertuig": "Logistiek voertuig",
     "Kenteken": "41-BDJ-1",
-    "Bijzonderheden": "Primair voor koude logistiek, secundair inzetbaar als AB/AH.",
+    "Bijzonderheden": "Primair voor koude logistiek. In bijzondere gevallen inzetbaar als reserve AB/AH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -64564,7 +64575,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "JDS-99-J",
-    "Bijzonderheden": "Veiligheidsregio huisstijl.",
+    "Bijzonderheden": "Reserve piketvoertuig. Veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -64586,7 +64597,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "JDS-89-J",
-    "Bijzonderheden": "Veiligheidsregio huisstijl.",
+    "Bijzonderheden": "Reserve piketvoertuig. Veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -64729,7 +64740,7 @@
     "Afkorting": "TD",
     "TypeVoertuig": "Technische dienst",
     "Kenteken": "V-67-NBZ",
-    "Bijzonderheden": "Veiligheidsregio huisstijl.",
+    "Bijzonderheden": "Secundaire veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -64740,7 +64751,7 @@
     "Afkorting": "TD",
     "TypeVoertuig": "Technische dienst",
     "Kenteken": "V-66-NBZ",
-    "Bijzonderheden": "Veiligheidsregio huisstijl.",
+    "Bijzonderheden": "Secundaire veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -64751,7 +64762,7 @@
     "Afkorting": "TD",
     "TypeVoertuig": "Technische dienst",
     "Kenteken": "V-61-NBZ",
-    "Bijzonderheden": "Veiligheidsregio huisstijl.",
+    "Bijzonderheden": "Secundaire veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -64762,7 +64773,7 @@
     "Afkorting": "TD",
     "TypeVoertuig": "Technische dienst",
     "Kenteken": "V-62-NBZ",
-    "Bijzonderheden": "Veiligheidsregio huisstijl.",
+    "Bijzonderheden": "Secundaire veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -64773,7 +64784,18 @@
     "Afkorting": "TD",
     "TypeVoertuig": "Technische dienst",
     "Kenteken": "V-60-NBZ",
-    "Bijzonderheden": "Veiligheidsregio huisstijl.",
+    "Bijzonderheden": "Secundaire veiligheidsregio huisstijl.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Logistiek/Driemanssteeweg ",
+    "Roepnummer": "GEEN",
+    "Afkorting": "TD",
+    "TypeVoertuig": "Technische dienst",
+    "Kenteken": "V-58-NBZ",
+    "Bijzonderheden": "Secundaire veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -103644,7 +103666,7 @@
   {
     "Adres": "t Harde ",
     "Roepnummer": "06-501",
-    "Afkorting": "OO-RAV",
+    "Afkorting": "OO-RA",
     "TypeVoertuig": "Opleiding voertuig regionale ambulancevoorziening",
     "Kenteken": "VHB-89-V",
     "Bijzonderheden": "",
@@ -103655,7 +103677,7 @@
   {
     "Adres": "t Harde ",
     "Roepnummer": "06-502",
-    "Afkorting": "OO-RAV",
+    "Afkorting": "OO-RA",
     "TypeVoertuig": "Opleiding voertuig regionale ambulancevoorziening",
     "Kenteken": "V-53-LHR",
     "Bijzonderheden": "",
@@ -103666,7 +103688,7 @@
   {
     "Adres": "t Harde ",
     "Roepnummer": "06-503",
-    "Afkorting": "OO-RAV",
+    "Afkorting": "OO-RA",
     "TypeVoertuig": "Opleiding voertuig regionale ambulancevoorziening",
     "Kenteken": "V-908-JB",
     "Bijzonderheden": "",
@@ -103677,7 +103699,7 @@
   {
     "Adres": "t Harde ",
     "Roepnummer": "06-506",
-    "Afkorting": "OO-RAV",
+    "Afkorting": "OO-RA",
     "TypeVoertuig": "Opleiding voertuig regionale ambulancevoorziening",
     "Kenteken": "GJ-220-R",
     "Bijzonderheden": "",
@@ -103688,7 +103710,7 @@
   {
     "Adres": "t Harde ",
     "Roepnummer": "06-550",
-    "Afkorting": "LO-RAV",
+    "Afkorting": "LO-RA",
     "TypeVoertuig": "Logistiek voertuig regionale ambulancevoorziening",
     "Kenteken": "V-290-HJ",
     "Bijzonderheden": "",
@@ -103699,7 +103721,7 @@
   {
     "Adres": "t Harde ",
     "Roepnummer": "06-551",
-    "Afkorting": "LO-RAV",
+    "Afkorting": "LO-RA",
     "TypeVoertuig": "Logistiek voertuig regionale ambulancevoorziening",
     "Kenteken": "84-RNL-4",
     "Bijzonderheden": "",
