@@ -134,6 +134,13 @@
         "Regio": "4",
         "Description": "04-2062 MSA toegevoegd aan Nieuwleusen",
         "Time": "19-06-2026 14:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rijkswaterstaat",
+        "Regio": "MN-RWS",
+        "Description": "GEEN ZSC toegevoegd aan Baarn",
+        "Time": "19-06-2026 17:00:13"
       }
     ],
     "removed": [
@@ -171,6 +178,27 @@
         "Regio": "6",
         "Description": "Kanaal Noord 380  verwijderd van ",
         "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "04-2621 BOH-DC verwijderd van Heino",
+        "Time": "19-06-2026 17:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "04-2663 MSA verwijderd van Heino",
+        "Time": "19-06-2026 17:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "04-26OMH BMH-OTO verwijderd van Heino",
+        "Time": "19-06-2026 17:00:13"
       }
     ],
     "changed": [
@@ -460,6 +488,13 @@
         "Regio": "6",
         "Description": "06-717: Kenteken van 'G-085-DK' naar 'ONBEKEND' aangepast",
         "Time": "19-06-2026 13:00:12"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Dienstauto terreinvaardig' naar 'Dienstauto Terreinvaardig' aangepast",
+        "Time": "19-06-2026 17:00:34"
       }
     ]
   },
