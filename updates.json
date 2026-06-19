@@ -1,9 +1,341 @@
 [
   {
     "date": "2026-06-19",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "GEEN DA toegevoegd aan Regionaal/Wilhelminakade",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9204 DA toegevoegd aan Logistiek/Driemanssteeweg",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-141 AMBU-HC toegevoegd aan Winterswijk",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-142 AMBU-HC toegevoegd aan Groenlo",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-206 AMBU-MC toegevoegd aan Zutphen",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "GEEN AMBU-LC toegevoegd aan Air Ambulance & Medical Repatriation Winterswijk",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Kanaal Noord 380  toegevoegd aan ",
+        "Time": "19-06-2026 11:00:13"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-413 AMBU-LC verwijderd van Apeldoorn Beemte",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-186 AMBU-HC verwijderd van Harderwijk",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-345 RR verwijderd van t Harde",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN AMBU-LC verwijderd van Air Ambulance & Medical Repatriation Winterswijk",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "Kanaal Noord 380  verwijderd van ",
+        "Time": "19-06-2026 11:00:13"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-814: Bijzonderheden van '' naar 'Reserve' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-841: Adres van 'Doetinchem' naar 'Apeldoorn-Saba' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-156: Adres van 'Groenlo' naar 'Doetinchem' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-157: Adres van 'Winterswijk' naar 'Doetinchem' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-204: Adres van 'Harderwijk' naar 'Doetinchem' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-181: Adres van 'Ermelo' naar 'Harderwijk' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-184: Kenteken van 'GN-039-T' naar 'J-775-DV' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-205: Adres van 'Apeldoorn-Saba' naar 'Harderwijk' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-205: Kenteken van 'ONBEKEND' naar 'J-327-PG' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-180: Adres van 't Harde' naar 'Heerde' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-183: Adres van 'Harderwijk' naar 'Ermelo' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-189: Adres van 'Heerde' naar 't Harde' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-501: Afkorting van 'OO-RA' naar 'OO-RAV' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-501: Kenteken van '9-VXH-13' naar 'VHB-89-V' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-501: Bijzonderheden van 'NIV Barneveld' naar '' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-502: Adres van 'Apeldoorn-Saba' naar 't Harde' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-502: Afkorting van 'OO-RA' naar 'OO-RAV' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-503: Afkorting van 'OO-RA' naar 'OO-RAV' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-503: Bijzonderheden van 'NIV Barneveld' naar '' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-506: Adres van 'Apeldoorn-Saba' naar 't Harde' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-506: Afkorting van 'OO-RA' naar 'OO-RAV' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-550: Afkorting van 'LO-RA' naar 'LO-RAV' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-550: Kenteken van 'V-270-HJ' naar 'V-290-HJ' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-551: Afkorting van 'LO-RA' naar 'LO-RAV' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-716: Kenteken van 'HG-939-N' naar 'S-189-VK' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-718: Kenteken van 'HG-940-N' naar 'S-661-VJ' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-713: Kenteken van 'GF-704-H' naar 'G-087-DK' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-714: Kenteken van 'GF-703-H' naar 'G-083-DK' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-717: Kenteken van 'GH-002-D' naar 'G-085-DK' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-719: Kenteken van 'GH-001-D' naar 'G-086-DK' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-712: Kenteken van 'TD-337-G' naar 'S-830-KB' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-129: Adres van 'Apeldoorn-Saba' naar 'Harderwijk' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "'06-129' omgenummerd naar '06-205'",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-129: Afkorting van 'AMBU-HC' naar 'AMBU-MC' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-129: TypeVoertuig van 'Ambulance hoogcomplexe zorg' naar 'Ambulance middencomplexe zorg' aangepast",
+        "Time": "19-06-2026 11:00:13"
+      }
+    ]
   },
   {
     "date": "2026-06-18",

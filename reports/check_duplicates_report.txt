@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 12,471  (of 19,357 total)
+  Records checked : 12,465  (of 19,351 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  2 value(s) affected
@@ -35,7 +35,7 @@
       Kenteken    : LM-14-95
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  9 value(s) affected
+  Duplicate Kenteken  --  10 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '10-DMT-8'  (2x)
@@ -57,6 +57,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : 03-8682
       Kenteken    : 54-BNN-1
+
+  >> 'G-087-DK'  (2x)
+      Adres       : Spoed HAP Zutphen
+      Hulpdienst  : Ambulance
+      Roepnummer  : 06-715
+      Kenteken    : G-087-DK
+      Adres       : Spoed HAP Apeldoorn
+      Hulpdienst  : Ambulance
+      Roepnummer  : 06-713
+      Kenteken    : G-087-DK
 
   >> 'G-733-XT'  (2x)
       Adres       : Wensambulance Noord-Holland
