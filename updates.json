@@ -841,6 +841,34 @@
         "Regio": "",
         "Description": " BRV-K toegevoegd aan Bettendorf",
         "Time": "20-06-2026 16:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9",
+        "Description": "09-0341 TST-NB toegevoegd aan Wijk bij Duurstede",
+        "Time": "20-06-2026 22:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18",
+        "Description": "EERT 18-01 RR-EH toegevoegd aan Hendrik-Ido-Ambacht",
+        "Time": "20-06-2026 22:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18",
+        "Description": "EERT 18-02 RR-EH toegevoegd aan Hendrik-Ido-Ambacht",
+        "Time": "20-06-2026 22:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "22",
+        "Description": "22-210 AMBU-MC toegevoegd aan Eindhoven Zuid",
+        "Time": "20-06-2026 22:00:14"
       }
     ],
     "removed": [
@@ -885,6 +913,13 @@
         "Regio": "",
         "Description": " DB 9 verwijderd van Bettendorf",
         "Time": "20-06-2026 16:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "18",
+        "Description": "GEEN DB-ICB verwijderd van Prorail ICB Zwijndrecht",
+        "Time": "20-06-2026 22:00:14"
       }
     ],
     "changed": [
