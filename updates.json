@@ -1,9 +1,166 @@
 [
   {
     "date": "2026-06-21",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "16",
+        "Description": "30-132 AMBU-RK toegevoegd aan Alphen aan den Rijn",
+        "Time": "21-06-2026 15:00:11"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " GSA toegevoegd aan Boulaide",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DAT toegevoegd aan Bourscheid",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB toegevoegd aan Bourscheid",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " SI toegevoegd aan Kehmen",
+        "Time": "21-06-2026 15:00:21"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB 9 verwijderd van Bourscheid",
+        "Time": "21-06-2026 15:00:21"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "",
+        "Description": "30-131: Adres van 'NRK Nationaal Logistiek Centrum' naar 'Alphen aan den Rijn' aangepast",
+        "Time": "21-06-2026 15:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "",
+        "Description": "30-131: Regio van '' naar '16' aangepast",
+        "Time": "21-06-2026 15:00:11"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Adres van 'Boulaide' naar 'Béiwen' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'SIV' naar 'DB-GM' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Snel Interventie Voertuig' naar 'Dienstbus Gereedschap/Materiaal' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'LF 2-1' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'TST 7' naar 'TST' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Tankautospuit Terreinvaardig' naar 'Tankautospuit terreinvaardig' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'MTW 1' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'DB 9' naar 'DB' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 9 personen.' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'LF 2-1' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'TST 7' naar 'TST' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Tankautospuit Terreinvaardig' naar 'Tankautospuit terreinvaardig' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "21-06-2026 15:00:21"
+      }
+    ]
   },
   {
     "date": "2026-06-20",
