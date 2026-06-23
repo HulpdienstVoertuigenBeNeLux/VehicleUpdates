@@ -1,9 +1,957 @@
 [
   {
     "date": "2026-06-23",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "GEEN MMTL toegevoegd aan Lelystad Airport",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "04-2621 BOH-DC toegevoegd aan Heino",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-5060 DPH-GW toegevoegd aan Wassenaar",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6901 DB toegevoegd aan De Lier",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7412 BRV-M toegevoegd aan Den Haag-Leidschenveen",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7905 DA toegevoegd aan Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9598 ONBEKEND toegevoegd aan Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9690 OVD-B toegevoegd aan Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9891 GIMCOPI toegevoegd aan ",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7812 BRV-M toegevoegd aan Den Haag-Centrum",
+        "Time": "23-06-2026 15:00:15"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-5099 DA verwijderd van Wassenaar",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-5605 DB verwijderd van Rijswijk",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6287 BMA-OTO verwijderd van Maasland",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6300 DB verwijderd van Maasdijk",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9608 DA verwijderd van Naaldwijk",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6565 BMA-OTO verwijderd van s-Gravenzande",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6785 GM verwijderd van Monster",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-5688 LOH verwijderd van De Lier",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7487 LOH verwijderd van Den Haag-Leidschenveen",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9100 DA verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9082 DA verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9600 DA verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9682 GM verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9800 DA verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9801 DA verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9802 DA verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9803 DA verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9804 DA verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9805 DA verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9301 DA verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9901 LO verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9987 LOH-O verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9998 CVD-B verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9999 CVD-B verwijderd van Den Haag-Haaglanden",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7605 DB verwijderd van Den Haag-Laak",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7687 BMH-OTO verwijderd van Den Haag-Laak",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-4283 GM verwijderd van Den Haag-Loosduinen",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7721 LOH verwijderd van Den Haag-Loosduinen",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7784 GM verwijderd van Den Haag-Loosduinen",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7785 BMH-OTO verwijderd van Den Haag-Loosduinen",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7786 GM verwijderd van Den Haag-Loosduinen",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7787 LOH verwijderd van Den Haag-Loosduinen",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9188 BMH-OTO verwijderd van Den Haag-Loosduinen",
+        "Time": "23-06-2026 15:00:15"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-994: Kenteken van 'PH-DOC' naar 'PH-MAA' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "04-2032: Bijzonderheden van 'Bezetting: 7 personen.' naar 'Tevsens ook TS-BO. Bezetting: 7 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-5112: Kenteken van 'ONBEKEND' naar 'GEEN' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-5150: Kenteken van 'BX-RD-44' naar 'BB-211-H' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-5300: Adres van 'Zoetermeer Oosterheem' naar 'Pijnacker Nootdorp' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-5463: Kenteken van 'GEEN' naar 'ONBEKEND' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-5463: Bijzonderheden van '' naar 'T.b.v jeugdbrandweer' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-5512: Kenteken van 'ONBEKEND' naar '02-58-YK' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-5400: Adres van 'Pijnacker Nootdorp' naar 'Rijswijk' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9502: Adres van 'Den Haag-Haaglanden' naar 'Rijswijk' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9507: Adres van 'Den Haag-Haaglanden' naar 'Rijswijk' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9591: Adres van 'Den Haag-Haaglanden' naar 'Rijswijk' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "14-9592: Adres van 'Den Haag-Haaglanden' naar 'Rijswijk' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9593: Adres van 'Den Haag-Haaglanden' naar 'Rijswijk' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9594: Adres van 'Den Haag-Haaglanden' naar 'Rijswijk' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6231: Afkorting van 'TS' naar 'TS-SK' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6231: TypeVoertuig van 'Tankautospuit' naar 'TS Slagkracht' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6463: Kenteken van 'GEEN' naar 'ONBEKEND' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6463: Bijzonderheden van '' naar 'T.b.v jeugdbrandweer' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6530: Bijzonderheden van 'Bezetting: 7 personen.' naar 'Tevens TS-GO. Bezetting: 7 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6563: Kenteken van 'GEEN' naar 'ONBEKEND' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6563: Bijzonderheden van '' naar 'T.b.v jeugdbrandweer' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "26-8227: Afkorting van 'LOH' naar 'GOH-LO' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "26-8227: TypeVoertuig van 'Logistiek haakarmbak' naar 'Grootschalige ontsmetting haakarmbak logistiek' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "26-8227: Bijzonderheden van 'T.b.v CBRN' naar '' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6725: Afkorting van 'DB' naar 'ON-GO' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6725: TypeVoertuig van 'Dienstbus' naar 'Ondersteuningsteam grootschalige ontsmetting' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6725: Kenteken van 'KN-694-R' naar 'HHB-44-T' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6725: Bijzonderheden van 'Bezetting: 9 personen.' naar '' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6730: Bijzonderheden van 'Bezetting: 7 personen.' naar 'Tevens TS-GO. Bezetting: 7 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "26-8123: Afkorting van 'BOH-DC' naar 'GOH-DC' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "26-8123: TypeVoertuig van 'Basis ontsmetting haakarmbak decontaminatie' naar 'Grootschalige ontsmetting haakarmbak decontaminatie' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6826: Kenteken van '99-TNN-1' naar 'HHB-43-T' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6900: Afkorting van 'DA' naar 'DB' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6900: TypeVoertuig van 'Dienstauto' naar 'Dienstbus' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6900: Kenteken van '41-TP-TN' naar 'KH-946-J' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6900: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Bezetting: 8 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6971: Afkorting van 'HVH' naar 'LIH-RTV' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6971: TypeVoertuig van 'Hulpverleningshaakarmbak' naar 'Verlichtingshaakarmbak rampterrein verlichting' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7109: Afkorting van 'PM' naar 'PMT' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7109: TypeVoertuig van 'Personeel/materieelvoertuig' naar 'Personeel/materieelvoertuig terreinvaardig' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7480: Afkorting van 'HA' naar 'HAT' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7480: TypeVoertuig van 'Haakarmvoertuig' naar 'Haakarmvoertuig terreinvaardig' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7500: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7501: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7502: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7503: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7504: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7505: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7506: Bijzonderheden van 'Bezetting: 4 personen.' naar 'Regionaal voertuig. Bezetting: 4 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7507: Bijzonderheden van 'Bezetting: 4 personen.' naar 'Regionaal voertuig. Bezetting: 4 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7900: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7901: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7902: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7903: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7904: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9021: Bijzonderheden van 't.b.v Reserve' naar 't.b.v. StaffOfficieren Haaglanden. Reserve voertuig' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9508: Kenteken van 'GH-838-X' naar 'GG-838-X' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9595: Kenteken van 'KZ-273-R' naar 'ONBEKEND' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9650: Bijzonderheden van 'Reserve voertuig. Lengte: 32 meter.' naar 'Reserve voertuig. Lengte: 34 meter.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9651: Bijzonderheden van 'Reserve voertuig. Lengte: 32 meter.' naar 'Reserve voertuig. Lengte: 34 meter.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9689: Afkorting van 'BMH-OTO' naar 'DA' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9689: TypeVoertuig van 'Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen' naar 'Dienstauto' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9689: Kenteken van 'GEEN' naar 'RJ-438-D' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9689: Bijzonderheden van 'T.b.v Logistiek' naar 'T.b.v Facilitaire Dients. Bezetting: 4 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9691: Kenteken van 'NX-417-X' naar 'HSN-47-V' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9692: Kenteken van 'NX-416-X' naar 'HNL-38-B' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9701: Bijzonderheden van 'Bezetting: 4 personen.' naar 'Regionaal voertuig. Bezetting: 4 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9702: Bijzonderheden van 'Bezetting: 4 personen.' naar 'Regionaal voertuig. Bezetting: 4 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9703: Bijzonderheden van 'Bezetting: 4 personen.' naar 'Regionaal voertuig. Bezetting: 4 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9704: Bijzonderheden van 'Bezetting: 4 personen.' naar 'Regionaal voertuig. Bezetting: 4 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9708: Bijzonderheden van 'Bezetting: 4 personen.' naar 'Regionaal voertuig. Bezetting: 4 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9709: Bijzonderheden van 'Bezetting: 4 personen.' naar 'Regionaal voertuig. Bezetting: 4 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9890: Afkorting van 'DA' naar 'HIN-B' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9890: TypeVoertuig van 'Dienstauto' naar 'Hoofd informatie Brandweer' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9890: Kenteken van 'PV-879-J' naar 'HSN-48-V' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7705: Bijzonderheden van 'Bezetting: 5 personen.' naar 'T.b.v Vakbekwaam. Bezetting: 5 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7782: Adres van 'Pijnacker Nootdorp' naar 'Den Haag-Loosduinen' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7782: Afkorting van 'GM' naar 'AB' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-7782: TypeVoertuig van 'Gereedschap/materieelvoertuig' naar 'Adembescherming voertuig' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "GEEN: Adres van 'Lelystad Airport' naar 'Eelde Airport' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "'GEEN' omgenummerd naar '03-994'",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "GEEN: Bijzonderheden van 'Reserve Mobiel medisch team luchtvaartuig' naar 'Lifeliner 4' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "GEEN: Regio van '25' naar '3' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "'GEEN' omgenummerd naar '26-8185'",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "GEEN: Afkorting van 'BMA-OTO' naar 'GSH-PBM' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "GEEN: TypeVoertuig van 'Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen' naar 'Gevaarlijke stoffen haakarmbak met persoonlijke beschermingsmiddelen' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "'GEEN' omgenummerd naar '15-9890'",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "GEEN: Afkorting van 'BMH-OTO' naar 'HIN-B' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "GEEN: TypeVoertuig van 'Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen' naar 'Hoofd informatie Brandweer' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "GEEN: Kenteken van 'GEEN' naar 'HSN-48-V' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "GEEN: Bijzonderheden van 'T.b.v Opleiden' naar 'Bezetting: 4 personen.' aangepast",
+        "Time": "23-06-2026 15:00:15"
+      }
+    ]
   },
   {
     "date": "2026-06-22",
