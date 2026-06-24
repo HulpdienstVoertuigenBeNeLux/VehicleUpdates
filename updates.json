@@ -8,9 +8,38 @@
         "Regio": "20",
         "Description": "20-505 OO-RA toegevoegd aan Tilburg-Noord",
         "Time": "24-06-2026 10:00:13"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB toegevoegd aan Clervaux",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " SI toegevoegd aan Heinerscheid",
+        "Time": "24-06-2026 14:00:26"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DA-OVD verwijderd van Clervaux",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB 9 verwijderd van Clervaux",
+        "Time": "24-06-2026 14:00:26"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -67,6 +96,167 @@
         "Regio": "18",
         "Description": "18-6565: Adres van 'Dordrecht Noordendijk' naar 'Dordrecht Oranjepark' aangepast",
         "Time": "24-06-2026 12:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "GEEN: Bijzonderheden van '' naar 'Havenbedrijf huisstijl.' aangepast",
+        "Time": "24-06-2026 14:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25",
+        "Description": "25-8091: Kenteken van 'JL-728-K' naar 'T-451-RD' aangepast",
+        "Time": "24-06-2026 14:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17",
+        "Description": "17-0181: Kenteken van 'ONBEKEND' naar 'VVN-79-R' aangepast",
+        "Time": "24-06-2026 14:00:13"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'GW-ARI 1' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'VW-AB' naar 'AB' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Vrachtwagen Adembeschermin' naar 'Adembescherming voertuig' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'HLF 2-1' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'TST 7' naar 'TST' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Tankautospuit Terreinvaardig' naar 'Tankautospuit terreinvaardig' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 7 persoenen' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'TLFW 1' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'TST-NB 5' naar 'TST-NB' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Tankautospuit Terreinvaardig Natuurbrandbestrijding' naar 'Tankautospuit terreinvaardig natuurbrandbestrijding' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van 'Frans Type CCFM' naar 'Frans type CCFM. Bezetting: 4 personen.' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'DLK 2-1' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'AL 30' naar 'AL' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Hoogte: 30 meter.' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'MTW 2' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'DB 9' naar 'DB' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 9 persoenen' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'MZF 2-1' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'VW-GM' naar 'LO' aangepast",
+        "Time": "24-06-2026 14:00:26"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Vrachtwagen Gereedschap/Materiaal' naar 'Logistiek voertuig' aangepast",
+        "Time": "24-06-2026 14:00:26"
       }
     ]
   },
