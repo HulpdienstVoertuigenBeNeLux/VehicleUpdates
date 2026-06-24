@@ -1,9 +1,25 @@
 [
   {
     "date": "2026-06-24",
-    "added": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-505 OO-RA toegevoegd aan Tilburg-Noord",
+        "Time": "24-06-2026 10:00:13"
+      }
+    ],
     "removed": [],
-    "changed": []
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6",
+        "Description": "06-7501: Kenteken van 'ONBEKEND' naar 'JTL-84-Z' aangepast",
+        "Time": "24-06-2026 10:00:13"
+      }
+    ]
   },
   {
     "date": "2026-06-23",
