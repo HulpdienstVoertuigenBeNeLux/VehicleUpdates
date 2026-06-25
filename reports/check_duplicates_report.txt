@@ -132,10 +132,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 7,638  (of 9,475 total)
+  Records checked : 7,642  (of 9,479 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  467 value(s) affected
+  Duplicate Roepnummer  --  468 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (4x)
@@ -737,7 +737,7 @@
       Kenteken    : 
 
   >> 'A12'  (4x)
-      Adres       : Antwerpen-Noord
+      Adres       : Antwerpen-Centrum
       Hulpdienst  : Brandweer
       Roepnummer  : A12
       Kenteken    : 
@@ -804,11 +804,7 @@
       Roepnummer  : A127
       Kenteken    : 
 
-  >> 'A13'  (4x)
-      Adres       : Antwerpen-Noord
-      Hulpdienst  : Brandweer
-      Roepnummer  : A13
-      Kenteken    : 
+  >> 'A13'  (3x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : A13
@@ -823,7 +819,7 @@
       Kenteken    : 
 
   >> 'A14'  (4x)
-      Adres       : Deurne
+      Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A14
       Kenteken    : 
@@ -841,7 +837,7 @@
       Kenteken    : 
 
   >> 'A15'  (3x)
-      Adres       : Antwerpen-Centrum
+      Adres       : Linkeroever
       Hulpdienst  : Brandweer
       Roepnummer  : A15
       Kenteken    : 
@@ -855,7 +851,7 @@
       Kenteken    : 
 
   >> 'A16'  (2x)
-      Adres       : Antwerpen-Noord
+      Adres       : Wilrijk
       Hulpdienst  : Brandweer
       Roepnummer  : A16
       Kenteken    : 
@@ -874,7 +870,11 @@
       Roepnummer  : A18
       Kenteken    : 
 
-  >> 'A19'  (2x)
+  >> 'A19'  (3x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A19
+      Kenteken    : 
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : A19
@@ -942,11 +942,7 @@
       Roepnummer  : A22
       Kenteken    : 
 
-  >> 'A23'  (3x)
-      Adres       : Antwerpen-Zuid
-      Hulpdienst  : Brandweer
-      Roepnummer  : A23
-      Kenteken    : 
+  >> 'A23'  (2x)
       Adres       : Borgloon
       Hulpdienst  : Brandweer
       Roepnummer  : A23
@@ -956,11 +952,7 @@
       Roepnummer  : A23
       Kenteken    : 
 
-  >> 'A24'  (3x)
-      Adres       : Antwerpen-Centrum
-      Hulpdienst  : Brandweer
-      Roepnummer  : A24
-      Kenteken    : 
+  >> 'A24'  (2x)
       Adres       : Herd-de-Stad
       Hulpdienst  : Brandweer
       Roepnummer  : A24
@@ -1013,7 +1005,7 @@
       Kenteken    : 
 
   >> 'A28'  (2x)
-      Adres       : Antwerpen-Noord
+      Adres       : Antwerpen-Centrum
       Hulpdienst  : Brandweer
       Roepnummer  : A28
       Kenteken    : 
@@ -1033,7 +1025,7 @@
       Kenteken    : 
 
   >> 'A30'  (2x)
-      Adres       : Antwerpen-Noord
+      Adres       : Antwerpen-Zuid
       Hulpdienst  : Brandweer
       Roepnummer  : A30
       Kenteken    : 
@@ -1085,7 +1077,7 @@
       Kenteken    : 
 
   >> 'A33'  (2x)
-      Adres       : Antwerpen-Noord
+      Adres       : Borsbeek
       Hulpdienst  : Brandweer
       Roepnummer  : A33
       Kenteken    : 
@@ -1145,7 +1137,7 @@
       Kenteken    : 
 
   >> 'A44'  (2x)
-      Adres       : Antwerpen-Noord
+      Adres       : Antwerpen-Zuid
       Hulpdienst  : Brandweer
       Roepnummer  : A44
       Kenteken    : 
@@ -1226,6 +1218,16 @@
       Adres       : Maasmechelen
       Hulpdienst  : Brandweer
       Roepnummer  : A62
+      Kenteken    : 
+
+  >> 'A65'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A65
+      Kenteken    : 
+      Adres       : Borsbeek
+      Hulpdienst  : Brandweer
+      Roepnummer  : A65
       Kenteken    : 
 
   >> 'AP1'  (18x)
