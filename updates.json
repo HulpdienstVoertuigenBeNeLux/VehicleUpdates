@@ -1,8 +1,24 @@
 [
   {
     "date": "2026-06-25",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN (DA) OVD-Rail toegevoegd aan Prorail ICB Schiphol",
+        "Time": "25-06-2026 09:00:12"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-9435 TS verwijderd van Regionaal/Dordrecht Leerpark",
+        "Time": "25-06-2026 09:00:12"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
