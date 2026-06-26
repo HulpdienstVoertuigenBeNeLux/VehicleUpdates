@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 12,462  (of 19,369 total)
+  Records checked : 12,467  (of 19,374 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  2 value(s) affected
@@ -35,7 +35,7 @@
       Kenteken    : LM-14-95
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  8 value(s) affected
+  Duplicate Kenteken  --  9 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '10-DMT-8'  (2x)
@@ -117,6 +117,16 @@
       Hulpdienst  : Ambulance
       Roepnummer  : 15-729
       Kenteken    : NF-928-P
+
+  >> 'XL-309-J'  (2x)
+      Adres       : Spoed HAP Dirksland
+      Hulpdienst  : Ambulance
+      Roepnummer  : 17-770
+      Kenteken    : XL-309-J
+      Adres       : Spoed HAP Vlissingen
+      Hulpdienst  : Ambulance
+      Roepnummer  : 19-715
+      Kenteken    : XL-309-J
 
 ================================================================================
   Region: BE

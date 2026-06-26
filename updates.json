@@ -15,9 +15,101 @@
         "Regio": "16",
         "Description": "GEEN RKA toegevoegd aan Katwijk",
         "Time": "26-06-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-214 AMBU-MC toegevoegd aan Goes",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-215 AMBU-MC toegevoegd aan Goes",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-217 AMBU-MC toegevoegd aan Terneuzen",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-001 DA-RA toegevoegd aan Hulst",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-002 DA-RA toegevoegd aan Hulst",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-003 DA-RA toegevoegd aan Hulst",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "17",
+        "Description": "35-7815 RMT-KHV toegevoegd aan Maasvlakte",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "17",
+        "Description": "35-7817 RMV-WSC toegevoegd aan Maasvlakte",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17",
+        "Description": "17-1419 COP-RB toegevoegd aan Rockanje",
+        "Time": "26-06-2026 11:00:11"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-232 DA-RA verwijderd van Hulst",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-231 DA-RA verwijderd van ZorgSaam Terneuzen",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-230 DA-RA verwijderd van ZorgSaam Oostburg",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-710 ARTS-HP verwijderd van Spoed HAP Goes",
+        "Time": "26-06-2026 11:00:11"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -214,6 +306,244 @@
         "Regio": "17",
         "Description": "Opleiding: Afkorting van 'RMV' naar '' aangepast",
         "Time": "26-06-2026 09:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9598: Afkorting van 'ONBEKEND' naar 'HOVD-B' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9598: TypeVoertuig van 'ONBEKEND' naar 'Hoofdofficier van dienst Brandweer' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-0531: Bijzonderheden van 'Tevens HV. Bezetting: 7 personen.' naar 'HV. Bezetting: 7 personen.' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-0532: Bijzonderheden van 'Tevens TS-SK. Bezetting: 7 personen.' naar 'TS-SK. Bezetting: 7 personen.' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-0590: Bijzonderheden van 'T.b.v clustercommandant. Bezetting: 5 personen.' naar 'Clustercommandant. Bezetting: 5 personen.' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-0990: Bijzonderheden van 'T.b.v clustercommandant. Bezetting: 5 personen.' naar 'Clustercommandant. Bezetting: 5 personen.' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-1132: Bijzonderheden van 'TS-SK, ON-PLL, 17-1121 VK-GS. Bezetting: 7 personen.' naar 'TS-SK en ON-PLL. Tevens 17-1121 VK-GS. Bezetting: 7 personen.' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9022: TypeVoertuig van 'Adviseur gevaarlijke stoffen' naar 'Adviseur gevaarlijke stoffen ROT' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-872: TypeVoertuig van 'Regionale ambulancevoorziening voertuig' naar 'Reserve piketvoertuig' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-102: Kenteken van 'H-561-LZ' naar 'JFT-07-D' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-103: Kenteken van 'H-896-HK' naar 'JGH-55-S' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-104: Kenteken van 'H-199-ZG' naar 'JGH-49-S' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-105: Kenteken van '1-XBK-22' naar 'JDR-83-J' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-106: Kenteken van 'JV-313-N' naar 'N-046-RF' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-109: Adres van 'Oosterland' naar 'Burgh-Haamstede' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-107: Adres van 'Burgh-Haamstede' naar 'Oosterland' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-123: Kenteken van 'H-055-LN' naar 'JDR-14-K' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-124: Kenteken van 'J-773-DV' naar 'JHJ-62-B' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-211: Kenteken van 'TX-368-J' naar 'GRN-20-R' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-128: Kenteken van 'J-638-BR' naar 'JGH-48-S' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-131: Adres van 'Oostburg' naar 'Terneuzen' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-131: Kenteken van '2-XBH-96' naar 'L-489-ZD' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-132: Adres van 'Oostburg' naar 'Terneuzen' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-219: Kenteken van '9-XBG-82' naar 'GJF-47-H' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-348: Adres van 'Oosterland' naar 'Terneuzen' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-136: Adres van 'Terneuzen' naar 'Oostburg' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-137: Adres van 'Hulst' naar 'Oostburg' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-138: Kenteken van 'T-505-DF' naar 'H-242-SX' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-139: Adres van 'Terneuzen' naar 'Hulst' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-139: Kenteken van 'H-242-SX' naar 'JPG-22-S' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-140: Kenteken van 'H-584-SJ' naar 'JJD-73-D' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-712: Kenteken van 'ZB-985-G' naar 'X-717-ZG' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-713: Kenteken van 'ZB-999-G' naar 'X-718-ZG' aangepast",
+        "Time": "26-06-2026 11:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-715: Kenteken van 'ONBEKEND' naar 'XL-309-J' aangepast",
+        "Time": "26-06-2026 11:00:11"
       }
     ]
   },
