@@ -101,6 +101,27 @@
         "Regio": "",
         "Description": "06-590 EH verwijderd van Houten",
         "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "6",
+        "Description": "GEEN IM Berger verwijderd van Borculo",
+        "Time": "27-06-2026 15:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "6",
+        "Description": "GEEN CMV Berger verwijderd van Didam",
+        "Time": "27-06-2026 15:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "ON22 Politiepost Klein, Twente West  verwijderd van Wierden",
+        "Time": "27-06-2026 15:00:13"
       }
     ],
     "changed": [
@@ -257,6 +278,34 @@
         "Regio": "13",
         "Description": "GEEN: TypeVoertuig van 'Logistiek aanhanger regionale ambulancevoorziening' naar 'Ambulance laagcomplexe zorg' aangepast",
         "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "ON21 Politiepost Klein, Twente West: Adres van 'Rijssen' naar 'Wierden' aangepast",
+        "Time": "27-06-2026 15:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "ON21 Politiepost Klein, Twente West: TypeVoertuig van 'Rijssen, Rozengaarde 75' naar 'Wierden, Esdoornlaan 3' aangepast",
+        "Time": "27-06-2026 15:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "6",
+        "Description": "'GEEN' omgenummerd naar 'N.v.t'",
+        "Time": "27-06-2026 15:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "6",
+        "Description": "GEEN: Kenteken van '' naar '98-BLX-5' aangepast",
+        "Time": "27-06-2026 15:00:13"
       }
     ]
   },
