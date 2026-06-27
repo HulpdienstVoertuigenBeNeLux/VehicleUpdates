@@ -1,9 +1,264 @@
 [
   {
     "date": "2026-06-27",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-713 ARTS-HP toegevoegd aan HAP Meppel",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "13",
+        "Description": "GEEN LOA-RA toegevoegd aan Wensambulance Noord-Holland",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9",
+        "Description": "06-101 AMBU-EH toegevoegd aan Houten",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9",
+        "Description": "06-102 AMBU-EH toegevoegd aan Houten",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9",
+        "Description": "06-103 AMBU-EH toegevoegd aan Houten",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9",
+        "Description": "06-104 AMBU-EH toegevoegd aan Houten",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9",
+        "Description": "06-105 AMBU-EH toegevoegd aan Houten",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9",
+        "Description": "06-590 EH toegevoegd aan Houten",
+        "Time": "27-06-2026 10:00:12"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "06-101 AMBU-EH verwijderd van Houten",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "06-102 AMBU-EH verwijderd van Houten",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "06-103 AMBU-EH verwijderd van Houten",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "06-104 AMBU-EH verwijderd van Houten",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "06-105 AMBU-EH verwijderd van Houten",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "06-590 EH verwijderd van Houten",
+        "Time": "27-06-2026 10:00:12"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-8682: Kenteken van '54-BNN-1' naar 'ONBEKEND' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "2",
+        "Description": "02-737: Kenteken van 'NF-928-P' naar 'ONBEKEND' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-206: Kenteken van 'L-411-JN' naar 'HFX-69-Z' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-715: Adres van 'HAP Meppel' naar 'HAP Hoogeveen' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-713: Kenteken van 'G-087-DK' naar 'ONBEKEND' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9",
+        "Description": "09-786: Kenteken van 'ONBEKEND' naar 'Z-639-SZ' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9",
+        "Description": "09-787: Kenteken van 'ONBEKEND' naar 'X-638-SZ' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9",
+        "Description": "09-790: Kenteken van 'ONBEKEND' naar 'GVR-68-R' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-233: Kenteken van 'H-226-BN' naar 'ONBEKEND' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-236: Kenteken van 'ONBEKEND' naar 'H-226-BN' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9",
+        "Description": "'ONBEKEND' omgenummerd naar '09-7680'",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-4203: Adres van 'Yerseke' naar 'Tholen' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "'19-4203' omgenummerd naar '19-8203'",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-4203: Afkorting van 'DB' naar 'DA' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-4203: TypeVoertuig van 'Dienstbus' naar 'Dienstauto' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-4203: Bijzonderheden van 'Bezetting: 9 personen.' naar 'Bezetting: 5 personen.' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-4597: Adres van 'Middelburg VRZ Hoofdkantoor' naar 'Middelburg Stromenweg' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "'19-4597' omgenummerd naar '19-8507'",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-4597: Bijzonderheden van 'Bezetting: 5 personen.' naar '' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "13",
+        "Description": "'GEEN' omgenummerd naar 'S-3'",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "13",
+        "Description": "GEEN: Afkorting van 'LOA-RA' naar 'AMBU-LC' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "13",
+        "Description": "GEEN: TypeVoertuig van 'Logistiek aanhanger regionale ambulancevoorziening' naar 'Ambulance laagcomplexe zorg' aangepast",
+        "Time": "27-06-2026 10:00:12"
+      }
+    ]
   },
   {
     "date": "2026-06-26",

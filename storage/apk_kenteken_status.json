@@ -5683,7 +5683,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "03-8682",
       "03-9783"
     ],
     "last_check_date": "2026-05-24"
@@ -35034,7 +35033,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "19-4203",
       "19-8203"
     ],
     "last_check_date": "2026-05-24"
@@ -35548,7 +35546,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "19-4597",
       "19-8507"
     ],
     "last_check_date": "2026-05-24"
@@ -47713,15 +47710,6 @@
     ],
     "last_check_date": "2026-06-21"
   },
-  "LM-14-93": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "28-4431"
-    ],
-    "last_check_date": "2026-06-21"
-  },
   "LM-14-92": {
     "expiry": null,
     "checked": true,
@@ -50023,7 +50011,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "02-737",
       "15-729"
     ],
     "last_check_date": "2026-05-24"
@@ -50178,15 +50165,6 @@
     "unknown": false,
     "roepnummers": [
       "03-136"
-    ],
-    "last_check_date": "2026-05-24"
-  },
-  "L-411-JN": {
-    "expiry": "2027-05-28",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "03-206"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -51707,7 +51685,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "06-713",
       "06-715"
     ],
     "last_check_date": "2026-05-24"
@@ -55209,7 +55186,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "GEEN",
       "S-3"
     ],
     "last_check_date": "2026-05-24"
@@ -59459,7 +59435,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "20-233"
+      "20-236"
     ],
     "last_check_date": "2026-06-21"
   },
@@ -66779,7 +66755,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "ONBEKEND"
+      "09-7680"
     ],
     "last_check_date": "2026-05-25"
   },
@@ -71572,5 +71548,50 @@
       "17-1251"
     ],
     "last_check_date": "2026-06-26"
+  },
+  "HFX-69-Z": {
+    "expiry": "2027-02-27",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "03-206"
+    ],
+    "last_check_date": "2026-06-27"
+  },
+  "HKV-83-P": {
+    "expiry": "2026-12-19",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "03-713"
+    ],
+    "last_check_date": "2026-06-27"
+  },
+  "Z-639-SZ": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "09-786"
+    ],
+    "last_check_date": "2026-06-27"
+  },
+  "X-638-SZ": {
+    "expiry": "2027-02-01",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "09-787"
+    ],
+    "last_check_date": "2026-06-27"
+  },
+  "GVR-68-R": {
+    "expiry": "2026-12-06",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "09-790"
+    ],
+    "last_check_date": "2026-06-27"
   }
 }
