@@ -8,9 +8,24 @@
         "Regio": "",
         "Description": "08-9051 HW toegevoegd aan Waardenburg",
         "Time": "29-06-2026 08:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8",
+        "Description": "08-9051 HW toegevoegd aan Waardenburg",
+        "Time": "29-06-2026 09:00:16"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "08-9051 HW verwijderd van Waardenburg",
+        "Time": "29-06-2026 09:00:16"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -25,6 +40,20 @@
         "Regio": "8",
         "Description": "'08-9051' omgenummerd naar 'ONBEKEND'",
         "Time": "29-06-2026 08:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8",
+        "Description": "08-6651: Bijzonderheden van 'Lengte: 32 meter. Voor onbepaalde tijd bij fabrikant.' naar 'Lengte: 32 meter. Voor onbepaalde tijd buiten dienst.' aangepast",
+        "Time": "29-06-2026 09:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1",
+        "Description": "01-133: Kenteken van 'JBS-13H' naar 'JBS-13-H' aangepast",
+        "Time": "29-06-2026 09:00:16"
       }
     ]
   },
