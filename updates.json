@@ -8,9 +8,24 @@
         "Regio": "17",
         "Description": "17-572 LO-RA toegevoegd aan Rotterdam Brugwachter",
         "Time": "30-06-2026 01:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "GEEN DA toegevoegd aan Rotterdam Port Authority",
+        "Time": "30-06-2026 14:00:26"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25",
+        "Description": "25-8021 BOH-DC verwijderd van Almere Buiten",
+        "Time": "30-06-2026 14:00:26"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
