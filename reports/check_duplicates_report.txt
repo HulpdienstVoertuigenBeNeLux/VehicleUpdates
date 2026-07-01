@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 12,459  (of 19,146 total)
+  Records checked : 12,460  (of 19,147 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  1 value(s) affected
@@ -62,7 +62,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 7,642  (of 9,479 total)
+  Records checked : 7,644  (of 9,481 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  468 value(s) affected
@@ -5650,7 +5650,11 @@
       Roepnummer  : T14
       Kenteken    : 
 
-  >> 'T15'  (4x)
+  >> 'T15'  (5x)
+      Adres       : Tongeren
+      Hulpdienst  : Brandweer
+      Roepnummer  : T15
+      Kenteken    : 
       Adres       : Leuven
       Hulpdienst  : Brandweer
       Roepnummer  : T15
