@@ -1,9 +1,124 @@
 [
   {
     "date": "2026-07-01",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " TST toegevoegd aan Feulen",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DAT toegevoegd aan Feulen",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " GM toegevoegd aan Feulen",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB toegevoegd aan Feulen",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " SI toegevoegd aan Goesdorf",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB toegevoegd aan Goesdorf",
+        "Time": "01-07-2026 14:00:16"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB 9 verwijderd van Géisdref",
+        "Time": "01-07-2026 14:00:16"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Adres van 'Géisdref' naar 'Goesdorf' aangepast",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'GW 1-1' aangepast",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'DB-GM' naar 'GM' aangepast",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Dienstbus Gereedschap/Materiaal' naar 'Gereedschap/materieelvoertuig' aangepast",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Adres van 'Géisdref' naar 'Goesdorf' aangepast",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'LF 2-1' aangepast",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'TST 7' naar 'TST' aangepast",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Tankautospuit Terreinvaardig' naar 'Tankautospuit terreinvaardig' aangepast",
+        "Time": "01-07-2026 14:00:16"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 7 persoenen' aangepast",
+        "Time": "01-07-2026 14:00:16"
+      }
+    ]
   },
   {
     "date": "2026-06-30",
