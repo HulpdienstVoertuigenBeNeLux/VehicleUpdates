@@ -1,7 +1,36 @@
 [
   {
     "date": "2026-07-04",
-    "added": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-2907 DA toegevoegd aan Winschoten",
+        "Time": "04-07-2026 13:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "GEEN PR toegevoegd aan Haarlem West",
+        "Time": "04-07-2026 13:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "4",
+        "Description": "GEEN DA-PL toegevoegd aan ProRail ICB Zwolle",
+        "Time": "04-07-2026 13:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "4",
+        "Description": "GEEN DB-ICB toegevoegd aan ProRail ICB Zwolle",
+        "Time": "04-07-2026 13:00:11"
+      }
+    ],
     "removed": [],
     "changed": [
       {
@@ -17,6 +46,20 @@
         "Regio": "4",
         "Description": "GEEN: TypeVoertuig van 'Plateauwagen' naar 'Vrachtwagenberging' aangepast",
         "Time": "04-07-2026 08:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-2103: Kenteken van '7-ZLP-96' naar 'KHV-78-R' aangepast",
+        "Time": "04-07-2026 13:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-3004: Kenteken van '25-TTX-5' naar 'KGP-75-G' aangepast",
+        "Time": "04-07-2026 13:00:11"
       }
     ]
   },
