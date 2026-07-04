@@ -50,9 +50,59 @@
         "Regio": "16",
         "Description": "16-389 OVDG-RR toegevoegd aan Leiden",
         "Time": "04-07-2026 17:00:11"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " LO toegevoegd aan Grevels",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB toegevoegd aan Grevels",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " SI toegevoegd aan Grosbous",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " SLA-KW toegevoegd aan Grosbous",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " SAA toegevoegd aan Grosbous",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB toegevoegd aan Grosbous",
+        "Time": "04-07-2026 18:00:15"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB 9 verwijderd van Grosbous",
+        "Time": "04-07-2026 18:00:15"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -249,6 +299,83 @@
         "Regio": "25",
         "Description": "GEEN: Regio van '25' naar '3' aangepast",
         "Time": "04-07-2026 17:00:11"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'LF 2-1' aangepast",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'TST 7' naar 'TST' aangepast",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Tankautospuit Terreinvaardig' naar 'Tankautospuit terreinvaardig' aangepast",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 7 persoenen' aangepast",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'DIW 1' aangepast",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'DA 5' naar 'DA' aangepast",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 5 personen.' aangepast",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'LF 2-1' aangepast",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'TST 7' naar 'TST' aangepast",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Tankautospuit Terreinvaardig' naar 'Tankautospuit terreinvaardig' aangepast",
+        "Time": "04-07-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "04-07-2026 18:00:15"
       }
     ]
   },
