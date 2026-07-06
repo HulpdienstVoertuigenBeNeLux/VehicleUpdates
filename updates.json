@@ -2,8 +2,24 @@
   {
     "date": "2026-07-06",
     "added": [],
-    "removed": [],
-    "changed": []
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-3016 BRV-K verwijderd van Delfzijl",
+        "Time": "06-07-2026 08:00:13"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "KMAR",
+        "Regio": "Cluster B (KMAR)",
+        "Description": "KM23.61: Regio van 'Cluster B (KMAR)' naar 'Cluster B' aangepast",
+        "Time": "06-07-2026 08:00:13"
+      }
+    ]
   },
   {
     "date": "2026-07-05",
