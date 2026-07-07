@@ -1,8 +1,164 @@
 [
   {
     "date": "2026-07-07",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "04-1132 TS toegevoegd aan Zwolle (Hoofdpost)",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "5",
+        "Description": "DA1 DA-RA toegevoegd aan Hengelo",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-511 DA-RA toegevoegd aan Bergen op Zoom",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-512 DA-RA toegevoegd aan Roosendaal",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-515 DA-RA toegevoegd aan Breda",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-513 DA-RA toegevoegd aan Ulvenhout",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-514 DA-RA toegevoegd aan Ulvenhout",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-516 DA-RA toegevoegd aan Oosterhout",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-518 DA-RA toegevoegd aan Tilburg-Zuid",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-519 DA-RA toegevoegd aan Tilburg-Zuid",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-520 DA-RA toegevoegd aan Tilburg-Noord",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-517 DA-RA toegevoegd aan Waalwijk",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "2",
+        "Description": "GEEN IM Berger toegevoegd aan Workum",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "2",
+        "Description": "GEEN CMV Berger toegevoegd aan Oosterwolde",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "17",
+        "Description": "GEEN IM Berger toegevoegd aan Rotterdam",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "25",
+        "Description": "GEEN IM Berger toegevoegd aan Delta Berging & Transport B.V. Lelystad",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "25",
+        "Description": "GEEN IM Berger toegevoegd aan Delta Berging & Transport B.V. Lelystad",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "25",
+        "Description": "GEEN IM Berger toegevoegd aan Delta Berging & Transport B.V. Lelystad",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "25",
+        "Description": "GEEN IM Berger toegevoegd aan Delta Berging & Transport B.V. Lelystad",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "25",
+        "Description": "GEEN CMV Berger toegevoegd aan Delta Berging & Transport B.V. Lelystad",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "Onbekend  toegevoegd aan GEEN",
+        "Time": "07-07-2026 16:00:20"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "2",
+        "Description": "GEEN CMV Berger verwijderd van Oosterwolde",
+        "Time": "07-07-2026 16:00:20"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -17,6 +173,111 @@
         "Regio": "25",
         "Description": "Medic 2: Kenteken van 'PH-OOP' naar 'PH-HOW' aangepast",
         "Time": "07-07-2026 09:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "2",
+        "Description": "GEEN: Kenteken van '' naar 'ONBEKEND' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "2",
+        "Description": "GEEN: Bijzonderheden van '' naar 'Met Kraan' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-3732: TypeVoertuig van 'Tankautospuit t.b.v. inzet bij rellen en \nordeverstoring' naar 'Tankautospuit t.b.v. inzet bij rellen en ordeverstoring' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9982: Afkorting van 'VL-B' naar 'AC-CC' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9982: TypeVoertuig van 'Voorlichter Brandweer' naar 'Algemeen commandant crisiscommunicatie' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9982: Kenteken van 'JNP-76-G' naar 'JNP-67-G' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "4",
+        "Description": "04-109: Kenteken van 'K-494-NJ' naar 'KNB-01-L' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "4",
+        "Description": "04-152: Kenteken van 'J-706-XR' naar 'ZB-126-J' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "4",
+        "Description": "04-141: Kenteken van 'K-047-DK' naar 'K-071-DK' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "5",
+        "Description": "05-152: Kenteken van 'GJV-45-V' naar 'GJB-45-V' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "5",
+        "Description": "'05-541' omgenummerd naar 'GEEN'",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "5",
+        "Description": "05-541: Afkorting van 'LO-RA' naar 'DA-RA' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "5",
+        "Description": "05-541: TypeVoertuig van 'Logistiek voertuig regionale ambulancevoorziening' naar 'Dienstauto regionale ambulancevoorziening' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "5",
+        "Description": "05-541: Bijzonderheden van '' naar 'T.b.v Wensambulance Oost-Nederland' aangepast",
+        "Time": "07-07-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "",
+        "Description": "'30-504' omgenummerd naar '30-503'",
+        "Time": "07-07-2026 16:00:20"
       }
     ]
   },

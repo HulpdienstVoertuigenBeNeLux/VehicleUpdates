@@ -50266,15 +50266,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "K-494-NJ": {
-    "expiry": "2027-01-29",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-109"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "J-049-TR": {
     "expiry": "2026-11-12",
     "checked": true,
@@ -50316,7 +50307,8 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "04-151"
+      "04-151",
+      "04-152"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -50572,30 +50564,12 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "J-706-XR": {
-    "expiry": "2026-12-03",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-152"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "K-175-BG": {
     "expiry": "2026-12-10",
     "checked": true,
     "unknown": false,
     "roepnummers": [
       "04-140"
-    ],
-    "last_check_date": "2026-05-24"
-  },
-  "K-047-DK": {
-    "expiry": "2026-12-29",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-141"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -50695,15 +50669,6 @@
     "unknown": false,
     "roepnummers": [
       "05-151"
-    ],
-    "last_check_date": "2026-05-24"
-  },
-  "GJV-45-V": {
-    "expiry": "2026-08-29",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "05-152"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -50919,7 +50884,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "05-541"
+      "GEEN"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -67726,7 +67691,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "30-504"
+      "30-503"
     ],
     "last_check_date": "2026-06-07"
   },
@@ -67871,15 +67836,6 @@
     "unknown": false,
     "roepnummers": [
       "13-9234"
-    ],
-    "last_check_date": "2026-06-10"
-  },
-  "JNP-76-G": {
-    "expiry": "2029-12-01",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "17-9982"
     ],
     "last_check_date": "2026-06-10"
   },
@@ -72906,5 +72862,221 @@
       "01-2914"
     ],
     "last_check_date": "2026-07-05"
+  },
+  "BV-JF-69": {
+    "expiry": "2026-09-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-1132"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JNP-67-G": {
+    "expiry": "2029-12-09",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "17-9982"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "KNB-01-L": {
+    "expiry": "2027-07-01",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-109"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "K-071-DK": {
+    "expiry": "2026-12-17",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-141"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "GJB-45-V": {
+    "expiry": "2026-08-15",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "05-152"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JDP-99-P": {
+    "expiry": "2029-10-08",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "DA1"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JLS-11-X": {
+    "expiry": "2029-11-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-511"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JLS-09-X": {
+    "expiry": "2029-11-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-512"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JLS-04-X": {
+    "expiry": "2029-11-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-515"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JLS-02-X": {
+    "expiry": "2029-11-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-513"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JLS-07-X": {
+    "expiry": "2029-11-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-514"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JLS-12-X": {
+    "expiry": "2029-11-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-516"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JLS-05-X": {
+    "expiry": "2029-11-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-518"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JLS-03-X": {
+    "expiry": "2029-11-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-519"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JLS-17-X": {
+    "expiry": "2029-11-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-520"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "JLS-10-X": {
+    "expiry": "2029-11-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-517"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "26-BLX-8": {
+    "expiry": "2027-05-17",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "BX-RH-33": {
+    "expiry": "2027-07-11",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "BB-053-Z": {
+    "expiry": "2027-02-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "VFS-81-V": {
+    "expiry": "2027-05-26",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "21-BHH-3": {
+    "expiry": "2027-06-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "82-BNK-8": {
+    "expiry": "2027-06-04",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "BR-HS-40": {
+    "expiry": "2026-09-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "P111": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "Onbekend"
+    ],
+    "last_check_date": "2026-07-07"
   }
 }

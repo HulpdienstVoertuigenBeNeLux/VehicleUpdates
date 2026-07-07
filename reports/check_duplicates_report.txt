@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 12,470  (of 19,377 total)
+  Records checked : 12,484  (of 19,389 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  2 value(s) affected
@@ -35,7 +35,7 @@
       Kenteken    : GEEN
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  3 value(s) affected
+  Duplicate Kenteken  --  4 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '10-DMT-8'  (2x)
@@ -67,6 +67,16 @@
       Hulpdienst  : Ambulance
       Roepnummer  : 19-715
       Kenteken    : XL-309-J
+
+  >> 'ZB-126-J'  (2x)
+      Adres       : Hardenberg
+      Hulpdienst  : Ambulance
+      Roepnummer  : 04-151
+      Kenteken    : ZB-126-J
+      Adres       : Dedemsvaart
+      Hulpdienst  : Ambulance
+      Roepnummer  : 04-152
+      Kenteken    : ZB-126-J
 
 ================================================================================
   Region: BE
