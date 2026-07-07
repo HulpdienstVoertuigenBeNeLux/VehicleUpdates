@@ -6902,15 +6902,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "BN-PZ-34": {
-    "expiry": "2027-03-13",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-1033"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "80-BPS-7": {
     "expiry": "2027-06-24",
     "checked": true,
@@ -7600,6 +7591,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
+      "04-1033",
       "04-1035"
     ],
     "last_check_date": "2026-06-05"
@@ -8203,7 +8195,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "04-2802"
+      "04-2803"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -8212,7 +8204,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "04-2803"
+      "04-2802"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -73076,6 +73068,42 @@
     "unknown": true,
     "roepnummers": [
       "Onbekend"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "45-ZKJ-3": {
+    "expiry": "2026-12-18",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-DB0015"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "96-KTX-7": {
+    "expiry": "2027-03-12",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-DB0016"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "31-STX-2": {
+    "expiry": "2026-11-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-DB0019"
+    ],
+    "last_check_date": "2026-07-07"
+  },
+  "VP-465-N": {
+    "expiry": "2027-06-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
     ],
     "last_check_date": "2026-07-07"
   }
