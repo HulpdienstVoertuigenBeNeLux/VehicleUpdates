@@ -1160,15 +1160,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "7-ZLP-99": {
-    "expiry": "2026-11-10",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "01-2501"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "V-76-DXN": {
     "expiry": "2027-04-09",
     "checked": true,
@@ -61079,15 +61070,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "XX-710-X": {
-    "expiry": "2027-01-22",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-115"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "N-992-KG": {
     "expiry": "2026-10-28",
     "checked": true,
@@ -61330,15 +61312,6 @@
       "24-151"
     ],
     "last_check_date": "2026-06-11"
-  },
-  "KS-537-N": {
-    "expiry": "2026-11-24",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-152"
-    ],
-    "last_check_date": "2026-05-24"
   },
   "KZ-004-F": {
     "expiry": "2026-12-23",
@@ -68476,7 +68449,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "Medic 2"
+      "Medic 1"
     ],
     "last_check_date": "2026-07-03"
   },
@@ -68485,7 +68458,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "Medic 1"
+      "Medic 2"
     ],
     "last_check_date": "2026-07-03"
   },
@@ -73233,5 +73206,59 @@
       "21-2033"
     ],
     "last_check_date": "2026-07-08"
+  },
+  "KFD-92-B": {
+    "expiry": "2030-06-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "01-2501"
+    ],
+    "last_check_date": "2026-07-09"
+  },
+  "V-91-NGT": {
+    "expiry": "2029-09-29",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-6695"
+    ],
+    "last_check_date": "2026-07-09"
+  },
+  "HZS-89-X": {
+    "expiry": "2026-07-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-09"
+  },
+  "KGJ-58-J": {
+    "expiry": "2029-04-23",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-09"
+  },
+  "KPF-05-B": {
+    "expiry": "2027-07-02",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-115"
+    ],
+    "last_check_date": "2026-07-09"
+  },
+  "KNB-87-K": {
+    "expiry": "2027-06-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-152"
+    ],
+    "last_check_date": "2026-07-09"
   }
 }

@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 12,557  (of 19,465 total)
+  Records checked : 12,565  (of 19,473 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  2 value(s) affected
@@ -102,10 +102,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 7,644  (of 9,481 total)
+  Records checked : 7,661  (of 9,498 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  467 value(s) affected
+  Duplicate Roepnummer  --  469 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (4x)
@@ -1031,7 +1031,7 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A31
       Kenteken    : 
-      Adres       : Ath
+      Adres       : Lessines
       Hulpdienst  : Brandweer
       Roepnummer  : A31
       Kenteken    : 
@@ -1061,7 +1061,7 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A34
       Kenteken    : 
-      Adres       : Lessines
+      Adres       : Ath
       Hulpdienst  : Brandweer
       Roepnummer  : A34
       Kenteken    : 
@@ -1086,7 +1086,11 @@
       Roepnummer  : A36
       Kenteken    : 
 
-  >> 'A41'  (2x)
+  >> 'A41'  (3x)
+      Adres       : Peer
+      Hulpdienst  : Brandweer
+      Roepnummer  : A41
+      Kenteken    : 
       Adres       : Lanaken
       Hulpdienst  : Brandweer
       Roepnummer  : A41
@@ -2420,7 +2424,11 @@
       Roepnummer  : C4
       Kenteken    : 
 
-  >> 'C41'  (3x)
+  >> 'C41'  (4x)
+      Adres       : Peer
+      Hulpdienst  : Brandweer
+      Roepnummer  : C41
+      Kenteken    : 
       Adres       : Hamme
       Hulpdienst  : Brandweer
       Roepnummer  : C41
@@ -2780,6 +2788,16 @@
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : D41
+      Kenteken    : 
+
+  >> 'D7'  (2x)
+      Adres       : Ath
+      Hulpdienst  : Brandweer
+      Roepnummer  : D7
+      Kenteken    : 
+      Adres       : Fosses-la-Ville
+      Hulpdienst  : Brandweer
+      Roepnummer  : D7
       Kenteken    : 
 
   >> 'DW1'  (2x)
@@ -3274,7 +3292,7 @@
       Roepnummer  : E7
       Kenteken    : 
 
-  >> 'E9'  (3x)
+  >> 'E9'  (4x)
       Adres       : Essen
       Hulpdienst  : Brandweer
       Roepnummer  : E9
@@ -3284,6 +3302,10 @@
       Roepnummer  : E9
       Kenteken    : 
       Adres       : Héliport
+      Hulpdienst  : Brandweer
+      Roepnummer  : E9
+      Kenteken    : 
+      Adres       : Ath
       Hulpdienst  : Brandweer
       Roepnummer  : E9
       Kenteken    : 
@@ -3736,7 +3758,11 @@
       Roepnummer  : L31
       Kenteken    : 
 
-  >> 'L41'  (2x)
+  >> 'L41'  (3x)
+      Adres       : Peer
+      Hulpdienst  : Brandweer
+      Roepnummer  : L41
+      Kenteken    : 
       Adres       : Belgiek
       Hulpdienst  : Brandweer
       Roepnummer  : L41
@@ -5298,6 +5324,16 @@
       Roepnummer  : S4
       Kenteken    : 
 
+  >> 'S41'  (2x)
+      Adres       : Peer
+      Hulpdienst  : Brandweer
+      Roepnummer  : S41
+      Kenteken    : 
+      Adres       : Héliport
+      Hulpdienst  : Brandweer
+      Roepnummer  : S41
+      Kenteken    : 
+
   >> 'S42'  (2x)
       Adres       : Hamme
       Hulpdienst  : Brandweer
@@ -5970,11 +6006,7 @@
       Roepnummer  : T401
       Kenteken    : 
 
-  >> 'T41'  (4x)
-      Adres       : Lanaken
-      Hulpdienst  : Brandweer
-      Roepnummer  : T41
-      Kenteken    : 
+  >> 'T41'  (3x)
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T41

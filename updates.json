@@ -1,9 +1,222 @@
 [
   {
     "date": "2026-07-09",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-5203 DB toegevoegd aan Ursem",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-6695 AFO toegevoegd aan Maastricht Aachen Airport",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "GEEN AMBU-LC toegevoegd aan Rhoon",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23",
+        "Description": "GEEN AMBU-LC toegevoegd aan Venlo",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T625 HZA toegevoegd aan Lille",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T825 (DB) PM toegevoegd aan Lille",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T882 TW toegevoegd aan Lille",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T826 (DB) PM toegevoegd aan Lille",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T909 DB toegevoegd aan Lille",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": " DMA toegevoegd aan Lille",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg",
+        "Description": "T91 TW toegevoegd aan Lanaken",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen",
+        "Description": "SN-03 RBA toegevoegd aan Ath",
+        "Time": "09-07-2026 10:01:04"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen",
+        "Description": "E09 LW 30 verwijderd van Ath",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen",
+        "Description": "D07 SH verwijderd van Ath",
+        "Time": "09-07-2026 10:01:04"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "2",
+        "Description": "Medic 1: Kenteken van 'PH-OOP' naar 'PH-HOW' aangepast",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "Medic 2: Kenteken van 'PH-HOW' naar 'PH-OOP' aangepast",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-2501: Kenteken van '7-ZLP-99' naar 'KFD-92-B' aangepast",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-4930: Adres van 'Goes Troelstralaan' naar 'Goes Goese Poort' aangepast",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-4970: Adres van 'Goes Troelstralaan' naar 'Goes Goese Poort' aangepast",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-7970: Adres van 'Goes Troelstralaan' naar 'Goes Goese Poort' aangepast",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-8905: Adres van 'Goes Troelstralaan' naar 'Goes Goese Poort' aangepast",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "",
+        "Description": "GEEN: Regio van '' naar '23' aangepast",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-115: Kenteken van 'XX-710-X' naar 'KPF-05-B' aangepast",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24",
+        "Description": "24-152: Kenteken van 'KS-537-N' naar 'KNB-87-K' aangepast",
+        "Time": "09-07-2026 10:00:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen",
+        "Description": "A31: Adres van 'Ath' naar 'Lessines' aangepast",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen",
+        "Description": "A34: Adres van 'Lessines' naar 'Ath' aangepast",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel",
+        "Description": "E9: Adres van 'Héliport' naar 'Ath' aangepast",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel",
+        "Description": "E9: Regio van 'Brussel' naar 'Henegouwen' aangepast",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen",
+        "Description": ": Afkorting van 'GP/ABC' naar 'LOC' aangepast",
+        "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen",
+        "Description": ": TypeVoertuig van 'Gaspakken / Adembeschermings Container' naar 'Logistieke Container' aangepast",
+        "Time": "09-07-2026 10:01:04"
+      }
+    ]
   },
   {
     "date": "2026-07-08",

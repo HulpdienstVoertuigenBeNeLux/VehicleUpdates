@@ -235,7 +235,7 @@
     "Roepnummer": "Medic 1",
     "Afkorting": "PAL-RA",
     "TypeVoertuig": "Patiëntenvervoer luchtvaartuig regionale ambulancevoorziening",
-    "Kenteken": "PH-OOP",
+    "Kenteken": "PH-HOW",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "2",
@@ -268,7 +268,7 @@
     "Roepnummer": "Medic 2",
     "Afkorting": "PAL-RA",
     "TypeVoertuig": "Patiëntenvervoer luchtvaartuig regionale ambulancevoorziening",
-    "Kenteken": "PH-HOW",
+    "Kenteken": "PH-OOP",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "25",
@@ -2600,7 +2600,7 @@
     "Roepnummer": "01-2501",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
-    "Kenteken": "7-ZLP-99",
+    "Kenteken": "KFD-92-B",
     "Bijzonderheden": "Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
@@ -41537,6 +41537,17 @@
   },
   {
     "Adres": "Ursem",
+    "Roepnummer": "10-5203",
+    "Afkorting": "DB",
+    "TypeVoertuig": "Dienstbus",
+    "Kenteken": "ONBEKEND",
+    "Bijzonderheden": "Bezetting: 8 personen.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "10",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Ursem",
     "Roepnummer": "10-5234",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -72138,7 +72149,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "19-49 Goes Troelstralaan, Troelstralaan 1",
+    "Adres": "19-49 Goese Poort, 's-Heer Hendrikskinderendijk 117",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -72149,7 +72160,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Goes Troelstralaan",
+    "Adres": "Goes Goese Poort",
     "Roepnummer": "19-4930",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -72160,7 +72171,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Goes Troelstralaan",
+    "Adres": "Goes Goese Poort",
     "Roepnummer": "19-4970",
     "Afkorting": "HA-KR",
     "TypeVoertuig": "Haakarmvoertuig met kraan",
@@ -72171,7 +72182,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Goes Troelstralaan",
+    "Adres": "Goes Goese Poort",
     "Roepnummer": "19-7970",
     "Afkorting": "HVH",
     "TypeVoertuig": "Hulpverleningshaakarmbak",
@@ -72182,7 +72193,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Goes Troelstralaan",
+    "Adres": "Goes Goese Poort",
     "Roepnummer": "19-8905",
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
@@ -92989,6 +93000,17 @@
     "TypeVoertuig": "On scene commander",
     "Kenteken": "GEEN",
     "Bijzonderheden": "Geel voertuig ",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "24",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Maastricht Aachen Airport",
+    "Roepnummer": "24-6695",
+    "Afkorting": "AFO",
+    "TypeVoertuig": "Airport fire officer",
+    "Kenteken": "V-91-NGT",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "24",
     "Interne opmerking": ""
@@ -116325,6 +116347,39 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Stichting Ambulance Wesns, Ambachtsweg 8a, Rhoon",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Rhoon",
+    "Roepnummer": "GEEN",
+    "Afkorting": "AMBU-LC",
+    "TypeVoertuig": "Ambulance laagcomplexe zorg",
+    "Kenteken": "HZS-89-X",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Spoed HAP Capelle a/d IJssel, Prins Constantijnweg 2",
     "Roepnummer": "",
     "Afkorting": "",
@@ -122965,7 +123020,7 @@
     "Kenteken": "X-187-LT",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
-    "Regio": "",
+    "Regio": "23",
     "Interne opmerking": ""
   },
   {
@@ -123052,6 +123107,39 @@
     "TypeVoertuig": "Evenementenhulpverlening voertuig",
     "Kenteken": "Onbekend",
     "Bijzonderheden": "T.b.v EHBO Post. Bezetting: 2 personen.",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "23",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "23",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Wensambulance Limburg, Venrayseweg 102e, Venlo",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "23",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Venlo",
+    "Roepnummer": "GEEN",
+    "Afkorting": "AMBU-LC",
+    "TypeVoertuig": "Ambulance laagcomplexe zorg",
+    "Kenteken": "KGJ-58-J",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -123325,7 +123413,7 @@
     "Roepnummer": "24-115",
     "Afkorting": "AMBU-HC",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "XX-710-X",
+    "Kenteken": "KPF-05-B",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -123776,7 +123864,7 @@
     "Roepnummer": "24-152",
     "Afkorting": "AMBU-HC",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "KS-537-N",
+    "Kenteken": "KNB-87-K",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
