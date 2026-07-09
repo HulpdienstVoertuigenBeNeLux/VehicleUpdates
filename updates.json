@@ -85,6 +85,20 @@
         "Regio": "Henegouwen",
         "Description": "SN-03 RBA toegevoegd aan Ath",
         "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T859 (DB) PM toegevoegd aan Merksplas",
+        "Time": "09-07-2026 13:02:35"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T857 HA-KR toegevoegd aan Merksplas",
+        "Time": "09-07-2026 13:02:35"
       }
     ],
     "removed": [
@@ -101,6 +115,13 @@
         "Regio": "Henegouwen",
         "Description": "D07 SH verwijderd van Ath",
         "Time": "09-07-2026 10:01:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T816 HA-KR verwijderd van Merksplas",
+        "Time": "09-07-2026 13:02:35"
       }
     ],
     "changed": [
@@ -222,6 +243,20 @@
         "Regio": "4",
         "Description": "04-1035: Kenteken van 'BR-FH-17' naar 'ONBEKEND' aangepast",
         "Time": "09-07-2026 12:00:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "04-1035: Kenteken van 'ONBEKEND' naar 'BT-LZ-10' aangepast",
+        "Time": "09-07-2026 13:02:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6",
+        "Description": "06-1541: Kenteken van '22-BHT-2' naar 'BD-814-P' aangepast",
+        "Time": "09-07-2026 13:02:27"
       }
     ]
   },
