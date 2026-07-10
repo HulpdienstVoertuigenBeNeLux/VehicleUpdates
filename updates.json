@@ -99,9 +99,122 @@
         "Regio": "West-Vlaanderen",
         "Description": "ONBEKEND SAR-Heli toegevoegd aan Oostende",
         "Time": "10-07-2026 12:00:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "M26 (DB) PM toegevoegd aan Leuven",
+        "Time": "10-07-2026 13:00:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "M37 (DB) PM toegevoegd aan Leuven",
+        "Time": "10-07-2026 13:00:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "I61 DB toegevoegd aan Leuven",
+        "Time": "10-07-2026 13:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " OVD-B toegevoegd aan Hosingen",
+        "Time": "10-07-2026 13:00:29"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB toegevoegd aan Hosingen",
+        "Time": "10-07-2026 13:00:29"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " TST toegevoegd aan Hosingen",
+        "Time": "10-07-2026 13:00:29"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " WOA toegevoegd aan Hosingen",
+        "Time": "10-07-2026 13:00:29"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " HOVD-B toegevoegd aan Hosingen",
+        "Time": "10-07-2026 13:00:29"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " SI toegevoegd aan Hosingen",
+        "Time": "10-07-2026 13:00:29"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DA toegevoegd aan Hosingen",
+        "Time": "10-07-2026 13:00:29"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " BRV-K toegevoegd aan Hosingen",
+        "Time": "10-07-2026 13:00:29"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " TST toegevoegd aan Ingeldorf",
+        "Time": "10-07-2026 13:00:29"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " SI toegevoegd aan Ingeldorf",
+        "Time": "10-07-2026 13:00:29"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " LOA toegevoegd aan Ingeldorf",
+        "Time": "10-07-2026 13:00:29"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB toegevoegd aan Ingeldorf",
+        "Time": "10-07-2026 13:00:29"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DA 5 verwijderd van Hosingen",
+        "Time": "10-07-2026 13:00:29"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -214,6 +327,13 @@
         "Regio": "Vlaams-Brabant",
         "Description": ": TypeVoertuig van 'Dienstauto Commando' naar 'Reddings Boot Aanhanger' aangepast",
         "Time": "10-07-2026 12:00:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Vlaams-Brabant",
+        "Description": ": TypeVoertuig van '501000' naar '14257' aangepast",
+        "Time": "10-07-2026 13:00:15"
       }
     ]
   },
