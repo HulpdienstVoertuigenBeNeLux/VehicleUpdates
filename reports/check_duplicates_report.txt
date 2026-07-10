@@ -92,10 +92,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 7,662  (of 9,499 total)
+  Records checked : 7,667  (of 9,508 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  469 value(s) affected
+  Duplicate Roepnummer  --  472 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (4x)
@@ -2136,7 +2136,11 @@
       Roepnummer  : C17
       Kenteken    : 
 
-  >> 'C19'  (2x)
+  >> 'C19'  (3x)
+      Adres       : Leuven
+      Hulpdienst  : Brandweer
+      Roepnummer  : C19
+      Kenteken    : 
       Adres       : Ath
       Hulpdienst  : Brandweer
       Roepnummer  : C19
@@ -2414,8 +2418,12 @@
       Roepnummer  : C4
       Kenteken    : 
 
-  >> 'C41'  (4x)
+  >> 'C41'  (5x)
       Adres       : Peer
+      Hulpdienst  : Brandweer
+      Roepnummer  : C41
+      Kenteken    : 
+      Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : C41
       Kenteken    : 
@@ -3676,6 +3684,16 @@
       Roepnummer  : L14
       Kenteken    : 
 
+  >> 'L15'  (2x)
+      Adres       : Genk
+      Hulpdienst  : Brandweer
+      Roepnummer  : L15
+      Kenteken    : 
+      Adres       : Leuven
+      Hulpdienst  : Brandweer
+      Roepnummer  : L15
+      Kenteken    : 
+
   >> 'L17'  (2x)
       Adres       : Genk
       Hulpdienst  : Brandweer
@@ -3728,6 +3746,16 @@
       Adres       : Leuven
       Hulpdienst  : Brandweer
       Roepnummer  : L3
+      Kenteken    : 
+
+  >> 'L30'  (2x)
+      Adres       : Tongeren
+      Hulpdienst  : Brandweer
+      Roepnummer  : L30
+      Kenteken    : 
+      Adres       : Zaventem
+      Hulpdienst  : Brandweer
+      Roepnummer  : L30
       Kenteken    : 
 
   >> 'L31'  (4x)
@@ -3946,8 +3974,12 @@
       Roepnummer  : M12
       Kenteken    : 
 
-  >> 'M13'  (2x)
+  >> 'M13'  (3x)
       Adres       : Genk
+      Hulpdienst  : Brandweer
+      Roepnummer  : M13
+      Kenteken    : 
+      Adres       : Leuven
       Hulpdienst  : Brandweer
       Roepnummer  : M13
       Kenteken    : 
@@ -4056,8 +4088,12 @@
       Roepnummer  : M404
       Kenteken    : 
 
-  >> 'M41'  (2x)
+  >> 'M41'  (3x)
       Adres       : Lanaken
+      Hulpdienst  : Brandweer
+      Roepnummer  : M41
+      Kenteken    : 
+      Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : M41
       Kenteken    : 
@@ -4228,11 +4264,7 @@
       Roepnummer  : P1
       Kenteken    : 
 
-  >> 'P10'  (3x)
-      Adres       : Leuven
-      Hulpdienst  : Brandweer
-      Roepnummer  : P10
-      Kenteken    : 
+  >> 'P10'  (2x)
       Adres       : Tollembeek
       Hulpdienst  : Brandweer
       Roepnummer  : P10
@@ -4528,6 +4560,16 @@
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : P33
+      Kenteken    : 
+
+  >> 'P34'  (2x)
+      Adres       : Zaventem
+      Hulpdienst  : Brandweer
+      Roepnummer  : P34
+      Kenteken    : 
+      Adres       : Cité
+      Hulpdienst  : Brandweer
+      Roepnummer  : P34
       Kenteken    : 
 
   >> 'P4'  (2x)

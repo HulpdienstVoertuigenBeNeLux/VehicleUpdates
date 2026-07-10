@@ -50619,15 +50619,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "TG-899-D": {
-    "expiry": "2026-07-19",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "05-157"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "H-415-GF": {
     "expiry": "2027-01-17",
     "checked": true,
@@ -68457,7 +68448,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "03-994"
+      "GEEN"
     ],
     "last_check_date": "2026-07-10"
   },
@@ -68475,7 +68466,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "GEEN"
+      "03-994"
     ],
     "last_check_date": "2026-07-10"
   },
@@ -73277,5 +73268,14 @@
       "14-7008"
     ],
     "last_check_date": "2026-07-09"
+  },
+  "KGX-58-G": {
+    "expiry": "2027-04-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "05-157"
+    ],
+    "last_check_date": "2026-07-10"
   }
 }
