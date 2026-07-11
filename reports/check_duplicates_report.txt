@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 12,571  (of 19,479 total)
+  Records checked : 12,557  (of 19,465 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  2 value(s) affected
+  Duplicate Roepnummer  --  4 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '06-1562'  (2x)
@@ -34,19 +34,29 @@
       Roepnummer  : 16-9267
       Kenteken    : GEEN
 
---------------------------------------------------------------------------------
-  Duplicate Kenteken  --  5 value(s) affected
---------------------------------------------------------------------------------
+  >> '25-4134'  (2x)
+      Adres       : Almere Poort
+      Hulpdienst  : Brandweer
+      Roepnummer  : 25-4134
+      Kenteken    : 91-BLS-9
+      Adres       : Woensdrecht
+      Hulpdienst  : Brandweer
+      Roepnummer  : 25-4134
+      Kenteken    : DM-760-N
 
-  >> '10-DMT-8'  (2x)
+  >> '28-6401'  (2x)
       Adres       : Marine Den Helder
       Hulpdienst  : Brandweer
-      Roepnummer  : 28-6403
-      Kenteken    : 10-DMT-8
-      Adres       : Marine Den Helder
+      Roepnummer  : 28-6401
+      Kenteken    : 18-DMT-8
+      Adres       : Vliegbasis De Kooy
       Hulpdienst  : Brandweer
-      Roepnummer  : 28-6493
-      Kenteken    : 10-DMT-8
+      Roepnummer  : 28-6401
+      Kenteken    : 18-DMT-08
+
+--------------------------------------------------------------------------------
+  Duplicate Kenteken  --  3 value(s) affected
+--------------------------------------------------------------------------------
 
   >> 'KF-824-X'  (2x)
       Adres       : Middelburg VRZ Hoofdkantoor
@@ -57,16 +67,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : 19-8503
       Kenteken    : KF-824-X
-
-  >> 'LM-14-95'  (2x)
-      Adres       : Woensdrecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : 28-4133
-      Kenteken    : LM-14-95
-      Adres       : Vliegbasis Leeuwarden
-      Hulpdienst  : Brandweer
-      Roepnummer  : 28-4431
-      Kenteken    : LM-14-95
 
   >> 'XL-309-J'  (2x)
       Adres       : Spoed HAP Dirksland
