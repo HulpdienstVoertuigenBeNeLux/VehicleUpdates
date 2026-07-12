@@ -15,6 +15,13 @@
         "Regio": "",
         "Description": " HC-Ambu toegevoegd aan Hosingen",
         "Time": "12-07-2026 11:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "GEEN BMH-BBM toegevoegd aan Bedrijfsbrandweer British Petroleum",
+        "Time": "12-07-2026 19:40:27"
       }
     ],
     "removed": [
@@ -31,6 +38,13 @@
         "Regio": "",
         "Description": " A-Ambulance verwijderd van Hosingen",
         "Time": "12-07-2026 11:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "GEEN BMH-BBM verwijderd van Bedrijfsbrandweer Rotterdam",
+        "Time": "12-07-2026 19:40:27"
       }
     ],
     "changed": [
@@ -82,6 +96,356 @@
         "Regio": "8",
         "Description": "08-9286: Kenteken van 'ONBEKEND' naar 'GVZ-38-D' aangepast",
         "Time": "12-07-2026 19:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8",
+        "Description": "08-9286: TypeVoertuig van '-' naar 'Verkenningsvoertuig terreinvaardig natuurbrandbestrijding' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8",
+        "Description": "08-7312: Kenteken van 'ONBEKEND' naar '2-YB-433' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-0131: Bijzonderheden van 'Tevens 17-0121 VK-GS. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-0141: Bijzonderheden van '' naar 'Tevens fictief 17-0121 VK-GS.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-0231: Bijzonderheden van 'OR. Tevens 17-0221 VK-GS. Bezetting: 7 personen.' naar 'OR. Tevens fictief 17-0221 VK-GS. Bezetting: 7 personen.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-0432: Bijzonderheden van 'TS-SK. Tevens 17-0421 VK-GS. Bezetting: 7 personen.' naar 'TS-SK. Tevens fictief 17-0421 VK-GS. Bezetting: 7 personen.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-0531: Bijzonderheden van 'HV. Bezetting: 7 personen.' naar 'BU-VTLS en HV. Bezetting: 7 personen.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9072: Bijzonderheden van 'BU-RK en BU-VTHS. Tevens 17-0521 VK-GS.' naar 'BU-RK en BU-VTHS. Tevens fictief 17-0521 VK-GS.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "GEEN: TypeVoertuig van 'Logistiek haakarmbak open uitvoering' naar 'Gereedschap/materieelhaakarmbak' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-0931: Bijzonderheden van 'Bezetting: 7 personen.' naar 'TS-OPS. Bezetting: 7 personen.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-1132: Bijzonderheden van 'TS-SK en ON-PLL. Tevens 17-1121 VK-GS. Bezetting: 7 personen.' naar 'TS-SK en ON-PLL. Tevens fictief 17-1121 VK-GS. Bezetting: 7 personen.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-1151: Bijzonderheden van 'Komt 10 augustus in dienst. Lengte: 32 meter.' naar 'RV. Lengte: 32 meter. Komt 10 augustus in dienst.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9288: Bijzonderheden van 'T.b.v SIB en MIRG' naar 'T.b.v SIB en MIRG.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-1691: Bijzonderheden van 'T.b.v calamiteiten coördinator GB' naar 'T.b.v calamiteiten coördinator GB.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-1921: Bijzonderheden van '' naar 'HVH.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-2331: Bijzonderheden van 'Tevens 17-2321 VK-GS. Bezetting: 7 personen.' naar 'Tevens fictief 17-2321 VK-GS. Bezetting: 7 personen.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-2631: Bijzonderheden van 'OR. Tevens 17-2621 VK-GS. Bezetting: 7 personen.' naar 'OR. Tevens fictief 17-2621 VK-GS. Bezetting: 7 personen.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-3132: Bijzonderheden van 'TS-SK. Tevens 17-3121 VK-GS. Bezetting: 7 personen.' naar 'TS-SK. Tevens fictief 17-3121 VK-GS. Bezetting: 7 personen.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-3151: Bijzonderheden van 'Lengte: 34 meter.' naar 'RV. Lengte: 34 meter.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "TS 2: TypeVoertuig van '' naar 'Tankautospuit' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9074: Bijzonderheden van 'BU-VTHS. Tevens 17-3221 VK-GS.' naar 'BU-VTHS. Tevens fictief 17-3221 VK-GS.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-3732: TypeVoertuig van 'Tankautospuit t.b.v. inzet bij rellen en ordeverstoring' naar 'Tankautospuit t.b.v. inzet bij rellen en \nordeverstoring' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9073: Bijzonderheden van 'BU-VTHS. Tevens 17-3821 VK-GS.' naar 'BU-VTHS. Tevens fictief 17-3821 VK-GS.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-3931: Bijzonderheden van 'Tevens 17-3921 VK-GS. Bezetting: 7 personen.' naar 'Tevens fictief 17-3921 VK-GS. Bezetting: 7 personen.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-4631: Bijzonderheden van 'Tevens 17-4621 VK-GS. Bezetting: 7 personen.' naar 'Tevens fictief 17-4621 VK-GS. Bezetting: 7 personen.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9193: Bijzonderheden van 'Gebied Rijnmond Oost. Tevens sector commander SIB/MIRG.' naar 'PC-SIB. Gebied Rijnmond Oost. Sector commander SIB/MIRG.' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "GEEN: TypeVoertuig van 'Dienstbus' naar 'Gereedschap/materieelvoertuig' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9376: TypeVoertuig van 'Logistiek haakarmbak open uitvoering' naar 'Gereedschap/materieelhaakarmbak' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "TD-001: Adres van 'Bedrijfsbrandweer Rotterdam' naar 'Bedrijfsbrandweer British Petroleum' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "TD-002: Adres van 'Bedrijfsbrandweer Rotterdam' naar 'Bedrijfsbrandweer British Petroleum' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "TD-003: Adres van 'Bedrijfsbrandweer Rotterdam' naar 'Bedrijfsbrandweer British Petroleum' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "HW001: Adres van 'Bedrijfsbrandweer Rotterdam' naar 'Bedrijfsbrandweer British Petroleum' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "HA001: Adres van 'Bedrijfsbrandweer Rotterdam' naar 'Bedrijfsbrandweer British Petroleum' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-9793: TypeVoertuig van 'Dienstauto' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-9794: TypeVoertuig van 'Dienstauto' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-8120: TypeVoertuig van 'Basis ontsmetting haakarmbak' naar 'Basis ontsmetting haakarmbak decontaminatie' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "HAB-4: TypeVoertuig van 'Bijzondere Materialen Haakarmbak' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "GEEN: TypeVoertuig van 'Bijzonder materieel' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "GEEN: TypeVoertuig van 'Bijzonder materieel' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "GEEN: TypeVoertuig van 'Bijzondere Materialen Haakarmbak' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "HAB-1: TypeVoertuig van 'Bijzondere Materialen Haakarmbak' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "MCH: TypeVoertuig van 'Bijzondere Materialen Haakarmbak' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-4963: TypeVoertuig van 'Schuimblusvoetuig' naar 'Schuimblusvoertuig' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "28-6464: TypeVoertuig van 'Bijzonder materieel haakarmbak scheepsbrandbestrijding' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "28-6471: TypeVoertuig van 'Bijzonder materieel haakarmbak scheepsbrandbestrijding' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "28-6472: TypeVoertuig van 'Logistiek haakarmbak open uitvoering' naar 'Logistiek haakarmbak Defensie' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "28-6488: TypeVoertuig van 'Bijzonder materieel haakarmbak scheepsbrandbestrijding' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "21",
+        "Description": "GEEN: TypeVoertuig van 'Bijzondere Materialen Aanhanger' naar 'Invoer Error' aangepast",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "'17-1251' omgenummerd naar '17-9251'",
+        "Time": "12-07-2026 19:40:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-1251: Bijzonderheden van 'Tijdelijke plaatsing van de oude HW van kazerne Slotlaan ivm afsluiting algerabrug. Start 10 augustus, duurt 4 weken.' naar 'RV. Tijdelijke plaatsing van de oude HW van kazerne Slotlaan ivm afsluiting algerabrug in augustus.' aangepast",
+        "Time": "12-07-2026 19:40:27"
       }
     ]
   },
