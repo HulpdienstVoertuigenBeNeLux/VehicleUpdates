@@ -59636,7 +59636,7 @@
     "Afkorting": "AL",
     "TypeVoertuig": "Autoladder",
     "Kenteken": "06-BLJ-7",
-    "Bijzonderheden": "ON-SIB. Lengte: 30 meter.",
+    "Bijzonderheden": "RV en ON-SIB. Lengte: 30 meter.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -61352,7 +61352,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BB-680-V",
-    "Bijzonderheden": "GP. Bezetting: 6 personen.",
+    "Bijzonderheden": "TS-SK en GP. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -61968,7 +61968,7 @@
     "Afkorting": "TS-SK",
     "TypeVoertuig": "TS Slagkracht",
     "Kenteken": "17-BDJ-3",
-    "Bijzonderheden": "Heeft geen eigen inzetgebied, alleen voor aflossing en (geplande) herbezetting. Bezetting: 7 personen.",
+    "Bijzonderheden": "TS-OPS. Heeft geen eigen inzetgebied, alleen voor aflossing en (geplande) herbezetting. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -63647,6 +63647,17 @@
   },
   {
     "Adres": "Regionaal/Wilhelminakade",
+    "Roepnummer": "17-0005",
+    "Afkorting": "BM-TES",
+    "TypeVoertuig": "Test eenheid",
+    "Kenteken": "GEEN",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "17",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Regionaal/Wilhelminakade",
     "Roepnummer": "17-9021",
     "Afkorting": "AGS",
     "TypeVoertuig": "Adviseur gevaarlijke stoffen",
@@ -63979,7 +63990,7 @@
     "Adres": "Regionaal/Wilhelminakade",
     "Roepnummer": "17-9983",
     "Afkorting": "ONBEKEND",
-    "TypeVoertuig": "",
+    "TypeVoertuig": "Invoer Error",
     "Kenteken": "ONBEKEND",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -64042,7 +64053,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ridderkerk",
+    "Adres": "Regionaal/Wilhelminakade",
     "Roepnummer": "GEEN",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
