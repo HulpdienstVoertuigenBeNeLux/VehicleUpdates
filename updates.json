@@ -1,9 +1,61 @@
 [
   {
     "date": "2026-07-12",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Ambulance",
+        "Regio": "",
+        "Description": " HC-Ambu toegevoegd aan Clervaux",
+        "Time": "12-07-2026 11:00:17"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Ambulance",
+        "Regio": "",
+        "Description": " HC-Ambu toegevoegd aan Hosingen",
+        "Time": "12-07-2026 11:00:17"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Ambulance",
+        "Regio": "",
+        "Description": " A-Ambulance verwijderd van Hosingen",
+        "Time": "12-07-2026 11:00:17"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Ambulance",
+        "Regio": "",
+        "Description": " A-Ambulance verwijderd van Hosingen",
+        "Time": "12-07-2026 11:00:17"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Ambulance",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'RTW 2' aangepast",
+        "Time": "12-07-2026 11:00:17"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Ambulance",
+        "Regio": "",
+        "Description": ": Afkorting van 'A-Ambulance' naar 'HC-Ambu' aangepast",
+        "Time": "12-07-2026 11:00:17"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Ambulance",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Hoog Complex Ambulance' naar 'Ambulance hoogcomplexe zorg' aangepast",
+        "Time": "12-07-2026 11:00:17"
+      }
+    ]
   },
   {
     "date": "2026-07-11",
