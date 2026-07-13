@@ -24947,15 +24947,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "92-WN-LX": {
-    "expiry": "None",
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "13-8161"
-    ],
-    "last_check_date": "2026-07-12"
-  },
   "P-755-BS": {
     "expiry": "2027-02-16",
     "checked": true,
@@ -25676,24 +25667,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "31-SPG-6": {
-    "expiry": "2026-09-22",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "14-1201"
-    ],
-    "last_check_date": "2026-05-24"
-  },
-  "1-SGH-73": {
-    "expiry": "2026-10-02",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "14-1202"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "BB-087-B": {
     "expiry": "2027-03-10",
     "checked": true,
@@ -26005,6 +25978,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
+      "14-1202",
       "14-2106"
     ],
     "last_check_date": "2026-05-24"
@@ -73258,5 +73232,23 @@
       "30-9715"
     ],
     "last_check_date": "2026-07-12"
+  },
+  "VK-865-H": {
+    "expiry": "2026-11-27",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "13-8161"
+    ],
+    "last_check_date": "2026-07-13"
+  },
+  "KHF-89-S": {
+    "expiry": "2030-05-18",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "14-1201"
+    ],
+    "last_check_date": "2026-07-13"
   }
 }
