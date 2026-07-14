@@ -8279,15 +8279,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "48-BRV-1": {
-    "expiry": "2027-05-15",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-2833"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "T-953-XJ": {
     "expiry": "2026-10-17",
     "checked": true,
@@ -20473,15 +20464,6 @@
       "10-4532"
     ],
     "last_check_date": "2026-05-24"
-  },
-  "JT-185-G": {
-    "expiry": "2026-06-27",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "10-4601"
-    ],
-    "last_check_date": "2026-07-14"
   },
   "39-BZB-8": {
     "expiry": "2026-07-29",
@@ -37036,15 +37018,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "T-507-NK": {
-    "expiry": "2027-07-31",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "20-1109"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "95-BHJ-4": {
     "expiry": "2027-07-06",
     "checked": true,
@@ -37267,15 +37240,6 @@
     "unknown": false,
     "roepnummers": [
       "20-1302"
-    ],
-    "last_check_date": "2026-05-24"
-  },
-  "T-509-NK": {
-    "expiry": "2027-07-31",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "20-1303"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -47292,7 +47256,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "25-4134"
+      "28-4134"
     ],
     "last_check_date": "2026-07-12"
   },
@@ -73250,5 +73214,50 @@
       "14-1201"
     ],
     "last_check_date": "2026-07-13"
+  },
+  "JXL-90-P": {
+    "expiry": "2030-03-12",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "02-6103"
+    ],
+    "last_check_date": "2026-07-14"
+  },
+  "BD-411-J": {
+    "expiry": "2027-04-07",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-2833"
+    ],
+    "last_check_date": "2026-07-14"
+  },
+  "JTT-60-D": {
+    "expiry": "2029-01-22",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "10-4601"
+    ],
+    "last_check_date": "2026-07-14"
+  },
+  "JBK-08-H": {
+    "expiry": "2028-09-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-1109"
+    ],
+    "last_check_date": "2026-07-14"
+  },
+  "JBK-38-G": {
+    "expiry": "2028-09-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-1303"
+    ],
+    "last_check_date": "2026-07-14"
   }
 }
