@@ -1806,10 +1806,10 @@
   {
     "Adres": "Groningen Hoofdpost",
     "Roepnummer": "01-1901",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
+    "Afkorting": "TL-STH",
+    "TypeVoertuig": "Teamleider specialitische technische hulpverlening",
     "Kenteken": "ZG-286-B",
-    "Bijzonderheden": "T.b.v. teamleider STH Noord. Bezetting: 5 personen.",
+    "Bijzonderheden": "T.b.v STH Noord. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -1831,7 +1831,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "2-VNH-80",
-    "Bijzonderheden": "Regionaal inzetbaar. Bezetting: 6 personen.",
+    "Bijzonderheden": "Regionaal voertuig. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -1853,7 +1853,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "ZG-287-B",
-    "Bijzonderheden": "Regionaal inzetbaar. Bezetting: 5 personen.",
+    "Bijzonderheden": "Regionaal voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -1864,7 +1864,7 @@
     "Afkorting": "WO",
     "TypeVoertuig": "Waterongevallenvoertuig",
     "Kenteken": "5-VGH-41",
-    "Bijzonderheden": "Reserve voertuig",
+    "Bijzonderheden": "Reservevoertuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -1886,7 +1886,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "J-486-VN",
-    "Bijzonderheden": "Rayon Midden",
+    "Bijzonderheden": "Gebied: Midden.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -1897,7 +1897,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "J-473-VN",
-    "Bijzonderheden": "Rayon Oost",
+    "Bijzonderheden": "Gebied: Oost.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -1908,7 +1908,7 @@
     "Afkorting": "VZH",
     "TypeVoertuig": "Verzorgingshaakarmbak",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "T.b.v GOE. Met 26-8228/26-8124 NBC peloton",
+    "Bijzonderheden": "T.b.v GO. Met 26-8228 en 26-8124 NBC peloton.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -1919,7 +1919,7 @@
     "Afkorting": "BMH-OTO",
     "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Container voor Virtueel Oefenen",
+    "Bijzonderheden": "T.b.v. opleidingen met XVR.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2018,7 +2018,7 @@
     "Afkorting": "CO-MU",
     "TypeVoertuig": "Commando voertuig multidisciplinair",
     "Kenteken": "17-BGX-1",
-    "Bijzonderheden": "Groen Voertuig",
+    "Bijzonderheden": "Veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2029,7 +2029,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "96-ZTH-9",
-    "Bijzonderheden": "Tevens 01-2028 VK-GS. Bezetting: 9 personen.",
+    "Bijzonderheden": "Tevens VK-GS 01-2028. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2073,7 +2073,7 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "VB-233-P",
-    "Bijzonderheden": "Voorzien van dompelpomp installatie",
+    "Bijzonderheden": "BU-DPGW.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2106,7 +2106,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-JJ-33",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2150,7 +2150,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "JH-377-V",
-    "Bijzonderheden": "Tevens 01-2128 VK-GS. Bezetting: 9 personen.",
+    "Bijzonderheden": "Tevens VK-GS 01-2128. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2161,7 +2161,7 @@
     "Afkorting": "BRV-M",
     "TypeVoertuig": "Brandweervaartuig middel",
     "Kenteken": "12-24-YE",
-    "Bijzonderheden": "T.b.v Ook in dienst van de NRV",
+    "Bijzonderheden": "NRV.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2238,7 +2238,7 @@
     "Afkorting": "SHH-ST",
     "TypeVoertuig": "Specialistische technische hulpverlening haakarmbak stutmaterieel",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "T.b.v STH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2502,7 +2502,7 @@
     "Afkorting": "HV-KR",
     "TypeVoertuig": "Hulpverleningsvoertuig met kraan",
     "Kenteken": "BS-LT-02",
-    "Bijzonderheden": "Wisselt tussen Oude en Nieuwe Pekela",
+    "Bijzonderheden": "Wisselt tussen Oude en Nieuwe Pekela.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2579,7 +2579,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "68-BSZ-9",
-    "Bijzonderheden": "Reserve Voertuig. Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2590,7 +2590,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "28-BTD-8",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2612,7 +2612,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "V-76-DXN",
-    "Bijzonderheden": "Tevens 01-2528 VK-GS. Bezetting: 5 personen.",
+    "Bijzonderheden": "Tevens VK-GS 01-2528. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2799,7 +2799,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "78-TGL-6",
-    "Bijzonderheden": "Tevens 01-2628 VK-GS. Bezetting: 9 personen.",
+    "Bijzonderheden": "Tevens VK-GS 01-2628. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2876,7 +2876,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "5-VTD-67",
-    "Bijzonderheden": "Tevens 01-2728 VK-GS. Bezetting: 6 personen.",
+    "Bijzonderheden": "Tevens VK-GS 01-2728. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -2920,7 +2920,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "5-VTD-66",
-    "Bijzonderheden": "Tevens 01-3628 VK-GS. Bezetting: 5 personen.",
+    "Bijzonderheden": "Tevens VK-GS 01-3628. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -3206,7 +3206,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "X-337-RN",
-    "Bijzonderheden": "Tevens 01-2928 VK-GS. Bezetting: 9 personen.",
+    "Bijzonderheden": "Tevens VK-GS 01-2928. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -3327,7 +3327,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "5-VTS-81",
-    "Bijzonderheden": "Tevens 01-3028 VK-GS. Bezetting: 6 personen.",
+    "Bijzonderheden": "Tevens VK-GS 01-3028. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -3536,7 +3536,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "J-474-VN",
-    "Bijzonderheden": "Rayon Noord",
+    "Bijzonderheden": "Gebied: Noord.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -3701,7 +3701,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "6-VVN-05",
-    "Bijzonderheden": "Tevens 01-3228 VK-GS. Bezetting: 6 personen.",
+    "Bijzonderheden": "Tevens VK-GS 01-3228. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "1",
     "Interne opmerking": ""
@@ -4273,7 +4273,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "R-666-RS",
-    "Bijzonderheden": "Onopvallend voertuig. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4284,7 +4284,7 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "VTD-89-V",
-    "Bijzonderheden": "Onopvallend voertuig. Bezetting: 3 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 3 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4295,7 +4295,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "S-664-KD",
-    "Bijzonderheden": "Onopvallend voertuig. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4306,7 +4306,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "R-125-DD",
-    "Bijzonderheden": "Onopvallend voertuig. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4317,7 +4317,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "R-123-DD",
-    "Bijzonderheden": "Onopvallend voertuig. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4328,7 +4328,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "R-526-BN",
-    "Bijzonderheden": "Onopvallend voertuig. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4361,7 +4361,7 @@
     "Afkorting": "PMT",
     "TypeVoertuig": "Personeel/materieelvoertuig terreinvaardig",
     "Kenteken": "VXT-89-X",
-    "Bijzonderheden": "Tevens 02-4028 VK-GS. Bezetting: 6 personen.",
+    "Bijzonderheden": "Tevens VK-GS 02-4028. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4449,7 +4449,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "97-BZL-5",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4493,7 +4493,7 @@
     "Afkorting": "PMT",
     "TypeVoertuig": "Personeel/materieelvoertuig terreinvaardig",
     "Kenteken": "VRD-87-D",
-    "Bijzonderheden": "Tevens 02-4128 VK-GS. Bezetting: 6 personen.",
+    "Bijzonderheden": "Tevens VK-GS 02-4128. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4526,7 +4526,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "65-BZL-6",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4658,7 +4658,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BS-HN-66",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4735,7 +4735,7 @@
     "Afkorting": "HA-KR",
     "TypeVoertuig": "Haakarmvoertuig met kraan",
     "Kenteken": "03-BLG-3",
-    "Bijzonderheden": "Regionaal voertuig",
+    "Bijzonderheden": "Regionaal voertuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4746,7 +4746,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "H-374-KT",
-    "Bijzonderheden": "OVD-B Noord-Oost",
+    "Bijzonderheden": "Gebied: Noord-Oost.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -4966,7 +4966,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "J-482-VN",
-    "Bijzonderheden": "Tevens 02-4528 VK-GS. Bezetting: 8 personen.",
+    "Bijzonderheden": "Tevens VK-GS 02-4528. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5054,7 +5054,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "HFR-75-T",
-    "Bijzonderheden": "De PM kan optioneel 8 personen vervoeren; standaard is er ruimte voor extra materiaal.. Bezetting: 8 personen.",
+    "Bijzonderheden": "De PM kan optioneel 8 personen vervoeren; standaard is er ruimte voor extra materiaal. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5098,7 +5098,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "46-BDK-1",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5109,7 +5109,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BZ-LN-77",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5142,7 +5142,7 @@
     "Afkorting": "BRV-K",
     "TypeVoertuig": "Brandweervaartuig klein",
     "Kenteken": "5-YB-786",
-    "Bijzonderheden": "T.b.v Ook in dienst van de NRV",
+    "Bijzonderheden": "NRV.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5230,7 +5230,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "96-BZL-5",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5329,7 +5329,7 @@
     "Afkorting": "DPH-GW",
     "TypeVoertuig": "Dompelpomphaakarmbak grootschalige watervoorziening",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Met de 02-4662 ( Pomp ) ",
+    "Bijzonderheden": "BUH-DPG: 02-4862.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5362,7 +5362,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "3-SGZ-58",
-    "Bijzonderheden": "Regionaal Voertuig. Bezetting: 5 personen.",
+    "Bijzonderheden": "Regionaal voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5406,7 +5406,7 @@
     "Afkorting": "LOH-O",
     "TypeVoertuig": "Logistiek haakarmbak open uitvoering",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Wrakkenbak. Bezetting: 1 personen.",
+    "Bijzonderheden": "T.b.v. vervoer voertuigwrakken. Bezetting: 1 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5516,7 +5516,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "98-BZL-5",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5560,7 +5560,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "J-481-VN",
-    "Bijzonderheden": "Tevens 02-5028 VK-GS. Bezetting: 8 personen.",
+    "Bijzonderheden": "Tevens VK-GS 02-5028. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5714,7 +5714,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "13-BXN-2",
-    "Bijzonderheden": "Tevens ook TS-BO. Bezetting: 7 personen.",
+    "Bijzonderheden": "TS-BO. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -5879,7 +5879,7 @@
     "Afkorting": "DPH-GW",
     "TypeVoertuig": "Dompelpomphaakarmbak grootschalige watervoorziening",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Met de 02-5462 ( Pomp ) ",
+    "Bijzonderheden": "BUH-DPG: 02-5462.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -6385,7 +6385,7 @@
     "Afkorting": "BRV-M",
     "TypeVoertuig": "Brandweervaartuig middel",
     "Kenteken": "68-94-YL",
-    "Bijzonderheden": "Reserve vaartuig ",
+    "Bijzonderheden": "Reservevaartuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -6396,7 +6396,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BB-252-T",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -6583,7 +6583,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-DJ-17",
-    "Bijzonderheden": "T.b.v Vakbekwaamheid. Bezetting: 7 personen.",
+    "Bijzonderheden": "T.b.v vakbekwaamheid. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -6682,7 +6682,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "KK-392-B",
-    "Bijzonderheden": "Tevens 02-5728 VK-GS. Bezetting: 9 personen.",
+    "Bijzonderheden": "Tevens VK-GS 02-5728. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7012,7 +7012,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "04-BSP-1",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7243,7 +7243,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BS-VV-64",
-    "Bijzonderheden": "T.b.v Vakbekwaamheid. Bezetting: 7 personen.",
+    "Bijzonderheden": "T.b.v vakbekwaamheid. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7265,7 +7265,7 @@
     "Afkorting": "HA-KR",
     "TypeVoertuig": "Haakarmvoertuig met kraan",
     "Kenteken": "BX-NF-33",
-    "Bijzonderheden": "T.b.v Vakbekwaamheid",
+    "Bijzonderheden": "T.b.v vakbekwaamheid.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7287,7 +7287,7 @@
     "Afkorting": "LOH-O",
     "TypeVoertuig": "Logistiek haakarmbak open uitvoering",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "T.b.v. Vakbekwaamheid",
+    "Bijzonderheden": "T.b.v vakbekwaamheid.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7320,7 +7320,7 @@
     "Afkorting": "BMH-OTO",
     "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "T.b.v. training brandweerduikers",
+    "Bijzonderheden": "T.b.v. training brandweerduikers.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7397,7 +7397,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "XX-785-N",
-    "Bijzonderheden": "Tevens 02-6328 VK-GS. Bezetting: 9 personen.",
+    "Bijzonderheden": "Tevens VK-GS 02-6328. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7551,7 +7551,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BS-JG-31",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7562,7 +7562,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "47-BDK-1",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7573,7 +7573,7 @@
     "Afkorting": "HA",
     "TypeVoertuig": "Haakarmvoertuig",
     "Kenteken": "BX-ND-70",
-    "Bijzonderheden": "T.b.v. Brandveilig Leven",
+    "Bijzonderheden": "T.b.v. brandveilig leven.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7584,7 +7584,7 @@
     "Afkorting": "VK-TDV",
     "TypeVoertuig": "Verkenningsvoertuig team digitale verkenning",
     "Kenteken": "8-VXK-93",
-    "Bijzonderheden": "T.b.v Drone Team ",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7782,7 +7782,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-JZ-47",
-    "Bijzonderheden": "T.b.v Vakbekwaamheid. Bezetting: 7 personen.",
+    "Bijzonderheden": "T.b.v vakbekwaamheid. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7793,7 +7793,7 @@
     "Afkorting": "SHH-ST",
     "TypeVoertuig": "Specialistische technische hulpverlening haakarmbak stutmaterieel",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "T.b.v STH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7804,7 +7804,7 @@
     "Afkorting": "BMA-OTO",
     "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
     "Kenteken": "37-WJR-2",
-    "Bijzonderheden": "T.b.v. Brandveilig Leven",
+    "Bijzonderheden": "T.b.v. brandveilig leven.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7815,7 +7815,7 @@
     "Afkorting": "BMH-OTO",
     "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
     "Kenteken": "92-T-045",
-    "Bijzonderheden": "T.b.v. Brandveilig Leven",
+    "Bijzonderheden": "T.b.v. brandveilig leven.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7826,7 +7826,7 @@
     "Afkorting": "BMH-OTO",
     "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
     "Kenteken": "98-C-036",
-    "Bijzonderheden": "T.b.v Trainingen",
+    "Bijzonderheden": "T.b.v trainingen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7837,7 +7837,7 @@
     "Afkorting": "BMH-OTO",
     "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "T.b.v Trainingen",
+    "Bijzonderheden": "T.b.v trainingen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7848,7 +7848,7 @@
     "Afkorting": "LOA",
     "TypeVoertuig": "Logistiek aanhanger",
     "Kenteken": "34-WGP-8",
-    "Bijzonderheden": "Autoambulance",
+    "Bijzonderheden": "T.b.v. vervoer voertuigwrakken.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7903,7 +7903,7 @@
     "Afkorting": "BRV-K",
     "TypeVoertuig": "Brandweervaartuig klein",
     "Kenteken": "5-YB-788",
-    "Bijzonderheden": "T.b.v Ook in dienst van de NRV",
+    "Bijzonderheden": "NRV.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -7925,7 +7925,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "BB-642-N",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -8068,7 +8068,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BV-VF-09",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 9 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -8123,7 +8123,7 @@
     "Afkorting": "DPH-GW",
     "TypeVoertuig": "Dompelpomphaakarmbak grootschalige watervoorziening",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Samen met 02-6562 (pompunit) gecombineerd",
+    "Bijzonderheden": "BUH-DPG: 02-6562.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -8365,7 +8365,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "XZ-495-R",
-    "Bijzonderheden": "Tevens 02-6628 VK-GS. Bezetting: 9 personen.",
+    "Bijzonderheden": "Tevens VK-GS 02-6628. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -8387,7 +8387,7 @@
     "Afkorting": "BRV-K",
     "TypeVoertuig": "Brandweervaartuig klein",
     "Kenteken": "5-YB-787",
-    "Bijzonderheden": "T.b.v Ook in dienst van de NRV",
+    "Bijzonderheden": "NRV.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -8541,7 +8541,7 @@
     "Afkorting": "BRV-K",
     "TypeVoertuig": "Brandweervaartuig klein",
     "Kenteken": "5-YB-789",
-    "Bijzonderheden": "T.b.v Ook in dienst van de NRV",
+    "Bijzonderheden": "NRV.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -8596,7 +8596,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "XS-468-K",
-    "Bijzonderheden": "Tevens 02-6828 VK-GS. Bezetting: 9 personen.",
+    "Bijzonderheden": "Tevens VK-GS 02-6828. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -8761,7 +8761,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "06-BZL-8",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -8816,7 +8816,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "BB-643-N",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -8871,7 +8871,7 @@
     "Afkorting": "DPH-GW",
     "TypeVoertuig": "Dompelpomphaakarmbak grootschalige watervoorziening",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Samen met 02-6962 (pompunit) gecombineerd",
+    "Bijzonderheden": "BUH-DPG: 02-6962.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -8959,7 +8959,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "78-BZL-9",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -9179,7 +9179,7 @@
     "Afkorting": "SHH-RD",
     "TypeVoertuig": "Specialistische technische hulpverlening haakarmbak redding",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "T.b.v STH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -9190,7 +9190,7 @@
     "Afkorting": "SHH-LO",
     "TypeVoertuig": "Specialistische technische hulpverlening haakarmbak logistiek",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "T.b.v STH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -9212,7 +9212,7 @@
     "Afkorting": "LOA",
     "TypeVoertuig": "Logistiek aanhanger",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "AutoAmbulance",
+    "Bijzonderheden": "T.b.v. vervoer voertuigwrakken.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -9300,7 +9300,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "02-BDK-6",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 9 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -9366,7 +9366,7 @@
     "Afkorting": "DPH-GW",
     "TypeVoertuig": "Dompelpomphaakarmbak grootschalige watervoorziening",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Samen met 02-7162 (pompunit) gecombineerd",
+    "Bijzonderheden": "BUH-DPG: 02-7162.",
     "Hulpdienst": "Brandweer ",
     "Regio": "2",
     "Interne opmerking": ""
@@ -9641,7 +9641,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "J-484-VN",
-    "Bijzonderheden": "Tevens 03-8028 VK-GS. Bezetting: 8 personen.",
+    "Bijzonderheden": "Tevens VK-GS 03-8028. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -10158,7 +10158,7 @@
     "Afkorting": "CO-MU",
     "TypeVoertuig": "Commando voertuig multidisciplinair",
     "Kenteken": "ONBEKEND ",
-    "Bijzonderheden": "Groen voertuig",
+    "Bijzonderheden": "Veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -10620,7 +10620,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "HBN-59-J",
-    "Bijzonderheden": "Tevens 03-8328 VK-GS. Bezetting: 6 personen.",
+    "Bijzonderheden": "Tevens VK-GS 03-8328. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -10917,7 +10917,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "84-JDS-5",
-    "Bijzonderheden": "Tevens 03-8428 VK-GS. Bezetting: 9 personen.",
+    "Bijzonderheden": "Tevens VK-GS 03-8428. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -11082,7 +11082,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "VB-283-T",
-    "Bijzonderheden": "Tevens 03-8528 VK-GS. Bezetting: 7 personen.",
+    "Bijzonderheden": "Tevens VK-GS 03-8528. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -11335,7 +11335,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "51-BKF-8",
-    "Bijzonderheden": "Tevens TS-BO. Bezetting: 8 personen.",
+    "Bijzonderheden": "TS-BO. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -11456,7 +11456,7 @@
     "Afkorting": "WO",
     "TypeVoertuig": "Waterongevallenvoertuig",
     "Kenteken": "6-VKJ-43",
-    "Bijzonderheden": "Reserve Voertuig",
+    "Bijzonderheden": "Reservevoertuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -11464,10 +11464,10 @@
   {
     "Adres": "Emmen",
     "Roepnummer": "03-8760",
-    "Afkorting": "BMH-BBM",
-    "TypeVoertuig": "Bijzonder materieel haakarmbak met bijzondere brandbestrijdingsmiddelen",
+    "Afkorting": "BMH-OTO",
+    "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "T.b.v PPMO materialen",
+    "Bijzonderheden": "T.b.v vervoer PPMO materiaal.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -11489,7 +11489,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "VT-803-R",
-    "Bijzonderheden": "T.b.v. Brandveilig leven. Bezetting: 2 personen.",
+    "Bijzonderheden": "T.b.v. brandveilig leven. Bezetting: 2 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -11599,7 +11599,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "55-ZFD-7",
-    "Bijzonderheden": "Tevens 03-8728 VK-GS. Bezetting: 9 personen.",
+    "Bijzonderheden": "Tevens VK-GS 03-8728. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -11786,7 +11786,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BV-TS-92",
-    "Bijzonderheden": "Per 2024 reserve voertuig. Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -12039,7 +12039,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "X-982-BT",
-    "Bijzonderheden": "Tevens 03-8928 VK-GS. Bezetting: 9 personen.",
+    "Bijzonderheden": "Tevens VK-GS 03-8928. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -12245,10 +12245,10 @@
   {
     "Adres": "Hoogeveen",
     "Roepnummer": "03-9991",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
+    "Afkorting": "CVD-B",
+    "TypeVoertuig": "Commandant van dienst Brandweer",
     "Kenteken": "JX-610-N",
-    "Bijzonderheden": "T.b.v. Commandant van Dienst. Bezetting: 5 personen.",
+    "Bijzonderheden": "Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -12380,7 +12380,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "7-VXS-38",
-    "Bijzonderheden": "Tevens 03-9028 VK-GS. Bezetting: 7 personen.",
+    "Bijzonderheden": "Tevens VK-GS 03-9028. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -13051,7 +13051,7 @@
     "Afkorting": "TK-G",
     "TypeVoertuig": "Trekker groot",
     "Kenteken": "BT-JN-84",
-    "Bijzonderheden": "T.b.v diverse Trailers ",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -13062,7 +13062,7 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "VV-944-P",
-    "Bijzonderheden": "Zwart Onopvallend Voertuig",
+    "Bijzonderheden": "Zwart voertuig, geen huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -13150,7 +13150,7 @@
     "Afkorting": "CT",
     "TypeVoertuig": "Crashtender",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Geel voertuig ",
+    "Bijzonderheden": "Gele huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -13161,7 +13161,7 @@
     "Afkorting": "CT",
     "TypeVoertuig": "Crashtender",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Geel voertuig ",
+    "Bijzonderheden": "Gele huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -13194,7 +13194,7 @@
     "Afkorting": "AFO",
     "TypeVoertuig": "Airport fire officer",
     "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Geel voertuig ",
+    "Bijzonderheden": "Gele huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -13205,7 +13205,7 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Geel voertuig . Bezetting: 2 personen.",
+    "Bijzonderheden": "Gele huisstijl. Bezetting: 2 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -13238,7 +13238,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Wit voertuig, TT Striping . Bezetting: 5 personen.",
+    "Bijzonderheden": "Wit voertuig, TT Circuit huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -13249,7 +13249,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Rood voertuig, TT Striping. Bezetting: 5 personen.",
+    "Bijzonderheden": "Rood voertuig, TT Circuit huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -13260,7 +13260,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Wit voertuig, TT Striping . Bezetting: 5 personen.",
+    "Bijzonderheden": "Wit voertuig, TT Circuit huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -13271,7 +13271,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Wit voertuig, TT Striping . Bezetting: 5 personen.",
+    "Bijzonderheden": "Wit voertuig, TT Circuit huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "3",
     "Interne opmerking": ""
@@ -13491,7 +13491,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "VT-948-Z",
-    "Bijzonderheden": "T.b.v vervoer quad en MSA . Bezetting: 6 personen.",
+    "Bijzonderheden": "T.b.v vervoer quad en MSA. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "4",
     "Interne opmerking": ""
@@ -14547,7 +14547,7 @@
     "Afkorting": "SHH-RD",
     "TypeVoertuig": "Specialistische technische hulpverlening haakarmbak redding",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "T.b.v STH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "4",
     "Interne opmerking": ""
@@ -14558,7 +14558,7 @@
     "Afkorting": "SHH-LO",
     "TypeVoertuig": "Specialistische technische hulpverlening haakarmbak logistiek",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "T.b.v STH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "4",
     "Interne opmerking": ""
@@ -15295,7 +15295,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "69-BDL-5",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "4",
     "Interne opmerking": ""
@@ -17572,7 +17572,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "49-BNZ-4",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -17649,7 +17649,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "72-BXV-8",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -18001,7 +18001,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "56-BNZ-4",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -18089,7 +18089,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "55-BNZ-3",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -18166,7 +18166,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "36-BXV-7",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -18243,7 +18243,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "21-BXX-6",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -19409,7 +19409,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "20-BXX-6",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -19486,7 +19486,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "63-BXZ-6",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -19574,7 +19574,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "55-BNZ-2",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -19706,7 +19706,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "64-BXZ-6",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -19783,7 +19783,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "66-BXZ-6",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -19860,7 +19860,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "72-BNV-6",
-    "Bijzonderheden": "NBT-M. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -22500,7 +22500,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "RD-778-V",
-    "Bijzonderheden": "Gebied: midden.",
+    "Bijzonderheden": "Gebied: Midden.",
     "Hulpdienst": "Brandweer ",
     "Regio": "6",
     "Interne opmerking": ""
@@ -27296,7 +27296,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "09-BZK-6",
-    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
+    "Bijzonderheden": "2e TS tevens reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "7",
     "Interne opmerking": ""
@@ -27483,7 +27483,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "JJN-86-L",
-    "Bijzonderheden": "Gebied: midden.",
+    "Bijzonderheden": "Gebied: Midden.",
     "Hulpdienst": "Brandweer ",
     "Regio": "7",
     "Interne opmerking": ""
@@ -30266,7 +30266,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "GK-454-S",
-    "Bijzonderheden": "Reserve HOVD.",
+    "Bijzonderheden": "Reserve OVD en HOVD.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -30277,7 +30277,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "12-ZKT-2",
-    "Bijzonderheden": "Reserve HOVD.",
+    "Bijzonderheden": "Reserve OVD en HOVD.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -30671,7 +30671,7 @@
     "Adres": "Wijchen",
     "Roepnummer": "08-9087",
     "Afkorting": "AH",
-    "TypeVoertuig": "Logistiek voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "51-BRJ-4",
     "Bijzonderheden": "AB.",
     "Hulpdienst": "Brandweer ",
@@ -31111,7 +31111,7 @@
     "Adres": "Brakel",
     "Roepnummer": "08-9086",
     "Afkorting": "AH",
-    "TypeVoertuig": "Logistiek voertuig",
+    "TypeVoertuig": "Arbeidshygiëne voertuig",
     "Kenteken": "30-BRG-1",
     "Bijzonderheden": "AB.",
     "Hulpdienst": "Brandweer ",
@@ -32279,7 +32279,7 @@
     "Afkorting": "VZ",
     "TypeVoertuig": "Verzorgingsvoertuig",
     "Kenteken": "5-VKF-18",
-    "Bijzonderheden": "Wordt bemand door personeel van de Reddingsbrigade",
+    "Bijzonderheden": "Bemanning door personeel van de Reddingsbrigade.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32290,7 +32290,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "J-867-GF",
-    "Bijzonderheden": "Cluster 61,62,63,64,65,66,73",
+    "Bijzonderheden": "Gebied: 61, 62, 63, 64, 65, 66, en 73.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32301,7 +32301,7 @@
     "Afkorting": "HA",
     "TypeVoertuig": "Haakarmvoertuig",
     "Kenteken": "BV-RF-23",
-    "Bijzonderheden": "Vakbekwaamheid",
+    "Bijzonderheden": "T.b.v. vakbekwaamheid.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32422,7 +32422,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "10-TJD-4",
-    "Bijzonderheden": "Jeugdbrandweer. Bezetting: 9 personen.",
+    "Bijzonderheden": "T.b.v. Jeugdbrandweer. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32466,7 +32466,7 @@
     "Afkorting": "FR-B",
     "TypeVoertuig": "First responder brandweer",
     "Kenteken": "R-956-DK",
-    "Bijzonderheden": "Tevens ( Pilot ) Team Digitale Verkenning ",
+    "Bijzonderheden": "VK-TDV.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32521,7 +32521,7 @@
     "Afkorting": "FR-B",
     "TypeVoertuig": "First responder brandweer",
     "Kenteken": "VDD-46-N",
-    "Bijzonderheden": "Tevens ook gaspakteam",
+    "Bijzonderheden": "GP.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32576,7 +32576,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "1-VZD-90",
-    "Bijzonderheden": "T.b.v Jeugdbrandweer. Bezetting: 5 personen.",
+    "Bijzonderheden": "T.b.v. Jeugdbrandweer. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32620,7 +32620,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BV-65-ZX",
-    "Bijzonderheden": "Jeugdbrandweer. Bezetting: 8 personen.",
+    "Bijzonderheden": "T.b.v. Jeugdbrandweer. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32675,7 +32675,7 @@
     "Afkorting": "BUV-SN",
     "TypeVoertuig": "Bijzondere uitrusting vaartuig sonar",
     "Kenteken": "VXT-82-F",
-    "Bijzonderheden": "Tevens VK-GS",
+    "Bijzonderheden": "VK-GS.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32840,7 +32840,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "V-75-NGR",
-    "Bijzonderheden": "Tevens ook gaspakteam. Bezetting: 9 personen.",
+    "Bijzonderheden": "GP. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32851,7 +32851,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "GH-562-T",
-    "Bijzonderheden": "Bezetting: 9 personen. T.b.v. Jeugdbrandweer.",
+    "Bijzonderheden": "T.b.v. Jeugdbrandweer. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32884,7 +32884,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "PG-934-P",
-    "Bijzonderheden": "Cluster 71,72,74,81,82,83,84,85. Tevens ook Teamleider STH Beusichem",
+    "Bijzonderheden": "TL-STH Beusichem. Gebied: 71, 72, 74, 81, 82, 83, 84, en 85.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32939,7 +32939,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "14-BDS-5",
-    "Bijzonderheden": "T.b.v Servicecenter oost. Bezetting: 7 personen.",
+    "Bijzonderheden": "T.b.v servicecenter Oost. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32950,7 +32950,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BV-PS-20",
-    "Bijzonderheden": "T.b.v Servicecenter oost. Bezetting: 7 personen.",
+    "Bijzonderheden": "T.b.v servicecenter Oost. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32961,7 +32961,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "VF-523-P",
-    "Bijzonderheden": "T.b.v Servicecenter oost. Bezetting: 6 personen.",
+    "Bijzonderheden": "T.b.v servicecenter Oost. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -32972,7 +32972,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "VZB-71-T",
-    "Bijzonderheden": "T.b.v Servicecenter oost. Bezetting: 6 personen.",
+    "Bijzonderheden": "T.b.v servicecenter Oost. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -33005,7 +33005,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "19-BDS-5",
-    "Bijzonderheden": "T.b.v Servicecenter West . Bezetting: 7 personen.",
+    "Bijzonderheden": "T.b.v servicecenter West. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -33016,7 +33016,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BV-PS-19",
-    "Bijzonderheden": "T.b.v Servicecenter West . Bezetting: 7 personen.",
+    "Bijzonderheden": "T.b.v servicecenter West. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -33027,7 +33027,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "VZB-68-T",
-    "Bijzonderheden": "T.b.v Servicecenter West . Bezetting: 6 personen.",
+    "Bijzonderheden": "T.b.v servicecenter West. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer",
     "Regio": "8",
     "Interne opmerking": ""
@@ -33038,7 +33038,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "VF-836-P",
-    "Bijzonderheden": "T.b.v Servicecenter West . Bezetting: 6 personen.",
+    "Bijzonderheden": "T.b.v servicecenter West. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -33115,7 +33115,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "85-BLH-8",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33137,7 +33137,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "63-BTZ-8",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33148,7 +33148,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "72-BPK-5",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33170,7 +33170,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "JT-116-G",
-    "Bijzonderheden": "Reserve voertuig",
+    "Bijzonderheden": "Reservevoertuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33181,7 +33181,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "TN-504-K",
-    "Bijzonderheden": "District Rijn en Sticht",
+    "Bijzonderheden": "Gebied: Rijn en Sticht.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33192,7 +33192,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "2-TTF-73",
-    "Bijzonderheden": "District Eemland",
+    "Bijzonderheden": "Gebied: Eemland.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33203,7 +33203,7 @@
     "Afkorting": "CO-MU",
     "TypeVoertuig": "Commando voertuig multidisciplinair",
     "Kenteken": "09-BKG-9",
-    "Bijzonderheden": "Groen voertuig",
+    "Bijzonderheden": "Veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33225,7 +33225,7 @@
     "Afkorting": "QR",
     "TypeVoertuig": "Quick response team",
     "Kenteken": "46-BRS-2",
-    "Bijzonderheden": "Tevens Redteam Hoogteverschillen",
+    "Bijzonderheden": "RH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33247,7 +33247,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-36",
-    "Bijzonderheden": "Onopvallend. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33258,7 +33258,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-37",
-    "Bijzonderheden": "Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33269,7 +33269,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-27",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33280,7 +33280,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-33",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33291,7 +33291,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-30",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33401,7 +33401,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "28-BXK-5",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33412,7 +33412,7 @@
     "Afkorting": "MFT",
     "TypeVoertuig": "Multifunctioneel voertuig terreinvaardig",
     "Kenteken": "T-88-FTV",
-    "Bijzonderheden": "John Deer Gator op aanhanger ",
+    "Bijzonderheden": "John Deere Gator op aanhanger.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33445,7 +33445,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "1-THL-11",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33698,7 +33698,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "83-BLF-6",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33742,7 +33742,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-29",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -33885,7 +33885,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "52-BKT-8",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -34072,7 +34072,7 @@
     "Afkorting": "BMA-OTO",
     "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "T.b.v Jeugdbrandweer ",
+    "Bijzonderheden": "T.b.v Jeugdbrandweer .",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -34160,7 +34160,7 @@
     "Afkorting": "TK-K",
     "TypeVoertuig": "Trekker klein",
     "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Voor BRV-M transport",
+    "Bijzonderheden": "T.b.v. vervoer 09-1412.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -34402,7 +34402,7 @@
     "Afkorting": "CO-MU",
     "TypeVoertuig": "Commando voertuig multidisciplinair",
     "Kenteken": "08-BKG-9",
-    "Bijzonderheden": "Groen voertuig ",
+    "Bijzonderheden": "Veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -34523,7 +34523,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "TK-891-S",
-    "Bijzonderheden": "District Lekstroom",
+    "Bijzonderheden": "Gebied: Lekstroom.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -34545,7 +34545,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-40",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -34666,7 +34666,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "36-BJX-4",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -34699,7 +34699,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "2-TJD-32",
-    "Bijzonderheden": "Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -34963,7 +34963,7 @@
     "Afkorting": "HA",
     "TypeVoertuig": "Haakarmvoertuig",
     "Kenteken": "19-BKL-5",
-    "Bijzonderheden": "Tevens voor de 09-9021 BOH-DC verplaatsen ",
+    "Bijzonderheden": "Tevens t.b.v. vervoer 09-9021.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35117,7 +35117,7 @@
     "Afkorting": "BM-BBM",
     "TypeVoertuig": "Bijzonder materieel voertuig met bijzondere brandbestrijdingsmiddelen",
     "Kenteken": "94-BDF-9",
-    "Bijzonderheden": "Cobra Cutter/Waterscherm",
+    "Bijzonderheden": "BU-UHD en BU-WS.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35238,7 +35238,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "20-BXP-7",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35315,7 +35315,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "89-BLH-8",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35326,7 +35326,7 @@
     "Afkorting": "MFT",
     "TypeVoertuig": "Multifunctioneel voertuig terreinvaardig",
     "Kenteken": "T-87-FTV",
-    "Bijzonderheden": "John Deere Gator",
+    "Bijzonderheden": "John Deere Gator.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35392,7 +35392,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "34-BXH-1",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35513,7 +35513,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "94-BLN-1",
-    "Bijzonderheden": "Ter vervaning van de afgevoerde 09-3334 na een ongeval",
+    "Bijzonderheden": "Ter vervanging van de afgevoerde 09-3334 na een ongeval.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35612,7 +35612,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "09-BXJ-7",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35623,7 +35623,7 @@
     "Afkorting": "WTT",
     "TypeVoertuig": "Watertankwagen terreinvaardig",
     "Kenteken": "BX-TB-09",
-    "Bijzonderheden": "Reserve voertuig.",
+    "Bijzonderheden": "Reservevoertuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35733,7 +35733,7 @@
     "Afkorting": "BMA-OTO",
     "TypeVoertuig": "Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Jeugdbrandweer ",
+    "Bijzonderheden": "T.b.v. Jeugdbrandweer.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35931,7 +35931,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "1-THL-06",
-    "Bijzonderheden": "District Rijn en Venen Noord ",
+    "Bijzonderheden": "Gebied: Rijn en Venen Noord.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35942,7 +35942,7 @@
     "Afkorting": "LIH-RTV",
     "TypeVoertuig": "Verlichtingshaakarmbak rampterrein verlichting",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Transport HA Leidsche Rijn. Bij melding rijd de 09-1131 ook mee.",
+    "Bijzonderheden": "Vervoer door HA Leidsche Rijn. Inzet in combinatie met 09-1131.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35953,7 +35953,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-43",
-    "Bijzonderheden": "Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -35964,7 +35964,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "47-ZFT-5",
-    "Bijzonderheden": "I&I Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. I&I. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36228,7 +36228,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-FT-19",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36283,7 +36283,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "08-BVD-8",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 6 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36294,7 +36294,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "20-BVF-9",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36349,7 +36349,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "44-BNT-5",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36437,7 +36437,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "XT-615-S",
-    "Bijzonderheden": "District Utrecht & De Bilt",
+    "Bijzonderheden": "Gebied: Utrecht & De Bilt.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36470,7 +36470,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-FT-89",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36481,7 +36481,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BV-RH-93",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36492,7 +36492,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BZ-VJ-16",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36503,7 +36503,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "84-BBD-2",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36514,7 +36514,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-FV-67",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36525,7 +36525,7 @@
     "Afkorting": "VK-TDV",
     "TypeVoertuig": "Verkenningsvoertuig team digitale verkenning",
     "Kenteken": "09-HJK-4",
-    "Bijzonderheden": "Tevens in bezit van onderwaterdrone",
+    "Bijzonderheden": "BUV-OWD.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36558,7 +36558,7 @@
     "Afkorting": "LO-KR",
     "TypeVoertuig": "Logistiek voertuig met kraan",
     "Kenteken": "VN-942-X",
-    "Bijzonderheden": "T.b.v Logistiek . Bezetting: 6 personen.",
+    "Bijzonderheden": "T.b.v. logistiek. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36613,7 +36613,7 @@
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel/materieelvoertuig",
     "Kenteken": "43-VJ-HV",
-    "Bijzonderheden": "Trainingsbase Weeze. Bezetting: 6 personen.",
+    "Bijzonderheden": "T.b.v. opleidingen bij Trainingsbase Weeze. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36624,7 +36624,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "59-LS-NX",
-    "Bijzonderheden": "Trainingsbase Weeze. Bezetting: 9 personen.",
+    "Bijzonderheden": "T.b.v. opleidingen bij Trainingsbase Weeze. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36635,7 +36635,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "P-338-RZ",
-    "Bijzonderheden": "T.b.v Vakbekwaamheid. Bezetting: 8 personen.",
+    "Bijzonderheden": "T.b.v. vakbekwaamheid. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36657,7 +36657,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "8-ZRL-15",
-    "Bijzonderheden": "Rijopleidingen. Bezetting: 9 personen.",
+    "Bijzonderheden": "T.b.v. rijopleidingen. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36701,7 +36701,7 @@
     "Afkorting": "BMH-OTO",
     "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "T.b.v Oefenen ",
+    "Bijzonderheden": "T.b.v. oefenen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36767,7 +36767,7 @@
     "Afkorting": "BMH-OTO",
     "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "T.b v Vakbekwaamheid ",
+    "Bijzonderheden": "T.b.v. vakbekwaamheid.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36789,7 +36789,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "36-ZDH-9",
-    "Bijzonderheden": "Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36800,7 +36800,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "32-ZDH-9",
-    "Bijzonderheden": "Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36811,7 +36811,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "87-ZBJ-1",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36822,7 +36822,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-44",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36833,7 +36833,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-46",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -36844,7 +36844,7 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "8-VTT-77",
-    "Bijzonderheden": "I&I Onopvallend . Bezetting: 2 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. I&I. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37141,7 +37141,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "82-BJZ-1",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37207,7 +37207,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "55-BKT-8",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37273,7 +37273,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "80-BLF-6",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37339,7 +37339,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "83-BLH-8",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37350,7 +37350,7 @@
     "Afkorting": "QR",
     "TypeVoertuig": "Quick response team",
     "Kenteken": "10-BRR-9",
-    "Bijzonderheden": "Tevens RH",
+    "Bijzonderheden": "RH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37438,7 +37438,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "85-BLF-5",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37493,7 +37493,7 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "VV-166-X",
-    "Bijzonderheden": "T.b.v Logistiek. Bezetting: 3 personen.",
+    "Bijzonderheden": "T.b.v. logistiek. Bezetting: 3 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37592,7 +37592,7 @@
     "Afkorting": "AL",
     "TypeVoertuig": "Autoladder",
     "Kenteken": "BV-TD-25",
-    "Bijzonderheden": "T.b.v Logistiek . Lengte: 30 meter.",
+    "Bijzonderheden": "T.b.v. logistiek . Lengte: 30 meter.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37603,7 +37603,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "53-ZVV-6",
-    "Bijzonderheden": "District Heuvelrug",
+    "Bijzonderheden": "Gebied: Heuvelrug.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37614,7 +37614,7 @@
     "Afkorting": "VC",
     "TypeVoertuig": "Verbindingscommando voertuig",
     "Kenteken": "76-BB-HG",
-    "Bijzonderheden": "Groen Voertuig, Ondersteuningsvoertuig voor de HOvD-B bij incidentbestrijding. ",
+    "Bijzonderheden": "Veiligheidsregio huisstijl. Biedt ondersteuning aan HOVD.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37625,7 +37625,7 @@
     "Afkorting": "MFT-VER",
     "TypeVoertuig": "Multifunctioneel voertuig terreinvaardig verreiker",
     "Kenteken": "TPL-78-L",
-    "Bijzonderheden": "Verrijker",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37636,7 +37636,7 @@
     "Afkorting": "LOH",
     "TypeVoertuig": "Logistiek haakarmbak",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Met verreiker ",
+    "Bijzonderheden": "Met verreiker.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37647,7 +37647,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-31",
-    "Bijzonderheden": "Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37658,7 +37658,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "3-TGS-65",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37669,7 +37669,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "GR-011-P",
-    "Bijzonderheden": "I&I Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. I&I. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -37988,7 +37988,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "47-BTV-4",
-    "Bijzonderheden": "Tevens TS-BO. Bezetting: 7 personen.",
+    "Bijzonderheden": "TS-BO. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38131,7 +38131,7 @@
     "Afkorting": "MFT-VER",
     "TypeVoertuig": "Multifunctioneel voertuig terreinvaardig verreiker",
     "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Verrijker",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38142,7 +38142,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "1-THL-07",
-    "Bijzonderheden": "District Rijn en Venen Zuid ",
+    "Bijzonderheden": "Gebied: Rijn en Venen Zuid.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38153,7 +38153,7 @@
     "Afkorting": "BOH-DC",
     "TypeVoertuig": "Basis ontsmetting haakarmbak decontaminatie",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Specialisme van Harmelen. Haakarm 09-2681 Montfoort doet het vervoer",
+    "Bijzonderheden": "Specialisme van Harmelen. Vervoer door HA 09-2681 Montfoort.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38164,7 +38164,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-32",
-    "Bijzonderheden": "Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38175,7 +38175,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "8-ZRF-42",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38285,7 +38285,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "85-BLF-6",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38428,7 +38428,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "81-BLF-6",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 5 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38450,7 +38450,7 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "95-VR-FN",
-    "Bijzonderheden": "Jeugdbrandweer . Bezetting: 2 personen.",
+    "Bijzonderheden": "T.b.v. Jeugdbrandweer. Bezetting: 2 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38461,7 +38461,7 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "VX-543-J",
-    "Bijzonderheden": "T.b.v werkplaats . Bezetting: 3 personen.",
+    "Bijzonderheden": "T.b.v. werkplaats. Bezetting: 3 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38472,7 +38472,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "05-BVB-9",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38483,7 +38483,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "26-BNX-3",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38505,7 +38505,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "1-THL-08",
-    "Bijzonderheden": "Reserve voertuig ",
+    "Bijzonderheden": "Reservevoertuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38516,7 +38516,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "GKD-03-L",
-    "Bijzonderheden": "Reserve voertuig. Tevens ook Reserve HOVD.",
+    "Bijzonderheden": "Reserve OVD en HOVD.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38538,7 +38538,7 @@
     "Afkorting": "MSA",
     "TypeVoertuig": "Motorspuitaanhanger",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Jeugdbrandweer ",
+    "Bijzonderheden": "T.b.v. Jeugdbrandweer.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38549,7 +38549,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "39-ZDH-9",
-    "Bijzonderheden": "Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38560,7 +38560,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "1-TGV-64",
-    "Bijzonderheden": "Onopvallend. Risicobeheersing. Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. T.b.v. risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38681,7 +38681,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "63-ZFD-7",
-    "Bijzonderheden": "Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38879,7 +38879,7 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "VPJ-10-V",
-    "Bijzonderheden": "T.b.v Ademluchtwerkplaats. Bezetting: 2 personen.",
+    "Bijzonderheden": "T.b.v ademluchtwerkplaats. Bezetting: 2 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38887,10 +38887,10 @@
   {
     "Adres": "Houten ",
     "Roepnummer": "GEEN",
-    "Afkorting": "LOH",
-    "TypeVoertuig": "Logistiek haakarmbak",
+    "Afkorting": "WOH",
+    "TypeVoertuig": "Waterongevallen materieel haakarmbak",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Duikhaakarmbak",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -38931,8 +38931,8 @@
   {
     "Adres": "Bedrijfsbrandweer Mijdrecht",
     "Roepnummer": "09-7680",
-    "Afkorting": "SI",
-    "TypeVoertuig": "Snel inzetbaar voertuig",
+    "Afkorting": "SI-BB",
+    "TypeVoertuig": "Snel inzetbaar voertuig bedrijfsbrandweer",
     "Kenteken": "58-BZ-TZ",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -38978,7 +38978,7 @@
     "Afkorting": "BRM",
     "TypeVoertuig": "Brandweer motor",
     "Kenteken": "FTP-26-B",
-    "Bijzonderheden": "Betreft een stint. Bezetting: 1 personen.",
+    "Bijzonderheden": "Betreft een stint.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -39011,7 +39011,7 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "V-14-GFL",
-    "Bijzonderheden": "T.b.v Brandveiligleven. Bezetting: 3 personen.",
+    "Bijzonderheden": "T.b.v brandveilig leven. Bezetting: 3 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -39022,7 +39022,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "TX-253-P",
-    "Bijzonderheden": "T.b.v Alarmcentrale . Bezetting: 5 personen.",
+    "Bijzonderheden": "T.b.v meldkamer. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -39143,7 +39143,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "N-649-HT",
-    "Bijzonderheden": "T.b.v Directeur. Bezetting: 5 personen.",
+    "Bijzonderheden": "T.b.v directeur. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -39165,7 +39165,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "76-ZFD-7",
-    "Bijzonderheden": "Onopvallend . Bezetting: 5 personen.",
+    "Bijzonderheden": "Geen huisstijl. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
     "Interne opmerking": ""
@@ -39297,7 +39297,7 @@
     "Afkorting": "WO",
     "TypeVoertuig": "Waterongevallenvoertuig",
     "Kenteken": "25-BVK-3",
-    "Bijzonderheden": "Reserve voertuig.",
+    "Bijzonderheden": "Reservevoertuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -39308,7 +39308,7 @@
     "Afkorting": "WO",
     "TypeVoertuig": "Waterongevallenvoertuig",
     "Kenteken": "BX-VD-07",
-    "Bijzonderheden": "Reserve voertuig.",
+    "Bijzonderheden": "Reservevoertuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -39341,7 +39341,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "L-358-NG",
-    "Bijzonderheden": "OVD Centrum alkmaar centrum",
+    "Bijzonderheden": "Gebied: Alkmaar Centrum.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -39352,7 +39352,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "L-954-PL",
-    "Bijzonderheden": "OVD Zuid",
+    "Bijzonderheden": "Gebied: Zuid.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -39374,7 +39374,7 @@
     "Afkorting": "HA",
     "TypeVoertuig": "Haakarmvoertuig",
     "Kenteken": "BX-JP-41",
-    "Bijzonderheden": "T.b.v Opleiden ",
+    "Bijzonderheden": "T.b.v. opleidingen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -39418,7 +39418,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BP-TH-87",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -39429,7 +39429,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-PT-49",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -39440,7 +39440,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-TT-54",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -39484,7 +39484,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "08-BPG-5",
-    "Bijzonderheden": "Tevens TS-BO. Bezetting: 7 personen. ",
+    "Bijzonderheden": "TS-BO. Bezetting: 7 personen. ",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -39660,7 +39660,7 @@
     "Afkorting": "PMT",
     "TypeVoertuig": "Personeel/materieelvoertuig terreinvaardig",
     "Kenteken": "V-771-KN",
-    "Bijzonderheden": "T.b.v Verkenningseenheid Natuurbrand. Bezetting: 5 personen.",
+    "Bijzonderheden": "VKT-NB. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -39715,7 +39715,7 @@
     "Afkorting": "TST-NB",
     "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
     "Kenteken": "98-BST-5",
-    "Bijzonderheden": "Frans type CCFM. Bezetting: 4 personen.",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -39770,7 +39770,7 @@
     "Afkorting": "PMT",
     "TypeVoertuig": "Personeel/materieelvoertuig terreinvaardig",
     "Kenteken": "V-382-KN",
-    "Bijzonderheden": "T.b.v Verkenningseenheid Natuurbrand. Bezetting: 5 personen.",
+    "Bijzonderheden": "VKT-NB. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -40122,7 +40122,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "L-357-NG ",
-    "Bijzonderheden": "OVD Noord",
+    "Bijzonderheden": "Gebied: Noord.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -40155,7 +40155,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BR-XR-15",
-    "Bijzonderheden": "Reserve t.b.v Opleiden. Bezetting: 7 personen.",
+    "Bijzonderheden": "Reserve t.b.v. opleidingen. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -40188,7 +40188,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BN-GS-29",
-    "Bijzonderheden": "Bezetting: 9 personen. T.b.v Jeugdbrandweer",
+    "Bijzonderheden": "T.b.v. Jeugdbrandweer. Bezetting: 9 personen. ",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -40287,7 +40287,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 9 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 9 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -40551,7 +40551,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-BT-02",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -40661,7 +40661,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-LG-74",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -41123,7 +41123,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BZ-HT-22",
-    "Bijzonderheden": "Reserve voertuig. Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -41332,7 +41332,7 @@
     "Afkorting": "WO",
     "TypeVoertuig": "Waterongevallenvoertuig",
     "Kenteken": "BX-VD-08",
-    "Bijzonderheden": "Reserve voertuig",
+    "Bijzonderheden": "Reservevoertuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -41343,7 +41343,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "L-359-NG",
-    "Bijzonderheden": "OVD Oost",
+    "Bijzonderheden": "Gebied: Oost.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -41354,7 +41354,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BV-NT-48",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -41453,7 +41453,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-DV-95",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -41552,7 +41552,7 @@
     "Afkorting": "CO-MU",
     "TypeVoertuig": "Commando voertuig multidisciplinair",
     "Kenteken": "27-BLL-4",
-    "Bijzonderheden": "Groen voertuig",
+    "Bijzonderheden": "Veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -41860,7 +41860,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Jeugdbrandweer . Bezetting: 8 personen.",
+    "Bijzonderheden": "T.b.v. Jeugdbrandweer. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -41871,7 +41871,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-NF-43",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 8 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42102,7 +42102,7 @@
     "Afkorting": "SB-BA",
     "TypeVoertuig": "Schuimblusvoertuig met blusarm",
     "Kenteken": "60-BRG-6",
-    "Bijzonderheden": "Met Blusarm ",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42124,7 +42124,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-SX-43",
-    "Bijzonderheden": "T.b.v Jeugdbrandweer . Bezetting: 7 personen.",
+    "Bijzonderheden": "T.b.v. Jeugdbrandweer. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42289,7 +42289,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BX-DV-70",
-    "Bijzonderheden": "Reserve t.b.v Opleiden . Bezetting: 8 personen.",
+    "Bijzonderheden": "Reserve t.b.v opleidingen. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42520,7 +42520,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BT-LH-98",
-    "Bijzonderheden": "Reserve voertuig . Bezetting: 7 personen.",
+    "Bijzonderheden": "Reservevoertuig. Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42641,7 +42641,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BV-TX-39",
-    "Bijzonderheden": "Bezetting: 8 personen. T.b.v. Jeugdbrandweer",
+    "Bijzonderheden": "T.b.v. Jeugdbrandweer. Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42696,7 +42696,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "L-618-JV",
-    "Bijzonderheden": "Piket OVD Texel",
+    "Bijzonderheden": "Piketvoertuig. Gebied: Texel.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42784,7 +42784,7 @@
     "Afkorting": "AGS",
     "TypeVoertuig": "Adviseur gevaarlijke stoffen",
     "Kenteken": "T-136-ZH",
-    "Bijzonderheden": "Piket wisselt met VRZW",
+    "Bijzonderheden": "Piketvoertuig. Afwisselend met VRZW.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42806,7 +42806,7 @@
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
     "Kenteken": "7-SBN-12",
-    "Bijzonderheden": "Reserve voertuig ",
+    "Bijzonderheden": "Reservevoertuig.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42817,7 +42817,7 @@
     "Afkorting": "OVD-BZ",
     "TypeVoertuig": "Officier van dienst bevolkingszorg",
     "Kenteken": "TV-155-N",
-    "Bijzonderheden": "OVD-BZ West",
+    "Bijzonderheden": "Gebied: West.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42828,7 +42828,7 @@
     "Afkorting": "OVD-BZ",
     "TypeVoertuig": "Officier van dienst bevolkingszorg",
     "Kenteken": "TV-153-N",
-    "Bijzonderheden": "OVD-BZ Oost",
+    "Bijzonderheden": "Gebied: Oost.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42839,7 +42839,7 @@
     "Afkorting": "LO-ICT",
     "TypeVoertuig": "Logistiek voertuig ICT",
     "Kenteken": "VZF-98-X",
-    "Bijzonderheden": "Groen voertuig ",
+    "Bijzonderheden": "Veiligheidsregio huisstijl.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42883,7 +42883,7 @@
     "Afkorting": "HOVD-B",
     "TypeVoertuig": "Hoofdofficier van dienst Brandweer",
     "Kenteken": "L-953-PL",
-    "Bijzonderheden": "HOVD Oost",
+    "Bijzonderheden": "Gebied: Oost.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -42894,7 +42894,7 @@
     "Afkorting": "HOVD-B",
     "TypeVoertuig": "Hoofdofficier van dienst Brandweer",
     "Kenteken": "L-952-PL",
-    "Bijzonderheden": "HOVD West",
+    "Bijzonderheden": "Gebied: West.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -65189,7 +65189,7 @@
     "Adres": "Vakbekwaamheid/Breevaartstraat",
     "Roepnummer": "17-9313",
     "Afkorting": "WOH",
-    "TypeVoertuig": "Invoer Error",
+    "TypeVoertuig": "Waterongevallen materieel haakarmbak",
     "Kenteken": "GEEN",
     "Bijzonderheden": "Materiaal voor duikopleidingen.",
     "Hulpdienst": "Brandweer ",
@@ -79909,7 +79909,7 @@
     "Afkorting": "SHH-ST",
     "TypeVoertuig": "Specialistische technische hulpverlening haakarmbak stutmaterieel",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "T.b.v STH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "20",
     "Interne opmerking": ""
@@ -79920,7 +79920,7 @@
     "Afkorting": "SHH-LO",
     "TypeVoertuig": "Specialistische technische hulpverlening haakarmbak logistiek",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "T.b.v STH.",
     "Hulpdienst": "Brandweer ",
     "Regio": "20",
     "Interne opmerking": ""
