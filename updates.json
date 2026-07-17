@@ -225,9 +225,66 @@
         "Regio": "18",
         "Description": "KENBRI TS-612 TS toegevoegd aan Kenbri Verhuur",
         "Time": "17-07-2026 20:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "GEEN TS toegevoegd aan A&F Fire Trucks Holland",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "BOGO2 TS-OTO toegevoegd aan BOGO",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-9286 GMH toegevoegd aan Schiphol Sloten",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "B46 MFT-VER toegevoegd aan Schiphol Sloten",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "ONBEKEND MFT toegevoegd aan Schiphol Sloten",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "ONBEKEND GM toegevoegd aan Schiphol Sloten",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "12",
+        "Description": "12-355 RR toegevoegd aan Schiphol Sloten",
+        "Time": "17-07-2026 21:00:12"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "B?? MFT verwijderd van Schiphol Sloten",
+        "Time": "17-07-2026 21:00:12"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -10630,6 +10687,97 @@
         "Regio": "18",
         "Description": "KENBRI TS-581: Adres van 'Kenbri Fire Fighting' naar 'Kenbri Verhuur' aangepast",
         "Time": "17-07-2026 20:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-9250 / B14: Afkorting van 'RV' naar 'AL' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-9250 / B14: TypeVoertuig van 'Redvoertuig' naar 'Autoladder' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-9250 / B14: Bijzonderheden van 'Betreft een uitschuifbare trap t.b.v. evacuatie uit en inzet in vliegtuigen. Bezetting: 3 personen.' naar 'RV. Betreft een uitschuifbare trap t.b.v. evacuatie uit, en brandweerinzet in, vliegtuigen.' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-9292 / B2: Bijzonderheden van '' naar 'Reservevoertuig.' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-9293 / B3: Bijzonderheden van '' naar 'Reservevoertuig.' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-9294 / B4: Bijzonderheden van '' naar 'Reservevoertuig.' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-0064: Afkorting van 'BM-UHD' naar 'PM-UHD' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-0064: TypeVoertuig van 'Invoer Error' naar 'Personeel/materieelvoertuig ultra hoge druk blussysteem' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "12",
+        "Description": "12-171: Adres van 'Schiphol' naar 'Schiphol Sloten' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "12",
+        "Description": "12-172: Adres van 'Schiphol' naar 'Schiphol Sloten' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "12",
+        "Description": "12-354: Adres van 'Schiphol' naar 'Schiphol Sloten' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "12",
+        "Description": "12-354: Bijzonderheden van 'Reserve voertuig' naar '' aangepast",
+        "Time": "17-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "12",
+        "Description": "GEEN: Adres van 'Schiphol' naar 'Schiphol Sloten' aangepast",
+        "Time": "17-07-2026 21:00:12"
       }
     ]
   },
