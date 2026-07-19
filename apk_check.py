@@ -5,14 +5,17 @@ import time
 import os
 import shutil
 
+import check_tenaamstelling_changes
+
 REPORTS_DIR = "reports"
 REPORT_FILENAME = "apk_expiry_report.txt"
 REPORT_FILE = os.path.join(REPORTS_DIR, REPORT_FILENAME)
 RAW_DIR = "raw"
 RAW_NL_FILE = os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_raw.json")
 STORAGE_DIR = "storage"
-KENTEKEN_STATUS_FILENAME = "apk_kenteken_status.json"
+KENTEKEN_STATUS_FILENAME = "kenteken_status.json"
 KENTEKEN_STATUS_FILE = os.path.join(STORAGE_DIR, KENTEKEN_STATUS_FILENAME)
+MAX_RDW_CHECKS_PER_RUN = 1000
 
 
 def ensure_report_path():
@@ -188,10 +191,13 @@ def main():
     ]
     # Combine and deduplicate
     to_check = list(dict.fromkeys(unknowns + expired))
-    # Limit to max 1000 per run
-    if len(to_check) > 1000:
-        print(f"Let op: er zijn {len(to_check)} kentekens om te checken, maar maximaal 1000 worden nu verwerkt.")
-        to_check = to_check[:1000]
+    # Limit to max RDW checks per run
+    if len(to_check) > MAX_RDW_CHECKS_PER_RUN:
+        print(
+            f"Let op: er zijn {len(to_check)} kentekens om te checken, "
+            f"maar maximaal {MAX_RDW_CHECKS_PER_RUN} worden nu verwerkt."
+        )
+        to_check = to_check[:MAX_RDW_CHECKS_PER_RUN]
     output_lines = []
     print(f"Start batch check van {len(to_check)} kentekens...")
     for idx, kenteken in enumerate(to_check, 1):
@@ -331,6 +337,21 @@ def main():
         w(SEP)
 
     print(f"Rapport bijgewerkt in {REPORT_FILE}")
+
+    # Use remaining RDW budget for tenaamstelling checks in the same run.
+    remaining_budget = max(0, MAX_RDW_CHECKS_PER_RUN - len(to_check))
+    if remaining_budget > 0:
+        print(
+            "Start controle datum_tenaamstelling_dt "
+            f"met resterend RDW budget: {remaining_budget}..."
+        )
+        try:
+            checked = check_tenaamstelling_changes.run(max_checks=remaining_budget)
+            print(f"Tenaamstelling controle voltooid: {checked} kentekens gecontroleerd.")
+        except Exception as exc:
+            print(f"Tenaamstelling controle kon niet worden uitgevoerd: {exc}")
+    else:
+        print("Geen resterend RDW budget voor datum_tenaamstelling_dt controle.")
 
 if __name__ == "__main__":
     main()
