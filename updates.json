@@ -1,5 +1,82 @@
 [
   {
+    "date": "2026-07-19",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-305: Afkorting van 'SC' naar 'AMBU-SC' aangepast",
+        "Time": "19-07-2026 00:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-305: TypeVoertuig van 'Special care voertuig' naar 'Ambulance special care' aangepast",
+        "Time": "19-07-2026 00:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-811: Afkorting van 'OVD-G' naar 'OVDG-Z' aangepast",
+        "Time": "19-07-2026 00:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-811: TypeVoertuig van 'Officier van dienst geneeskundige zorg' naar 'Officier van dienst geneeskundige zorg Zuid' aangepast",
+        "Time": "19-07-2026 00:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-812: Afkorting van 'OVD-G' naar 'OVDG-N' aangepast",
+        "Time": "19-07-2026 00:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-812: TypeVoertuig van 'Officier van dienst geneeskundige zorg' naar 'Officier van dienst geneeskundige zorg Noord' aangepast",
+        "Time": "19-07-2026 00:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-812: Bijzonderheden van 'OVDG-N. Gebied Noord.' naar '' aangepast",
+        "Time": "19-07-2026 00:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-813: Bijzonderheden van 'Reserve' naar 'Reserve OVD.' aangepast",
+        "Time": "19-07-2026 00:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "Maasstadweg 21: TypeVoertuig van 'VWS SEH Maasstad Ziekenhuis' naar 'VWS Maasstad Ziekenhuis' aangepast",
+        "Time": "19-07-2026 00:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "Molendijk 138c: TypeVoertuig van 'VWS Nieuwe Tonge' naar 'VWS Nieuwe-Tonge' aangepast",
+        "Time": "19-07-2026 00:00:15"
+      }
+    ]
+  },
+  {
     "date": "2026-07-18",
     "added": [
       {
@@ -27896,26 +27973,5 @@
       }
     ],
     "changed": []
-  },
-  {
-    "date": "2026-06-17",
-    "added": [],
-    "removed": [],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1",
-        "Description": "01-3981: Kenteken van 'VX-25-NJ' naar 'ONBEKEND' aangepast",
-        "Time": "17-06-2026 09:00:18"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "9",
-        "Description": "09-8069: Adres van 'Utrecht Leidsche Rijn' naar 'Soesterberg' aangepast",
-        "Time": "17-06-2026 09:00:18"
-      }
-    ]
   }
 ]
