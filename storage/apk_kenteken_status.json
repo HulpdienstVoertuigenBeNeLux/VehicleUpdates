@@ -31564,15 +31564,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "V-294-KV": {
-    "expiry": "2026-06-24",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "17-9195"
-    ],
-    "last_check_date": "2026-07-19"
-  },
   "VKJ-79-J": {
     "expiry": "2027-01-14",
     "checked": true,
@@ -31596,6 +31587,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
+      "17-9195",
       "17-9199"
     ],
     "last_check_date": "2026-05-24"
@@ -34822,15 +34814,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "BJ-HG-33": {
-    "expiry": "2026-07-04",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "19-2838"
-    ],
-    "last_check_date": "2026-07-19"
-  },
   "KP-020-Z": {
     "expiry": "2026-12-14",
     "checked": true,
@@ -34899,7 +34882,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "19-2835"
+      "19-2838"
     ],
     "last_check_date": "2026-05-24"
   },
@@ -49954,15 +49937,6 @@
     ],
     "last_check_date": "2026-05-24"
   },
-  "G-221-DX": {
-    "expiry": "2027-04-23",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-174"
-    ],
-    "last_check_date": "2026-05-24"
-  },
   "ZB-364-B": {
     "expiry": "2027-05-08",
     "checked": true,
@@ -60736,15 +60710,6 @@
       "24-151"
     ],
     "last_check_date": "2026-06-11"
-  },
-  "KZ-004-F": {
-    "expiry": "2026-12-23",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-154"
-    ],
-    "last_check_date": "2026-05-24"
   },
   "GX-689-K": {
     "expiry": "2026-11-25",
@@ -72674,7 +72639,8 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "24-152"
+      "24-152",
+      "24-154"
     ],
     "last_check_date": "2026-07-09"
   },
@@ -73730,5 +73696,14 @@
       "GEEN"
     ],
     "last_check_date": "2026-07-18"
+  },
+  "KLX-85-K": {
+    "expiry": "2027-07-08",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-174"
+    ],
+    "last_check_date": "2026-07-19"
   }
 }

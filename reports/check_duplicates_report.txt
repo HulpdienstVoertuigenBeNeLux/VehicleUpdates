@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 12,654  (of 19,562 total)
+  Records checked : 12,653  (of 19,564 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  2 value(s) affected
@@ -35,7 +35,7 @@
       Kenteken    : GEEN
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  8 value(s) affected
+  Duplicate Kenteken  --  10 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '2-YB-433'  (2x)
@@ -97,6 +97,26 @@
       Hulpdienst  : Brandweer
       Roepnummer  : 19-8503
       Kenteken    : KF-824-X
+
+  >> 'KNB-87-K'  (2x)
+      Adres       : Landgraaf
+      Hulpdienst  : Ambulance
+      Roepnummer  : 24-152
+      Kenteken    : KNB-87-K
+      Adres       : Landgraaf
+      Hulpdienst  : Ambulance
+      Roepnummer  : 24-154
+      Kenteken    : KNB-87-K
+
+  >> 'V-288-KV'  (2x)
+      Adres       : Regionaal/Wilhelminakade
+      Hulpdienst  : Brandweer
+      Roepnummer  : 17-9195
+      Kenteken    : V-288-KV
+      Adres       : Regionaal/Wilhelminakade
+      Hulpdienst  : Brandweer
+      Roepnummer  : 17-9199
+      Kenteken    : V-288-KV
 
   >> 'XL-309-J'  (2x)
       Adres       : Spoed HAP Dirksland
