@@ -1,7 +1,15 @@
 [
   {
     "date": "2026-07-19",
-    "added": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-4362 KW toegevoegd aan Glanerbrug",
+        "Time": "19-07-2026 21:00:12"
+      }
+    ],
     "removed": [],
     "changed": [
       {
@@ -255,6 +263,34 @@
         "Regio": "17",
         "Description": "17-9199: Bijzonderheden van 'Reservevoertuig.' naar 'Piketvoertuig. Gebied: Rotterdam-haven.' aangepast",
         "Time": "19-07-2026 15:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-3462: Afkorting van 'MSA' naar 'KW' aangepast",
+        "Time": "19-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-3462: TypeVoertuig van 'Motorspuitaanhanger' naar 'Kleinschalige watervoorziening voertuig' aangepast",
+        "Time": "19-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-3462: Kenteken van '23-WF-LG' naar 'ONBEKEND' aangepast",
+        "Time": "19-07-2026 21:00:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-3462: Bijzonderheden van '' naar 'WTS500. Op afstand bestuurbare mobiele bluspomp met rubsbanden. https://nl.linkedin.com/posts/brandweertwente_nieuw-wts-systeem-activity-7451959681863864321-9SAm' aangepast",
+        "Time": "19-07-2026 21:00:12"
       }
     ]
   },
