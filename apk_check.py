@@ -16,6 +16,7 @@ STORAGE_DIR = "storage"
 KENTEKEN_STATUS_FILENAME = "kenteken_status.json"
 KENTEKEN_STATUS_FILE = os.path.join(STORAGE_DIR, KENTEKEN_STATUS_FILENAME)
 MAX_RDW_CHECKS_PER_RUN = 1000
+MAX_TENAAMSTELLING_CHECKS_PER_RUN = 100
 
 
 def ensure_report_path():
@@ -76,6 +77,8 @@ def load_kenteken_status(kenteken_map):
                 "roepnummers": roepnummers,
                 "last_check_date": None,
                 "last_expired_notification_date": None,
+                "datum_tenaamstelling_dt": None,
+                "last_tenaamstelling_check_date": None,
             }
         else:
             # Always update roepnummers for completeness
@@ -84,6 +87,10 @@ def load_kenteken_status(kenteken_map):
                 status[k]["last_check_date"] = None
             if "last_expired_notification_date" not in status[k]:
                 status[k]["last_expired_notification_date"] = None
+            if "datum_tenaamstelling_dt" not in status[k]:
+                status[k]["datum_tenaamstelling_dt"] = None
+            if "last_tenaamstelling_check_date" not in status[k]:
+                status[k]["last_tenaamstelling_check_date"] = None
     return status
 
 def save_kenteken_status(status):
@@ -218,6 +225,22 @@ def main():
                 webhook_APK(msg)
                 time.sleep(10)
             continue
+
+        stored_tenaamstelling = check_tenaamstelling_changes.normalize_tenaamstelling(
+            status[kenteken].get("datum_tenaamstelling_dt")
+        )
+        rdw_tenaamstelling = check_tenaamstelling_changes.normalize_tenaamstelling(
+            apk_info.get("datum_tenaamstelling_dt")
+        )
+        if stored_tenaamstelling is None and rdw_tenaamstelling is not None:
+            status[kenteken]["datum_tenaamstelling_dt"] = rdw_tenaamstelling
+            status[kenteken]["last_tenaamstelling_check_date"] = today.strftime("%Y-%m-%d")
+        elif stored_tenaamstelling == rdw_tenaamstelling:
+            status[kenteken]["last_tenaamstelling_check_date"] = today.strftime("%Y-%m-%d")
+        else:
+            # Force immediate follow-up in tenaamstelling flow when values differ.
+            status[kenteken]["last_tenaamstelling_check_date"] = None
+
         valid, expiry = is_apk_valid(apk_info)
         status[kenteken]["expiry"] = str(expiry)
         status[kenteken]["checked"] = True
@@ -340,13 +363,16 @@ def main():
 
     # Use remaining RDW budget for tenaamstelling checks in the same run.
     remaining_budget = max(0, MAX_RDW_CHECKS_PER_RUN - len(to_check))
-    if remaining_budget > 0:
+    tenaamstelling_budget = min(remaining_budget, MAX_TENAAMSTELLING_CHECKS_PER_RUN)
+    if tenaamstelling_budget > 0:
         print(
             "Start controle datum_tenaamstelling_dt "
-            f"met resterend RDW budget: {remaining_budget}..."
+            "met budget: "
+            f"{tenaamstelling_budget} "
+            f"(resterend APK budget: {remaining_budget}, tenaamstelling max: {MAX_TENAAMSTELLING_CHECKS_PER_RUN})..."
         )
         try:
-            checked = check_tenaamstelling_changes.run(max_checks=remaining_budget)
+            checked = check_tenaamstelling_changes.run(max_checks=tenaamstelling_budget)
             print(f"Tenaamstelling controle voltooid: {checked} kentekens gecontroleerd.")
         except Exception as exc:
             print(f"Tenaamstelling controle kon niet worden uitgevoerd: {exc}")
