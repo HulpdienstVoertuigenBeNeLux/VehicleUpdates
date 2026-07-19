@@ -160,7 +160,7 @@ def send_discord_change_notification(
             {
                 "title": f"{kenteken}{roep_str}: tenaamstelling gewijzigd",
                 "description": message,
-                "color": 16753920,
+                "color": 3447003,
             }
         ],
     }
