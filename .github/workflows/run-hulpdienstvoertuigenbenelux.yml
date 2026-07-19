@@ -9,6 +9,8 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Amsterdam
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

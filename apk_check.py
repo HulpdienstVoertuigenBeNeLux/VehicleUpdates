@@ -66,12 +66,21 @@ def load_kenteken_status(kenteken_map):
     # Ensure all kentekens are present and update roepnummers
     for k, roepnummers in kenteken_map.items():
         if k not in status:
-            status[k] = {"expiry": None, "checked": False, "unknown": True, "roepnummers": roepnummers, "last_check_date": None}
+            status[k] = {
+                "expiry": None,
+                "checked": False,
+                "unknown": True,
+                "roepnummers": roepnummers,
+                "last_check_date": None,
+                "last_expired_notification_date": None,
+            }
         else:
             # Always update roepnummers for completeness
             status[k]["roepnummers"] = roepnummers
             if "last_check_date" not in status[k]:
                 status[k]["last_check_date"] = None
+            if "last_expired_notification_date" not in status[k]:
+                status[k]["last_expired_notification_date"] = None
     return status
 
 def save_kenteken_status(status):
@@ -130,6 +139,8 @@ def webhook_APK(message):
         color = "16711680"
     elif "verlengt" in message:
         color = "8388352"
+    elif "onbekend" in message:
+        color = "16753920"
 
     webhook_url = os.getenv("DISCORD_APK")
     embed = {
@@ -187,24 +198,33 @@ def main():
         print(f"[{idx}/{len(to_check)}] Check {kenteken}...")
         apk_info = get_apk_info(kenteken)
         status[kenteken]["last_check_date"] = today.strftime("%Y-%m-%d")
+        previous_expiry = status[kenteken].get("expiry")
+        had_known_expiry = previous_expiry not in [None, "None", "null", ""]
+        roepnummers = status[kenteken].get("roepnummers", [])
+        roep_str = f" ({', '.join(roepnummers)})" if roepnummers else ""
         if not apk_info:
             print(f"  Geen APK info gevonden voor {kenteken}")
             status[kenteken]["expiry"] = None
             status[kenteken]["checked"] = True
             status[kenteken]["unknown"] = True
+            if had_known_expiry:
+                msg = f"{kenteken}{roep_str}: APK vervaldatum onbekend (was {previous_expiry}) mogelijk export of gesloopt voertuig"
+                webhook_APK(msg)
+                time.sleep(10)
             continue
         valid, expiry = is_apk_valid(apk_info)
-        previous_expiry = status[kenteken].get("expiry")
         status[kenteken]["expiry"] = str(expiry)
         status[kenteken]["checked"] = True
         # If expiry is None, treat as unknown, not expired
         if expiry is None:
             status[kenteken]["unknown"] = True
             print(f"  {kenteken}: APK vervaldatum onbekend")
+            if had_known_expiry:
+                msg = f"{kenteken}{roep_str}: APK vervaldatum onbekend (was {previous_expiry}) mogelijk export of gesloopt voertuig"
+                webhook_APK(msg)
+                time.sleep(10)
         else:
             status[kenteken]["unknown"] = False
-            roepnummers = status[kenteken].get("roepnummers", [])
-            roep_str = f" ({', '.join(roepnummers)})" if roepnummers else ""
             # Check if previously expired and now valid (verlengt)
             verlengt = False
             if previous_expiry not in [None, "None", "null", ""]:
@@ -216,6 +236,7 @@ def main():
                     pass
             if verlengt:
                 print(f"  {kenteken}: APK verlengt tot {expiry}")
+                status[kenteken]["last_expired_notification_date"] = None
                 # Only send Discord message if previous expiry was a week or more ago
                 if previous_expiry:
                     try:
@@ -228,13 +249,28 @@ def main():
                         pass
             elif not valid:
                 print(f"  {kenteken}: verlopen op {expiry}")
-                # Only send Discord message if expiry was a week or more ago
+                # Send expired message at most once every 7 days per kenteken.
                 if expiry and (today - expiry).days >= 7:
-                    msg = f"{kenteken}{roep_str}: APK verlopen op {expiry}"
-                    webhook_APK(msg)
-                    time.sleep(10)
+                    should_send_expired = False
+                    last_sent = status[kenteken].get("last_expired_notification_date")
+                    if not last_sent:
+                        should_send_expired = True
+                    else:
+                        try:
+                            last_sent_date = datetime.strptime(last_sent, "%Y-%m-%d").date()
+                            if (today - last_sent_date).days >= 7:
+                                should_send_expired = True
+                        except Exception:
+                            should_send_expired = True
+
+                    if should_send_expired:
+                        msg = f"{kenteken}{roep_str}: APK verlopen op {expiry}"
+                        webhook_APK(msg)
+                        status[kenteken]["last_expired_notification_date"] = today.strftime("%Y-%m-%d")
+                        time.sleep(10)
             else:
                 print(f"  {kenteken}: APK geldig tot {expiry}")
+                status[kenteken]["last_expired_notification_date"] = None
     save_kenteken_status(status)
 
     # Always write a fresh, deduplicated, up-to-date report, excluding unchecked kentekens
