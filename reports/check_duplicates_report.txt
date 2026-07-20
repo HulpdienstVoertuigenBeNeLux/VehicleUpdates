@@ -132,10 +132,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 7,670  (of 9,511 total)
+  Records checked : 7,677  (of 9,518 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  472 value(s) affected
+  Duplicate Roepnummer  --  475 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (4x)
@@ -1034,7 +1034,41 @@
       Roepnummer  : A30
       Kenteken    : 
 
-  >> 'A304'  (2x)
+  >> 'A301'  (2x)
+      Adres       : Oostende
+      Hulpdienst  : Brandweer
+      Roepnummer  : A301
+      Kenteken    : 
+      Adres       : Belgiek
+      Hulpdienst  : Brandweer
+      Roepnummer  : A301
+      Kenteken    : 
+
+  >> 'A302'  (2x)
+      Adres       : Oostende
+      Hulpdienst  : Brandweer
+      Roepnummer  : A302
+      Kenteken    : 
+      Adres       : Zwevegem
+      Hulpdienst  : Brandweer
+      Roepnummer  : A302
+      Kenteken    : 
+
+  >> 'A303'  (2x)
+      Adres       : Oostende
+      Hulpdienst  : Brandweer
+      Roepnummer  : A303
+      Kenteken    : 
+      Adres       : Kortrijk
+      Hulpdienst  : Brandweer
+      Roepnummer  : A303
+      Kenteken    : 
+
+  >> 'A304'  (3x)
+      Adres       : Oostende
+      Hulpdienst  : Brandweer
+      Roepnummer  : A304
+      Kenteken    : 
       Adres       : Kortrijk
       Hulpdienst  : Brandweer
       Roepnummer  : A304
