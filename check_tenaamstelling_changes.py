@@ -143,7 +143,7 @@ def send_discord_change_notification(
     new_value: str | None,
     detected_at: str,
 ) -> None:
-    webhook_url = os.getenv("DISCORD_APK", "https://discordapp.com/api/webhooks/1507092027190546688/L4GZzXr611kl_3KHReJpo5sp4osRViqfcteNZEHjnK20IIZhA7WOP0yC6L-a0boKek67")
+    webhook_url = os.getenv("DISCORD_APK")
     if not webhook_url:
         print(
             "Geen Discord webhook gevonden. Zet DISCORD_APK."
