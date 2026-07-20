@@ -1,8 +1,157 @@
 [
   {
     "date": "2026-07-20",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " TST toegevoegd aan Mertzig",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " SI toegevoegd aan Mertzig",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DA toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " CO toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DA toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " LO toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " WOA toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " HW toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " TST toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " HA-KR toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " SLH-GW toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " LOH-O toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " LOH-O toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " COH-MU toegevoegd aan Nordstad",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB toegevoegd aan Diekirch",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " HW toegevoegd aan Diekirch",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DB toegevoegd aan Diekirch",
+        "Time": "20-07-2026 19:00:24"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " DA-OVD verwijderd van Diekirch",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " TST 7 verwijderd van Diekirch",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " AL 30 verwijderd van Ettelbruck",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": " CO verwijderd van Ettelbruck",
+        "Time": "20-07-2026 19:00:24"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -17,6 +166,97 @@
         "Regio": "1",
         "Description": "01-122: Kenteken van 'JLZ-80-S' naar 'L-697-PR' aangepast",
         "Time": "20-07-2026 09:00:10"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21",
+        "Description": "21-0033: Kenteken van 'BR-RT-81' naar '23-BDV-3' aangepast",
+        "Time": "20-07-2026 19:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "16",
+        "Description": "16-958: Kenteken van '61-XJ-HJ' naar 'ONBEKEND' aangepast",
+        "Time": "20-07-2026 19:00:13"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'MTW 1' aangepast",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'DB 9' naar 'DB' aangepast",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 8 persoenen' aangepast",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'HLF 2-1' aangepast",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'TST 7' naar 'TST' aangepast",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Tankautospuit Terreinvaardig' naar 'Tankautospuit terreinvaardig' aangepast",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": DE Afkorting van '' naar 'LF 3-1' aangepast",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Afkorting van 'HW 32' naar 'TST' aangepast",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": TypeVoertuig van 'Hoogwerker' naar 'Tankautospuit terreinvaardig' aangepast",
+        "Time": "20-07-2026 19:00:24"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "",
+        "Description": ": Bijzonderheden van '' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "20-07-2026 19:00:24"
       }
     ]
   },
