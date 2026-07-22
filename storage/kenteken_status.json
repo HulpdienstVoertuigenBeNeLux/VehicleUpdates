@@ -39732,18 +39732,6 @@
     "datum_tenaamstelling_dt": "2014-01-30",
     "last_tenaamstelling_check_date": "2026-07-20"
   },
-  "BX-BD-94": {
-    "expiry": "2027-06-22",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "17-0451"
-    ],
-    "last_check_date": "2026-06-23",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2009-06-22",
-    "last_tenaamstelling_check_date": "2026-07-20"
-  },
   "93-BSB-4": {
     "expiry": "2026-10-07",
     "checked": true,
@@ -98395,6 +98383,18 @@
     "last_check_date": "2026-07-22",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": "2026-07-22"
+  },
+  "BD-509-R": {
+    "expiry": "2027-07-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "17-0451"
+    ],
+    "last_check_date": "2026-07-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-10",
     "last_tenaamstelling_check_date": "2026-07-22"
   }
 }
