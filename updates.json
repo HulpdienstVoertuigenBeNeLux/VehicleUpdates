@@ -1,9 +1,25 @@
 [
   {
     "date": "2026-07-22",
-    "added": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN BTV toegevoegd aan Rotterdam",
+        "Time": "22-07-2026 13:00:13"
+      }
+    ],
     "removed": [],
-    "changed": []
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-3731: Bijzonderheden van 'HV. Bezetting: 7 personen.' naar 'BU-VTLS en HV. Bezetting: 7 personen.' aangepast",
+        "Time": "22-07-2026 13:00:13"
+      }
+    ]
   },
   {
     "date": "2026-07-21",

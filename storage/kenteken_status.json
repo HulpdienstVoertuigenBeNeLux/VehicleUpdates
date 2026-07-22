@@ -98384,5 +98384,17 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2025-12-30",
     "last_tenaamstelling_check_date": "2026-07-21"
+  },
+  "Rotterdam": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": "2026-07-22"
   }
 }
