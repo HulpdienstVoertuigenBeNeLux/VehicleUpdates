@@ -56582,18 +56582,6 @@
     "datum_tenaamstelling_dt": "2023-03-13",
     "last_tenaamstelling_check_date": "2026-07-20"
   },
-  "GH-561-T": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "22-5198"
-    ],
-    "last_check_date": "2026-07-19",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-07-20"
-  },
   "65-BDK-3": {
     "expiry": "2026-12-11",
     "checked": true,
@@ -98395,6 +98383,18 @@
     "last_check_date": "2026-07-22",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2026-07-10",
+    "last_tenaamstelling_check_date": "2026-07-22"
+  },
+  "T-485-GJ": {
+    "expiry": "2027-06-21",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "22-5198"
+    ],
+    "last_check_date": "2026-07-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2023-06-21",
     "last_tenaamstelling_check_date": "2026-07-22"
   }
 }
