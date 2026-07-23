@@ -6,6 +6,11 @@ on:
       - master
   workflow_dispatch:     # <-- Voeg deze regel toe om handmatig te kunnen starten!
 
+concurrency:
+  group: production-deploy
+  cancel-in-progress: false
+  queue: max
+  
 jobs:
   run-script:
     runs-on: ubuntu-latest
