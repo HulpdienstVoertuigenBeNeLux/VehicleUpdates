@@ -239,6 +239,13 @@
         "Regio": "19",
         "Description": "19-510 LO-RA toegevoegd aan Middelburg",
         "Time": "24-07-2026 15:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Kustwacht",
+        "Regio": "17",
+        "Description": "GEEN BTV toegevoegd aan Rotterdam",
+        "Time": "24-07-2026 16:00:11"
       }
     ],
     "removed": [
@@ -325,6 +332,13 @@
         "Regio": "",
         "Description": "GEEN DB verwijderd van Maassluis",
         "Time": "24-07-2026 14:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN BTV verwijderd van Rotterdam",
+        "Time": "24-07-2026 16:00:11"
       }
     ],
     "changed": [
@@ -2147,6 +2161,13 @@
         "Regio": "17",
         "Description": "17-3941: Bijzonderheden van '' naar 'Tevens 17-3921 VK-GS.' aangepast",
         "Time": "24-07-2026 15:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19",
+        "Description": "19-510: TypeVoertuig van 'Rapid responder verpleegkundig specialist' naar 'Logistiek voertuig regionale ambulancevoorziening' aangepast",
+        "Time": "24-07-2026 16:00:11"
       }
     ]
   },
