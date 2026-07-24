@@ -98602,5 +98602,17 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2019-05-28",
     "last_tenaamstelling_check_date": "2026-07-24"
+  },
+  "JSN-96-B": {
+    "expiry": "2030-01-06",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-24",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-01-06",
+    "last_tenaamstelling_check_date": "2026-07-24"
   }
 }
