@@ -1,7 +1,22 @@
 [
   {
     "date": "2026-07-25",
-    "added": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "15-9584 DA toegevoegd aan Den Haag-Haaglanden",
+        "Time": "25-07-2026 12:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "22",
+        "Description": "GEEN DB-ICB toegevoegd aan Prorail ICB Eindhoven",
+        "Time": "25-07-2026 12:00:19"
+      }
+    ],
     "removed": [],
     "changed": [
       {
@@ -17,6 +32,13 @@
         "Regio": "15",
         "Description": "15-6980: Kenteken van 'BD-117-H' naar 'BD-028-H' aangepast",
         "Time": "25-07-2026 00:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-0237: Kenteken van 'BV-VF-09' naar 'BZ-VH-60' aangepast",
+        "Time": "25-07-2026 12:00:19"
       }
     ]
   },

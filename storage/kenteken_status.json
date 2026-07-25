@@ -5135,18 +5135,6 @@
     "datum_tenaamstelling_dt": "2019-04-10",
     "last_tenaamstelling_check_date": "2026-07-19"
   },
-  "BV-VF-09": {
-    "expiry": "2027-04-08",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "02-0237"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2014-01-07",
-    "last_tenaamstelling_check_date": "2026-07-19"
-  },
   "64-SKF-5": {
     "expiry": "2026-12-12",
     "checked": true,
@@ -98166,6 +98154,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
+      "15-9584",
       "15-9684"
     ],
     "last_check_date": "2026-07-21",
@@ -98772,5 +98761,29 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2025-08-29",
     "last_tenaamstelling_check_date": "2026-07-24"
+  },
+  "BZ-VH-60": {
+    "expiry": "2027-04-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "02-0237"
+    ],
+    "last_check_date": "2026-07-25",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2014-01-07",
+    "last_tenaamstelling_check_date": "2026-07-25"
+  },
+  "V-35-JRF": {
+    "expiry": "2027-12-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-07-25",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-12-16",
+    "last_tenaamstelling_check_date": "2026-07-25"
   }
 }
