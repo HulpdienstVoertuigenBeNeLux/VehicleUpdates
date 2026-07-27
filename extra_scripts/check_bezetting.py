@@ -194,6 +194,25 @@ def _collect_mismatches(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return mismatches
 
 
+def _split_mismatches(
+    mismatches: list[dict[str, Any]],
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    bezetting_hoger: list[dict[str, Any]] = []
+    zitplaatsen_hoger: list[dict[str, Any]] = []
+
+    for row in mismatches:
+        bezetting = row.get("bezetting")
+        zitplaatsen = row.get("zitplaatsen")
+        if bezetting is None or zitplaatsen is None:
+            continue
+        if bezetting > zitplaatsen:
+            bezetting_hoger.append(row)
+        elif zitplaatsen > bezetting:
+            zitplaatsen_hoger.append(row)
+
+    return bezetting_hoger, zitplaatsen_hoger
+
+
 def _collect_missing_zitplaatsen_kentekens(
     records: list[dict[str, Any]],
     status: dict[str, dict[str, Any]],
@@ -256,6 +275,7 @@ def _enrich_missing_zitplaatsen(
 
 def _write_report(result: dict[str, Any], mismatches: list[dict[str, Any]]) -> None:
     os.makedirs(REPORTS_DIR, exist_ok=True)
+    bezetting_hoger, zitplaatsen_hoger = _split_mismatches(mismatches)
 
     width = 90
     sep = "=" * width
@@ -265,6 +285,45 @@ def _write_report(result: dict[str, Any], mismatches: list[dict[str, Any]]) -> N
         def w(line: str = "") -> None:
             outfile.write(line + "\n")
 
+        def trunc(text: Any, width: int) -> str:
+            value = _safe_text(text)
+            if len(value) <= width:
+                return value
+            if width <= 1:
+                return value[:width]
+            return value[: width - 1] + "~"
+
+        def write_mismatch_table(rows: list[dict[str, Any]]) -> None:
+            if not rows:
+                w("  (geen)")
+                return
+
+            roep_w = 12
+            kenteken_w = 10
+            bezetting_w = 9
+            rdw_w = 13
+
+            header = (
+                f"  {'Roepnummer':<{roep_w}} | "
+                f"{'Kenteken':<{kenteken_w}} | "
+                f"{'Bezetting':>{bezetting_w}} | "
+                f"{'RDW':>{rdw_w}}"
+            )
+            rule = "  " + "-" * (len(header) - 2)
+            w(header)
+            w(rule)
+
+            for row in rows:
+                bezetting = row.get("bezetting")
+                zitplaatsen = row.get("zitplaatsen")
+
+                w(
+                    f"  {trunc(row.get('roepnummer', ''), roep_w):<{roep_w}} | "
+                    f"{trunc(row.get('kenteken', ''), kenteken_w):<{kenteken_w}} | "
+                    f"{str(bezetting):>{bezetting_w}} | "
+                    f"{str(zitplaatsen):>{rdw_w}}"
+                )
+
         w(sep)
         w("  Bezetting Check Report")
         w(sep)
@@ -273,6 +332,8 @@ def _write_report(result: dict[str, Any], mismatches: list[dict[str, Any]]) -> N
         w(f"  Onjuist geformatteerde bezetting: {len(result['malformed'])}")
         w(f"  Buiten range (1-12)             : {len(result['out_of_range'])}")
         w(f"  Bezetting != RDW zitplaatsen    : {len(mismatches)}")
+        w(f"  Bezetting > RDW zitplaatsen     : {len(bezetting_hoger)}")
+        w(f"  RDW zitplaatsen > bezetting     : {len(zitplaatsen_hoger)}")
 
         w()
         w(thin)
@@ -306,19 +367,15 @@ def _write_report(result: dict[str, Any], mismatches: list[dict[str, Any]]) -> N
 
         w()
         w(thin)
-        w("  Verschil: bezetting vs RDW zitplaatsen")
+        w("  Verschil: bezetting hoger dan RDW zitplaatsen")
         w(thin)
-        if mismatches:
-            for row in mismatches:
-                w(
-                    "- Roepnummer="
-                    f"{row.get('roepnummer', '')} | "
-                    f"Kenteken={row.get('kenteken', '')} | "
-                    f"Bezetting={row.get('bezetting')} | "
-                    f"RDW zitplaatsen={row.get('zitplaatsen')}"
-                )
-        else:
-            w("  (geen)")
+        write_mismatch_table(bezetting_hoger)
+
+        w()
+        w(thin)
+        w("  Verschil: RDW zitplaatsen hoger dan bezetting")
+        w(thin)
+        write_mismatch_table(zitplaatsen_hoger)
 
         w()
         w(sep)
