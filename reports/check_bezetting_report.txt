@@ -5,7 +5,9 @@
   Records met parsebare bezetting : 3363
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 124
+  Bezetting != RDW zitplaatsen    : 204
+  Bezetting > RDW zitplaatsen     : 121
+  RDW zitplaatsen > bezetting     : 83
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
@@ -33,131 +35,219 @@
   (geen)
 
 ------------------------------------------------------------------------------------------
-  Verschil: bezetting vs RDW zitplaatsen
+  Verschil: bezetting hoger dan RDW zitplaatsen
 ------------------------------------------------------------------------------------------
-- Roepnummer=01-1003 | Kenteken=ZB-105-K | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=01-1031 | Kenteken=BV-FL-78 | Bezetting=9 | RDW zitplaatsen=7
-- Roepnummer=01-1032 | Kenteken=BT-VS-39 | Bezetting=6 | RDW zitplaatsen=7
-- Roepnummer=01-1101 | Kenteken=33-BDS-5 | Bezetting=6 | RDW zitplaatsen=3
-- Roepnummer=01-1131 | Kenteken=BV-VF-11 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=01-1302 | Kenteken=7-VTR-76 | Bezetting=7 | RDW zitplaatsen=6
-- Roepnummer=01-1401 | Kenteken=GJN-66-B | Bezetting=5 | RDW zitplaatsen=8
-- Roepnummer=01-1502 | Kenteken=GFP-79-J | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=01-1601 | Kenteken=HFR-02-G | Bezetting=7 | RDW zitplaatsen=5
-- Roepnummer=01-1603 | Kenteken=HFR-03-G | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=01-1604 | Kenteken=5-SPX-72 | Bezetting=7 | RDW zitplaatsen=9
-- Roepnummer=01-1701 | Kenteken=J-193-DZ | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=01-1802 | Kenteken=J-181-DZ | Bezetting=7 | RDW zitplaatsen=9
-- Roepnummer=01-1804 | Kenteken=V-39-DST | Bezetting=7 | RDW zitplaatsen=5
-- Roepnummer=01-1808 | Kenteken=J-466-JD | Bezetting=5 | RDW zitplaatsen=4
-- Roepnummer=01-2031 | Kenteken=BZ-RB-99 | Bezetting=6 | RDW zitplaatsen=7
-- Roepnummer=01-2233 | Kenteken=BV-HD-83 | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=01-2402 | Kenteken=VTT-69-K | Bezetting=7 | RDW zitplaatsen=5
-- Roepnummer=01-0134 | Kenteken=28-BTD-8 | Bezetting=7 | RDW zitplaatsen=2
-- Roepnummer=01-2603 | Kenteken=78-TGL-6 | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=01-2701 | Kenteken=5-VTD-66 | Bezetting=5 | RDW zitplaatsen=6
-- Roepnummer=01-2905 | Kenteken=N-386-ZZ | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=01-2904 | Kenteken=VTT-90-K | Bezetting=6 | RDW zitplaatsen=7
-- Roepnummer=01-2903 | Kenteken=N-385-ZZ | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=01-2933 | Kenteken=BV-FV-70 | Bezetting=8 | RDW zitplaatsen=7
-- Roepnummer=01-2901 | Kenteken=X-337-RN | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=01-3131 | Kenteken=BD-792-J | Bezetting=6 | RDW zitplaatsen=7
-- Roepnummer=GEEN | Kenteken=VL-868-F | Bezetting=2 | RDW zitplaatsen=3
-- Roepnummer=01-3903 | Kenteken=13-RP-RJ | Bezetting=7 | RDW zitplaatsen=9
-- Roepnummer=01-39Engine 9 | Kenteken=68-BNZ-1 | Bezetting=4 | RDW zitplaatsen=6
-- Roepnummer=02-4001 | Kenteken=VXT-89-X | Bezetting=6 | RDW zitplaatsen=7
-- Roepnummer=02-4231 | Kenteken=BB-459-P | Bezetting=8 | RDW zitplaatsen=7
-- Roepnummer=02-4202 | Kenteken=HFR-69-T | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-4204 | Kenteken=N-694-RX | Bezetting=5 | RDW zitplaatsen=8
-- Roepnummer=02-0233 | Kenteken=46-BDK-1 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=02-4601 | Kenteken=N-693-RX | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=02-4701 | Kenteken=GGF-59-H | Bezetting=5 | RDW zitplaatsen=9
-- Roepnummer=02-4869 | Kenteken=BS-JS-52 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=02-5301 | Kenteken=ZB-195-G | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-5302 | Kenteken=ZB-194-G | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-5402 | Kenteken=XX-991-R | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-5631 | Kenteken=BB-465-R | Bezetting=5 | RDW zitplaatsen=7
-- Roepnummer=02-5603 | Kenteken=XZ-497-R | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-5607 | Kenteken=XX-773-N | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-5605 | Kenteken=XZ-606-G | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-5606 | Kenteken=XZ-608-G | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-0238 | Kenteken=BB-252-T | Bezetting=8 | RDW zitplaatsen=7
-- Roepnummer=02-5705 | Kenteken=XX-775-N | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-7501 | Kenteken=XZ-498-R | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-7502 | Kenteken=XZ-549-T | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6102 | Kenteken=N-692-RX | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-7338 | Kenteken=BS-VH-53 | Bezetting=6 | RDW zitplaatsen=8
-- Roepnummer=02-6104 | Kenteken=N-691-RX | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6302 | Kenteken=XX-785-N | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6332 | Kenteken=BZ-PV-39 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=02-6401 | Kenteken=J-496-XV | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-7401 | Kenteken=ZK-167-B | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-7402 | Kenteken=ZK-166-B | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-7403 | Kenteken=XX-776-N | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-0237 | Kenteken=BZ-VH-60 | Bezetting=9 | RDW zitplaatsen=7
-- Roepnummer=02-6501 | Kenteken=HFR-72-T | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6504 | Kenteken=XZ-607-G | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6503 | Kenteken=HFR-71-T | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6601 | Kenteken=XX-990-R | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6602 | Kenteken=XZ-495-R | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6704 | Kenteken=ZK-165-B | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6701 | Kenteken=ZP-667-B | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6702 | Kenteken=ZP-668-B | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6803 | Kenteken=XS-468-K | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6804 | Kenteken=ZF-824-H | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6805 | Kenteken=ZK-164-B | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6402 | Kenteken=J-483-VN | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=02-6903 | Kenteken=ZF-823-H | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-6904 | Kenteken=XX-777-N | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-7001 | Kenteken=HFR-68-T | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-7007 | Kenteken=HFR-70-T | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-0231 | Kenteken=02-BDK-6 | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=02-7103 | Kenteken=XX-774-N | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=Dienstauto Ameland | Kenteken=67-VBX-9 | Bezetting=5 | RDW zitplaatsen=2
-- Roepnummer=GEEN | Kenteken=14-FX-HB | Bezetting=7 | RDW zitplaatsen=9
-- Roepnummer=03-8031 | Kenteken=89-BBF-5 | Bezetting=8 | RDW zitplaatsen=7
-- Roepnummer=03-8002 | Kenteken=K-456-NS | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-8131 | Kenteken=69-BVD-1 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-8102 | Kenteken=BX-VB-53 | Bezetting=6 | RDW zitplaatsen=9
-- Roepnummer=03-8103 | Kenteken=BZ-ZH-83 | Bezetting=6 | RDW zitplaatsen=8
-- Roepnummer=03-0331 | Kenteken=BV-TG-28 | Bezetting=8 | RDW zitplaatsen=7
-- Roepnummer=03-0334 | Kenteken=BV-XR-40 | Bezetting=8 | RDW zitplaatsen=7
-- Roepnummer=03-8203 | Kenteken=K-445-NS | Bezetting=7 | RDW zitplaatsen=5
-- Roepnummer=03-9704 | Kenteken=GKX-49-S | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=03-9997 | Kenteken=V-653-GZ | Bezetting=5 | RDW zitplaatsen=2
-- Roepnummer=GEEN | Kenteken=JJ-123-H | Bezetting=5 | RDW zitplaatsen=4
-- Roepnummer=GEEN | Kenteken=JJ-124-H | Bezetting=5 | RDW zitplaatsen=4
-- Roepnummer=03-8204 | Kenteken=G-819-KV | Bezetting=7 | RDW zitplaatsen=9
-- Roepnummer=03-8232 | Kenteken=05-BNV-1 | Bezetting=8 | RDW zitplaatsen=7
-- Roepnummer=03-8301 | Kenteken=HBN-59-J | Bezetting=6 | RDW zitplaatsen=7
-- Roepnummer=03-8331 | Kenteken=BZ-DN-65 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-8333 | Kenteken=42-BVD-1 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-8302 | Kenteken=HBR-62-H | Bezetting=6 | RDW zitplaatsen=7
-- Roepnummer=03-8401 | Kenteken=K-454-NS | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-8432 | Kenteken=84-BXZ-5 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-8434 | Kenteken=27-BXX-2 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-8531 | Kenteken=BZ-VZ-35 | Bezetting=8 | RDW zitplaatsen=7
-- Roepnummer=03-8673 | Kenteken=V-238-HN | Bezetting=2 | RDW zitplaatsen=5
-- Roepnummer=03-8733 | Kenteken=73-BVD-1 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-8833 | Kenteken=87-BXS-3 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-8836 | Kenteken=79-BVD-1 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-8903 | Kenteken=X-982-BT | Bezetting=9 | RDW zitplaatsen=8
-- Roepnummer=03-8931 | Kenteken=50-BVD-1 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-9001 | Kenteken=HBN-57-J | Bezetting=6 | RDW zitplaatsen=8
-- Roepnummer=03-9031 | Kenteken=19-BXR-4 | Bezetting=7 | RDW zitplaatsen=8
-- Roepnummer=03-9004 | Kenteken=7-VXS-38 | Bezetting=7 | RDW zitplaatsen=6
-- Roepnummer=03-9002 | Kenteken=HBN-58-J | Bezetting=6 | RDW zitplaatsen=7
-- Roepnummer=03-9003 | Kenteken=HBN-56-J | Bezetting=6 | RDW zitplaatsen=8
-- Roepnummer=03-9103 | Kenteken=HBR-63-H | Bezetting=6 | RDW zitplaatsen=7
-- Roepnummer=03-9104 | Kenteken=23-RXB-5 | Bezetting=5 | RDW zitplaatsen=7
-- Roepnummer=03-9142 | Kenteken=06-BSJ-3 | Bezetting=8 | RDW zitplaatsen=6
-- Roepnummer=03-9401 | Kenteken=TT-210-Z | Bezetting=8 | RDW zitplaatsen=9
-- Roepnummer=TS-ZBW1 | Kenteken=BT-HS-61 | Bezetting=8 | RDW zitplaatsen=7
-- Roepnummer=04-1234 | Kenteken=BD-089-H | Bezetting=4 | RDW zitplaatsen=2
-- Roepnummer=04-1239 | Kenteken=BD-641-G | Bezetting=9 | RDW zitplaatsen=7
-- Roepnummer=04-1238 | Kenteken=BB-812-Z | Bezetting=8 | RDW zitplaatsen=2
-- Roepnummer=04-1231 | Kenteken=BD-680-G | Bezetting=8 | RDW zitplaatsen=7
-- Roepnummer=04-1235 | Kenteken=BB-817-Z | Bezetting=8 | RDW zitplaatsen=7
-- Roepnummer=04-1132 | Kenteken=BV-JF-69 | Bezetting=7 | RDW zitplaatsen=8
+  Roepnummer   | Kenteken   | Bezetting |           RDW
+  -----------------------------------------------------
+  01-1003      | ZB-105-K   |         9 |             8
+  01-1031      | BV-FL-78   |         9 |             7
+  01-1101      | 33-BDS-5   |         6 |             3
+  01-1302      | 7-VTR-76   |         7 |             6
+  01-1601      | HFR-02-G   |         7 |             5
+  01-1804      | V-39-DST   |         7 |             5
+  01-1808      | J-466-JD   |         5 |             4
+  01-2233      | BV-HD-83   |         9 |             8
+  01-2402      | VTT-69-K   |         7 |             5
+  01-0134      | 28-BTD-8   |         7 |             2
+  01-2603      | 78-TGL-6   |         9 |             8
+  01-2905      | N-386-ZZ   |         9 |             8
+  01-2903      | N-385-ZZ   |         9 |             8
+  01-2933      | BV-FV-70   |         8 |             7
+  01-2901      | X-337-RN   |         9 |             8
+  02-4231      | BB-459-P   |         8 |             7
+  02-4202      | HFR-69-T   |         9 |             8
+  02-5301      | ZB-195-G   |         9 |             8
+  02-5302      | ZB-194-G   |         9 |             8
+  02-5402      | XX-991-R   |         9 |             8
+  02-5603      | XZ-497-R   |         9 |             8
+  02-5607      | XX-773-N   |         9 |             8
+  02-5605      | XZ-606-G   |         9 |             8
+  02-5606      | XZ-608-G   |         9 |             8
+  02-0238      | BB-252-T   |         8 |             7
+  02-5705      | XX-775-N   |         9 |             8
+  02-7501      | XZ-498-R   |         9 |             8
+  02-7502      | XZ-549-T   |         9 |             8
+  02-6102      | N-692-RX   |         9 |             8
+  02-6104      | N-691-RX   |         9 |             8
+  02-6302      | XX-785-N   |         9 |             8
+  02-6401      | J-496-XV   |         9 |             8
+  02-7401      | ZK-167-B   |         9 |             8
+  02-7402      | ZK-166-B   |         9 |             8
+  02-7403      | XX-776-N   |         9 |             8
+  02-0237      | BZ-VH-60   |         9 |             7
+  02-6501      | HFR-72-T   |         9 |             8
+  02-6504      | XZ-607-G   |         9 |             8
+  02-6503      | HFR-71-T   |         9 |             8
+  02-6601      | XX-990-R   |         9 |             8
+  02-6602      | XZ-495-R   |         9 |             8
+  02-6704      | ZK-165-B   |         9 |             8
+  02-6701      | ZP-667-B   |         9 |             8
+  02-6702      | ZP-668-B   |         9 |             8
+  02-6803      | XS-468-K   |         9 |             8
+  02-6804      | ZF-824-H   |         9 |             8
+  02-6805      | ZK-164-B   |         9 |             8
+  02-6903      | ZF-823-H   |         9 |             8
+  02-6904      | XX-777-N   |         9 |             8
+  02-7001      | HFR-68-T   |         9 |             8
+  02-7007      | HFR-70-T   |         9 |             8
+  02-0231      | 02-BDK-6   |         9 |             8
+  02-7103      | XX-774-N   |         9 |             8
+  Dienstauto ~ | 67-VBX-9   |         5 |             2
+  03-8031      | 89-BBF-5   |         8 |             7
+  03-0331      | BV-TG-28   |         8 |             7
+  03-0334      | BV-XR-40   |         8 |             7
+  03-8203      | K-445-NS   |         7 |             5
+  03-9704      | GKX-49-S   |         9 |             8
+  03-9997      | V-653-GZ   |         5 |             2
+  GEEN         | JJ-123-H   |         5 |             4
+  GEEN         | JJ-124-H   |         5 |             4
+  03-8232      | 05-BNV-1   |         8 |             7
+  03-8531      | BZ-VZ-35   |         8 |             7
+  03-8903      | X-982-BT   |         9 |             8
+  03-9004      | 7-VXS-38   |         7 |             6
+  03-9142      | 06-BSJ-3   |         8 |             6
+  TS-ZBW1      | BT-HS-61   |         8 |             7
+  04-1234      | BD-089-H   |         4 |             2
+  04-1239      | BD-641-G   |         9 |             7
+  04-1238      | BB-812-Z   |         8 |             2
+  04-1231      | BD-680-G   |         8 |             7
+  04-1235      | BB-817-Z   |         8 |             7
+  04-1630      | 88-BXG-1   |         8 |             7
+  04-1882      | VFT-46-V   |         6 |             5
+  04-1833      | BD-433-J   |         7 |             3
+  04-2280      | JH-380-V   |         9 |             8
+  04-2336      | BD-690-G   |         8 |             7
+  04-2303      | ZP-655-B   |         9 |             8
+  04-2581      | K-401-VZ   |         9 |             8
+  04-2681      | P-678-NN   |         9 |             8
+  04-1183      | 76-BNF-9   |         6 |             2
+  05-9605      | K-298-LS   |         5 |             4
+  05-9608      | K-297-LS   |         5 |             4
+  05-9609      | K-795-VD   |         5 |             4
+  05-9611      | K-797-VD   |         5 |             4
+  05-9613      | K-798-VD   |         5 |             4
+  05-9614      | K-796-VD   |         5 |             4
+  05-2201      | RS-232-F   |         9 |             8
+  05-2401      | RS-233-F   |         9 |             8
+  05-4106      | H-517-TR   |         9 |             8
+  05-9610      | K-794-VD   |         5 |             4
+  05-9612      | K-793-VD   |         5 |             4
+  05-4301      | S-609-NL   |         9 |             8
+  05-4401      | S-608-NL   |         9 |             8
+  05-4501      | R-667-RJ   |         9 |             8
+  05-5301      | R-693-TG   |         9 |             8
+  05-5501      | JBG-29-D   |         9 |             8
+  05-9382      | VZZ-33-B   |         7 |             2
+  06-1131      | BX-HS-48   |         8 |             7
+  06-7003      | VZH-22-R   |         3 |             2
+  06-1501      | JTP-20-P   |         8 |             5
+  06-2231      | 14-BGT-6   |         8 |             7
+  06-2301      | R-354-BN   |         9 |             8
+  06-2843      | BZ-XZ-72   |         7 |             4
+  06-7902      | V-714-SF   |         7 |             3
+  06-7903      | V-98-NNT   |         7 |             2
+  06-3531      | BS-BD-37   |         7 |             3
+  06-3643      | BZ-XZ-74   |         5 |             4
+  06-3741      | BS-VR-97   |         7 |             2
+  06-7236      | 97-BXT-3   |         9 |             7
+  06-4131      | BD-206-K   |         7 |             2
+  06-4201      | R-342-BN   |         8 |             5
+  06-7336      | BV-JJ-79   |         9 |             7
+  06-6231      | 33-BZB-1   |         8 |             7
+  06-6232      | 06-BGN-3   |         8 |             7
+  06-6301      | R-341-BN   |         8 |             5
+  06-8203      | V-93-NNT   |         7 |             3
+  07-1001      | PX-067-Z   |         9 |             8
+  07-3601      | XP-260-F   |         9 |             8
+  07-4780      | PX-068-Z   |         9 |             8
+
+------------------------------------------------------------------------------------------
+  Verschil: RDW zitplaatsen hoger dan bezetting
+------------------------------------------------------------------------------------------
+  Roepnummer   | Kenteken   | Bezetting |           RDW
+  -----------------------------------------------------
+  01-1032      | BT-VS-39   |         6 |             7
+  01-1131      | BV-VF-11   |         7 |             8
+  01-1401      | GJN-66-B   |         5 |             8
+  01-1502      | GFP-79-J   |         7 |             8
+  01-1603      | HFR-03-G   |         7 |             8
+  01-1604      | 5-SPX-72   |         7 |             9
+  01-1701      | J-193-DZ   |         7 |             8
+  01-1802      | J-181-DZ   |         7 |             9
+  01-2031      | BZ-RB-99   |         6 |             7
+  01-2701      | 5-VTD-66   |         5 |             6
+  01-2904      | VTT-90-K   |         6 |             7
+  01-3131      | BD-792-J   |         6 |             7
+  GEEN         | VL-868-F   |         2 |             3
+  01-3903      | 13-RP-RJ   |         7 |             9
+  01-39Engine~ | 68-BNZ-1   |         4 |             6
+  02-4001      | VXT-89-X   |         6 |             7
+  02-4204      | N-694-RX   |         5 |             8
+  02-0233      | 46-BDK-1   |         7 |             8
+  02-4601      | N-693-RX   |         7 |             8
+  02-4701      | GGF-59-H   |         5 |             9
+  02-4869      | BS-JS-52   |         7 |             8
+  02-5631      | BB-465-R   |         5 |             7
+  02-7338      | BS-VH-53   |         6 |             8
+  02-6332      | BZ-PV-39   |         7 |             8
+  02-6402      | J-483-VN   |         7 |             8
+  GEEN         | 14-FX-HB   |         7 |             9
+  03-8002      | K-456-NS   |         7 |             8
+  03-8131      | 69-BVD-1   |         7 |             8
+  03-8102      | BX-VB-53   |         6 |             9
+  03-8103      | BZ-ZH-83   |         6 |             8
+  03-8204      | G-819-KV   |         7 |             9
+  03-8301      | HBN-59-J   |         6 |             7
+  03-8331      | BZ-DN-65   |         7 |             8
+  03-8333      | 42-BVD-1   |         7 |             8
+  03-8302      | HBR-62-H   |         6 |             7
+  03-8401      | K-454-NS   |         7 |             8
+  03-8432      | 84-BXZ-5   |         7 |             8
+  03-8434      | 27-BXX-2   |         7 |             8
+  03-8673      | V-238-HN   |         2 |             5
+  03-8733      | 73-BVD-1   |         7 |             8
+  03-8833      | 87-BXS-3   |         7 |             8
+  03-8836      | 79-BVD-1   |         7 |             8
+  03-8931      | 50-BVD-1   |         7 |             8
+  03-9001      | HBN-57-J   |         6 |             8
+  03-9031      | 19-BXR-4   |         7 |             8
+  03-9002      | HBN-58-J   |         6 |             7
+  03-9003      | HBN-56-J   |         6 |             8
+  03-9103      | HBR-63-H   |         6 |             7
+  03-9104      | 23-RXB-5   |         5 |             7
+  03-9401      | TT-210-Z   |         8 |             9
+  04-1132      | BV-JF-69   |         7 |             8
+  04-1182      | V-819-JS   |         2 |             3
+  04-1607      | ZK-146-B   |         8 |             9
+  04-DB0014    | 7-VXJ-55   |         3 |             6
+  04-DB0015    | 45-ZKJ-3   |         3 |             9
+  04-DB0016    | 96-KTX-7   |         3 |             9
+  04-DB0019    | 31-STX-2   |         3 |             9
+  04-DB0010    | 61-TTF-1   |         7 |             8
+  04-1940      | 10-BBD-1   |         7 |             8
+  04-1003      | VD-328-G   |         3 |             6
+  04-2833      | BD-411-J   |         7 |            50
+  GEEN         | PZ-855-B   |         2 |             5
+  GEEN         | 26-SJP-5   |         5 |             7
+  05-9486      | VS-999-L   |         2 |             3
+  05-9203      | J-498-BT   |         5 |             7
+  06-1301      | JTP-35-H   |         7 |             8
+  06-1941      | BR-LH-30   |         7 |             8
+  06-2341      | 13-BHS-7   |         7 |             8
+  06-3201      | G-821-KV   |         7 |             8
+  06-3231      | 16-BGT-6   |         7 |             8
+  06-7136      | BX-LZ-90   |         2 |             8
+  06-7146      | BR-BZ-42   |         8 |             9
+  06-5141      | BT-RL-13   |         7 |             8
+  06-5161      | 63-BKS-2   |         8 |            57
+  GEEN         | 79-VXJ-8   |         2 |             7
+  07-1441      | 33-BFK-1   |         7 |             8
+  07-1641      | 57-BDT-7   |         7 |             8
+  07-9042      | 36-BFK-1   |         7 |             8
+  07-1931      | 55-BDT-7   |         7 |             8
+  07-2141      | 70-BXZ-5   |         6 |             7
+  07-2341      | 76-BXP-5   |         6 |             7
+  07-7102      | P-178-JP   |         7 |             8
+  07-PM        | V-407-NR   |         2 |             3
 
 ==========================================================================================
