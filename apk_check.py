@@ -15,8 +15,6 @@ RAW_NL_FILE = os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_raw.json")
 STORAGE_DIR = "storage"
 KENTEKEN_STATUS_FILENAME = "kenteken_status.json"
 KENTEKEN_STATUS_FILE = os.path.join(STORAGE_DIR, KENTEKEN_STATUS_FILENAME)
-MAX_RDW_CHECKS_PER_RUN = 1000
-MAX_TENAAMSTELLING_CHECKS_PER_RUN = 1000
 
 
 def ensure_report_path():
@@ -38,6 +36,15 @@ def ensure_status_path():
     root_path = KENTEKEN_STATUS_FILENAME
     if os.path.exists(root_path) and not os.path.exists(KENTEKEN_STATUS_FILE):
         shutil.move(root_path, KENTEKEN_STATUS_FILE)
+
+
+def normalize_aantal_zitplaatsen(value):
+    if value is None:
+        return None
+    text = str(value).strip()
+    if not text:
+        return None
+    return text
 
 # 1. Collect all kentekens from the relevant JSON files
 def collect_kentekens_with_roepnummer():
@@ -176,7 +183,7 @@ def webhook_APK(message):
         print(f"Not sent with {result.status_code}, response:\n{result.json()}")
 
 # 6. Main script
-def main():
+def run(max_checks=None):
     ensure_report_path()
     ensure_status_path()
     kenteken_map = collect_kentekens_with_roepnummer()
@@ -198,13 +205,14 @@ def main():
     ]
     # Combine and deduplicate
     to_check = list(dict.fromkeys(unknowns + expired))
+    run_budget = len(to_check) if max_checks is None else max(0, int(max_checks))
     # Limit to max RDW checks per run
-    if len(to_check) > MAX_RDW_CHECKS_PER_RUN:
+    if len(to_check) > run_budget:
         print(
             f"Let op: er zijn {len(to_check)} kentekens om te checken, "
-            f"maar maximaal {MAX_RDW_CHECKS_PER_RUN} worden nu verwerkt."
+            f"maar maximaal {run_budget} worden nu verwerkt."
         )
-        to_check = to_check[:MAX_RDW_CHECKS_PER_RUN]
+        to_check = to_check[:run_budget]
     output_lines = []
     print(f"Start batch check van {len(to_check)} kentekens...")
     for idx, kenteken in enumerate(to_check, 1):
@@ -231,6 +239,9 @@ def main():
         )
         rdw_tenaamstelling = check_tenaamstelling_changes.normalize_tenaamstelling(
             apk_info.get("datum_tenaamstelling_dt")
+        )
+        status[kenteken]["aantal_zitplaatsen"] = normalize_aantal_zitplaatsen(
+            apk_info.get("aantal_zitplaatsen")
         )
         if stored_tenaamstelling is None and rdw_tenaamstelling is not None:
             status[kenteken]["datum_tenaamstelling_dt"] = rdw_tenaamstelling
@@ -360,24 +371,11 @@ def main():
         w(SEP)
 
     print(f"Rapport bijgewerkt in {REPORT_FILE}")
+    return len(to_check)
 
-    # Use remaining RDW budget for tenaamstelling checks in the same run.
-    remaining_budget = max(0, MAX_RDW_CHECKS_PER_RUN - len(to_check))
-    tenaamstelling_budget = min(remaining_budget, MAX_TENAAMSTELLING_CHECKS_PER_RUN)
-    if tenaamstelling_budget > 0:
-        print(
-            "Start controle datum_tenaamstelling_dt "
-            "met budget: "
-            f"{tenaamstelling_budget} "
-            f"(resterend APK budget: {remaining_budget}, tenaamstelling max: {MAX_TENAAMSTELLING_CHECKS_PER_RUN})..."
-        )
-        try:
-            checked = check_tenaamstelling_changes.run(max_checks=tenaamstelling_budget)
-            print(f"Tenaamstelling controle voltooid: {checked} kentekens gecontroleerd.")
-        except Exception as exc:
-            print(f"Tenaamstelling controle kon niet worden uitgevoerd: {exc}")
-    else:
-        print("Geen resterend RDW budget voor datum_tenaamstelling_dt controle.")
+
+def main():
+    run()
 
 if __name__ == "__main__":
     main()

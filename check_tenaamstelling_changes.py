@@ -113,6 +113,15 @@ def normalize_tenaamstelling(value: str | None) -> str | None:
     return text
 
 
+def normalize_aantal_zitplaatsen(value) -> str | None:
+    if value is None:
+        return None
+    text = str(value).strip()
+    if not text:
+        return None
+    return text
+
+
 def format_rdw_date(value: str | None) -> str:
     normalized = normalize_tenaamstelling(value)
     if not normalized:
@@ -218,6 +227,10 @@ def run(max_checks: int | None = None) -> int:
 
         if not record:
             continue
+
+        entry["aantal_zitplaatsen"] = normalize_aantal_zitplaatsen(
+            record.get("aantal_zitplaatsen")
+        )
 
         current_value = normalize_tenaamstelling(record.get("datum_tenaamstelling_dt"))
         previous_value = normalize_tenaamstelling(entry.get("datum_tenaamstelling_dt"))

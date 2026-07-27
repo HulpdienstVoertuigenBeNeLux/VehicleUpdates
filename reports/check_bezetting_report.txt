@@ -1,0 +1,46 @@
+==========================================================================================
+  Bezetting Check Report
+==========================================================================================
+  Totaal records                  : 19554
+  Records met parsebare bezetting : 3363
+  Onjuist geformatteerde bezetting: 0
+  Buiten range (1-12)             : 0
+  Bezetting != RDW zitplaatsen    : 7
+
+------------------------------------------------------------------------------------------
+  Verdeling bezetting
+------------------------------------------------------------------------------------------
+   1 personen : 11
+   2 personen : 148
+   3 personen : 43
+   4 personen : 108
+   5 personen : 790
+   6 personen : 262
+   7 personen : 1091
+   8 personen : 407
+   9 personen : 496
+  10 personen : 6
+  11 personen : 1
+
+------------------------------------------------------------------------------------------
+  Onjuist geformatteerde bezetting
+------------------------------------------------------------------------------------------
+  (geen)
+
+------------------------------------------------------------------------------------------
+  Buiten range (1-12)
+------------------------------------------------------------------------------------------
+  (geen)
+
+------------------------------------------------------------------------------------------
+  Verschil: bezetting vs RDW zitplaatsen
+------------------------------------------------------------------------------------------
+- Roepnummer=01-1003 | Kenteken=ZB-105-K | Bezetting=9 | RDW zitplaatsen=8
+- Roepnummer=01-1031 | Kenteken=BV-FL-78 | Bezetting=9 | RDW zitplaatsen=7
+- Roepnummer=01-1032 | Kenteken=BT-VS-39 | Bezetting=6 | RDW zitplaatsen=7
+- Roepnummer=01-1101 | Kenteken=33-BDS-5 | Bezetting=6 | RDW zitplaatsen=3
+- Roepnummer=01-1131 | Kenteken=BV-VF-11 | Bezetting=7 | RDW zitplaatsen=8
+- Roepnummer=01-1302 | Kenteken=7-VTR-76 | Bezetting=7 | RDW zitplaatsen=6
+- Roepnummer=01-1401 | Kenteken=GJN-66-B | Bezetting=5 | RDW zitplaatsen=8
+
+==========================================================================================
