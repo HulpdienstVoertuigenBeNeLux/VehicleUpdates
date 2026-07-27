@@ -13,6 +13,7 @@ RAW_NL_FILE = os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_raw.json")
 STORAGE_DIR = "storage"
 STATUS_FILENAME = "kenteken_status.json"
 STATUS_FILE = os.path.join(STORAGE_DIR, STATUS_FILENAME)
+RDW_REQUEST_TIMEOUT_SECONDS = int(os.getenv("RDW_REQUEST_TIMEOUT_SECONDS", "6"))
 
 
 def ensure_raw_input_path() -> None:
@@ -58,41 +59,24 @@ def save_status(status: dict) -> None:
         json.dump(status, f, indent=2, ensure_ascii=False)
 
 
-def fetch_rdw_record(kenteken: str) -> dict | None:
+def fetch_rdw_record(kenteken: str) -> tuple[dict | None, bool]:
     url = f"https://opendata.rdw.nl/resource/m9d7-ebf2.json?kenteken={kenteken.replace('-', '').upper()}"
-    retryable_status_codes = {408, 425, 429, 500, 502, 503, 504}
-    max_attempts = 4
-    retry_delay_seconds = 30
-
-    for attempt in range(1, max_attempts + 1):
-        try:
-            response = requests.get(url, timeout=10)
-            if response.status_code in retryable_status_codes and attempt < max_attempts:
-                print(
-                    f"RDW API gaf status {response.status_code} voor {kenteken}. "
-                    f"Retry in {retry_delay_seconds}s (attempt {attempt}/{max_attempts})..."
-                )
-                time.sleep(retry_delay_seconds)
-                continue
-
-            if response.status_code == 200:
-                data = response.json()
-                if data:
-                    return data[0]
-            return None
-        except (requests.ConnectionError, requests.Timeout) as exc:
-            if attempt >= max_attempts:
-                print(f"Fout bij ophalen RDW info voor {kenteken}: {exc}")
-                return None
-            print(
-                f"Netwerk/time-out fout voor {kenteken}: {exc}. "
-                f"Retry in {retry_delay_seconds}s (attempt {attempt}/{max_attempts})..."
-            )
-            time.sleep(retry_delay_seconds)
-        except requests.RequestException as exc:
-            print(f"Fout bij ophalen RDW info voor {kenteken}: {exc}")
-            return None
-    return None
+    try:
+        response = requests.get(url, timeout=RDW_REQUEST_TIMEOUT_SECONDS)
+        if response.status_code == 200:
+            data = response.json()
+            if data:
+                return data[0], False
+        return None, False
+    except requests.Timeout as exc:
+        print(f"Time-out bij ophalen RDW info voor {kenteken}: {exc}")
+        return None, True
+    except requests.ConnectionError as exc:
+        print(f"Netwerkfout bij ophalen RDW info voor {kenteken}: {exc}")
+        return None, False
+    except requests.RequestException as exc:
+        print(f"Fout bij ophalen RDW info voor {kenteken}: {exc}")
+        return None, False
 
 
 def normalize_tenaamstelling(value: str | None) -> str | None:
@@ -217,12 +201,19 @@ def run(max_checks: int | None = None) -> int:
         max_checks = max(0, max_checks)
         kentekens = kentekens[:max_checks]
 
+    processed_checks = 0
+
     print(f"Start controle van datum_tenaamstelling_dt voor {len(kentekens)} kentekens...")
     for index, kenteken in enumerate(kentekens, 1):
         print(f"[{index}/{len(kentekens)}] Check {kenteken}...")
         entry = status[kenteken]
         entry.pop("changes", None)
-        record = fetch_rdw_record(kenteken)
+        record, timed_out = fetch_rdw_record(kenteken)
+        processed_checks += 1
+
+        if timed_out:
+            continue
+
         entry["last_tenaamstelling_check_date"] = today
 
         if not record:
@@ -255,7 +246,7 @@ def run(max_checks: int | None = None) -> int:
 
     save_status(status)
     print("Controle voltooid.")
-    return len(kentekens)
+    return processed_checks
 
 
 def main() -> None:

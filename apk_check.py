@@ -15,6 +15,7 @@ RAW_NL_FILE = os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_raw.json")
 STORAGE_DIR = "storage"
 KENTEKEN_STATUS_FILENAME = "kenteken_status.json"
 KENTEKEN_STATUS_FILE = os.path.join(STORAGE_DIR, KENTEKEN_STATUS_FILENAME)
+RDW_REQUEST_TIMEOUT_SECONDS = int(os.getenv("RDW_REQUEST_TIMEOUT_SECONDS", "6"))
 
 
 def ensure_report_path():
@@ -107,39 +108,22 @@ def save_kenteken_status(status):
 # 3. Collect APK info from RDW Open Data API
 def get_apk_info(kenteken):
     url = f'https://opendata.rdw.nl/resource/m9d7-ebf2.json?kenteken={kenteken.replace("-", "").upper()}'
-    retryable_status_codes = {408, 425, 429, 500, 502, 503, 504}
-    max_attempts = 4
-    retry_delay_seconds = 30
-
-    for attempt in range(1, max_attempts + 1):
-        try:
-            response = requests.get(url, timeout=10)
-            if response.status_code in retryable_status_codes and attempt < max_attempts:
-                print(
-                    f"RDW API gaf status {response.status_code} voor {kenteken}. "
-                    f"Retry in {retry_delay_seconds}s (attempt {attempt}/{max_attempts})..."
-                )
-                time.sleep(retry_delay_seconds)
-                continue
-
-            if response.status_code == 200:
-                data = response.json()
-                if data:
-                    return data[0]  # Return first result
-            return None
-        except (requests.ConnectionError, requests.Timeout) as e:
-            if attempt >= max_attempts:
-                print(f"Fout bij ophalen APK info voor {kenteken}: {e}")
-                return None
-            print(
-                f"Netwerk/time-out fout voor {kenteken}: {e}. "
-                f"Retry in {retry_delay_seconds}s (attempt {attempt}/{max_attempts})..."
-            )
-            time.sleep(retry_delay_seconds)
-        except requests.RequestException as e:
-            print(f"Fout bij ophalen APK info voor {kenteken}: {e}")
-            return None
-    return None
+    try:
+        response = requests.get(url, timeout=RDW_REQUEST_TIMEOUT_SECONDS)
+        if response.status_code == 200:
+            data = response.json()
+            if data:
+                return data[0]  # Return first result
+        return None
+    except requests.Timeout as e:
+        print(f"Time-out bij ophalen APK info voor {kenteken}: {e}")
+        return None
+    except requests.ConnectionError as e:
+        print(f"Netwerkfout bij ophalen APK info voor {kenteken}: {e}")
+        return None
+    except requests.RequestException as e:
+        print(f"Fout bij ophalen APK info voor {kenteken}: {e}")
+        return None
 
 # 4. Check if APK is valid
 def is_apk_valid(apk_info):

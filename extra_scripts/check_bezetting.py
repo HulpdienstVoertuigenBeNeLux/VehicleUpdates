@@ -260,8 +260,12 @@ def _enrich_missing_zitplaatsen(
     used_checks = 0
     for index, kenteken in enumerate(pending_kentekens, 1):
         print(f"[{index}/{len(pending_kentekens)}] Zitplaatsen check {kenteken}...")
-        record = check_tenaamstelling_changes.fetch_rdw_record(kenteken)
+        record, timed_out = check_tenaamstelling_changes.fetch_rdw_record(kenteken)
         used_checks += 1
+
+        if timed_out:
+            continue
+
         if not record:
             continue
 
@@ -273,7 +277,12 @@ def _enrich_missing_zitplaatsen(
     return used_checks
 
 
-def _write_report(result: dict[str, Any], mismatches: list[dict[str, Any]]) -> None:
+def _write_report(
+    result: dict[str, Any],
+    mismatches: list[dict[str, Any]],
+    compared_with_rdw: int,
+    missing_rdw_data: int,
+) -> None:
     os.makedirs(REPORTS_DIR, exist_ok=True)
     bezetting_hoger, zitplaatsen_hoger = _split_mismatches(mismatches)
 
@@ -329,6 +338,8 @@ def _write_report(result: dict[str, Any], mismatches: list[dict[str, Any]]) -> N
         w(sep)
         w(f"  Totaal records                  : {result['total']}")
         w(f"  Records met parsebare bezetting : {result['with_bezetting']}")
+        w(f"  Vergeleken met RDW              : {compared_with_rdw}")
+        w(f"  RDW data ontbreekt              : {missing_rdw_data}")
         w(f"  Onjuist geformatteerde bezetting: {len(result['malformed'])}")
         w(f"  Buiten range (1-12)             : {len(result['out_of_range'])}")
         w(f"  Bezetting != RDW zitplaatsen    : {len(mismatches)}")
@@ -390,8 +401,10 @@ def run(max_checks: int | None = None) -> int:
     status_by_kenteken = _status_lookup(status)
     result = _analyze(records)
     bezetting_rows = _extract_bezetting_rows(records, status_by_kenteken)
+    compared_with_rdw = sum(1 for row in bezetting_rows if row.get("zitplaatsen") is not None)
+    missing_rdw_data = len(bezetting_rows) - compared_with_rdw
     mismatches = _collect_mismatches(bezetting_rows)
-    _write_report(result, mismatches)
+    _write_report(result, mismatches, compared_with_rdw, missing_rdw_data)
     _write_bezetting_json(bezetting_rows)
     print(f"Bezetting rapport geschreven naar: {REPORT_FILE}")
     print(f"Bezetting JSON geschreven naar: {OUTPUT_JSON_FILE}")
