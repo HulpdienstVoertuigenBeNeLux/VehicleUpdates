@@ -70727,18 +70727,6 @@
     "datum_tenaamstelling_dt": "2025-05-21",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "G-685-XL": {
-    "expiry": "2026-10-14",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "10-105"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-07-22",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
   "J-927-NR": {
     "expiry": "2026-10-15",
     "checked": true,
@@ -81035,18 +81023,6 @@
     "datum_tenaamstelling_dt": "2016-08-10",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "H-676-KJ": {
-    "expiry": "2027-02-20",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "25-128"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-05-21",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
   "Z-726-LS": {
     "expiry": "2027-05-03",
     "checked": true,
@@ -84155,18 +84131,6 @@
     "unknown": true,
     "roepnummers": [
       "36-0080"
-    ],
-    "last_check_date": "2026-07-26",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
-  "VX-FJ-15": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "36-0810"
     ],
     "last_check_date": "2026-07-26",
     "last_expired_notification_date": null,
@@ -98890,6 +98854,54 @@
     "last_check_date": "2026-07-27",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2026-06-17",
+    "last_tenaamstelling_check_date": "2026-07-27"
+  },
+  "KKT-40-X": {
+    "expiry": "2027-06-04",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "10-105"
+    ],
+    "last_check_date": "2026-07-27",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-06-04",
+    "last_tenaamstelling_check_date": "2026-07-27"
+  },
+  "JTT-26-V": {
+    "expiry": "2027-01-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "25-217"
+    ],
+    "last_check_date": "2026-07-27",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-01-10",
+    "last_tenaamstelling_check_date": "2026-07-27"
+  },
+  "JTT-27-V": {
+    "expiry": "2027-01-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "25-128"
+    ],
+    "last_check_date": "2026-07-27",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-01-10",
+    "last_tenaamstelling_check_date": "2026-07-27"
+  },
+  "VZX-29-F": {
+    "expiry": "2027-08-12",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "36-0810"
+    ],
+    "last_check_date": "2026-07-27",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-08-12",
     "last_tenaamstelling_check_date": "2026-07-27"
   }
 }
