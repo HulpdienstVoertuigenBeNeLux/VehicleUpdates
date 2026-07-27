@@ -67831,7 +67831,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "H-282-PZ",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "ON-BRV.",
     "Hulpdienst": "Brandweer",
     "Regio": "18",
     "Interne opmerking": ""
@@ -67850,10 +67850,10 @@
   {
     "Adres": "Dordrecht Oranjepark",
     "Roepnummer": "18-6513",
-    "Afkorting": "ON-BRV",
-    "TypeVoertuig": "Ondersteuningsteam brandweervaartuig",
+    "Afkorting": "GMT",
+    "TypeVoertuig": "Gereedschap/materieelvoertuig terreinvaardig",
     "Kenteken": "VR-635-T",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "ON-BRV.",
     "Hulpdienst": "Brandweer",
     "Regio": "18",
     "Interne opmerking": ""
@@ -67864,7 +67864,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "93-BVR-5",
-    "Bijzonderheden": "Bezetting: 6 personen.",
+    "Bijzonderheden": "ON-UHD. Bezetting: 6 personen.",
     "Hulpdienst": "Brandweer",
     "Regio": "18",
     "Interne opmerking": ""
@@ -67886,7 +67886,7 @@
     "Afkorting": "PM-BBM",
     "TypeVoertuig": "Personeel/materieelvoertuig met bijzondere brandbestrijdingsmiddelen",
     "Kenteken": "07-BDK-3",
-    "Bijzonderheden": "BU-UHD.",
+    "Bijzonderheden": "BU-WS, BU-VN en BU-UHD.",
     "Hulpdienst": "Brandweer",
     "Regio": "18",
     "Interne opmerking": ""
@@ -67897,7 +67897,18 @@
     "Afkorting": "BRV-Z",
     "TypeVoertuig": "Brandweervaartuig zeer groot",
     "Kenteken": "Zuid-Holland Zuid",
-    "Bijzonderheden": "Ligplaats: Van Leeuwenhoekweg 20.",
+    "Bijzonderheden": "WOV-G. Ligplaats: Van Leeuwenhoekweg 20.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "18",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Dordrecht Oranjepark",
+    "Roepnummer": "18-6591",
+    "Afkorting": "COP-DCU",
+    "TypeVoertuig": "Commando/Coördinatiepost decentrale uitgifte",
+    "Kenteken": "GEEN",
+    "Bijzonderheden": "Betreft de kazerne indien gebruikt als DCU locatie.",
     "Hulpdienst": "Brandweer",
     "Regio": "18",
     "Interne opmerking": ""
@@ -67941,7 +67952,7 @@
     "Afkorting": "WO",
     "TypeVoertuig": "Waterongevallenvoertuig",
     "Kenteken": "57-BDP-9",
-    "Bijzonderheden": "BUV-OWD.",
+    "Bijzonderheden": "WO-NO en BUV-OWD.",
     "Hulpdienst": "Brandweer",
     "Regio": "18",
     "Interne opmerking": ""
@@ -67974,7 +67985,7 @@
     "Afkorting": "AL",
     "TypeVoertuig": "Autoladder",
     "Kenteken": "90-BTV-4",
-    "Bijzonderheden": "Lengte: 30 meter.",
+    "Bijzonderheden": "RV-AF. Lengte: 30 meter.",
     "Hulpdienst": "Brandweer",
     "Regio": "18",
     "Interne opmerking": ""
@@ -103521,7 +103532,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Tubbergen,Boskampstraat 35",
+    "Adres": "Tubbergen, Boskampstraat 35",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -103873,7 +103884,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Enschede, M.H. Troplaan 47",
+    "Adres": "Enschede, M.H. Tromplaan 47",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -126610,7 +126621,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Rode Kruis Holten, Oranjestraat 40",
+    "Adres": "Verbindingsdienst Overijssel, Waagweg 6a Holten",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -126621,7 +126632,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Holten",
+    "Adres": "Verbindingsdienst Overijssel",
     "Roepnummer": "05-9-30",
     "Afkorting": "CO-RK",
     "TypeVoertuig": "Commando voertuig Rode Kruis",
