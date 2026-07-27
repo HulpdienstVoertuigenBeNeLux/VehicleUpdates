@@ -2,7 +2,7 @@ import apk_check
 import check_tenaamstelling_changes
 from extra_scripts import check_bezetting
 
-MAX_RDW_CHECKS_PER_RUN = 10
+MAX_RDW_CHECKS_PER_RUN = 500
 
 
 def main() -> None:
