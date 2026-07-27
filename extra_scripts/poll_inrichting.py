@@ -8,6 +8,9 @@ from typing import Any
 import requests
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(SCRIPT_DIR)
+STORAGE_DIR = os.path.join(BASE_DIR, "storage")
+LEGACY_DATA_DIR = os.path.join(BASE_DIR, "Data")
 if SCRIPT_DIR not in sys.path:
     sys.path.append(SCRIPT_DIR)
 
@@ -24,14 +27,23 @@ TARGETS = [
     {
         "naam": "brandweer",
         "where": "inrichting is not null and upper(inrichting) like '%BRANDWEER%'",
-        "output": os.getenv("RDW_BRANDWEER_OUTPUT", os.path.join("Data", "Brandweer_rdw.json")),
+        "output": os.getenv("RDW_BRANDWEER_OUTPUT", os.path.join(STORAGE_DIR, "Brandweer_rdw.json")),
     },
     {
         "naam": "ambulance",
         "where": "inrichting is not null and upper(inrichting) like '%AMBULANCE%'",
-        "output": os.getenv("RDW_AMBULANCE_OUTPUT", os.path.join("Data", "Ambulance_rdw.json")),
+        "output": os.getenv("RDW_AMBULANCE_OUTPUT", os.path.join(STORAGE_DIR, "Ambulance_rdw.json")),
     },
 ]
+
+
+def ensure_storage_output_paths() -> None:
+    os.makedirs(STORAGE_DIR, exist_ok=True)
+    for filename in ("Brandweer_rdw.json", "Ambulance_rdw.json"):
+        legacy_path = os.path.join(LEGACY_DATA_DIR, filename)
+        storage_path = os.path.join(STORAGE_DIR, filename)
+        if os.path.exists(legacy_path) and not os.path.exists(storage_path):
+            os.replace(legacy_path, storage_path)
 
 
 def fetch_page(session: requests.Session, where_query: str, offset: int) -> list[dict[str, Any]]:
@@ -189,6 +201,8 @@ def save_result(output_file: str, data: list[dict[str, Any]]) -> None:
 
 
 def main() -> None:
+    ensure_storage_output_paths()
+
     headers = {}
     app_token = os.getenv("RDW_APP_TOKEN")
     if app_token:

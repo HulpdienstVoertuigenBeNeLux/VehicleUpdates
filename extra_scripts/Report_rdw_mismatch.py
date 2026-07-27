@@ -4,10 +4,11 @@ from typing import Any
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_FILE = os.path.join(BASE_DIR, "raw", "hulpdienstvoertuigenbenelux_raw.json")
-RDW_BRANDWEER_FILE = os.path.join(BASE_DIR, "Data", "Brandweer_rdw.json")
-RDW_AMBULANCE_FILE = os.path.join(BASE_DIR, "Data", "Ambulance_rdw.json")
+STORAGE_DIR = os.path.join(BASE_DIR, "storage")
+LEGACY_DATA_DIR = os.path.join(BASE_DIR, "Data")
+RDW_BRANDWEER_FILE = os.path.join(STORAGE_DIR, "Brandweer_rdw.json")
+RDW_AMBULANCE_FILE = os.path.join(STORAGE_DIR, "Ambulance_rdw.json")
 REPORTS_DIR = os.path.join(BASE_DIR, "reports")
-DATA_DIR = os.path.join(BASE_DIR, "Data")
 LEGACY_TEXT_REPORT_FILE = os.path.join(REPORTS_DIR, "rdw_inrichting_mismatch_report.txt")
 LEGACY_JSON_REPORT_FILE = os.path.join(REPORTS_DIR, "rdw_inrichting_mismatch.json")
 
@@ -81,7 +82,21 @@ def _text_report_path(naam: str) -> str:
 
 
 def _json_report_path(naam: str) -> str:
-    return os.path.join(DATA_DIR, f"rdw_inrichting_mismatch_{naam}.json")
+    return os.path.join(STORAGE_DIR, f"rdw_inrichting_mismatch_{naam}.json")
+
+
+def _migrate_legacy_data_files() -> None:
+    os.makedirs(STORAGE_DIR, exist_ok=True)
+    for filename in (
+        "Brandweer_rdw.json",
+        "Ambulance_rdw.json",
+        "rdw_inrichting_mismatch_brandweer.json",
+        "rdw_inrichting_mismatch_ambulance.json",
+    ):
+        legacy_path = os.path.join(LEGACY_DATA_DIR, filename)
+        storage_path = os.path.join(STORAGE_DIR, filename)
+        if os.path.exists(legacy_path) and not os.path.exists(storage_path):
+            os.replace(legacy_path, storage_path)
 
 
 def _cleanup_legacy_reports() -> None:
@@ -143,7 +158,7 @@ def _write_text_report(result: dict[str, Any]) -> str:
 
 
 def _write_json_report(result: dict[str, Any]) -> str:
-    os.makedirs(DATA_DIR, exist_ok=True)
+    os.makedirs(STORAGE_DIR, exist_ok=True)
     output_path = _json_report_path(result["naam"])
     with open(output_path, "w", encoding="utf-8") as outfile:
         json.dump(result, outfile, indent=2, ensure_ascii=False)
@@ -151,6 +166,7 @@ def _write_json_report(result: dict[str, Any]) -> str:
 
 
 def generate_all_reports() -> dict[str, Any]:
+    _migrate_legacy_data_files()
     _cleanup_legacy_reports()
 
     hvb_records = _load_json_list(RAW_FILE)
