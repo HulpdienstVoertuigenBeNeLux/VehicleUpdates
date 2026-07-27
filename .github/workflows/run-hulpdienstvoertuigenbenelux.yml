@@ -39,10 +39,13 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           DISCORD_APK: ${{ secrets.DISCORD_APK }}
+          RDW_API_CHANGES_WEBHOOK: ${{ secrets.RDW_API_CHANGES_WEBHOOK }}
+          RDW_APP_TOKEN: ${{ secrets.RDW_APP_TOKEN }}
         run: |
           git pull
           python compare_hulpdienstvoertuigenbenelux.py ALL
           python apk_check.py
+          python extra_scripts/poll_inrichting.py
           python check_duplicates.py
 
       - name: Commit and push changes
