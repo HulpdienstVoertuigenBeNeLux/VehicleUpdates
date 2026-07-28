@@ -235,6 +235,11 @@ def _collect_missing_zitplaatsen_kentekens(
             continue
 
         status_row = status.get(status_key, {})
+        expiry = _safe_text(status_row.get("expiry")).lower()
+        if expiry in {"", "none", "null"}:
+            # Voertuigen zonder APK-vervaldatum behandelen als niet RDW-plichtig.
+            continue
+
         if _parse_int(status_row.get("aantal_zitplaatsen")) is not None:
             continue
 
