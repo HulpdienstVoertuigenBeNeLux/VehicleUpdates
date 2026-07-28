@@ -3,13 +3,13 @@
 ==========================================================================================
   Totaal records                  : 19554
   Records met parsebare bezetting : 3363
-  Vergeleken met RDW              : 3003
-  RDW data ontbreekt              : 360
+  Vergeleken met RDW              : 3112
+  RDW data ontbreekt              : 251
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 626
-  Bezetting > RDW zitplaatsen     : 333
-  RDW zitplaatsen > bezetting     : 293
+  Bezetting != RDW zitplaatsen    : 638
+  Bezetting > RDW zitplaatsen     : 335
+  RDW zitplaatsen > bezetting     : 303
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
@@ -374,6 +374,8 @@
   23-6107      | TP-752-V   |         5 |             4
   24-0737      | 44-BDF-4   |         8 |             7
   24-0738      | 56-BDD-7   |         9 |             7
+  25-8131      | 97-BDK-3   |         9 |             7
+  26-8201      | V-992-RD   |         7 |             3
 
 ------------------------------------------------------------------------------------------
   Verschil: RDW zitplaatsen hoger dan bezetting
@@ -671,7 +673,17 @@
   24-1502      | 9-KJR-78   |         8 |             9
   24-2131      | 17-BSJ-4   |         6 |             7
   24-2504      | VDB-27-P   |         2 |             3
+  24-2508      | 49-BNL-6   |         2 |             3
+  24-2600      | K-260-JL   |         4 |             5
   RAS          | VP-602-K   |         2 |             3
+  24-2731      | 19-BSJ-4   |         6 |             7
+  Brandweer 6  | VN-375-T   |         2 |             6
+  25-4083      | VB-453-D   |         2 |             6
+  25-4502      | JD-148-P   |         7 |             9
+  25-5531      | 78-BXD-3   |         6 |             7
+  25-6134      | 04-BXF-8   |         6 |             7
+  25-6135      | 12-BXF-8   |         6 |             7
   26-8202      | GL-419-D   |         7 |             9
+  26-8278      | X-721-KG   |         2 |             5
 
 ==========================================================================================
