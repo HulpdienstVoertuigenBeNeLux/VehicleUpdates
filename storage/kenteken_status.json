@@ -83021,18 +83021,6 @@
     "datum_tenaamstelling_dt": "2024-07-26",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "NP-152-R": {
-    "expiry": "2027-05-02",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "23-124"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2023-01-02",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
   "R-846-JH": {
     "expiry": "2026-11-16",
     "checked": true,
@@ -102167,5 +102155,18 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2024-08-12",
     "last_tenaamstelling_check_date": "2026-07-27"
+  },
+  "GGX-60-P": {
+    "expiry": "2026-07-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "23-124"
+    ],
+    "last_check_date": "2026-07-28",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-07-31",
+    "last_tenaamstelling_check_date": "2026-07-28",
+    "aantal_zitplaatsen": "4"
   }
 }
