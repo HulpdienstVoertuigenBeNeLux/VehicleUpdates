@@ -547,36 +547,12 @@
     "datum_tenaamstelling_dt": "2015-03-16",
     "last_tenaamstelling_check_date": "2026-07-26"
   },
-  "VL-199-V": {
-    "expiry": "2027-03-16",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "01-0002"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2015-03-16",
-    "last_tenaamstelling_check_date": "2026-07-26"
-  },
   "VL-700-X": {
     "expiry": "2027-03-16",
     "checked": true,
     "unknown": false,
     "roepnummers": [
       "01-0003"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2015-03-16",
-    "last_tenaamstelling_check_date": "2026-07-26"
-  },
-  "VL-196-V": {
-    "expiry": "2027-03-16",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "01-0004"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -83549,18 +83525,6 @@
     "datum_tenaamstelling_dt": "2023-01-26",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "SK-173-S": {
-    "expiry": "2027-05-15",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-133"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-05-27",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
   "XB-549-H": {
     "expiry": "2026-08-11",
     "checked": true,
@@ -102187,5 +102151,44 @@
     "datum_tenaamstelling_dt": "2024-07-31",
     "last_tenaamstelling_check_date": "2026-07-28",
     "aantal_zitplaatsen": "4"
+  },
+  "V-07-PSL": {
+    "expiry": "2030-06-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "01-0002"
+    ],
+    "last_check_date": "2026-07-29",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-06-25",
+    "last_tenaamstelling_check_date": "2026-07-29",
+    "aantal_zitplaatsen": "2"
+  },
+  "V-06-PSL": {
+    "expiry": "2030-06-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "01-0004"
+    ],
+    "last_check_date": "2026-07-29",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-06-25",
+    "last_tenaamstelling_check_date": "2026-07-29",
+    "aantal_zitplaatsen": "2"
+  },
+  "KRN-24-J": {
+    "expiry": "2027-01-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-133"
+    ],
+    "last_check_date": "2026-07-29",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-22",
+    "last_tenaamstelling_check_date": "2026-07-29",
+    "aantal_zitplaatsen": "5"
   }
 }
