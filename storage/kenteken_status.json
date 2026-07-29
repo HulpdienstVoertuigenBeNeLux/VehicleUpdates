@@ -69492,18 +69492,6 @@
     "datum_tenaamstelling_dt": "2020-09-08",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "XV-417-K": {
-    "expiry": "2027-03-22",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "05-158"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-06-17",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
   "N-919-BL": {
     "expiry": "2026-09-06",
     "checked": true,
@@ -102190,5 +102178,18 @@
     "datum_tenaamstelling_dt": "2026-07-22",
     "last_tenaamstelling_check_date": "2026-07-29",
     "aantal_zitplaatsen": "5"
+  },
+  "KGX-69-G": {
+    "expiry": "2027-04-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "05-158"
+    ],
+    "last_check_date": "2026-07-29",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-04-24",
+    "last_tenaamstelling_check_date": "2026-07-29",
+    "aantal_zitplaatsen": "4"
   }
 }
