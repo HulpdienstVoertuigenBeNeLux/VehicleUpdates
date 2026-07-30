@@ -5,10 +5,10 @@
 ----------------------------------------------------------------------------------------
   Brandweer
 ----------------------------------------------------------------------------------------
-  HulpdienstvoertuigenBenelux : 5671
+  HulpdienstvoertuigenBenelux : 5676
   RDW inrichting dataset      : 2584
-  Missing in RDW              : 3506
-  Extra in RDW                : 419
+  Missing in RDW              : 3509
+  Extra in RDW                : 417
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
   - 0022YK
@@ -189,7 +189,6 @@
   - 1VZD58
   - 1VZD59
   - 1VZD90
-  - 1XKJ15
   - 1XST97
   - 1XST98
   - 1XST99
@@ -645,6 +644,7 @@
   - 68BJZ7
   - 68BVK9
   - 68BXV1
+  - 69BFDP
   - 69BVZ2
   - 69BXV1
   - 69WFLJ
@@ -671,6 +671,7 @@
   - 6XPD33
   - 6XPD34
   - 6YG929
+  - 6YG931
   - 70BLX9
   - 70BNH3
   - 70BVK9
@@ -750,6 +751,7 @@
   - 7VFN81
   - 7VJN69
   - 7VJN70
+  - 7VJZ28
   - 7VLP63
   - 7VTP47
   - 7VTR76
@@ -836,7 +838,6 @@
   - 89BTV5
   - 89HNLB
   - 89SFJ8
-  - 89TTT8
   - 8KHX97
   - 8KHX98
   - 8KHX99
@@ -917,6 +918,7 @@
   - 92BFX4
   - 92T045
   - 92XHD6
+  - 93BBZ8
   - 93BDB4
   - 93WSVK
   - 94BBP8
@@ -1081,6 +1083,7 @@
   - BDGX11
   - BDJP48
   - BDRT36
+  - BDSP13
   - BDVV63
   - BDXD66
   - BFZV90
@@ -1089,7 +1092,6 @@
   - BJGX60
   - BJHX89
   - BJJH76
-  - BLLV44
   - BLRX10
   - BLVR13
   - BNGT14
@@ -1489,7 +1491,6 @@
   - HHN51D
   - HHN52D
   - HJ033T
-  - HJ993K
   - HJG09L
   - HJG10L
   - HJG11L
@@ -1533,7 +1534,10 @@
   - HNS74N
   - HPL46P
   - HPL47P
+  - HPZ45R
+  - HPZ46R
   - HPZ47R
+  - HPZ48R
   - HR457V
   - HRJ21X
   - HRJ22X
@@ -1800,6 +1804,7 @@
   - JND49S
   - JNN34K
   - JNN35K
+  - JNN91L
   - JNP67G
   - JNS82P
   - JRF09V
@@ -1808,6 +1813,7 @@
   - JRT88T
   - JRT89T
   - JRT90T
+  - JSG14H
   - JSN86B
   - JSN90B
   - JSN91B
@@ -2351,14 +2357,11 @@
   - PH941R
   - PH942K
   - PH943K
-  - PJ854R
-  - PJ857R
   - PK511S
   - PK512S
   - PK513S
   - PK514S
   - PK515S
-  - PK517S
   - PL594R
   - PL801J
   - PL803J
@@ -2503,7 +2506,6 @@
   - RP913P
   - RP914P
   - RP915P
-  - RR170D
   - RR921P
   - RR922P
   - RR923P
@@ -2581,6 +2583,7 @@
   - SK503L
   - SK867P
   - SN880X
+  - SN881X
   - ST793Z
   - SV578X
   - SX290J
@@ -2623,6 +2626,7 @@
   - T424GD
   - T450RD
   - T451RD
+  - T46FZR
   - T485GJ
   - T506NK
   - T508NK
@@ -2674,6 +2678,7 @@
   - TB581V
   - TB790T
   - TB791T
+  - TBT58L
   - TD746V
   - TG026D
   - TG060S
@@ -3379,7 +3384,6 @@
   - XD656G
   - XD657G
   - XH096S
-  - XJ613P
   - XJ979V
   - XL658T
   - XP260F
@@ -3471,7 +3475,6 @@
   - ZH101G
   - ZH102G
   - ZH338P
-  - ZJ478D
   - ZJ606N
   - ZJ607N
   - ZK141B
@@ -3585,7 +3588,6 @@
   - 73BXG1
   - 75BNJ1
   - 75BXH2
-  - 76BZR1
   - 76VGNP
   - 78BSF5
   - 78BSGD
@@ -3605,6 +3607,7 @@
   - 90BKF8
   - 9133XB
   - 93BKF8
+  - 93BZZ8
   - 98BDR9
   - 99BDR9
   - 99BVDR
@@ -3673,12 +3676,12 @@
   - BK34JB
   - BK95KZ
   - BL17HF
+  - BLLF78
   - BLLL50
   - BLLL51
   - BLNH15
   - BLNH53
   - BLPD45
-  - BLRL20
   - BLTF77
   - BLTJ07
   - BLTT19
@@ -3726,6 +3729,7 @@
   - BPRD79
   - BPTG43
   - BPTH47
+  - BPTP25
   - BPTR89
   - BPTS03
   - BPTT15
@@ -3754,10 +3758,8 @@
   - BRTS33
   - BRTV08
   - BS52FN
-  - BSBD92
   - BSFH64
   - BSGV38
-  - BSGV47
   - BSLN39
   - BSLN64
   - BSLP39
@@ -3876,7 +3878,6 @@
   - BXRD83
   - BXTZ36
   - BXVG08
-  - BXVG73
   - BXVH38
   - BXVL26
   - BXVP80

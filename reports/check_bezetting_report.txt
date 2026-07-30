@@ -1,28 +1,28 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                  : 19551
-  Records met parsebare bezetting : 3363
-  Vergeleken met RDW              : 3112
-  RDW data ontbreekt              : 251
+  Totaal records                  : 19557
+  Records met parsebare bezetting : 3356
+  Vergeleken met RDW              : 3104
+  RDW data ontbreekt              : 252
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 638
+  Bezetting != RDW zitplaatsen    : 637
   Bezetting > RDW zitplaatsen     : 335
-  RDW zitplaatsen > bezetting     : 303
+  RDW zitplaatsen > bezetting     : 302
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
 ------------------------------------------------------------------------------------------
    1 personen : 11
    2 personen : 149
-   3 personen : 43
+   3 personen : 44
    4 personen : 108
-   5 personen : 789
+   5 personen : 785
    6 personen : 262
-   7 personen : 1091
+   7 personen : 1092
    8 personen : 407
-   9 personen : 496
+   9 personen : 491
   10 personen : 6
   11 personen : 1
 
@@ -496,11 +496,10 @@
   10-5902      | ZK-141-B   |         7 |             9
   10-6602      | 86-XHJ-1   |         5 |             7
   11-2001      | SN-880-X   |         5 |             7
+  11-5007      | SN-881-X   |         5 |             7
   11-0302      | V-850-RT   |         2 |             6
-  11-0304      | 9-VDL-27   |         2 |             7
-  11-6082      | HKX-12-T   |         7 |             8
   11-0303      | V-547-RF   |         2 |             3
-  11-8085      | X-586-HS   |         7 |             9
+  11-0304      | 9-VDL-27   |         2 |             7
   12-1689      | VL-198-V   |         5 |             6
   12-9082      | VG-835-F   |         2 |             3
   12-9086      | VXL-77-Z   |         2 |             3
