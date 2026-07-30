@@ -5,9 +5,9 @@
 ----------------------------------------------------------------------------------------
   Ambulance
 ----------------------------------------------------------------------------------------
-  HulpdienstvoertuigenBenelux : 1662
+  HulpdienstvoertuigenBenelux : 1655
   RDW inrichting dataset      : 1354
-  Missing in RDW              : 636
+  Missing in RDW              : 629
   Extra in RDW                : 328
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
@@ -30,10 +30,8 @@
   - 45WE44
   - 4VLZ65
   - 5005YS
-  - 51KKB1
   - 52MBGR
   - 53HTX2
-  - 56KJR2
   - 56TSB6
   - 5KBZ82
   - 60MJHF
@@ -76,7 +74,6 @@
   - G323LF
   - G324LF
   - G408VB
-  - G603VX
   - G655LR
   - G928PT
   - G947RL
@@ -109,6 +106,7 @@
   - GKJ46R
   - GKS82R
   - GLN57G
+  - GLN59G
   - GLN60G
   - GLN61G
   - GNK74N
@@ -146,11 +144,6 @@
   - H796PN
   - H797PN
   - H798PN
-  - H963SP
-  - H964SP
-  - H965SP
-  - H966SP
-  - H967SP
   - HB046N
   - HB047N
   - HB048N
@@ -281,6 +274,7 @@
   - L265HV
   - L266HV
   - L267HV
+  - L268HV
   - L271FL
   - L371SN
   - L372SN
@@ -317,7 +311,6 @@
   - N894FX
   - N895FX
   - N928FX
-  - N930FX
   - N951ST
   - NB321K
   - NB856K
@@ -449,7 +442,9 @@
   - T765TP
   - T800JR
   - T802JS
+  - T803JS
   - T804JS
+  - T805JS
   - T806JS
   - T807HN
   - T815NT
@@ -466,7 +461,6 @@
   - TH828K
   - TJ448H
   - TJ674R
-  - TK331H
   - TK332F
   - TKN51D
   - TL156Z
@@ -522,7 +516,6 @@
   - VF631L
   - VFN02D
   - VFN12R
-  - VG016S
   - VGL53T
   - VGZ38X
   - VHB89V
