@@ -68870,7 +68870,8 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "04-104"
+      "04-104",
+      "04-110"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -69127,18 +69128,6 @@
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2019-09-23",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
-  "ZT-644-T": {
-    "expiry": "2027-06-04",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-110"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2025-06-17",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
   "J-034-VG": {
@@ -102249,6 +102238,19 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2018-11-26",
     "last_tenaamstelling_check_date": "2026-07-30",
+    "aantal_zitplaatsen": null
+  },
+  "95-WJ-TG": {
+    "expiry": "None",
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "08-7384"
+    ],
+    "last_check_date": "2026-07-31",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2013-01-15",
+    "last_tenaamstelling_check_date": "2026-07-31",
     "aantal_zitplaatsen": null
   }
 }
