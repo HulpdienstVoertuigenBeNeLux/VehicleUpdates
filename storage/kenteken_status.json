@@ -83388,18 +83388,6 @@
     "datum_tenaamstelling_dt": "2023-02-16",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "XP-615-S": {
-    "expiry": "2027-02-28",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-124"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2023-02-16",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
   "GTS-87-X": {
     "expiry": "2026-11-22",
     "checked": true,
@@ -102217,6 +102205,19 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2026-04-24",
     "last_tenaamstelling_check_date": "2026-07-29",
+    "aantal_zitplaatsen": "4"
+  },
+  "KRD-50-F": {
+    "expiry": "2027-07-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-124"
+    ],
+    "last_check_date": "2026-07-30",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-16",
+    "last_tenaamstelling_check_date": "2026-07-30",
     "aantal_zitplaatsen": "4"
   }
 }
