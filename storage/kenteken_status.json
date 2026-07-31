@@ -61025,19 +61025,6 @@
     "last_tenaamstelling_check_date": "2026-07-27",
     "aantal_zitplaatsen": "9"
   },
-  "BX-GZ-90": {
-    "expiry": "2026-12-10",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "23-4531"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2010-05-20",
-    "last_tenaamstelling_check_date": "2026-07-27",
-    "aantal_zitplaatsen": "7"
-  },
   "WD-RF-85": {
     "expiry": "None",
     "checked": true,
@@ -102264,5 +102251,18 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-07-31"
+  },
+  "BD-025-S": {
+    "expiry": "2027-06-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "23-4531"
+    ],
+    "last_check_date": "2026-07-31",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-06-25",
+    "last_tenaamstelling_check_date": "2026-07-31",
+    "aantal_zitplaatsen": "7"
   }
 }
