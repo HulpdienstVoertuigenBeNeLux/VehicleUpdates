@@ -12854,18 +12854,6 @@
     "datum_tenaamstelling_dt": "2013-01-21",
     "last_tenaamstelling_check_date": "2026-07-26"
   },
-  "J-477-VN": {
-    "expiry": "2027-01-04",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "05-9095"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-07-20",
-    "last_tenaamstelling_check_date": "2026-07-26"
-  },
   "S-543-RG": {
     "expiry": "2027-03-27",
     "checked": true,
@@ -82381,30 +82369,6 @@
     "datum_tenaamstelling_dt": "2023-01-02",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "GF-107-P": {
-    "expiry": "2027-04-30",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "23-207"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2025-11-26",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
-  "GF-106-P": {
-    "expiry": "2027-05-20",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "23-208"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2025-04-28",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
   "GF-109-P": {
     "expiry": "2027-04-30",
     "checked": true,
@@ -82415,18 +82379,6 @@
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2023-04-13",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
-  "GF-105-P": {
-    "expiry": "2027-04-30",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "23-210"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2025-03-18",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
   "X-782-KT": {
@@ -82537,30 +82489,6 @@
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2023-05-23",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
-  "NJ-446-S": {
-    "expiry": "2026-08-19",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "23-204"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2025-08-31",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
-  "GF-104-P": {
-    "expiry": "2027-04-30",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "23-211"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2025-04-11",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
   "RB-414-Z": {
@@ -82676,7 +82604,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "23-505"
+      "23-805"
     ],
     "last_check_date": "2026-06-06",
     "last_expired_notification_date": null,
@@ -82923,18 +82851,6 @@
     "datum_tenaamstelling_dt": "2024-03-21",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "PD-127-V": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "23-701"
-    ],
-    "last_check_date": "2026-07-26",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
   "J-793-RL": {
     "expiry": "2026-10-09",
     "checked": true,
@@ -82957,18 +82873,6 @@
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2020-10-09",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
-  "PR-901-P": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "23-706"
-    ],
-    "last_check_date": "2026-07-26",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-07-27"
   },
   "NF-477-F": {
@@ -102296,6 +102200,58 @@
     "last_check_date": "2026-08-01",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2025-11-28",
+    "last_tenaamstelling_check_date": "2026-08-01",
+    "aantal_zitplaatsen": "5"
+  },
+  "KGB-77-G": {
+    "expiry": "2029-04-21",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "05-9095"
+    ],
+    "last_check_date": "2026-08-01",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-04-21",
+    "last_tenaamstelling_check_date": "2026-08-01",
+    "aantal_zitplaatsen": "8"
+  },
+  "P-356-KP": {
+    "expiry": "2026-09-17",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "23-204"
+    ],
+    "last_check_date": "2026-08-01",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2023-01-02",
+    "last_tenaamstelling_check_date": "2026-08-01",
+    "aantal_zitplaatsen": "4"
+  },
+  "HRJ-12-S": {
+    "expiry": "2027-06-12",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "23-180"
+    ],
+    "last_check_date": "2026-08-01",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-06-12",
+    "last_tenaamstelling_check_date": "2026-08-01",
+    "aantal_zitplaatsen": "4"
+  },
+  "R-457-KZ": {
+    "expiry": "2026-11-08",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "23-706"
+    ],
+    "last_check_date": "2026-08-01",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2022-11-08",
     "last_tenaamstelling_check_date": "2026-08-01",
     "aantal_zitplaatsen": "5"
   }
