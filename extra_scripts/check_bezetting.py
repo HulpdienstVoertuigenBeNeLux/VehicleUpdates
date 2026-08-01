@@ -1,15 +1,10 @@
 import json
 import os
 import re
-import sys
 from collections import defaultdict
 from typing import Any
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-if BASE_DIR not in sys.path:
-    sys.path.append(BASE_DIR)
-
-import check_tenaamstelling_changes
 
 RAW_FILE = os.path.join(BASE_DIR, "raw", "hulpdienstvoertuigenbenelux_raw.json")
 REPORTS_DIR = os.path.join(BASE_DIR, "reports")
@@ -254,32 +249,9 @@ def _enrich_missing_zitplaatsen(
     status: dict[str, dict[str, Any]],
     max_checks: int | None,
 ) -> int:
-    pending_kentekens = _collect_missing_zitplaatsen_kentekens(records, status)
-    if max_checks is not None:
-        max_checks = max(0, max_checks)
-        pending_kentekens = pending_kentekens[:max_checks]
-
-    if pending_kentekens:
-        print(f"Start zitplaatsen-opvraging voor {len(pending_kentekens)} kentekens...")
-
-    used_checks = 0
-    for index, kenteken in enumerate(pending_kentekens, 1):
-        print(f"[{index}/{len(pending_kentekens)}] Zitplaatsen check {kenteken}...")
-        record, timed_out = check_tenaamstelling_changes.fetch_rdw_record(kenteken)
-        used_checks += 1
-
-        if timed_out:
-            continue
-
-        if not record:
-            continue
-
-        zitplaatsen = check_tenaamstelling_changes.normalize_aantal_zitplaatsen(
-            record.get("aantal_zitplaatsen")
-        )
-        status[kenteken]["aantal_zitplaatsen"] = zitplaatsen
-
-    return used_checks
+    _ = records, status, max_checks
+    print("Zitplaatsen controle gebruikt geen RDW requests; alleen bestaande statusdata.")
+    return 0
 
 
 def _write_report(
@@ -401,7 +373,6 @@ def run(max_checks: int | None = None) -> int:
     records = _load_records()
     status = _load_status()
     used_checks = _enrich_missing_zitplaatsen(records, status, max_checks=max_checks)
-    _save_status(status)
 
     status_by_kenteken = _status_lookup(status)
     result = _analyze(records)

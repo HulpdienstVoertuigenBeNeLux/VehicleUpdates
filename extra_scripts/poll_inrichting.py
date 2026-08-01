@@ -13,8 +13,11 @@ STORAGE_DIR = os.path.join(BASE_DIR, "storage")
 LEGACY_DATA_DIR = os.path.join(BASE_DIR, "Data")
 if SCRIPT_DIR not in sys.path:
     sys.path.append(SCRIPT_DIR)
+if BASE_DIR not in sys.path:
+    sys.path.append(BASE_DIR)
 
 from Report_rdw_mismatch import generate_all_reports
+import rdw_raw_store
 
 RDW_VOERTUIGEN_URL = "https://opendata.rdw.nl/resource/m9d7-ebf2.json"
 CHANGES_WEBHOOK_URL = os.getenv(
@@ -177,6 +180,8 @@ def poll_inrichting_voertuigen(session: requests.Session, naam: str, where_query
         if not page:
             break
 
+        rdw_raw_store.upsert_records(page)
+
         voertuigen.extend(page)
         print(f"[{naam}] Offset {offset}: {len(page)} records opgehaald")
 
@@ -230,6 +235,7 @@ def main() -> None:
 
     print("Start rapportgeneratie voor brandweer en ambulance")
     generate_all_reports()
+    rdw_raw_store.flush()
 
 
 if __name__ == "__main__":

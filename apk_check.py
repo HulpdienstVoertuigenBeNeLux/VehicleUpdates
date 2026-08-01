@@ -6,6 +6,7 @@ import os
 import shutil
 
 import check_tenaamstelling_changes
+import rdw_raw_store
 
 REPORTS_DIR = "reports"
 REPORT_FILENAME = "apk_expiry_report.txt"
@@ -218,6 +219,8 @@ def run(max_checks=None):
                 time.sleep(10)
             continue
 
+        rdw_raw_store.upsert_record(apk_info)
+
         stored_tenaamstelling = check_tenaamstelling_changes.normalize_tenaamstelling(
             status[kenteken].get("datum_tenaamstelling_dt")
         )
@@ -296,6 +299,7 @@ def run(max_checks=None):
                 print(f"  {kenteken}: APK geldig tot {expiry}")
                 status[kenteken]["last_expired_notification_date"] = None
     save_kenteken_status(status)
+    rdw_raw_store.flush()
 
     # Always write a fresh, deduplicated, up-to-date report, excluding unchecked kentekens
     expired_lines = []

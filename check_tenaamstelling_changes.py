@@ -5,6 +5,7 @@ import time
 from datetime import datetime
 
 import requests
+import rdw_raw_store
 
 
 RAW_DIR = "raw"
@@ -219,6 +220,8 @@ def run(max_checks: int | None = None) -> int:
         if not record:
             continue
 
+        rdw_raw_store.upsert_record(record)
+
         entry["aantal_zitplaatsen"] = normalize_aantal_zitplaatsen(
             record.get("aantal_zitplaatsen")
         )
@@ -245,6 +248,7 @@ def run(max_checks: int | None = None) -> int:
         entry["datum_tenaamstelling_dt"] = current_value
 
     save_status(status)
+    rdw_raw_store.flush()
     print("Controle voltooid.")
     return processed_checks
 
