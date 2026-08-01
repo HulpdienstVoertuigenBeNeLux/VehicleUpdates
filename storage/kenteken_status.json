@@ -59096,19 +59096,6 @@
     "datum_tenaamstelling_dt": "2021-04-20",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "2-KHG-25": {
-    "expiry": "2027-05-06",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "22-4481"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2024-09-19",
-    "last_tenaamstelling_check_date": "2026-07-27",
-    "aantal_zitplaatsen": "9"
-  },
   "67-BPR-2": {
     "expiry": "2027-07-08",
     "checked": true,
@@ -102254,5 +102241,31 @@
     "datum_tenaamstelling_dt": "2022-11-08",
     "last_tenaamstelling_check_date": "2026-08-01",
     "aantal_zitplaatsen": "5"
+  },
+  "55-XZG-3": {
+    "expiry": "2026-09-28",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "22-1502"
+    ],
+    "last_check_date": "2026-08-01",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2012-09-28",
+    "last_tenaamstelling_check_date": "2026-08-01",
+    "aantal_zitplaatsen": "5"
+  },
+  "GRG-88-X": {
+    "expiry": "2027-12-11",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "22-4481"
+    ],
+    "last_check_date": "2026-08-01",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-12-11",
+    "last_tenaamstelling_check_date": "2026-08-01",
+    "aantal_zitplaatsen": "8"
   }
 }
