@@ -146,6 +146,10 @@ def webhook_APK(message):
         color = "16753920"
 
     webhook_url = os.getenv("DISCORD_APK")
+    if not webhook_url:
+        print("Geen Discord webhook gevonden. Zet DISCORD_APK.")
+        return
+
     embed = {
         "title": "RDW APK Check",
         "description": message,
@@ -220,7 +224,7 @@ def run(max_checks=None):
                 time.sleep(10)
             continue
 
-        rdw_raw_store.upsert_record(apk_info)
+        rdw_raw_store.upsert_record(apk_info, fallback_kenteken=kenteken)
         rdw_export_notifier.notify_if_exported(apk_info, source="APK check")
 
         stored_tenaamstelling = check_tenaamstelling_changes.normalize_tenaamstelling(

@@ -221,9 +221,17 @@ def run(max_checks: int | None = None) -> int:
         entry["last_tenaamstelling_check_date"] = today
 
         if not record:
+            rdw_raw_store.upsert_record(
+                {
+                    "kenteken": kenteken,
+                    "rdw_lookup_result": "not_found",
+                    "rdw_lookup_source": "Tenaamstelling check",
+                },
+                fallback_kenteken=kenteken,
+            )
             continue
 
-        rdw_raw_store.upsert_record(record)
+        rdw_raw_store.upsert_record(record, fallback_kenteken=kenteken)
 
         entry["aantal_zitplaatsen"] = normalize_aantal_zitplaatsen(
             record.get("aantal_zitplaatsen")

@@ -60,7 +60,7 @@ def _save_cache() -> None:
         json.dump(sorted_cache, outfile, indent=2, ensure_ascii=False)
 
 
-def upsert_records(records: list[dict[str, Any]]) -> int:
+def upsert_records(records: list[dict[str, Any]], fallback_kenteken: str | None = None) -> int:
     global _dirty_updates
     _load_cache()
 
@@ -68,7 +68,7 @@ def upsert_records(records: list[dict[str, Any]]) -> int:
     for record in records:
         if not isinstance(record, dict):
             continue
-        kenteken = _kenteken_key(record.get("kenteken"))
+        kenteken = _kenteken_key(record.get("kenteken")) or _kenteken_key(fallback_kenteken)
         if not kenteken:
             continue
 
@@ -86,8 +86,8 @@ def upsert_records(records: list[dict[str, Any]]) -> int:
     return updates
 
 
-def upsert_record(record: dict[str, Any]) -> bool:
-    return upsert_records([record]) > 0
+def upsert_record(record: dict[str, Any], fallback_kenteken: str | None = None) -> bool:
+    return upsert_records([record], fallback_kenteken=fallback_kenteken) > 0
 
 
 def flush() -> None:
