@@ -81426,18 +81426,6 @@
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "KB-412-J": {
-    "expiry": "2026-11-11",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "20-234"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-05-27",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
   "T-838-JJ": {
     "expiry": "2027-06-22",
     "checked": true,
@@ -103132,5 +103120,18 @@
     "datum_tenaamstelling_dt": "2025-05-23",
     "last_tenaamstelling_check_date": "2026-08-02",
     "aantal_zitplaatsen": "3"
+  },
+  "JXP-97-R": {
+    "expiry": "2027-02-11",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-234"
+    ],
+    "last_check_date": "2026-08-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-02-11",
+    "last_tenaamstelling_check_date": "2026-08-02",
+    "aantal_zitplaatsen": "4"
   }
 }
