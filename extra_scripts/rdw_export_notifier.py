@@ -55,7 +55,7 @@ def notify_if_exported(record: dict[str, Any], source: str = "RDW lookup") -> bo
         "embeds": [
             {
                 "title": "RDW export_indicator",
-                "description": f"Voertuig met kenteken {kenteken} staat als geexporteerd (export_indicator=Ja). Bron: {source}.",
+                "description": f"Voertuig met kenteken {kenteken} staat als geexporteerd (export_indicator=Ja).",
                 "color": ORANGE_COLOR,
             }
         ],
