@@ -1,9 +1,152 @@
 [
   {
     "date": "2026-08-02",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-6266 RIA toegevoegd aan Maasland",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "13",
+        "Description": "GEEN DB-ICB toegevoegd aan Prorail ICB Schiphol",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "13",
+        "Description": "GEEN DB-ICB toegevoegd aan Prorail ICB Schiphol",
+        "Time": "02-08-2026 13:53:15"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "GEEN TS verwijderd van A&F Fire Trucks Holland",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-4392 VC verwijderd van Borssele",
+        "Time": "02-08-2026 13:53:15"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-0232: Kenteken van 'BS-HN-66' naar 'BV-JZ-28' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6",
+        "Description": "06-5161: Kenteken van '63-BKS-2' naar '62-BKS-2' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8",
+        "Description": "08-5003: Kenteken van '83-RVB-2' naar '53-RVB-2' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-6582: Kenteken van '75-BVK-9' naar '68-BVK-9' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "11",
+        "Description": "11-6062: TypeVoertuig van '' naar 'Motorspuitaanhanger' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15",
+        "Description": "15-9661: Kenteken van '97-MH-SX' naar '74-MT-BP' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-1802: Bijzonderheden van 'RRayoncommandant. Bezetting: 5 personen.' naar 'Rayoncommandant. Bezetting: 5 personen.' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-1609: Adres van 'Moezelweg' naar 'RelyOn Quarantaineweg' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-1633: Adres van 'Moezelweg' naar 'RelyOn Quarantaineweg' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21",
+        "Description": "21-3831: Kenteken van 'BB-385-F' naar 'BD-385-F' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1",
+        "Description": "01-183: Kenteken van 'JLZ-86-S' naar 'JLZ-68-S' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "10",
+        "Description": "10-101: Kenteken van 'G-461-XD' naar 'KKT-39-X' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "15",
+        "Description": "15-713: Kenteken van 'J-211-RH' naar 'KGG-50-N' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-770: Kenteken van 'ONBEKEND' naar 'Z-031-PX' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "25-121: Kenteken van 'HNX-16-X' naar 'KHV-80-H' aangepast",
+        "Time": "02-08-2026 13:53:15"
+      }
+    ]
   },
   {
     "date": "2026-08-01",
