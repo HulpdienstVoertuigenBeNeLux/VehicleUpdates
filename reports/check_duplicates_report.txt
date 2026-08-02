@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 10,936  (of 17,028 total)
+  Records checked : 10,935  (of 17,027 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  3 value(s) affected
+  Duplicate Roepnummer  --  4 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -44,9 +44,29 @@
       Roepnummer  : 1
       Kenteken    : ONBEKEND
 
+  >> 'Wisselend 08-151 of 08-152'  (2x)
+      Adres       : EMS Uden
+      Hulpdienst  : Ambulance
+      Roepnummer  : Wisselend 08-151 of 08-152
+      Kenteken    : ZK-732-L
+      Adres       : EMS Uden
+      Hulpdienst  : Ambulance
+      Roepnummer  : Wisselend 08-151 of 08-152
+      Kenteken    : ZH-127-F
+
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  4 value(s) affected
+  Duplicate Kenteken  --  5 value(s) affected
 --------------------------------------------------------------------------------
+
+  >> '05-ZDS-6'  (2x)
+      Adres       : Venlo
+      Hulpdienst  : Brandweer
+      Roepnummer  : 23-3207
+      Kenteken    : 05-ZDS-6
+      Adres       : Weert
+      Hulpdienst  : Brandweer
+      Roepnummer  : 23-4403
+      Kenteken    : 05-ZDS-6
 
   >> '2-YB-433'  (2x)
       Adres       : Culemborg
