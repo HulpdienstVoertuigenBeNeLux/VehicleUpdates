@@ -566,10 +566,21 @@ def run_region(region: str) -> None:
                     lines.append(f"Roepnummer: {old['Roepnummer']} -> {new['Roepnummer']}")
                 elif 'Roepnummer' in old:
                     lines.append(f"Roepnummer: {old['Roepnummer']}")
-                # Then show only changed fields (excluding Adres and Roepnummer)
-                for k in old:
-                    if k in new and old[k] != new[k] and k not in ["Adres", "Roepnummer"]:
-                        lines.append(f"{k}: {old[k]} --> {new[k]}")
+                old_regio = old.get("Regio", "")
+                new_regio = new.get("Regio", "")
+                if old_regio != new_regio:
+                    lines.append(f"Regio: {old_regio} --> {new_regio}")
+
+                # Then show changed fields from both sides, excluding already handled fields.
+                ignore_fields = {"Adres", "Roepnummer", "Regio"}
+                all_fields = sorted(set(old.keys()) | set(new.keys()))
+                for k in all_fields:
+                    if k in ignore_fields:
+                        continue
+                    old_value = old.get(k, "")
+                    new_value = new.get(k, "")
+                    if old_value != new_value:
+                        lines.append(f"{k}: {old_value} --> {new_value}")
                 return '\n'.join(lines)
             send_discord_embed(
                 title="Voertuig gewijzigd",
