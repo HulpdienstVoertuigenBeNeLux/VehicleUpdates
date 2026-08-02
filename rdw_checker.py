@@ -2,6 +2,7 @@ import apk_check
 import check_tenaamstelling_changes
 import time
 from extra_scripts import check_bezetting
+from extra_scripts import cleanup
 
 MAX_RDW_CHECKS_PER_RUN = 500
 
@@ -67,6 +68,9 @@ def main() -> None:
     finally:
         total_duration = time.perf_counter() - pipeline_started
         print(f"Totale pipeline duur: {_format_duration(total_duration)}")
+
+    print("Start cleanup...")
+    cleanup.main()
 
 
 if __name__ == "__main__":
