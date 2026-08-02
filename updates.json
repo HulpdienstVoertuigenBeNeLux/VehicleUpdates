@@ -22,6 +22,27 @@
         "Regio": "13",
         "Description": "GEEN DB-ICB toegevoegd aan Prorail ICB Schiphol",
         "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "22",
+        "Description": "AES-23 MFT-EH toegevoegd aan AES, Vlierden",
+        "Time": "02-08-2026 14:00:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T881 (DB) PM toegevoegd aan Meerle",
+        "Time": "02-08-2026 14:00:29"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T681 HZA toegevoegd aan Meerle",
+        "Time": "02-08-2026 14:00:29"
       }
     ],
     "removed": [
@@ -145,6 +166,20 @@
         "Regio": "25",
         "Description": "25-121: Kenteken van 'HNX-16-X' naar 'KHV-80-H' aangepast",
         "Time": "02-08-2026 13:53:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-1031: Regio van '1' naar '1' aangepast",
+        "Time": "02-08-2026 14:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "13",
+        "Description": "13-901: Regio van '13' naar '13' aangepast",
+        "Time": "02-08-2026 14:00:17"
       }
     ]
   },
