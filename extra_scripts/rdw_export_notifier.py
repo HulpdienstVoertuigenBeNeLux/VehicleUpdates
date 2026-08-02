@@ -50,12 +50,15 @@ def notify_if_exported(record: dict[str, Any], source: str = "RDW lookup") -> bo
         print(f"Export notificatie mislukt ({source}) voor {kenteken}: geen webhook URL")
         return False
 
+    roepnummer = _safe_text(record.get("roepnummer"))
+    roepnummer_str = f" ({roepnummer})" if roepnummer else ""
+    
     payload = {
         "username": "HulpdienstVoertuigenBeNeLux RDW Export",
         "embeds": [
             {
                 "title": "RDW export_indicator",
-                "description": f"Voertuig met kenteken {kenteken} staat als geexporteerd (export_indicator=Ja).",
+                "description": f"Voertuig met kenteken {kenteken}{roepnummer_str} staat als geexporteerd (export_indicator=Ja).",
                 "color": ORANGE_COLOR,
             }
         ],
