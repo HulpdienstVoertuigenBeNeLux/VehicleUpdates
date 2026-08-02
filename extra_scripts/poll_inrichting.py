@@ -216,7 +216,11 @@ def main() -> None:
 
         for target in TARGETS:
             previous_kentekens = load_previous_kentekens(target["output"])
-            records = poll_inrichting_voertuigen(session, target["naam"], target["where"])
+            try:
+                records = poll_inrichting_voertuigen(session, target["naam"], target["where"])
+            except requests.RequestException as exc:
+                print(f"[{target['naam']}] RDW timeout, target overgeslagen: {exc}")
+                continue
             save_result(target["output"], records)
             print(f"Klaar. {len(records)} {target['naam']}-voertuigen opgeslagen in {target['output']}")
 
