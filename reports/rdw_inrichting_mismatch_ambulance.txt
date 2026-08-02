@@ -5,10 +5,10 @@
 ----------------------------------------------------------------------------------------
   Ambulance
 ----------------------------------------------------------------------------------------
-  HulpdienstvoertuigenBenelux : 1650
+  HulpdienstvoertuigenBenelux : 1651
   RDW inrichting dataset      : 1354
-  Missing in RDW              : 625
-  Extra in RDW                : 329
+  Missing in RDW              : 624
+  Extra in RDW                : 327
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
   - 17BNL2
@@ -165,7 +165,6 @@
   - HLD21S
   - HLD23S
   - HLT385S
-  - HNX16X
   - HPX64K
   - HPX65K
   - HPX66K
@@ -192,7 +191,6 @@
   - J154HP
   - J155HP
   - J210RH
-  - J211RH
   - J214RH
   - J557GV
   - J560GP
@@ -234,7 +232,6 @@
   - JLS15X
   - JLS16X
   - JLS17X
-  - JLZ86S
   - JNT12L
   - JP359B
   - JR286K
@@ -259,6 +256,7 @@
   - KG085L
   - KG530P
   - KG924L
+  - KGG50N
   - KGJ58J
   - KK797Z
   - KL994G
@@ -616,6 +614,7 @@
   - XP193N
   - XT687G
   - Z030PX
+  - Z031PX
   - Z389GK
   - Z396BP
   - Z639SZ
@@ -689,6 +688,7 @@
   - G247PT
   - G270DH
   - G291LS
+  - G461XD
   - G510BG
   - G511BG
   - G685XL
@@ -766,7 +766,6 @@
   - JFF36G
   - JKP88L
   - JLV65Z
-  - JLZ68S
   - JP294J
   - JPJ74G
   - JPV07D
@@ -798,9 +797,7 @@
   - KGX71G
   - KGX72G
   - KHV79H
-  - KHV80H
   - KHV81H
-  - KKT39X
   - KKT41X
   - KLK31T
   - KLK32T

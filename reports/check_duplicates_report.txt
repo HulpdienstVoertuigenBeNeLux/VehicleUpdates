@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 12,641  (of 19,559 total)
+  Records checked : 10,932  (of 17,024 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  3 value(s) affected
@@ -45,7 +45,7 @@
       Kenteken    : ONBEKEND
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  2 value(s) affected
+  Duplicate Kenteken  --  4 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '2-YB-433'  (2x)
@@ -57,6 +57,26 @@
       Hulpdienst  : Reddingsbrigade
       Roepnummer  : 36-0429
       Kenteken    : 2-YB-433
+
+  >> '53-RVB-2'  (2x)
+      Adres       : Millingen aan den Rijn
+      Hulpdienst  : Brandweer
+      Roepnummer  : 08-1201
+      Kenteken    : 53-RVB-2
+      Adres       : Kerkdriel
+      Hulpdienst  : Brandweer
+      Roepnummer  : 08-5003
+      Kenteken    : 53-RVB-2
+
+  >> '68-BVK-9'  (2x)
+      Adres       : Winkel
+      Hulpdienst  : Brandweer
+      Roepnummer  : 10-6582
+      Kenteken    : 68-BVK-9
+      Adres       : Nibbixwoud
+      Hulpdienst  : Brandweer
+      Roepnummer  : 10-6581
+      Kenteken    : 68-BVK-9
 
   >> 'ZT-644-V'  (2x)
       Adres       : Zwolle
@@ -72,7 +92,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 7,724  (of 9,565 total)
+  Records checked : 6,903  (of 8,353 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  483 value(s) affected
@@ -2424,7 +2444,7 @@
       Roepnummer  : C36
       Kenteken    : 
 
-  >> 'C4'  (7x)
+  >> 'C4'  (6x)
       Adres       : Lier
       Hulpdienst  : Brandweer
       Roepnummer  : C4
@@ -2442,10 +2462,6 @@
       Roepnummer  : C4
       Kenteken    : 
       Adres       : Kortrijk
-      Hulpdienst  : Brandweer
-      Roepnummer  : C4
-      Kenteken    : 
-      Adres       : La Louvière
       Hulpdienst  : Brandweer
       Roepnummer  : C4
       Kenteken    : 
@@ -2928,7 +2944,7 @@
       Roepnummer  : E08
       Kenteken    : 
 
-  >> 'E1'  (11x)
+  >> 'E1'  (10x)
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : E1
@@ -2946,10 +2962,6 @@
       Roepnummer  : E1
       Kenteken    : 
       Adres       : Chièvres
-      Hulpdienst  : Brandweer
-      Roepnummer  : E1
-      Kenteken    : 
-      Adres       : Enghien
       Hulpdienst  : Brandweer
       Roepnummer  : E1
       Kenteken    : 
@@ -3860,7 +3872,11 @@
       Roepnummer  : L31
       Kenteken    : 
 
-  >> 'L32'  (2x)
+  >> 'L32'  (3x)
+      Adres       : Enghien
+      Hulpdienst  : Brandweer
+      Roepnummer  : L32
+      Kenteken    : 
       Adres       : Pelt
       Hulpdienst  : Brandweer
       Roepnummer  : L32
@@ -7122,7 +7138,7 @@
   Region: LUX
 ================================================================================
 
-  Records checked : 1,247  (of 1,361 total)
+  Records checked : 1,089  (of 1,181 total)
   Roepnummer     : no duplicates
 
 --------------------------------------------------------------------------------
