@@ -5,7 +5,8 @@ import time
 from datetime import datetime
 
 import requests
-import rdw_raw_store
+from extra_scripts import rdw_export_notifier
+from extra_scripts import rdw_raw_store
 
 
 RAW_DIR = "raw"
@@ -67,7 +68,9 @@ def fetch_rdw_record(kenteken: str) -> tuple[dict | None, bool]:
         if response.status_code == 200:
             data = response.json()
             if data:
-                return data[0], False
+                record = data[0]
+                rdw_export_notifier.notify_if_exported(record, source="Tenaamstelling check")
+                return record, False
         return None, False
     except requests.Timeout as exc:
         print(f"Time-out bij ophalen RDW info voor {kenteken}: {exc}")

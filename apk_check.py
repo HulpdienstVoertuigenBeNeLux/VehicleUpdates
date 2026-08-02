@@ -6,7 +6,8 @@ import os
 import shutil
 
 import check_tenaamstelling_changes
-import rdw_raw_store
+from extra_scripts import rdw_export_notifier
+from extra_scripts import rdw_raw_store
 
 REPORTS_DIR = "reports"
 REPORT_FILENAME = "apk_expiry_report.txt"
@@ -220,6 +221,7 @@ def run(max_checks=None):
             continue
 
         rdw_raw_store.upsert_record(apk_info)
+        rdw_export_notifier.notify_if_exported(apk_info, source="APK check")
 
         stored_tenaamstelling = check_tenaamstelling_changes.normalize_tenaamstelling(
             status[kenteken].get("datum_tenaamstelling_dt")

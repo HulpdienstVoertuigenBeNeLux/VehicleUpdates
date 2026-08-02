@@ -4,7 +4,8 @@ import os
 from typing import Any
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-STORAGE_DIR = os.path.join(BASE_DIR, "storage")
+PROJECT_ROOT = os.path.dirname(BASE_DIR)
+STORAGE_DIR = os.path.join(PROJECT_ROOT, "storage")
 RDW_RAW_FILE = os.path.join(STORAGE_DIR, "rdw_raw.json")
 SAVE_EVERY_UPDATES = int(os.getenv("RDW_RAW_SAVE_EVERY", "50"))
 
@@ -13,9 +14,8 @@ _loaded = False
 _dirty_updates = 0
 
 
-def _normalize_kenteken(value: Any) -> str:
-    text = str(value or "").strip().upper()
-    return text.replace("-", "").replace(" ", "")
+def _kenteken_key(value: Any) -> str:
+    return str(value or "").strip()
 
 
 def _load_cache() -> None:
@@ -36,11 +36,19 @@ def _load_cache() -> None:
         return
 
     if isinstance(data, dict):
-        _cache = {
-            _normalize_kenteken(k): v
-            for k, v in data.items()
-            if _normalize_kenteken(k) and isinstance(v, dict)
-        }
+        migrated: dict[str, dict[str, Any]] = {}
+        for key, record in data.items():
+            if not isinstance(record, dict):
+                continue
+
+            record_kenteken = _kenteken_key(record.get("kenteken"))
+            source_key = record_kenteken or _kenteken_key(key)
+            if not source_key:
+                continue
+
+            migrated[source_key] = record
+
+        _cache = migrated
     else:
         _cache = {}
 
@@ -60,7 +68,7 @@ def upsert_records(records: list[dict[str, Any]]) -> int:
     for record in records:
         if not isinstance(record, dict):
             continue
-        kenteken = _normalize_kenteken(record.get("kenteken"))
+        kenteken = _kenteken_key(record.get("kenteken"))
         if not kenteken:
             continue
 

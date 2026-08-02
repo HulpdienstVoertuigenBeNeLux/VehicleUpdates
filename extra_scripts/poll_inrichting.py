@@ -17,7 +17,8 @@ if BASE_DIR not in sys.path:
     sys.path.append(BASE_DIR)
 
 from Report_rdw_mismatch import generate_all_reports
-import rdw_raw_store
+from extra_scripts import rdw_export_notifier
+from extra_scripts import rdw_raw_store
 
 RDW_VOERTUIGEN_URL = "https://opendata.rdw.nl/resource/m9d7-ebf2.json"
 CHANGES_WEBHOOK_URL = os.getenv(
@@ -64,6 +65,10 @@ def fetch_page(session: requests.Session, where_query: str, offset: int) -> list
     data = response.json()
     if not isinstance(data, list):
         raise ValueError("RDW response was geen lijst.")
+
+    for record in data:
+        if isinstance(record, dict):
+            rdw_export_notifier.notify_if_exported(record, source="Inrichting poll")
 
     return data
 
