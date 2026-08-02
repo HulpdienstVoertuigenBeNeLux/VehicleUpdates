@@ -487,7 +487,7 @@ def run_region(region: str) -> None:
     result = compare_json(compare_old_json, compare_new_json, region)
     removed_count = len(result['removed'])
     added_count = len(result['added'])
-    if removed_count > 1000 and added_count * 10 < removed_count:
+    if removed_count > 100 and added_count * 10 < removed_count:
         log(
             "Suspicious removal spike detected; skipping notifications and snapshot update "
             f"for {region} ({removed_count} removed, {added_count} added)."
