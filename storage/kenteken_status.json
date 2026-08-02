@@ -72064,18 +72064,6 @@
     "datum_tenaamstelling_dt": "2024-12-07",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "XN-853-X": {
-    "expiry": "2026-08-06",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "08-207"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2025-08-26",
-    "last_tenaamstelling_check_date": "2026-07-27"
-  },
   "N-546-HP": {
     "expiry": "2026-10-14",
     "checked": true,
@@ -103133,5 +103121,70 @@
     "datum_tenaamstelling_dt": "2026-02-11",
     "last_tenaamstelling_check_date": "2026-08-02",
     "aantal_zitplaatsen": "4"
+  },
+  "XN-856-X": {
+    "expiry": "2027-04-14",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "08-207"
+    ],
+    "last_check_date": "2026-08-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2019-02-12",
+    "last_tenaamstelling_check_date": "2026-08-02",
+    "aantal_zitplaatsen": "3"
+  },
+  "ZH-592-Z": {
+    "expiry": "2027-03-27",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-08-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2019-06-01",
+    "last_tenaamstelling_check_date": "2026-08-02",
+    "aantal_zitplaatsen": "4"
+  },
+  "H-825-ZP": {
+    "expiry": "2027-06-23",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-08-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2020-06-23",
+    "last_tenaamstelling_check_date": "2026-08-02",
+    "aantal_zitplaatsen": "4"
+  },
+  "H-826-ZP": {
+    "expiry": "2027-06-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-08-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2020-06-23",
+    "last_tenaamstelling_check_date": "2026-08-02",
+    "aantal_zitplaatsen": "4"
+  },
+  "40-WJ-JG": {
+    "expiry": "None",
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-08-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2012-06-02",
+    "last_tenaamstelling_check_date": "2026-08-02",
+    "aantal_zitplaatsen": null
   }
 }
