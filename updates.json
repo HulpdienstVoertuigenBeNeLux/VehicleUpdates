@@ -3711,6 +3711,20 @@
         "Regio": "22",
         "Description": "GEEN RAA toegevoegd aan Valkenswaard",
         "Time": "02-08-2026 19:36:38"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "A133 BM toegevoegd aan Antwerpen-Noord",
+        "Time": "02-08-2026 19:58:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "A134 BM toegevoegd aan Antwerpen-Noord",
+        "Time": "02-08-2026 19:58:47"
       }
     ],
     "removed": [
@@ -4812,6 +4826,13 @@
         "Regio": "Central Rescue Zone",
         "Description": " HC-Ambu verwijderd van Lintgen",
         "Time": "02-08-2026 16:00:18"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Ziekenhuizen",
+        "Regio": "",
+        "Description": "  verwijderd van TEST",
+        "Time": "02-08-2026 19:59:01"
       }
     ],
     "changed": [
@@ -13907,6 +13928,20 @@
         "Regio": "8",
         "Description": "08-207: Kenteken van 'XN-853-X' naar 'XN-856-X' aangepast",
         "Time": "02-08-2026 19:36:38"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "AC181: Kenteken van '' naar 'T.b.v Instrortingen' aangepast",
+        "Time": "02-08-2026 19:58:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "A49: Adres van 'Antwerpen-Noord' naar 'Antwerpen-Centrum' aangepast",
+        "Time": "02-08-2026 19:58:47"
       }
     ]
   },
