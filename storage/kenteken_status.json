@@ -73261,19 +73261,6 @@
     "datum_tenaamstelling_dt": "2024-06-17",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "25-ZDH-5": {
-    "expiry": "2026-10-24",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "09-527"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-02",
-    "aantal_zitplaatsen": "4"
-  },
   "VN-455-Z": {
     "expiry": "2027-05-18",
     "checked": true,
@@ -80890,19 +80877,6 @@
     "datum_tenaamstelling_dt": "2024-02-29",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "G-779-HN": {
-    "expiry": "2026-09-25",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "20-222"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-05-08",
-    "last_tenaamstelling_check_date": "2026-08-02",
-    "aantal_zitplaatsen": "4"
-  },
   "Z-072-PS": {
     "expiry": "2027-05-24",
     "checked": true,
@@ -87074,19 +87048,6 @@
     "last_check_date": "2026-08-02",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2022-06-30",
-    "last_tenaamstelling_check_date": "2026-08-02",
-    "aantal_zitplaatsen": null
-  },
-  "TRV-19-S": {
-    "expiry": "None",
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "36-8030"
-    ],
-    "last_check_date": "2026-08-02",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-05-12",
     "last_tenaamstelling_check_date": "2026-08-02",
     "aantal_zitplaatsen": null
   },
@@ -93901,19 +93862,6 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2023-04-18",
     "last_tenaamstelling_check_date": "2026-07-27"
-  },
-  "G-086-DK": {
-    "expiry": "2026-06-26",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "06-719"
-    ],
-    "last_check_date": "2026-08-02",
-    "last_expired_notification_date": "2026-07-27",
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-02",
-    "aantal_zitplaatsen": "5"
   },
   "S-830-KB": {
     "expiry": "2027-02-10",
@@ -100886,19 +100834,6 @@
     "datum_tenaamstelling_dt": "2019-01-10",
     "last_tenaamstelling_check_date": "2026-07-27"
   },
-  "BD-VV-63": {
-    "expiry": "None",
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "KENBRI TS-590"
-    ],
-    "last_check_date": "2026-07-31",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-02",
-    "aantal_zitplaatsen": null
-  },
   "BN-JP-71": {
     "expiry": null,
     "checked": true,
@@ -103194,5 +103129,31 @@
     "datum_tenaamstelling_dt": "2012-06-02",
     "last_tenaamstelling_check_date": "2026-08-02",
     "aantal_zitplaatsen": null
+  },
+  "30-MR-RP": {
+    "expiry": "None",
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "08-328"
+    ],
+    "last_check_date": "2026-08-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2022-06-30",
+    "last_tenaamstelling_check_date": "2026-08-02",
+    "aantal_zitplaatsen": "2"
+  },
+  "JXD-71-K": {
+    "expiry": "2027-02-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-222"
+    ],
+    "last_check_date": "2026-08-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-02-03",
+    "last_tenaamstelling_check_date": "2026-08-02",
+    "aantal_zitplaatsen": "4"
   }
 }

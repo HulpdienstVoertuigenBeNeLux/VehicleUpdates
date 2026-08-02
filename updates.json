@@ -3725,6 +3725,13 @@
         "Regio": "Antwerpen",
         "Description": "A134 BM toegevoegd aan Antwerpen-Noord",
         "Time": "02-08-2026 19:58:47"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "8",
+        "Description": "08-328 RRM-EH toegevoegd aan EMS Uden",
+        "Time": "02-08-2026 21:00:15"
       }
     ],
     "removed": [
@@ -4833,6 +4840,20 @@
         "Regio": "",
         "Description": "  verwijderd van TEST",
         "Time": "02-08-2026 19:59:01"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "KENBRI TS-590 TS verwijderd van Kenbri Verhuur",
+        "Time": "02-08-2026 21:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9",
+        "Description": "09-527 OO-RA verwijderd van Soesterberg",
+        "Time": "02-08-2026 21:00:15"
       }
     ],
     "changed": [
@@ -13942,6 +13963,27 @@
         "Regio": "Antwerpen",
         "Description": "A49: Adres van 'Antwerpen-Noord' naar 'Antwerpen-Centrum' aangepast",
         "Time": "02-08-2026 19:58:47"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6",
+        "Description": "06-719: Kenteken van 'G-086-DK' naar 'ONBEKEND' aangepast",
+        "Time": "02-08-2026 21:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20",
+        "Description": "20-222: Kenteken van 'G-779-HN' naar 'JXD-71-K' aangepast",
+        "Time": "02-08-2026 21:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10",
+        "Description": "36-8030: Kenteken van 'TRV-19-S' naar 'ONBEKEND' aangepast",
+        "Time": "02-08-2026 21:00:15"
       }
     ]
   },
