@@ -1,14 +1,14 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                  : 17028
+  Totaal records                  : 17027
   Records met parsebare bezetting : 3358
-  Vergeleken met RDW              : 3106
-  RDW data ontbreekt              : 252
+  Vergeleken met RDW              : 3107
+  RDW data ontbreekt              : 251
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 638
-  Bezetting > RDW zitplaatsen     : 337
+  Bezetting != RDW zitplaatsen    : 640
+  Bezetting > RDW zitplaatsen     : 339
   RDW zitplaatsen > bezetting     : 301
 
 ------------------------------------------------------------------------------------------
@@ -176,6 +176,7 @@
   09-1901      | 58-HDZ-8   |         9 |             5
   09-2101      | 78-HXR-3   |         9 |             7
   09-2244      | 36-BJX-4   |         5 |             2
+  09-3344      | 79-BLF-6   |         7 |             5
   09-3601      | 00-HTR-3   |         9 |             8
   09-4201      | 5-VVR-23   |         9 |             6
   09-8631      | BZ-VJ-16   |         8 |             7
@@ -292,6 +293,7 @@
   19-4432      | BS-TP-28   |         8 |             7
   19-8035      | 70-BDD-3   |         8 |             7
   19-8530      | BV-RG-66   |         8 |             7
+  19-4640      | BV-VF-17   |         9 |             7
   19-4841      | 18-BBN-4   |         8 |             7
   19-4906      | 37-JTL-6   |         9 |             4
   19-6664      | BZ-FN-45   |         6 |             4
