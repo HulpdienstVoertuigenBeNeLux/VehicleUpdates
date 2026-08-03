@@ -225,7 +225,11 @@ def run(max_checks=None):
             continue
 
         rdw_raw_store.upsert_record(apk_info, fallback_kenteken=kenteken)
-        rdw_export_notifier.notify_if_exported(apk_info, source="APK check")
+        rdw_export_notifier.notify_if_exported(
+            apk_info,
+            source="APK check",
+            roepnummer=", ".join(roepnummers) if roepnummers else None,
+        )
 
         stored_tenaamstelling = check_tenaamstelling_changes.normalize_tenaamstelling(
             status[kenteken].get("datum_tenaamstelling_dt")

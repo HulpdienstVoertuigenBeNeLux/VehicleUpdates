@@ -27,7 +27,11 @@ def _resolve_webhook_url() -> str:
     return _safe_text(os.getenv("DISCORD_APK")) or _safe_text(os.getenv("RDW_API_CHANGES_WEBHOOK"))
 
 
-def notify_if_exported(record: dict[str, Any], source: str = "RDW lookup") -> bool:
+def notify_if_exported(
+    record: dict[str, Any],
+    source: str = "RDW lookup",
+    roepnummer: str | None = None,
+) -> bool:
     if not isinstance(record, dict):
         print(f"Export notificatie overgeslagen ({source}): record is geen dict")
         return False
@@ -50,8 +54,8 @@ def notify_if_exported(record: dict[str, Any], source: str = "RDW lookup") -> bo
         print(f"Export notificatie mislukt ({source}) voor {kenteken}: geen webhook URL")
         return False
 
-    roepnummer = _safe_text(record.get("roepnummer"))
-    roepnummer_str = f" ({roepnummer})" if roepnummer else ""
+    resolved_roepnummer = _safe_text(roepnummer) or _safe_text(record.get("roepnummer"))
+    roepnummer_str = f" ({resolved_roepnummer})" if resolved_roepnummer else ""
     
     payload = {
         "username": "HulpdienstVoertuigenBeNeLux RDW Export",

@@ -61,7 +61,10 @@ def save_status(status: dict) -> None:
         json.dump(status, f, indent=2, ensure_ascii=False)
 
 
-def fetch_rdw_record(kenteken: str) -> tuple[dict | None, bool]:
+def fetch_rdw_record(
+    kenteken: str,
+    roepnummer: str | None = None,
+) -> tuple[dict | None, bool]:
     url = f"https://opendata.rdw.nl/resource/m9d7-ebf2.json?kenteken={kenteken.replace('-', '').upper()}"
     try:
         response = requests.get(url, timeout=RDW_REQUEST_TIMEOUT_SECONDS)
@@ -69,7 +72,11 @@ def fetch_rdw_record(kenteken: str) -> tuple[dict | None, bool]:
             data = response.json()
             if data:
                 record = data[0]
-                rdw_export_notifier.notify_if_exported(record, source="Tenaamstelling check")
+                rdw_export_notifier.notify_if_exported(
+                    record,
+                    source="Tenaamstelling check",
+                    roepnummer=roepnummer,
+                )
                 return record, False
         return None, False
     except requests.Timeout as exc:
@@ -212,7 +219,9 @@ def run(max_checks: int | None = None) -> int:
         print(f"[{index}/{len(kentekens)}] Check {kenteken}...")
         entry = status[kenteken]
         entry.pop("changes", None)
-        record, timed_out = fetch_rdw_record(kenteken)
+        roepnummers = entry.get("roepnummers", [])
+        roepnummer = ", ".join(roepnummers) if roepnummers else None
+        record, timed_out = fetch_rdw_record(kenteken, roepnummer=roepnummer)
         processed_checks += 1
 
         if timed_out:
