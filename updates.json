@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-08-04",
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT03 FO-Verkeer Rotterdam/RT04-05 Team Verkeer Rotterdam  toegevoegd aan Rotterdam",
+        "Time": "04-08-2026 00:00:18"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT03 FO-Verkeer Rotterdam/RT05 Team Verkeer Rotterdam  verwijderd van Rotterdam",
+        "Time": "04-08-2026 00:00:18"
+      }
+    ],
+    "changed": []
+  },
+  {
     "date": "2026-08-03",
     "added": [],
     "removed": [
@@ -41562,28 +41584,6 @@
         "Regio": "",
         "Description": ": Bijzonderheden van '' naar 'Bezetting: 7 personen.' aangepast",
         "Time": "04-07-2026 18:00:15"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-03",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "4",
-        "Description": "GEEN IM Berger toegevoegd aan Staphorst",
-        "Time": "03-07-2026 22:00:11"
-      }
-    ],
-    "removed": [],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "4",
-        "Description": "GEEN: Bijzonderheden van '' naar 'Met Kraan' aangepast",
-        "Time": "03-07-2026 22:00:11"
       }
     ]
   }
