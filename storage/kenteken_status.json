@@ -21986,19 +21986,6 @@
     "last_tenaamstelling_check_date": "2026-08-02",
     "aantal_zitplaatsen": "8"
   },
-  "GK-454-S": {
-    "expiry": "2026-10-06",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "08-9096"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-05-19",
-    "last_tenaamstelling_check_date": "2026-08-02",
-    "aantal_zitplaatsen": "8"
-  },
   "12-ZKT-2": {
     "expiry": "2027-03-10",
     "checked": true,
@@ -82167,19 +82154,6 @@
     "last_tenaamstelling_check_date": "2026-08-03",
     "aantal_zitplaatsen": "4"
   },
-  "ZR-442-K": {
-    "expiry": "2027-07-11",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "18-191"
-    ],
-    "last_check_date": "2026-07-12",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-07-22",
-    "last_tenaamstelling_check_date": "2026-08-03",
-    "aantal_zitplaatsen": "4"
-  },
   "N-330-KK": {
     "expiry": "2026-10-29",
     "checked": true,
@@ -106479,5 +106453,31 @@
     "datum_tenaamstelling_dt": "2025-11-05",
     "last_tenaamstelling_check_date": "2026-08-04",
     "aantal_zitplaatsen": "2"
+  },
+  "NS-806-Z": {
+    "expiry": "2027-07-21",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "08-9096"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2017-05-01",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "8"
+  },
+  "KRK-40-Z": {
+    "expiry": "2027-07-21",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "18-191"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-21",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "4"
   }
 }
