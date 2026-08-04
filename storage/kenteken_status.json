@@ -21432,8 +21432,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "08-1201",
-      "08-5003"
+      "08-1201"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -30193,7 +30192,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "10-6581",
       "10-6582"
     ],
     "last_check_date": "2026-05-24",
@@ -53967,19 +53965,6 @@
     "datum_tenaamstelling_dt": "2017-05-03",
     "last_tenaamstelling_check_date": "2026-08-03",
     "aantal_zitplaatsen": "3"
-  },
-  "BP-LV-41": {
-    "expiry": "2026-11-07",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "20-3161"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2011-03-16",
-    "last_tenaamstelling_check_date": "2026-08-03",
-    "aantal_zitplaatsen": null
   },
   "92-BRL-5": {
     "expiry": "2027-04-09",
@@ -88981,7 +88966,6 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "08-7312",
       "36-0429"
     ],
     "last_check_date": "2026-08-02",
@@ -100208,7 +100192,8 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "08-9051"
+      "08-9051",
+      "KENBRI HW-626"
     ],
     "last_check_date": "2026-06-29",
     "last_expired_notification_date": null,
@@ -103883,18 +103868,6 @@
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-08-03"
   },
-  "BZ-BB-71": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "KENBRI HW-598"
-    ],
-    "last_check_date": "2026-07-31",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-03"
-  },
   "22-BHX-7": {
     "expiry": "2027-04-26",
     "checked": true,
@@ -105241,19 +105214,6 @@
     "last_tenaamstelling_check_date": "2026-08-02",
     "aantal_zitplaatsen": "7"
   },
-  "22-BLX-9": {
-    "expiry": "2026-03-13",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "KENBRI AS-591"
-    ],
-    "last_check_date": "2026-08-04",
-    "last_expired_notification_date": "2026-08-03",
-    "datum_tenaamstelling_dt": "2026-06-23",
-    "last_tenaamstelling_check_date": "2026-08-04",
-    "aantal_zitplaatsen": "4"
-  },
   "07-BLZ-4": {
     "expiry": "2027-03-09",
     "checked": true,
@@ -106311,5 +106271,213 @@
     "datum_tenaamstelling_dt": "2026-07-30",
     "last_tenaamstelling_check_date": "2026-08-04",
     "aantal_zitplaatsen": "4"
+  },
+  "J-213-BK": {
+    "expiry": "2028-07-29",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "08-5003"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2020-07-29",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "5"
+  },
+  "H-578-RZ": {
+    "expiry": "2027-07-21",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "09-8694"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-06-22",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "5"
+  },
+  "75-BVK-9": {
+    "expiry": "2026-09-04",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "10-6581"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2023-09-04",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "3"
+  },
+  "75-BNJ-1": {
+    "expiry": "2027-03-06",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "KENBRI KR-593"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2019-05-15",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "2"
+  },
+  "BP-NF-22": {
+    "expiry": "2026-11-14",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "KENBRI KR-631"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-01",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": null
+  },
+  "BP-TS-03": {
+    "expiry": "2026-08-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "KENBRI SB-584"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-05-17",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": null
+  },
+  "33-BTG-5": {
+    "expiry": "2027-06-19",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "KENBRI SB-615"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2023-09-14",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "2"
+  },
+  "89-BFP-3": {
+    "expiry": "2027-01-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "KENBRI TS-588"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-05-03",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "6"
+  },
+  "BL-TJ-07": {
+    "expiry": "2027-05-08",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "KENBRI TS-589"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2019-02-20",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": null
+  },
+  "BR-DF-85": {
+    "expiry": "2027-01-08",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "KENBRI TS-599"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2022-10-14",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "7"
+  },
+  "BP-TT-15": {
+    "expiry": "2026-12-20",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "KENBRI TS-625"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2021-11-01",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": null
+  },
+  "BN-NJ-73": {
+    "expiry": "2026-10-28",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "KENBRI TS-629"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2022-03-18",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": null
+  },
+  "BX-RS-53": {
+    "expiry": "2026-10-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "ONBEKEND"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-06-17",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "2"
+  },
+  "BT-SG-85": {
+    "expiry": "2027-02-18",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "ONBEKEND"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-10-06",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "2"
+  },
+  "BD-734-T": {
+    "expiry": "2027-07-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-3161"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-30",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "2"
+  },
+  "V-43-NKS": {
+    "expiry": "2029-11-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-9008"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-11-05",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "2"
   }
 }
