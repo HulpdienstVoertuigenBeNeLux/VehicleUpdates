@@ -74077,7 +74077,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "Wisselend 08-151 of 08-152"
+      "08-151 of 08-152"
     ],
     "last_check_date": "2026-06-26",
     "last_expired_notification_date": null,
@@ -86024,19 +86024,6 @@
     "last_tenaamstelling_check_date": "2026-08-03",
     "aantal_zitplaatsen": "5"
   },
-  "XT-577-J": {
-    "expiry": "2027-03-15",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-122"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2023-02-16",
-    "last_tenaamstelling_check_date": "2026-08-03",
-    "aantal_zitplaatsen": "5"
-  },
   "N-809-KX": {
     "expiry": "2026-11-04",
     "checked": true,
@@ -93777,19 +93764,6 @@
     "last_tenaamstelling_check_date": "2026-08-03",
     "aantal_zitplaatsen": "5"
   },
-  "RZ-350-D": {
-    "expiry": "2027-03-16",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-136"
-    ],
-    "last_check_date": "2026-05-31",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2023-02-16",
-    "last_tenaamstelling_check_date": "2026-08-03",
-    "aantal_zitplaatsen": "5"
-  },
   "GXG-91-S": {
     "expiry": "2026-12-11",
     "checked": true,
@@ -94133,8 +94107,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "09-8494",
-      "09-8694"
+      "09-8494"
     ],
     "last_check_date": "2026-06-06",
     "last_expired_notification_date": null,
@@ -105512,19 +105485,6 @@
     "last_tenaamstelling_check_date": "2026-07-29",
     "aantal_zitplaatsen": "2"
   },
-  "KRN-24-J": {
-    "expiry": "2027-01-31",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-133"
-    ],
-    "last_check_date": "2026-07-29",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-07-22",
-    "last_tenaamstelling_check_date": "2026-07-29",
-    "aantal_zitplaatsen": "5"
-  },
   "KGX-69-G": {
     "expiry": "2027-04-24",
     "checked": true,
@@ -106292,7 +106252,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "Wisselend 08-151 of 08-152"
+      "08-151 of 08-152"
     ],
     "last_check_date": "2026-08-03",
     "last_expired_notification_date": null,
@@ -106312,5 +106272,44 @@
     "datum_tenaamstelling_dt": "2026-03-10",
     "last_tenaamstelling_check_date": "2026-08-04",
     "aantal_zitplaatsen": "6"
+  },
+  "KRN-30-J": {
+    "expiry": "2027-07-23",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-122"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-23",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "4"
+  },
+  "KRN-34-J": {
+    "expiry": "2027-07-23",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-133"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-23",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "4"
+  },
+  "KRN-33-J": {
+    "expiry": "2027-07-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-136"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-30",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "4"
   }
 }

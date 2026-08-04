@@ -22354,8 +22354,8 @@
   {
     "Adres": "Hoofdkantoor VNOG",
     "Roepnummer": "06-9995",
-    "Afkorting": "CVD-B",
-    "TypeVoertuig": "Commandant van dienst Brandweer",
+    "Afkorting": "AC-B",
+    "TypeVoertuig": "Algemeen commandant brandweer",
     "Kenteken": "RK-401-V",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -32828,7 +32828,7 @@
     "Roepnummer": "09-8694",
     "Afkorting": "OVD-B",
     "TypeVoertuig": "Officier van dienst Brandweer",
-    "Kenteken": "TN-504-K",
+    "Kenteken": "ONBEKEND",
     "Bijzonderheden": "Gebied: Heuvelrug.",
     "Hulpdienst": "Brandweer ",
     "Regio": "9",
@@ -70687,6 +70687,17 @@
   },
   {
     "Adres": "Tilburg Centrum",
+    "Roepnummer": "20-9008",
+    "Afkorting": "TD",
+    "TypeVoertuig": "Technische dienst",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "20",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Tilburg Centrum",
     "Roepnummer": "20-9031",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -73306,8 +73317,8 @@
   {
     "Adres": "Sint-Michielsgestel",
     "Roepnummer": "21-0049",
-    "Afkorting": "NBH",
-    "TypeVoertuig": "Natuurbrandbestrijdingshaakarmbak",
+    "Afkorting": "BMH-NB",
+    "TypeVoertuig": "Bijzonder materieel haakarmbak met natuurbrand bestrijdingmaterieel",
     "Kenteken": "GEEN",
     "Bijzonderheden": "T.b.v. handcrew Zuid.",
     "Hulpdienst": "Brandweer ",
@@ -84064,8 +84075,8 @@
   {
     "Adres": "Zoetermeer IFV",
     "Roepnummer": "26-8991",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
+    "Afkorting": "LA-TDV",
+    "TypeVoertuig": "Landelijk adviseur team digitale verkenning",
     "Kenteken": "7-VLP-63",
     "Bijzonderheden": "Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
@@ -93699,22 +93710,22 @@
   },
   {
     "Adres": "EMS Uden ",
-    "Roepnummer": "Wisselend 08-151 of 08-152",
+    "Roepnummer": "08-151 of 08-152",
     "Afkorting": "AMBU-EH",
     "TypeVoertuig": "Ambulance evenementenhulpverlening",
     "Kenteken": "ZK-732-L",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "Draagt standaard geen roepnummer maar kan tijdens bepaalde evenementen voorzien worden van een magnetisch plakkaat met 08-151 of 08-152.",
     "Hulpdienst": "Ambulance ",
     "Regio": "8",
     "Interne opmerking": ""
   },
   {
     "Adres": "EMS Uden ",
-    "Roepnummer": "Wisselend 08-151 of 08-152",
+    "Roepnummer": "08-151 of 08-152",
     "Afkorting": "AMBU-EH",
     "TypeVoertuig": "Ambulance evenementenhulpverlening",
     "Kenteken": "ZH-127-F",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "Draagt standaard geen roepnummer maar kan tijdens bepaalde evenementen voorzien worden van een magnetisch plakkaat met 08-151 of 08-152.",
     "Hulpdienst": "Ambulance ",
     "Regio": "8",
     "Interne opmerking": ""
@@ -99830,7 +99841,7 @@
     "Afkorting": "DA-RA",
     "TypeVoertuig": "Dienstauto regionale ambulancevoorziening",
     "Kenteken": "GD-807-P",
-    "Bijzonderheden": "Grijs voertuig",
+    "Bijzonderheden": "Grijs voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "15",
     "Interne opmerking": ""
@@ -99841,7 +99852,7 @@
     "Afkorting": "DA-RA",
     "TypeVoertuig": "Dienstauto regionale ambulancevoorziening",
     "Kenteken": "PH-390-T",
-    "Bijzonderheden": "Grijs voertuig",
+    "Bijzonderheden": "Grijs voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "15",
     "Interne opmerking": ""
@@ -99907,7 +99918,7 @@
     "Afkorting": "ARTS-HP",
     "TypeVoertuig": "Huisarts voertuig",
     "Kenteken": "NF-928-P",
-    "Bijzonderheden": "Opleidingsvoertuig Huisarts",
+    "Bijzonderheden": "Opleidingsvoertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "15",
     "Interne opmerking": ""
@@ -101513,7 +101524,7 @@
     "Afkorting": "ARTS-SC",
     "TypeVoertuig": "Arts voertuig special care",
     "Kenteken": "H-522-HJ",
-    "Bijzonderheden": "Intensivist MICU, Eigendom MICU Nederland BV.",
+    "Bijzonderheden": "Intensivist MICU. Eigendom MICU Nederland BV.",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -101590,7 +101601,7 @@
     "Afkorting": "LO-RA",
     "TypeVoertuig": "Logistiek voertuig regionale ambulancevoorziening",
     "Kenteken": "VR-819-H",
-    "Bijzonderheden": "Piketvoertuig, tevens reserve NICU/PICU",
+    "Bijzonderheden": "Piketvoertuig. Tevens reserve NICU en PICU.",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102283,7 +102294,7 @@
     "Afkorting": "AMBU-SC",
     "TypeVoertuig": "Ambulance special care",
     "Kenteken": "TZ-214-J",
-    "Bijzonderheden": "NICU/PICU.",
+    "Bijzonderheden": "NICU en PICU.",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102349,7 +102360,7 @@
     "Afkorting": "AC-G",
     "TypeVoertuig": "Algemeen commandant geneeskundige zorg",
     "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Kenteken?",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102360,7 +102371,7 @@
     "Afkorting": "HIN-RA",
     "TypeVoertuig": "Hoofd informatie regionale ambulancevoorziening",
     "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Kenteken?",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102371,7 +102382,7 @@
     "Afkorting": "AGS-G",
     "TypeVoertuig": "Adviseur gevaarlijke stoffen geneeskundige zorg",
     "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Kenteken?",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102393,7 +102404,7 @@
     "Afkorting": "RES-PKT",
     "TypeVoertuig": "Reserve piketvoertuig",
     "Kenteken": "HVV-07-G",
-    "Bijzonderheden": "Reserve piketvoertuig.",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102415,7 +102426,7 @@
     "Afkorting": "OVD-G",
     "TypeVoertuig": "Officier van dienst geneeskundige zorg",
     "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Kenteken?",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102481,7 +102492,7 @@
     "Afkorting": "HA",
     "TypeVoertuig": "Haakarmvoertuig",
     "Kenteken": "BZ-HN-70",
-    "Bijzonderheden": "SIGMA",
+    "Bijzonderheden": "T.b.v. GGB.",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102492,7 +102503,7 @@
     "Afkorting": "RAH",
     "TypeVoertuig": "Regionale ambulancevoorziening haakarmbak",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "SIGMA",
+    "Bijzonderheden": "T.b.v. GGB.",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102503,7 +102514,7 @@
     "Afkorting": "RAH",
     "TypeVoertuig": "Regionale ambulancevoorziening haakarmbak",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "SIGMA",
+    "Bijzonderheden": "T.b.v. GGB.",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102514,7 +102525,7 @@
     "Afkorting": "RAH",
     "TypeVoertuig": "Regionale ambulancevoorziening haakarmbak",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "SIGMA",
+    "Bijzonderheden": "T.b.v. GGB.",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102536,7 +102547,7 @@
     "Afkorting": "AMBU-MC",
     "TypeVoertuig": "Ambulance middencomplexe zorg",
     "Kenteken": "GJ-726-K",
-    "Bijzonderheden": "Eigendom MICU Nederland BV.",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102547,7 +102558,7 @@
     "Afkorting": "AMBU-MC",
     "TypeVoertuig": "Ambulance middencomplexe zorg",
     "Kenteken": "GP-112-J",
-    "Bijzonderheden": "Eigendom MICU Nederland BV.",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102558,7 +102569,7 @@
     "Afkorting": "MICU",
     "TypeVoertuig": "Mobiele intensive care unit",
     "Kenteken": "1-SHV-68",
-    "Bijzonderheden": "Eigendom MICU Nederland BV.",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102569,7 +102580,7 @@
     "Afkorting": "MICU",
     "TypeVoertuig": "Mobiele intensive care unit",
     "Kenteken": "3-SHV-92",
-    "Bijzonderheden": "Eigendom MICU Nederland BV.",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102580,7 +102591,7 @@
     "Afkorting": "MICU",
     "TypeVoertuig": "Mobiele intensive care unit",
     "Kenteken": "HP-327-P",
-    "Bijzonderheden": "Reserve MICU, eigendom MICU Nederland BV.",
+    "Bijzonderheden": "Reservevoertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102701,7 +102712,7 @@
     "Afkorting": "ARTS-HP",
     "TypeVoertuig": "Huisarts voertuig",
     "Kenteken": "P-078-KF",
-    "Bijzonderheden": "Kenteken?",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -102723,7 +102734,7 @@
     "Afkorting": "ARTS-HP",
     "TypeVoertuig": "Huisarts voertuig",
     "Kenteken": "P-515-PG",
-    "Bijzonderheden": "Kenteken?",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
     "Interne opmerking": ""
@@ -103152,7 +103163,7 @@
     "Afkorting": "OO-RA",
     "TypeVoertuig": "Opleiding voertuig regionale ambulancevoorziening",
     "Kenteken": "H-320-JN",
-    "Bijzonderheden": "Reserve MC-Ambu.",
+    "Bijzonderheden": "Reserve AMBU-MC.",
     "Hulpdienst": "Ambulance ",
     "Regio": "18",
     "Interne opmerking": ""
@@ -104175,7 +104186,7 @@
     "Afkorting": "CAH-BH",
     "TypeVoertuig": "Calamiteitenhaakarmbak bedrijfshulpverlening",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "T.b.v Bedrijfs Ambulance ",
+    "Bijzonderheden": "T.b.v. bedrijfsambulance.",
     "Hulpdienst": "Brandweer ",
     "Regio": "19",
     "Interne opmerking": ""
@@ -104747,7 +104758,7 @@
     "Afkorting": "RR",
     "TypeVoertuig": "Rapid responder",
     "Kenteken": "X-146-HG",
-    "Bijzonderheden": "Tevens Verpleegkundig Specialist",
+    "Bijzonderheden": "Tevens verpleegkundig specialist.",
     "Hulpdienst": "Ambulance ",
     "Regio": "20",
     "Interne opmerking": ""
@@ -104758,7 +104769,7 @@
     "Afkorting": "RR",
     "TypeVoertuig": "Rapid responder",
     "Kenteken": "X-153-HG",
-    "Bijzonderheden": "Regionaal reserve",
+    "Bijzonderheden": "Regionaal reservevoertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "20",
     "Interne opmerking": ""
@@ -104769,7 +104780,7 @@
     "Afkorting": "RR",
     "TypeVoertuig": "Rapid responder",
     "Kenteken": "X-147-HG",
-    "Bijzonderheden": "Regionaal reserve",
+    "Bijzonderheden": "Regionaal reservevoertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "20",
     "Interne opmerking": ""
@@ -106023,7 +106034,7 @@
     "Afkorting": "GGB",
     "TypeVoertuig": "Grootschalige geneeskundige bijstand voertuig",
     "Kenteken": "VP-141-F",
-    "Bijzonderheden": "Tevens inzetbaar voor het IRT(Incident Response Team)",
+    "Bijzonderheden": "Tevens inzetbaar voor het IRT (Incident Response Team).",
     "Hulpdienst": "Ambulance ",
     "Regio": "21",
     "Interne opmerking": ""
@@ -106144,7 +106155,7 @@
     "Afkorting": "RR-EH",
     "TypeVoertuig": "Rapid responder evenementenhulpverlening",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Terreinvaardig voertuig",
+    "Bijzonderheden": "Terreinvaardig voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "21",
     "Interne opmerking": ""
@@ -106155,7 +106166,7 @@
     "Afkorting": "RR-EH",
     "TypeVoertuig": "Rapid responder evenementenhulpverlening",
     "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Terreinvaardig voertuig",
+    "Bijzonderheden": "Terreinvaardig voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "21",
     "Interne opmerking": ""
@@ -106166,7 +106177,7 @@
     "Afkorting": "RR-EH",
     "TypeVoertuig": "Rapid responder evenementenhulpverlening",
     "Kenteken": "9-VKP-57",
-    "Bijzonderheden": "Terreinvaardig voertuig",
+    "Bijzonderheden": "Terreinvaardig voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "21",
     "Interne opmerking": ""
@@ -106177,7 +106188,7 @@
     "Afkorting": "RR-EH",
     "TypeVoertuig": "Rapid responder evenementenhulpverlening",
     "Kenteken": "VV-338-T",
-    "Bijzonderheden": "Terreinvaardig voertuig",
+    "Bijzonderheden": "Terreinvaardig voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "21",
     "Interne opmerking": ""
@@ -106221,7 +106232,7 @@
     "Afkorting": "EHH-MP",
     "TypeVoertuig": "Evenementenhulpverlening haakarmbak mobiele post",
     "Kenteken": "45-WE-44",
-    "Bijzonderheden": "T.b.v EHBO Post",
+    "Bijzonderheden": "T.b.v. EHBO post.",
     "Hulpdienst": "Ambulance ",
     "Regio": "21",
     "Interne opmerking": ""
@@ -107024,7 +107035,7 @@
     "Afkorting": "LO-RA",
     "TypeVoertuig": "Logistiek voertuig regionale ambulancevoorziening",
     "Kenteken": "9-VZR-86",
-    "Bijzonderheden": "wit voertuig ",
+    "Bijzonderheden": "Wit voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "22",
     "Interne opmerking": ""
@@ -107167,7 +107178,7 @@
     "Afkorting": "RR-EH",
     "TypeVoertuig": "Rapid responder evenementenhulpverlening",
     "Kenteken": "TKN-51-D",
-    "Bijzonderheden": "Terreinvaardig voertuig",
+    "Bijzonderheden": "Terreinvaardig voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "22",
     "Interne opmerking": ""
@@ -107189,7 +107200,7 @@
     "Afkorting": "AMBU-EH",
     "TypeVoertuig": "Ambulance evenementenhulpverlening",
     "Kenteken": "85-JKT-6",
-    "Bijzonderheden": "Ambulance laagcomplexe zorg",
+    "Bijzonderheden": "AMBU-LC.",
     "Hulpdienst": "Ambulance ",
     "Regio": "22",
     "Interne opmerking": ""
@@ -107200,7 +107211,7 @@
     "Afkorting": "AMBU-EH",
     "TypeVoertuig": "Ambulance evenementenhulpverlening",
     "Kenteken": "G-269-DH",
-    "Bijzonderheden": "Ambulance laagcomplexe zorg",
+    "Bijzonderheden": "AMBU-LC.",
     "Hulpdienst": "Ambulance ",
     "Regio": "22",
     "Interne opmerking": ""
@@ -107211,7 +107222,7 @@
     "Afkorting": "AMBU-EH",
     "TypeVoertuig": "Ambulance evenementenhulpverlening",
     "Kenteken": "5-KBZ-82",
-    "Bijzonderheden": "Ambulance middencomplexe zorg",
+    "Bijzonderheden": "AMBU-MC.",
     "Hulpdienst": "Ambulance ",
     "Regio": "22",
     "Interne opmerking": ""
@@ -107222,7 +107233,7 @@
     "Afkorting": "AMBU-EH",
     "TypeVoertuig": "Ambulance evenementenhulpverlening",
     "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Ambulance middencomplexe zorg",
+    "Bijzonderheden": "AMBU-MC.",
     "Hulpdienst": "Ambulance ",
     "Regio": "22",
     "Interne opmerking": ""
@@ -107244,7 +107255,7 @@
     "Afkorting": "RR-EH",
     "TypeVoertuig": "Rapid responder evenementenhulpverlening",
     "Kenteken": "T-08-BPN",
-    "Bijzonderheden": "Terreinvaardig voertuig",
+    "Bijzonderheden": "Terreinvaardig voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "22",
     "Interne opmerking": ""
@@ -107310,7 +107321,7 @@
     "Afkorting": "EH",
     "TypeVoertuig": "Evenementenhulpverlening voertuig",
     "Kenteken": "WN-73-GH",
-    "Bijzonderheden": "Medical Unit. Bezetting: 2 personen.",
+    "Bijzonderheden": "Medical unit. Bezetting: 2 personen.",
     "Hulpdienst": "Ambulance ",
     "Regio": "22",
     "Interne opmerking": ""
@@ -107857,10 +107868,10 @@
   {
     "Adres": "Venlo",
     "Roepnummer": "23-117",
-    "Afkorting": "AMBU-HC",
+    "Afkorting": "AMBU-SC",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
     "Kenteken": "TD-130-P",
-    "Bijzonderheden": "Critical Care Emergency Interclinical Transport",
+    "Bijzonderheden": "MICU en AMBU-HC.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -107948,7 +107959,7 @@
     "Afkorting": "OVD-G",
     "TypeVoertuig": "Officier van dienst geneeskundige zorg",
     "Kenteken": "K-281-HF",
-    "Bijzonderheden": "Reserve Voertuig ",
+    "Bijzonderheden": "Reservevoertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108157,7 +108168,7 @@
     "Afkorting": "RR",
     "TypeVoertuig": "Rapid responder",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Fiets",
+    "Bijzonderheden": "Fiets.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108168,7 +108179,7 @@
     "Afkorting": "RR",
     "TypeVoertuig": "Rapid responder",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Fiets",
+    "Bijzonderheden": "Fiets.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108245,7 +108256,7 @@
     "Afkorting": "RRM-EH",
     "TypeVoertuig": "Rapid responder motor evenementenhulpverlening",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Terreinvaardig voertuig",
+    "Bijzonderheden": "Terreinvaardig voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108289,7 +108300,7 @@
     "Afkorting": "EH",
     "TypeVoertuig": "Evenementenhulpverlening voertuig",
     "Kenteken": "X-194-LT",
-    "Bijzonderheden": "Blauw Voertuig",
+    "Bijzonderheden": "Blauw voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108311,7 +108322,7 @@
     "Afkorting": "EH",
     "TypeVoertuig": "Evenementenhulpverlening voertuig",
     "Kenteken": "Onbekend",
-    "Bijzonderheden": "Wit Voertuig",
+    "Bijzonderheden": "Wit voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108322,7 +108333,7 @@
     "Afkorting": "AMBU-EH",
     "TypeVoertuig": "Ambulance evenementenhulpverlening",
     "Kenteken": "04-LHS-6",
-    "Bijzonderheden": "Ambulance middencomplexe zorg",
+    "Bijzonderheden": "AMBU-MC.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108333,7 +108344,7 @@
     "Afkorting": "AMBU-EH",
     "TypeVoertuig": "Ambulance evenementenhulpverlening",
     "Kenteken": "97-PZS-7",
-    "Bijzonderheden": "Ambulance middencomplexe zorg",
+    "Bijzonderheden": "AMBU-MC.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108344,7 +108355,7 @@
     "Afkorting": "AMBU-EH",
     "TypeVoertuig": "Ambulance evenementenhulpverlening",
     "Kenteken": "59-JBP-1",
-    "Bijzonderheden": "Ambulance middencomplexe zorg",
+    "Bijzonderheden": "AMBU-MC.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108355,7 +108366,7 @@
     "Afkorting": "EH",
     "TypeVoertuig": "Evenementenhulpverlening voertuig",
     "Kenteken": "V-338-XZ",
-    "Bijzonderheden": "Wit voertuig",
+    "Bijzonderheden": "Wit voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108366,7 +108377,7 @@
     "Afkorting": "EH",
     "TypeVoertuig": "Evenementenhulpverlening voertuig",
     "Kenteken": "VXV-68-F",
-    "Bijzonderheden": "Wit voertuig",
+    "Bijzonderheden": "Wit voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108377,7 +108388,7 @@
     "Afkorting": "CA-EH",
     "TypeVoertuig": "Calamiteiten voertuig evenementenhulpverlening",
     "Kenteken": "V-15-DRH",
-    "Bijzonderheden": "Wit voertuig",
+    "Bijzonderheden": "Wit voertuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108388,7 +108399,7 @@
     "Afkorting": "EH",
     "TypeVoertuig": "Evenementenhulpverlening voertuig",
     "Kenteken": "Onbekend",
-    "Bijzonderheden": "T.b.v EHBO Post. Bezetting: 2 personen.",
+    "Bijzonderheden": "T.b.v. EHBO post. Bezetting: 2 personen.",
     "Hulpdienst": "Ambulance ",
     "Regio": "23",
     "Interne opmerking": ""
@@ -108662,7 +108673,7 @@
     "Roepnummer": "24-122",
     "Afkorting": "AMBU-HC",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "XT-577-J",
+    "Kenteken": "KRN-30-J",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -108783,7 +108794,7 @@
     "Roepnummer": "24-133",
     "Afkorting": "AMBU-HC",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "KRN-24-J",
+    "Kenteken": "KRN-34-J",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -108816,7 +108827,7 @@
     "Roepnummer": "24-136",
     "Afkorting": "AMBU-HC",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "RZ-350-D",
+    "Kenteken": "KRN-33-J",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "24",
@@ -109488,7 +109499,7 @@
     "Afkorting": "RR",
     "TypeVoertuig": "Rapid responder",
     "Kenteken": "R-361-SK",
-    "Bijzonderheden": "Ook Verpleegkundige Specialist ",
+    "Bijzonderheden": "Tevens verpleegkundig specialist.",
     "Hulpdienst": "Ambulance ",
     "Regio": "25",
     "Interne opmerking": ""
@@ -109521,7 +109532,7 @@
     "Afkorting": "DA-RA",
     "TypeVoertuig": "Dienstauto regionale ambulancevoorziening",
     "Kenteken": "ST-975-B",
-    "Bijzonderheden": "T.b.v Opleidingen . Bezetting: 5 personen.",
+    "Bijzonderheden": "T.b.v. opleidingen. Bezetting: 5 personen.",
     "Hulpdienst": "Ambulance ",
     "Regio": "25",
     "Interne opmerking": ""

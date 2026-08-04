@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 10,936  (of 17,028 total)
+  Records checked : 10,937  (of 17,029 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  4 value(s) affected
@@ -34,6 +34,16 @@
       Roepnummer  : 06-1562
       Kenteken    : GEEN
 
+  >> '08-151 of 08-152'  (2x)
+      Adres       : EMS Uden
+      Hulpdienst  : Ambulance
+      Roepnummer  : 08-151 of 08-152
+      Kenteken    : ZK-732-L
+      Adres       : EMS Uden
+      Hulpdienst  : Ambulance
+      Roepnummer  : 08-151 of 08-152
+      Kenteken    : ZH-127-F
+
   >> '1'  (2x)
       Adres       : Eelde Airport
       Hulpdienst  : Brandweer
@@ -44,18 +54,8 @@
       Roepnummer  : 1
       Kenteken    : ONBEKEND
 
-  >> 'Wisselend 08-151 of 08-152'  (2x)
-      Adres       : EMS Uden
-      Hulpdienst  : Ambulance
-      Roepnummer  : Wisselend 08-151 of 08-152
-      Kenteken    : ZK-732-L
-      Adres       : EMS Uden
-      Hulpdienst  : Ambulance
-      Roepnummer  : Wisselend 08-151 of 08-152
-      Kenteken    : ZH-127-F
-
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  6 value(s) affected
+  Duplicate Kenteken  --  5 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '05-ZDS-6'  (2x)
@@ -97,16 +97,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : 10-6581
       Kenteken    : 68-BVK-9
-
-  >> 'TN-504-K'  (2x)
-      Adres       : Doorn
-      Hulpdienst  : Brandweer
-      Roepnummer  : 09-8494
-      Kenteken    : TN-504-K
-      Adres       : Veenendaal
-      Hulpdienst  : Brandweer
-      Roepnummer  : 09-8694
-      Kenteken    : TN-504-K
 
   >> 'ZT-644-V'  (2x)
       Adres       : Zwolle
