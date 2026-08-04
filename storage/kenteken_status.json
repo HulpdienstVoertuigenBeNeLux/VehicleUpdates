@@ -42479,7 +42479,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "17-0131"
+      "17-0232"
     ],
     "last_check_date": "2026-07-21",
     "last_expired_notification_date": null,
@@ -42518,7 +42518,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "17-0232"
+      "17-0131"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -106299,5 +106299,18 @@
     "datum_tenaamstelling_dt": "2026-02-23",
     "last_tenaamstelling_check_date": "2026-08-03",
     "aantal_zitplaatsen": "3"
+  },
+  "BD-946-F": {
+    "expiry": "2027-05-15",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "05-3462"
+    ],
+    "last_check_date": "2026-08-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-03-10",
+    "last_tenaamstelling_check_date": "2026-08-04",
+    "aantal_zitplaatsen": "6"
   }
 }
