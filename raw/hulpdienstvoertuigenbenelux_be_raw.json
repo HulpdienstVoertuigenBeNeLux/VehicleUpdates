@@ -24,21 +24,21 @@
   {
     "Adres": "Antwerpen-Noord",
     "Roepnummer": "A1",
-    "Afkorting": "ZA - TEST",
+    "Afkorting": "ZA",
     "TypeVoertuig": "Zware Autopomp",
     "Kenteken": "",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "Reserve voertuig",
     "Hulpdienst": "Brandweer ",
     "Regio": "Antwerpen",
     "Interne opmerking": ""
   },
   {
     "Adres": "Antwerpen-Noord",
-    "Roepnummer": "A3",
+    "Roepnummer": "A2",
     "Afkorting": "ZA ",
-    "TypeVoertuig": "Zware Autopomp",
+    "TypeVoertuig": "Zware Autopomp ",
     "Kenteken": "",
-    "Bijzonderheden": "Reserve voertuig",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "Antwerpen",
     "Interne opmerking": ""
@@ -91,7 +91,7 @@
     "Adres": "Antwerpen-Noord",
     "Roepnummer": "A14",
     "Afkorting": "ZA ",
-    "TypeVoertuig": "ZA ",
+    "TypeVoertuig": "Zware Autopomp",
     "Kenteken": "",
     "Bijzonderheden": "Reserve voertuig",
     "Hulpdienst": "Brandweer ",
@@ -1342,12 +1342,23 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Lillo ",
-    "Roepnummer": "A2",
+    "Adres": "Antwerpen-Noord",
+    "Roepnummer": "A3",
     "Afkorting": "ZA ",
-    "TypeVoertuig": "Zware Autopomp ",
+    "TypeVoertuig": "Zware Autopomp",
     "Kenteken": "",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "Reserve voertuig",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Antwerpen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lillo ",
+    "Roepnummer": "A3",
+    "Afkorting": "ZA ",
+    "TypeVoertuig": "Zware Autopomp",
+    "Kenteken": "",
+    "Bijzonderheden": "Reserve voertuig",
     "Hulpdienst": "Brandweer ",
     "Regio": "Antwerpen",
     "Interne opmerking": ""
@@ -91913,50 +91924,6 @@
     "Bijzonderheden": "Uitkijkpost met 1 bootje ",
     "Hulpdienst": "Reddingsbrigade ",
     "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Rode Kruis - Antwerpen-Stad",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Rode Kruis",
-    "Regio": "Antwerpen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Antwerpen-Stad",
-    "Roepnummer": "21037",
-    "Afkorting": "AMBU-RK",
-    "TypeVoertuig": "Ambulance Rode Kruis",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Rode Kruis",
-    "Regio": "Antwerpen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Rode Kruis - Arendonk ",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Rode Kruis",
-    "Regio": "Antwerpen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Arendonk",
-    "Roepnummer": "Test",
-    "Afkorting": "Test",
-    "TypeVoertuig": "Test",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Rode Kruis",
-    "Regio": "Antwerpen",
     "Interne opmerking": ""
   }
 ]

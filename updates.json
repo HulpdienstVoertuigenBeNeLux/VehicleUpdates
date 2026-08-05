@@ -1,5 +1,118 @@
 [
   {
+    "date": "2026-08-06",
+    "added": [],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "Antwerpen",
+        "Description": "21037 AMBU-RK verwijderd van Antwerpen-Stad",
+        "Time": "06-08-2026 00:00:43"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "Antwerpen",
+        "Description": "Test Test verwijderd van Arendonk",
+        "Time": "06-08-2026 00:00:43"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4282: Afkorting van 'PMT' naar 'VKT-NB' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4282: TypeVoertuig van 'Personeel/materieelvoertuig terreinvaardig' naar 'Verkenningsvoertuig terreinvaardig natuurbrandbestrijding' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4283: Afkorting van 'PMT' naar 'VKT-NB' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4283: TypeVoertuig van 'Personeel/materieelvoertuig terreinvaardig' naar 'Verkenningsvoertuig terreinvaardig natuurbrandbestrijding' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4281: Afkorting van 'PMT' naar 'VKT-NB' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4281: TypeVoertuig van 'Personeel/materieelvoertuig terreinvaardig' naar 'Verkenningsvoertuig terreinvaardig natuurbrandbestrijding' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4381: Afkorting van 'PMT' naar 'VKT-NB' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4381: TypeVoertuig van 'Personeel/materieelvoertuig terreinvaardig' naar 'Verkenningsvoertuig terreinvaardig natuurbrandbestrijding' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4405: Adres van 'Julianadorp' naar 'Den Helder' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4481: Adres van 'Den Helder' naar 'Julianadorp' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4481: Afkorting van 'PM' naar 'VKT-NB' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10",
+        "Description": "10-4481: TypeVoertuig van 'Personeel/materieelvoertuig' naar 'Verkenningsvoertuig terreinvaardig natuurbrandbestrijding' aangepast",
+        "Time": "06-08-2026 00:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "A3: Adres van 'Antwerpen-Noord' naar 'Lillo' aangepast",
+        "Time": "06-08-2026 00:00:43"
+      }
+    ]
+  },
+  {
     "date": "2026-08-05",
     "added": [],
     "removed": [],
@@ -41441,701 +41554,6 @@
         "Regio": "19",
         "Description": "19-8162: Bijzonderheden van 'Bezetting: 6 personen.' naar 'Tijdelijk buiten dienst na ongeval. Bezetting: 6 personen.' aangepast",
         "Time": "06-07-2026 21:00:14"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-05",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "2",
-        "Description": "GEEN IM Berger toegevoegd aan Wouterswoude",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "2",
-        "Description": "GEEN IM Berger toegevoegd aan Wouterswoude",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "2",
-        "Description": "GEEN IM Berger toegevoegd aan Wouterswoude",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "2",
-        "Description": "GEEN IM Berger toegevoegd aan Wouterswoude",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "2",
-        "Description": "GEEN IM Berger toegevoegd aan Harlingen",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "2",
-        "Description": "GEEN IM Berger toegevoegd aan Harlingen",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "2",
-        "Description": "GEEN IM Berger toegevoegd aan Harlingen",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "TS 2 TS toegevoegd aan Spijkenisse",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN DA toegevoegd aan Rotterdam Port Authority",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN GM toegevoegd aan Regionaal/Wilhelminakade",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN DB toegevoegd aan Regionaal/Wilhelminakade",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1",
-        "Description": "01-2914 BRV-M toegevoegd aan Finsterwolde",
-        "Time": "05-07-2026 22:00:12"
-      }
-    ],
-    "removed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Rode Kruis",
-        "Regio": "",
-        "Description": "25-932 RK verwijderd van ONBEKEND",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "2",
-        "Description": "GEEN IM Berger verwijderd van Wouterswoude",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1",
-        "Description": "01-2916 BRV-M verwijderd van Finsterwolde",
-        "Time": "05-07-2026 22:00:12"
-      }
-    ],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "2",
-        "Description": "02-107: Kenteken van 'SV-755-J' naar 'JTS-94-J' aangepast",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "6",
-        "Description": "06-204: Kenteken van 'H-169-HN' naar 'H-196-HN' aangepast",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "8",
-        "Description": "08-703: Kenteken van 'R-674-SR' naar 'R-673-SR' aangepast",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "19",
-        "Description": "19-125: Kenteken van 'H-096-JF' naar 'JHJ-71-B' aangepast",
-        "Time": "05-07-2026 10:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-8794: Bijzonderheden van '' naar 'Havenbedrijf huisstijl.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-8795: Bijzonderheden van 'Tevens voor rijopleidingen.' naar 'Havenbedrijf huisstijl. Tevens voor rijopleidingen.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-8796: Bijzonderheden van '' naar 'Havenbedrijf huisstijl.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-8797: Bijzonderheden van 'OVD harbour coördination center.' naar 'Havenbedrijf huisstijl. OVD harbour coördination center.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-8798: Bijzonderheden van 'Operationeel manager.' naar 'Havenbedrijf huisstijl. Operationeel manager.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-8799: Bijzonderheden van 'Duty officer.' naar 'Havenbedrijf huisstijl. Duty officer.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Bijzonderheden van '' naar 'Havenbedrijf huisstijl.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: TypeVoertuig van '' naar 'Gereedschap/materieelvoertuig' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Bijzonderheden van 'T.b.v veilig leven.. Bezetting: 5 personen.' naar 'T.b.v. veilig leven. Bezetting: 5 personen.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Bijzonderheden van 'Bezetting: 2 personen' naar 'Bezetting: 2 personen.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Bijzonderheden van 'Bezetting: 2 personen' naar 'Bezetting: 2 personen.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Bijzonderheden van 'Bezetting: 2 personen' naar 'Bezetting: 2 personen.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Bijzonderheden van 'Veilig leven. Bezetting: 2 personen.' naar 'T.b.v. veilig leven. Bezetting: 2 personen.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Bijzonderheden van 'Veilig leven. Bezetting: 2 personen.' naar 'T.b.v. veilig leven. Bezetting: 2 personen.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Bijzonderheden van 'Veilig leven. Bezetting: 2 personen.' naar 'T.b.v. veilig leven. Bezetting: 2 personen.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Bijzonderheden van 'Veilig leven.' naar 'T.b.v. veilig leven.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-9201: Bijzonderheden van 'Primair voor warme logistiek: PBM's en ademlucht.' naar 'Primair voor warme logistiek.' aangepast",
-        "Time": "05-07-2026 11:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Afkorting van 'LOH-O' naar 'GMH' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Bijzonderheden van '' naar 'Open bak t.b.v. wrakkenvervoer.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-3331: Bijzonderheden van 'Heeft geen eigen inzetgebied, alleen voor aflossing en herbezetting. Bezetting: 7 personen.' naar 'Heeft geen eigen inzetgebied, alleen voor aflossing en (geplande) herbezetting. Bezetting: 7 personen.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-9376: Afkorting van 'LOH-O' naar 'GMH' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-9376: Bijzonderheden van '' naar 'Open bak t.b.v. wrakkenvervoer.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-5181: Adres van 'Nieuw-Beijerland' naar 'Goudswaard' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-5401: Bijzonderheden van 'Tijdelijk buiten dienst na ongeluk' naar 'Tijdelijk buiten dienst na ongeluk.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-5412: Bijzonderheden van '18-5414 is de trailer, Tijdelijk in de haven van Oud-Beijerland na ongeluk trekkend voertuig' naar '18-5414 is de trailer, Tijdelijk in de haven van Oud-Beijerland na ongeluk trekkend voertuig.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-5413: Bijzonderheden van 'Trekker van de 18-5412, Tijdelijk uit dienst' naar 'Trekker van de 18-5412, Tijdelijk uit dienst.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-5471: Bijzonderheden van 'Open bak, wrakkenvervoer' naar 'Open bak t.b.v. wrakkenvervoer.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-5562: Bijzonderheden van 'Moet nog in dienst komen' naar 'Moet nog in dienst komen.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-5921: Bijzonderheden van 'BU-VTHS' naar 'BU-VTHS.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6221: Bijzonderheden van 'BU-VTHS' naar 'BU-VTHS.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6306: Bijzonderheden van 'T.b.v. bevelvoerder van dienst' naar 'T.b.v. bevelvoerder van dienst.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6362: Bijzonderheden van 'Moet nog in dienst komen' naar 'Moet nog in dienst komen.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6381: Bijzonderheden van 'In bruikleen bij de Gezamenlijke Brandweer onder het fictieve roepnummer 17-1681.' naar 'In bruikleen bij de Gezamenlijke Brandweer.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9486: Bijzonderheden van 'Open bak, wrakkenvervoer' naar 'Open bak t.b.v. wrakkenvervoer.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-04: Bijzonderheden van 'Wit voertuig, geen striping' naar 'Wit voertuig, geen striping.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-07: Bijzonderheden van 'Wit voertuig, geen striping' naar 'Wit voertuig, geen striping.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "GEEN: Bijzonderheden van 'Materiaal van het IFV' naar 'Materiaal van het IFV.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "GEEN: Bijzonderheden van 'Materiaal van het IFV' naar 'Materiaal van het IFV.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6369: Bijzonderheden van 'Tevens SB-BA. Moet nog in dienst komen' naar 'Tevens SB-BA. Moet nog in dienst komen.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6471: Bijzonderheden van 'Open bak t.b.v. vervoer 18-6489' naar 'Open bak t.b.v. vervoer 18-6489.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6489: Bijzonderheden van 'Multidisciplinaire quad + aanhanger t.b.v. Sophiapolder' naar 'Multidisciplinaire quad + aanhanger t.b.v. Sophiapolder.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6562: Bijzonderheden van 'Moet nog in dienst komen' naar 'Moet nog in dienst komen.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6564: Bijzonderheden van 'BU-UHD' naar 'BU-UHD.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6565: Bijzonderheden van 'Ligplaats: Van Leeuwenhoekweg 20' naar 'Ligplaats: Van Leeuwenhoekweg 20.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6702: Bijzonderheden van 'Trekkend voertuig van de 18-6765' naar 'Trekkend voertuig van de 18-6765.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-7021: Bijzonderheden van 'BU-VTHS' naar 'BU-VTHS.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-7062: Bijzonderheden van 'Moet nog in dienst komen' naar 'Moet nog in dienst komen.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9466: Bijzonderheden van 'Regionale voorraad schuimvormend middel' naar 'Regionale voorraad schuimvormend middel.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-7302: Bijzonderheden van 'Trekkend voertuig van de 18-7381' naar 'Trekkend voertuig van de 18-7381.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-7802: Bijzonderheden van 'Trekkend voertuig van de 18-7881' naar 'Trekkend voertuig van de 18-7881.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-7921: Bijzonderheden van 'BU-VTHS' naar 'BU-VTHS.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-8165: Bijzonderheden van 'Fictief roepnummer voor veertaxi (firma Riveer) indien ingezet als BRV' naar 'Fictief roepnummer voor veertaxi (firma Riveer) indien ingezet als BRV.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9423: Bijzonderheden van 'Tevens HON-B' naar 'Tevens HON-B.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9488: Bijzonderheden van 'T.b.v. warme logistiek, gebied West' naar 'T.b.v. warme logistiek, gebied West.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9489: Bijzonderheden van 'T.b.v. warme logistiek, gebied Oost' naar 'T.b.v. warme logistiek, gebied Oost.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9490: Bijzonderheden van 'Stage OVD' naar 'Stage OVD.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9491: Bijzonderheden van 'District West' naar 'District West.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9492: Bijzonderheden van 'District Midden' naar 'District Midden.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9493: Bijzonderheden van 'District Oost' naar 'District Oost.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9494: Bijzonderheden van 'Reserve OVD, inzetbaar indien 2 of meer officieren van dienst zijn ingezet' naar 'Reserve OVD, inzetbaar indien 2 of meer officieren van dienst zijn ingezet.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9581: Bijzonderheden van 'T.b.v. koude logistiek' naar 'T.b.v. koude logistiek.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9582: Bijzonderheden van 'T.b.v. koude logistiek' naar 'T.b.v. koude logistiek.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9583: Bijzonderheden van 'T.b.v. koude logistiek' naar 'T.b.v. koude logistiek.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9609: Bijzonderheden van 'T.b.v. brandveilig leven' naar 'T.b.v. brandveilig leven.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9793: Afkorting van 'DA' naar 'ONBEKEND' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9794: Afkorting van 'DA' naar 'ONBEKEND' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9799: Bijzonderheden van 'T.b.v. algemeen directeur veiligheidsregio' naar 'T.b.v. algemeen directeur veiligheidsregio.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9821: Bijzonderheden van 'Adviseur omgevingsdienst' naar 'Adviseur omgevingsdienst.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9891: Bijzonderheden van 'T.b.v. Hoeksche Waard' naar 'T.b.v. Hoeksche Waard.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9892: Bijzonderheden van 'T.b.v. Drechtsteden-Zuid' naar 'T.b.v. Drechtsteden-Zuid.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9893: Bijzonderheden van 'T.b.v. Drechtsteden-Noord' naar 'T.b.v. Drechtsteden-Noord.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-9894: Bijzonderheden van 'T.b.v. Molenwaard' naar 'T.b.v. Molenwaard.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-02: Bijzonderheden van 'Wit voertuig, geen striping' naar 'Wit voertuig, geen striping.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-03: Bijzonderheden van 'Wit voertuig, geen striping' naar 'Wit voertuig, geen striping.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-06: Bijzonderheden van 'Wit voertuig, geen striping' naar 'Wit voertuig, geen striping.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-08: Bijzonderheden van 'Wit voertuig, geen striping' naar 'Wit voertuig, geen striping.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-10: Bijzonderheden van 'Wit voertuig, geen striping' naar 'Wit voertuig, geen striping.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-05: Bijzonderheden van 'Wit voertuig, geen striping' naar 'Wit voertuig, geen striping.' aangepast",
-        "Time": "05-07-2026 17:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "6",
-        "Description": "06-1401: Kenteken van 'ONBEKEND' naar 'JTP-23-H' aangepast",
-        "Time": "05-07-2026 21:00:12"
       }
     ]
   }
