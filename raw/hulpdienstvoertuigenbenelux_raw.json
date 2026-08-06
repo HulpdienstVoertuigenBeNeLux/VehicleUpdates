@@ -24311,6 +24311,17 @@
   },
   {
     "Adres": "Arnhem Noord",
+    "Roepnummer": "07-7001",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
+    "Kenteken": "K-890-HJ",
+    "Bijzonderheden": "Bezetting: 5 personen.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "7",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Arnhem Noord",
     "Roepnummer": "07-7004",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
@@ -34893,17 +34904,6 @@
   },
   {
     "Adres": "Den Helder",
-    "Roepnummer": "10-4405",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "ZP-662-B",
-    "Bijzonderheden": "Bezetting: 9 personen.",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "10",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Den Helder",
     "Roepnummer": "10-4407",
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
@@ -35085,17 +35085,6 @@
     "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "10",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Julianadorp",
-    "Roepnummer": "10-4481",
-    "Afkorting": "VKT-NB",
-    "TypeVoertuig": "Verkenningsvoertuig terreinvaardig natuurbrandbestrijding",
-    "Kenteken": "8-VTX-59",
-    "Bijzonderheden": "Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "10",
     "Interne opmerking": ""
@@ -114372,6 +114361,17 @@
     "Afkorting": "DB-ICB",
     "TypeVoertuig": "Dienstbus Incidenten Bestrijding ",
     "Kenteken": "VJG-81-B",
+    "Bijzonderheden": "",
+    "Hulpdienst": "ProRail ",
+    "Regio": "4",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "ProRail ICB Zwolle",
+    "Roepnummer": "GEEN",
+    "Afkorting": "DB-ICB",
+    "TypeVoertuig": "Dienstbus Incidenten Bestrijding ",
+    "Kenteken": "VZK-14-B",
     "Bijzonderheden": "",
     "Hulpdienst": "ProRail ",
     "Regio": "4",

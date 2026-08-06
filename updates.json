@@ -1,7 +1,22 @@
 [
   {
     "date": "2026-08-06",
-    "added": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "7",
+        "Description": "07-7001 DA toegevoegd aan Arnhem Noord",
+        "Time": "06-08-2026 11:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "4",
+        "Description": "GEEN DB-ICB toegevoegd aan ProRail ICB Zwolle",
+        "Time": "06-08-2026 11:00:18"
+      }
+    ],
     "removed": [
       {
         "Land": "BE",
