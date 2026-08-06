@@ -1,28 +1,28 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                  : 17043
-  Records met parsebare bezetting : 3359
-  Vergeleken met RDW              : 3108
-  RDW data ontbreekt              : 251
+  Totaal records                  : 17568
+  Records met parsebare bezetting : 3561
+  Vergeleken met RDW              : 3297
+  RDW data ontbreekt              : 264
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 640
-  Bezetting > RDW zitplaatsen     : 339
-  RDW zitplaatsen > bezetting     : 301
+  Bezetting != RDW zitplaatsen    : 660
+  Bezetting > RDW zitplaatsen     : 343
+  RDW zitplaatsen > bezetting     : 317
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
 ------------------------------------------------------------------------------------------
-   1 personen : 11
-   2 personen : 149
-   3 personen : 44
-   4 personen : 108
-   5 personen : 788
-   6 personen : 262
-   7 personen : 1092
-   8 personen : 407
-   9 personen : 491
+   1 personen : 21
+   2 personen : 166
+   3 personen : 46
+   4 personen : 109
+   5 personen : 825
+   6 personen : 267
+   7 personen : 1160
+   8 personen : 410
+   9 personen : 550
   10 personen : 6
   11 personen : 1
 
@@ -262,7 +262,7 @@
   GEEN         | TR-676-N   |         5 |             4
   GEEN         | TR-680-N   |         5 |             4
   16-4200      | P-113-ND   |         9 |             8
-  16-9239      | 90-BZX-6   |         7 |             5
+  16-9289      | 90-BZX-6   |         7 |             5
   GEEN         | J-140-RX   |         5 |             4
   GEEN         | J-382-SB   |         5 |             4
   GEEN         | TP-748-V   |         5 |             4
@@ -378,6 +378,10 @@
   23-6107      | TP-752-V   |         5 |             4
   24-0737      | 44-BDF-4   |         8 |             7
   24-0738      | 56-BDD-7   |         9 |             7
+  24-0738      | 56-BDD-7   |         9 |             7
+  24-0738      | 56-BDD-7   |         9 |             7
+  MKS          | R-643-TD   |         5 |             4
+  MKS          | R-643-TD   |         5 |             4
   25-8131      | 97-BDK-3   |         9 |             7
   26-8201      | V-992-RD   |         7 |             3
 
@@ -524,7 +528,6 @@
   15-9890      | HSN-48-V   |         4 |             5
   16-1030      | 46-BTJ-8   |         6 |             7
   16-4209      | 6-VXF-26   |         2 |             5
-  GEEN         | J-432-KF   |         4 |             5
   16-1130      | 17-BXS-3   |         6 |             7
   16-1230      | 27-BTR-6   |         6 |             7
   16-2030      | 15-BXS-3   |         6 |             7
@@ -539,6 +542,7 @@
   16-3530      | 08-BXS-4   |         6 |             7
   16-3630      | 50-BXL-1   |         6 |             7
   16-3830      | 53-BXP-2   |         6 |             7
+  GEEN         | J-432-KF   |         4 |             5
   16-4430      | 57-BXP-8   |         6 |             7
   16-8031      | BT-DB-43   |         7 |             8
   GEEN         | VFZ-78-B   |         2 |             5
@@ -673,12 +677,28 @@
   ONBEKEND     | BZ-TP-56   |         5 |             7
   24-0902      | 6-KJX-15   |         8 |             9
   24-1502      | 9-KJR-78   |         8 |             9
+  24-1502      | 9-KJR-78   |         8 |             9
+  24-1502      | 9-KJR-78   |         8 |             9
+  24-1502      | 9-KJR-78   |         8 |             9
+  24-2131      | 17-BSJ-4   |         6 |             7
+  24-2131      | 17-BSJ-4   |         6 |             7
   24-2131      | 17-BSJ-4   |         6 |             7
   24-2504      | VDB-27-P   |         2 |             3
+  24-2504      | VDB-27-P   |         2 |             3
+  24-2504      | VDB-27-P   |         2 |             3
   24-2508      | 49-BNL-6   |         2 |             3
+  24-2508      | 49-BNL-6   |         2 |             3
+  24-2508      | 49-BNL-6   |         2 |             3
+  24-2600      | K-260-JL   |         4 |             5
+  24-2600      | K-260-JL   |         4 |             5
   24-2600      | K-260-JL   |         4 |             5
   RAS          | VP-602-K   |         2 |             3
   24-2731      | 19-BSJ-4   |         6 |             7
+  24-2731      | 19-BSJ-4   |         6 |             7
+  24-2731      | 19-BSJ-4   |         6 |             7
+  24-2731      | 19-BSJ-4   |         6 |             7
+  Brandweer 6  | VN-375-T   |         2 |             6
+  Brandweer 6  | VN-375-T   |         2 |             6
   Brandweer 6  | VN-375-T   |         2 |             6
   25-4083      | VB-453-D   |         2 |             6
   25-4502      | JD-148-P   |         7 |             9
