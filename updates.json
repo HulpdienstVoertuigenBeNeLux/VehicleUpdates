@@ -526,6 +526,34 @@
         "Regio": "Luik",
         "Description": "V433 (DB) PM toegevoegd aan Welkenraedt",
         "Time": "07-08-2026 00:04:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T931 DB toegevoegd aan Beerse",
+        "Time": "07-08-2026 01:00:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T941 (DB) PM toegevoegd aan kasterlee",
+        "Time": "07-08-2026 01:00:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T951 (DB) PM toegevoegd aan Ravels",
+        "Time": "07-08-2026 01:00:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "T838 DB toegevoegd aan Vosselaar",
+        "Time": "07-08-2026 01:00:18"
       }
     ],
     "removed": [
@@ -675,6 +703,13 @@
         "Regio": "Luik",
         "Description": "PX401 HZA verwijderd van Verviers",
         "Time": "07-08-2026 00:04:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": " DB verwijderd van Vosselaar",
+        "Time": "07-08-2026 01:00:18"
       }
     ],
     "changed": [
