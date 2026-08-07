@@ -554,6 +554,13 @@
         "Regio": "Antwerpen",
         "Description": "T838 DB toegevoegd aan Vosselaar",
         "Time": "07-08-2026 01:00:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Test",
+        "Regio": "Test",
+        "Description": "Test Test toegevoegd aan Test",
+        "Time": "07-08-2026 11:00:48"
       }
     ],
     "removed": [
@@ -710,6 +717,62 @@
         "Regio": "Antwerpen",
         "Description": " DB verwijderd van Vosselaar",
         "Time": "07-08-2026 01:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-3382 HVH verwijderd van Brunssum",
+        "Time": "07-08-2026 11:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-2503 GM verwijderd van Bedrijfsbrandweer Chemelot",
+        "Time": "07-08-2026 11:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-2506 DB-BB verwijderd van Bedrijfsbrandweer Chemelot",
+        "Time": "07-08-2026 11:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-2592 DA-BB verwijderd van Bedrijfsbrandweer Chemelot",
+        "Time": "07-08-2026 11:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-2593 DA-BB verwijderd van Bedrijfsbrandweer Chemelot",
+        "Time": "07-08-2026 11:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-2595 DA-BB verwijderd van Bedrijfsbrandweer Chemelot",
+        "Time": "07-08-2026 11:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "24-2596 GM verwijderd van Bedrijfsbrandweer Chemelot",
+        "Time": "07-08-2026 11:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "RAS GM verwijderd van Bedrijfsbrandweer Chemelot",
+        "Time": "07-08-2026 11:00:14"
       }
     ],
     "changed": [
@@ -1391,6 +1454,20 @@
         "Regio": "Luik",
         "Description": "CX401: Adres van 'Verviers' naar 'Theux' aangepast",
         "Time": "07-08-2026 00:04:02"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "'24-3301' omgenummerd naar '24-0508'",
+        "Time": "07-08-2026 11:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24",
+        "Description": "'PM 5' omgenummerd naar 'Brandweer 5'",
+        "Time": "07-08-2026 11:00:14"
       }
     ]
   },
