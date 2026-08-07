@@ -9559,17 +9559,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Borger",
-    "Roepnummer": "03-8598",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "ZJ-606-N",
-    "Bijzonderheden": "Bezetting: 5 personen.",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "3",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "03-86 Emmen, Nijbracht 43a",
     "Roepnummer": "",
     "Afkorting": "",
@@ -15765,21 +15754,32 @@
   {
     "Adres": "De Lutte",
     "Roepnummer": "05-2501",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "",
-    "Regio": "",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "De Lutte",
-    "Roepnummer": "05-2501",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "HZL-47-T",
     "Bijzonderheden": "Bezetting: 8 personen.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "5",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "De Lutte",
+    "Roepnummer": "05-2531",
+    "Afkorting": "TS",
+    "TypeVoertuig": "Tankautospuit",
+    "Kenteken": "88-BXG-6",
+    "Bijzonderheden": "Bezetting: 7 personen.",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "5",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "De Lutte",
+    "Roepnummer": "05-2541",
+    "Afkorting": "TST-NB",
+    "TypeVoertuig": "Tankautospuit terreinvaardig natuurbrandbestrijding",
+    "Kenteken": "36-BXV-7",
+    "Bijzonderheden": "NBT-M. CCFM voertuig. Bezetting: 4 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "5",
     "Interne opmerking": ""
@@ -37258,17 +37258,6 @@
   },
   {
     "Adres": "Hoofdkantoor VRNHN",
-    "Roepnummer": "10-6602",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "86-XHJ-1",
-    "Bijzonderheden": "Bezetting: 5 personen.",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "10",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Hoofdkantoor VRNHN",
     "Roepnummer": "10-6605",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
@@ -45490,17 +45479,6 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BB-932-D",
-    "Bijzonderheden": "Bezetting: 7 personen.",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "14",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Hilversum",
-    "Roepnummer": "14-7431",
-    "Afkorting": "TS",
-    "TypeVoertuig": "Tankautospuit",
-    "Kenteken": "BX-GJ-39",
     "Bijzonderheden": "Bezetting: 7 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "14",
@@ -75032,17 +75010,6 @@
   },
   {
     "Adres": "Eindhoven Woensel",
-    "Roepnummer": "22-5003",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "15-ZDS-6",
-    "Bijzonderheden": "Bezetting: 5 personen.",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "22",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Eindhoven Woensel",
     "Roepnummer": "22-5005",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
@@ -88177,17 +88144,6 @@
   },
   {
     "Adres": "Harlingen",
-    "Roepnummer": "02-345",
-    "Afkorting": "RR",
-    "TypeVoertuig": "Rapid responder",
-    "Kenteken": "NB-321-K",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "2",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Harlingen",
     "Roepnummer": "02-381",
     "Afkorting": "OVDG-RR",
     "TypeVoertuig": "Officier van dienst geneeskundige zorg rapid responder",
@@ -88709,6 +88665,28 @@
     "Afkorting": "AMBU-HC",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
     "Kenteken": "HZ-596-Z",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "2",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Terschelling",
+    "Roepnummer": "02-583",
+    "Afkorting": "DA-RA",
+    "TypeVoertuig": "Dienstauto regionale ambulancevoorziening",
+    "Kenteken": "SX-876-V",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "2",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Terschelling",
+    "Roepnummer": "02-585",
+    "Afkorting": "DA-RA",
+    "TypeVoertuig": "Dienstauto regionale ambulancevoorziening",
+    "Kenteken": "SX-875-V",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "2",
@@ -89622,17 +89600,6 @@
     "Afkorting": "AMBU-IT",
     "TypeVoertuig": "Ambulance internationaal",
     "Kenteken": "9-SJS-75",
-    "Bijzonderheden": "MAI",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "3",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "MAI Barneveld",
-    "Roepnummer": "03-413",
-    "Afkorting": "AMBU-IT",
-    "TypeVoertuig": "Ambulance internationaal",
-    "Kenteken": "2-XLZ-65",
     "Bijzonderheden": "MAI",
     "Hulpdienst": "Ambulance ",
     "Regio": "3",
@@ -96001,7 +95968,7 @@
     "Roepnummer": "10-119",
     "Afkorting": "AMBU-HC",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "J-727-LS",
+    "Kenteken": "KKT-41-X",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "10",
@@ -96133,7 +96100,7 @@
     "Roepnummer": "10-107",
     "Afkorting": "AMBU-HC",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
-    "Kenteken": "J-896-LR",
+    "Kenteken": "KLK-32-T",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "10",
@@ -109285,17 +109252,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Brandweer Born, Havenweg 141",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "24",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Bedrijfs Ambualnce Geleen, Kerenshofweg 200",
     "Roepnummer": "",
     "Afkorting": "",
@@ -109979,10 +109935,10 @@
   },
   {
     "Adres": "Den Helder ",
-    "Roepnummer": "29-1371",
+    "Roepnummer": "29-1332",
     "Afkorting": "AMBU-DF",
     "TypeVoertuig": "Ambulance Defensie",
-    "Kenteken": "KM-58-17",
+    "Kenteken": "KM-52-10",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "28",
@@ -109990,10 +109946,10 @@
   },
   {
     "Adres": "Den Helder ",
-    "Roepnummer": "29-1332",
+    "Roepnummer": "29-1371",
     "Afkorting": "AMBU-DF",
     "TypeVoertuig": "Ambulance Defensie",
-    "Kenteken": "KM-52-10",
+    "Kenteken": "KM-58-17",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "28",
@@ -111401,7 +111357,7 @@
     "Roepnummer": "35-7402",
     "Afkorting": "RMV",
     "TypeVoertuig": "Reddingsmaatschappij vaartuig",
-    "Kenteken": "Annie Jacoba Visser",
+    "Kenteken": "Arbor Vitae",
     "Bijzonderheden": "Type Valentijn",
     "Hulpdienst": "KNRM",
     "Regio": "1",
@@ -111826,29 +111782,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "GEEN Locaties in betrefende regio",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "KNRM",
-    "Regio": "7",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "De Cocksdorp, Volharding 3",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "KNRM",
-    "Regio": "10",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Wijdenes, Het Wuiver 1a",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -111870,7 +111804,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "De Koog, Badweg 16",
+    "Adres": "Wijdenes, Het Wuiver 1a",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -111903,7 +111837,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Oudeschild, Haven 26",
+    "Adres": "De Koog, Badweg 16",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -111936,7 +111870,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Den Helder, Bevesierweg 5",
+    "Adres": "Oudeschild, Haven 26",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -111958,7 +111892,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Den Oever, Sluiskolkkade 1",
+    "Adres": "Den Helder, Bevesierweg 5",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -111980,7 +111914,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Callantsoog, Lepelaarsweg 18",
+    "Adres": "Den Oever, Sluiskolkkade 1",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -112002,7 +111936,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Petten, Strandweg 2",
+    "Adres": "Callantsoog, Lepelaarsweg 18",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -112035,23 +111969,23 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Petten, Strandweg 2",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "KNRM",
+    "Regio": "10",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Petten ",
     "Roepnummer": "35-7261",
     "Afkorting": "RMV",
     "TypeVoertuig": "Reddingsmaatschappij vaartuig",
     "Kenteken": "Francine. K",
     "Bijzonderheden": "Type Atlantic",
-    "Hulpdienst": "KNRM",
-    "Regio": "10",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Egmond aan Zee, Boulevard Zuid 5",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
     "Hulpdienst": "KNRM",
     "Regio": "10",
     "Interne opmerking": ""
@@ -112079,7 +112013,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Medemblik, Oosterhaven 7",
+    "Adres": "Egmond aan Zee, Boulevard Zuid 5",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -112112,7 +112046,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Andijk, Nieuwe Haven 8",
+    "Adres": "Medemblik, Oosterhaven 7",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -112134,7 +112068,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Enkhuizen, Compagnieshaven 3a",
+    "Adres": "Andijk, Nieuwe Haven 8",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -112156,14 +112090,14 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Marken, Havenbuurt 1a",
+    "Adres": "Enkhuizen, Compagnieshaven 3a",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "KNRM",
-    "Regio": "11",
+    "Regio": "10",
     "Interne opmerking": ""
   },
   {
@@ -112189,7 +112123,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Warder, IJsselmeerdijk 6",
+    "Adres": "Marken, Havenbuurt 1a",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -112222,14 +112156,14 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Wijk aan Zee, Relweg 70",
+    "Adres": "Warder, IJsselmeerdijk 6",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "KNRM",
-    "Regio": "12",
+    "Regio": "11",
     "Interne opmerking": ""
   },
   {
@@ -112244,18 +112178,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Wijk aan Zee ",
-    "Roepnummer": "35-7241",
-    "Afkorting": "RMV",
-    "TypeVoertuig": "Reddingsmaatschappij vaartuig",
-    "Kenteken": "Donateur",
-    "Bijzonderheden": "Type Valentijn",
-    "Hulpdienst": "KNRM",
-    "Regio": "12",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Zandvoort, Thorbeckestraat 6",
+    "Adres": "Wijk aan Zee, Relweg 70",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -112267,11 +112190,33 @@
   },
   {
     "Adres": "Wijk aan Zee ",
+    "Roepnummer": "35-7241",
+    "Afkorting": "RMV",
+    "TypeVoertuig": "Reddingsmaatschappij vaartuig",
+    "Kenteken": "Donateur",
+    "Bijzonderheden": "Type Valentijn",
+    "Hulpdienst": "KNRM",
+    "Regio": "12",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Wijk aan Zee ",
     "Roepnummer": "35-7245",
     "Afkorting": "RMT-KHV",
     "TypeVoertuig": "Reddingsmaatschappij voertuig terreinvaardig kusthulpverleningsvoertuig",
     "Kenteken": "BR-PD-87",
     "Bijzonderheden": "GEEN",
+    "Hulpdienst": "KNRM",
+    "Regio": "12",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Zandvoort, Thorbeckestraat 6",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "KNRM",
     "Regio": "12",
     "Interne opmerking": ""
@@ -112299,23 +112244,23 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "IJmuiden, Haringkade 2a",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "KNRM",
-    "Regio": "12",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Zandvoort ",
     "Roepnummer": "GEEN",
     "Afkorting": "RMV",
     "TypeVoertuig": "Reddingsmaatschappij vaartuig",
     "Kenteken": "Meerval",
     "Bijzonderheden": "Type Float",
+    "Hulpdienst": "KNRM",
+    "Regio": "12",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "IJmuiden, Haringkade 2a",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "KNRM",
     "Regio": "12",
     "Interne opmerking": ""
@@ -112424,17 +112369,6 @@
     "Roepnummer": "GEEN",
     "Afkorting": "RMV",
     "TypeVoertuig": "Reddingsmaatschappij vaartuig",
-    "Kenteken": "Javazee",
-    "Bijzonderheden": "Museumschip",
-    "Hulpdienst": "KNRM",
-    "Regio": "12",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "IJmuiden",
-    "Roepnummer": "GEEN",
-    "Afkorting": "RMV",
-    "TypeVoertuig": "Reddingsmaatschappij vaartuig",
     "Kenteken": "Koos van Messel",
     "Bijzonderheden": "Type Arie Visser",
     "Hulpdienst": "KNRM",
@@ -112453,18 +112387,18 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Huizen, Energieweg 1",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
+    "Adres": "IJmuiden",
+    "Roepnummer": "GEEN",
+    "Afkorting": "RMV",
+    "TypeVoertuig": "Reddingsmaatschappij vaartuig",
+    "Kenteken": "Javazee",
+    "Bijzonderheden": "Museumschip",
     "Hulpdienst": "KNRM",
-    "Regio": "14",
+    "Regio": "12",
     "Interne opmerking": ""
   },
   {
-    "Adres": "Blaricum, Stichtseweg 99",
+    "Adres": "Huizen, Energieweg 1",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -112486,7 +112420,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Naarden, Schoener 8",
+    "Adres": "Blaricum, Stichtseweg 99",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -112508,14 +112442,14 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ter Heijde, Strandweg 13",
+    "Adres": "Naarden, Schoener 8",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "KNRM",
-    "Regio": "15",
+    "Regio": "14",
     "Interne opmerking": ""
   },
   {
@@ -112530,18 +112464,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ter Heijde ",
-    "Roepnummer": "35-7182",
-    "Afkorting": "RMV",
-    "TypeVoertuig": "Reddingsmaatschappij vaartuig",
-    "Kenteken": "George Dijkstra",
-    "Bijzonderheden": "Type Valentijn",
-    "Hulpdienst": "KNRM",
-    "Regio": "15",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Scheveningen, Visafslagweg 101",
+    "Adres": "Ter Heijde, Strandweg 13",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -112553,11 +112476,33 @@
   },
   {
     "Adres": "Ter Heijde ",
+    "Roepnummer": "35-7182",
+    "Afkorting": "RMV",
+    "TypeVoertuig": "Reddingsmaatschappij vaartuig",
+    "Kenteken": "George Dijkstra",
+    "Bijzonderheden": "Type Valentijn",
+    "Hulpdienst": "KNRM",
+    "Regio": "15",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Ter Heijde ",
     "Roepnummer": "35-7185",
     "Afkorting": "RMT-KHV",
     "TypeVoertuig": "Reddingsmaatschappij voertuig terreinvaardig kusthulpverleningsvoertuig",
     "Kenteken": "BZ-NJ-38",
     "Bijzonderheden": "GEEN",
+    "Hulpdienst": "KNRM",
+    "Regio": "15",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Scheveningen, Visafslagweg 101",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "KNRM",
     "Regio": "15",
     "Interne opmerking": ""
@@ -112585,17 +112530,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Noordwijk, Bosweg 2a",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "KNRM",
-    "Regio": "16",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Scheveningen ",
     "Roepnummer": "35-7195",
     "Afkorting": "RMT-KHV",
@@ -112604,6 +112538,17 @@
     "Bijzonderheden": "GEEN",
     "Hulpdienst": "KNRM",
     "Regio": "15",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Noordwijk, Bosweg 2a",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "KNRM",
+    "Regio": "16",
     "Interne opmerking": ""
   },
   {
@@ -112618,23 +112563,23 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Katwijk, Noorddijnseweg 4",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "KNRM",
-    "Regio": "16",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Noordwijk ",
     "Roepnummer": "35-7215",
     "Afkorting": "RMT-KHV",
     "TypeVoertuig": "Reddingsmaatschappij voertuig terreinvaardig kusthulpverleningsvoertuig",
     "Kenteken": "86-BFP-4",
     "Bijzonderheden": "GEEN",
+    "Hulpdienst": "KNRM",
+    "Regio": "16",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Katwijk, Noorddijnseweg 4",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "KNRM",
     "Regio": "16",
     "Interne opmerking": ""
@@ -113290,6 +113235,17 @@
   },
   {
     "Adres": "Nes, Strandweg 70",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "KNRM",
+    "Regio": "2",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nes ",
     "Roepnummer": "AMN010",
     "Afkorting": "DAT",
     "TypeVoertuig": "Dienstauto terreinvaardig",
@@ -113300,23 +113256,12 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Nes ",
+    "Adres": "Nes",
     "Roepnummer": "AMN019",
     "Afkorting": "RBV-WSC",
     "TypeVoertuig": "Reddingsbrigade vaartuig waterscooter",
     "Kenteken": "GEEN",
     "Bijzonderheden": "T.b.v Lifeguards",
-    "Hulpdienst": "KNRM",
-    "Regio": "2",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Nes",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
     "Hulpdienst": "KNRM",
     "Regio": "2",
     "Interne opmerking": ""
@@ -113905,7 +113850,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "",
+    "Adres": "Den Helder",
     "Roepnummer": "Zie hierboven.",
     "Afkorting": "SAR-Heli",
     "TypeVoertuig": "Search And Rescue Helikopter ",
@@ -113916,7 +113861,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "",
+    "Adres": "Den Helder",
     "Roepnummer": "Zie hierboven.",
     "Afkorting": "SAR-Heli",
     "TypeVoertuig": "Search And Rescue Helikopter ",
@@ -115403,17 +115348,6 @@
   {
     "Adres": "ProRail ICB Rotterdam",
     "Roepnummer": "GEEN",
-    "Afkorting": "DB-ICB",
-    "TypeVoertuig": "Dienstbus Incidenten Bestrijding ",
-    "Kenteken": "VHZ-73-N",
-    "Bijzonderheden": "",
-    "Hulpdienst": "ProRail ",
-    "Regio": "17",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "ProRail ICB Rotterdam",
-    "Roepnummer": "GEEN",
     "Afkorting": "(DA) OVD-Rail",
     "TypeVoertuig": "Dienstauto Officier Van Dienst Rail ",
     "Kenteken": "Z-665-DR",
@@ -116240,7 +116174,7 @@
     "Adres": "",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Aziëstraat 14, Ittervoort",
+    "TypeVoertuig": "Aziëstraat 15, Ittervoort",
     "Kenteken": "",
     "Bijzonderheden": "Ambulance",
     "Hulpdienst": "Academies",
@@ -124865,7 +124799,7 @@
     "Roepnummer": "36-0070",
     "Afkorting": "RBT",
     "TypeVoertuig": "Reddingsbrigade voertuig terreinvaardig",
-    "Kenteken": "PG-607-P",
+    "Kenteken": "ONBEKEND",
     "Bijzonderheden": "T.b.v Werkplaats/communicatie/bezoeken",
     "Hulpdienst": "Reddingsbrigade",
     "Regio": "12",
@@ -132622,17 +132556,6 @@
     "TypeVoertuig": "Plateauwagen",
     "Kenteken": "71-VKN-1",
     "Bijzonderheden": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "6",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Didam",
-    "Roepnummer": "GEEN",
-    "Afkorting": "IM Berger",
-    "TypeVoertuig": "Plateauwagen",
-    "Kenteken": "BT-FD-67",
-    "Bijzonderheden": "Met Kraan ",
     "Hulpdienst": "Bergingsbedrijf",
     "Regio": "6",
     "Interne opmerking": ""

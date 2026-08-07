@@ -1379,8 +1379,85 @@
     "DE Afkorting": "DIW 1",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
+    "Kenteken": "CG 1050",
+    "Bijzonderheden": "T.b.v Zone Nord",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Northern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nordstad",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1054",
+    "Bijzonderheden": "T.b.v Zone Nord",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Northern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nordstad",
+    "DE Afkorting": "DIW 1",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
     "Kenteken": "CG 1057",
     "Bijzonderheden": "Wit voertuig. Bezetting: 5 personen.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Northern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nordstad",
+    "DE Afkorting": "KDOW 2",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1058",
+    "Bijzonderheden": "T.b.v Zone Nord",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Northern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nordstad",
+    "DE Afkorting": "VSF 1",
+    "Afkorting": "VZ",
+    "TypeVoertuig": "Verzorgingsvoertuig",
+    "Kenteken": "CG 1089",
+    "Bijzonderheden": "T.b.v Zone Nord",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Northern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nordstad",
+    "DE Afkorting": "DIW 2",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
+    "Kenteken": "CG 1210",
+    "Bijzonderheden": "T.b.v Zone Nord",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Northern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nordstad",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1228",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Northern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nordstad",
+    "DE Afkorting": "KDOW 2",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1240",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
     "Hulpdienst": "Brandweer",
     "Regio": "Northern Rescue Zone",
     "Interne opmerking": ""
@@ -1436,6 +1513,28 @@
     "TypeVoertuig": "Hoogwerker",
     "Kenteken": "CG 1578",
     "Bijzonderheden": "Hoogte: 34 meter.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Northern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nordstad",
+    "DE Afkorting": "KDOW 3",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1694",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
+    "Hulpdienst": "",
+    "Regio": "",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nordstad",
+    "DE Afkorting": "KDOW 3",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1694",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
     "Hulpdienst": "Brandweer",
     "Regio": "Northern Rescue Zone",
     "Interne opmerking": ""
@@ -3444,6 +3543,28 @@
   },
   {
     "Adres": "Bouvange-Attert",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1218",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Bouvange-Attert",
+    "DE Afkorting": "KDOW 2",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1239",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Bouvange-Attert",
     "DE Afkorting": "LF 1-1",
     "Afkorting": "TST",
     "TypeVoertuig": "Tankautospuit terreinvaardig",
@@ -3476,22 +3597,22 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Bouvange-Attert",
-    "DE Afkorting": "KDOW 1",
-    "Afkorting": "OVD-B",
-    "TypeVoertuig": "Officier van dienst Brandweer",
-    "Kenteken": "CG 1833",
+    "Adres": "CIS Findel, 4 Rue de Trèves, 2632 Findel Sandweiler, Luxemburg",
+    "DE Afkorting": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
     "Interne opmerking": ""
   },
   {
-    "Adres": "CIS Findel, 4 Rue de Trèves, 2632 Findel Sandweiler, Luxemburg",
-    "DE Afkorting": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
+    "Adres": "Bouvange-Attert",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1833",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
@@ -3767,6 +3888,149 @@
     "Afkorting": "BMH-BBM",
     "TypeVoertuig": "Bijzonder materieel haakarmbak met bijzondere brandbestrijdingsmiddelen",
     "Kenteken": "AB 117",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "CIS Findel, 70 Rue de Luxembourg, 5230 Sandweiler, Luxemburg",
+    "DE Afkorting": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "LX-AFB",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "EC-ODD",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "EC-OEF",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "LX-AFF",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "EC-LGN",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "LX-AFG",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "EC-ODO",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "ONBEKEND",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "ONBEKEND",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "ONBEKEND",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "ONBEKEND",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sandweiler",
+    "DE Afkorting": "",
+    "Afkorting": "VKL-NB",
+    "TypeVoertuig": "(Verkennings) Vliegtuig Natuurbrandbestrijding ",
+    "Kenteken": "ONBEKEND",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
@@ -5005,94 +5269,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "GIS - Nucléaire, Radiologique, Biologique, Chimique ( NRBC ) ",
-    "DE Afkorting": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Central Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Eschdorf",
-    "DE Afkorting": "GW-UMWELT 3-1",
-    "Afkorting": "GS",
-    "TypeVoertuig": "Gevaarlijke stoffen voertuig",
-    "Kenteken": "CG 1337",
-    "Bijzonderheden": "T.b.v NRBC",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Central Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Eschdorf",
-    "DE Afkorting": "PICKUP 1",
-    "Afkorting": "DAT",
-    "TypeVoertuig": "Dienstauto Terreinvaardig",
-    "Kenteken": "CG 1105",
-    "Bijzonderheden": "T.b.v NRBC. Bezetting: 5 personen.",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Central Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Eschdorf",
-    "DE Afkorting": "MTW 1",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "CG 2092",
-    "Bijzonderheden": "T.b.v NRBC. Bezetting: 8 personen.",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Central Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Eschdorf",
-    "DE Afkorting": "WLFABKRAN 1",
-    "Afkorting": "HA-KR",
-    "TypeVoertuig": "Haakarmvoertuig met kraan",
-    "Kenteken": "CG 1447",
-    "Bijzonderheden": "T.b.v NRBC",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Central Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Eschdorf",
-    "DE Afkorting": "AB-SPERRE 2",
-    "Afkorting": "OSH",
-    "TypeVoertuig": "Olieschermen haakarmbak",
-    "Kenteken": "AB 104",
-    "Bijzonderheden": "T.b.v NRBC",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Central Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Eschdorf",
-    "DE Afkorting": "ANH-SKIMMER 1",
-    "Afkorting": "GSA",
-    "TypeVoertuig": "Gevaarlijke stoffen aanhanger",
-    "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "T.b.v Olisporen. Voor NRBC",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Central Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Eschdorf",
-    "DE Afkorting": "ANH-SPERRE 1",
-    "Afkorting": "GSA",
-    "TypeVoertuig": "Gevaarlijke stoffen aanhanger",
-    "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "T.b.v Olisporen. Voor NRBC",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Central Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "CIS Luxembourg, 3 Bd de Kockelscheuer, 1821 Gasperich Luxembourg, Luxemburg",
     "DE Afkorting": "",
     "Afkorting": "",
@@ -5163,6 +5339,17 @@
     "DE Afkorting": "DIW 1",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
+    "Kenteken": "CG 1052",
+    "Bijzonderheden": "T.b.v Zone Centre",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg ",
+    "DE Afkorting": "DIW 1",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
     "Kenteken": "CG 1053",
     "Bijzonderheden": "Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer",
@@ -5176,6 +5363,17 @@
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "CG 1056",
     "Bijzonderheden": "T.b.v INFS. Bezetting: 5 personen",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg ",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1055",
+    "Bijzonderheden": "T.b.v Zone Centre",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
     "Interne opmerking": ""
@@ -5198,6 +5396,17 @@
     "TypeVoertuig": "Preventie",
     "Kenteken": "CG 1066",
     "Bijzonderheden": "T.b.v DSO. Wit voertuig. Bezetting: 5 personen.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg ",
+    "DE Afkorting": "DIW 2",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
+    "Kenteken": "CG 1069",
+    "Bijzonderheden": "T.b.v Zone Centre",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
     "Interne opmerking": ""
@@ -5281,6 +5490,17 @@
   },
   {
     "Adres": "Luxembourg",
+    "DE Afkorting": "PICKUP 1",
+    "Afkorting": "DAT",
+    "TypeVoertuig": "Dienstauto Terreinvaardig",
+    "Kenteken": "CG 1105",
+    "Bijzonderheden": "T.b.v NRBC. Bezetting: 5 personen.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg",
     "DE Afkorting": "DIW 1",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
@@ -5347,6 +5567,17 @@
   },
   {
     "Adres": "Luxembourg",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1221",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg",
     "DE Afkorting": "ELW 2-1",
     "Afkorting": "CO ",
     "TypeVoertuig": "Commandowagen ",
@@ -5385,6 +5616,17 @@
     "TypeVoertuig": "Multifunctioneel voertuig terreinvaardig",
     "Kenteken": "CG 1291",
     "Bijzonderheden": "T.b.v INFS.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1293",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
     "Interne opmerking": ""
@@ -5611,6 +5853,17 @@
   },
   {
     "Adres": "Luxembourg",
+    "DE Afkorting": "GW-UMWELT 3-1",
+    "Afkorting": "GS",
+    "TypeVoertuig": "Gevaarlijke stoffen voertuig",
+    "Kenteken": "CG 1337",
+    "Bijzonderheden": "T.b.v NRBC",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg",
     "DE Afkorting": "ANH-LOG 1",
     "Afkorting": "LOA",
     "TypeVoertuig": "Logistiek aanhanger",
@@ -5704,6 +5957,17 @@
     "TypeVoertuig": "Personeel/materieelvoertuig terreinvaardig USAR",
     "Kenteken": "ONBEKEND",
     "Bijzonderheden": "T.b.v HIT.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg ",
+    "DE Afkorting": "MTW 1",
+    "Afkorting": "DB",
+    "TypeVoertuig": "Dienstbus",
+    "Kenteken": "CG 1378",
+    "Bijzonderheden": "T.b.v Zone Centre",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
     "Interne opmerking": ""
@@ -5858,6 +6122,17 @@
     "TypeVoertuig": "Hulpverleningsvoertuig",
     "Kenteken": "CG 1433",
     "Bijzonderheden": "T.b.v INFS.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg",
+    "DE Afkorting": "WLFABKRAN 1",
+    "Afkorting": "HA-KR",
+    "TypeVoertuig": "Haakarmvoertuig met kraan",
+    "Kenteken": "CG 1447",
+    "Bijzonderheden": "T.b.v NRBC",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
     "Interne opmerking": ""
@@ -6062,6 +6337,17 @@
   },
   {
     "Adres": "Luxembourg ",
+    "DE Afkorting": "TLF 2",
+    "Afkorting": "WT",
+    "TypeVoertuig": "Watertankwagen",
+    "Kenteken": "CG 1687",
+    "Bijzonderheden": "T.b.v Zone Centre",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg ",
     "DE Afkorting": "GW-MESSBC 1",
     "Afkorting": "VK-GS",
     "TypeVoertuig": "Verkenningsvoertuig IBGS",
@@ -6089,6 +6375,17 @@
     "TypeVoertuig": "Verkenningsvoertuig team digitale verkenning",
     "Kenteken": "CG 1738",
     "Bijzonderheden": "T.b.v GATO.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg ",
+    "DE Afkorting": "MZF 2-1",
+    "Afkorting": "LO",
+    "TypeVoertuig": "Logistiek voertuig",
+    "Kenteken": "CG 1851",
+    "Bijzonderheden": "T.b.v Zone Centre",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
     "Interne opmerking": ""
@@ -6149,6 +6446,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Luxembourg",
+    "DE Afkorting": "MTW 1",
+    "Afkorting": "DB",
+    "TypeVoertuig": "Dienstbus",
+    "Kenteken": "CG 2092",
+    "Bijzonderheden": "T.b.v NRBC. Bezetting: 8 personen.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Luxembourg ",
     "DE Afkorting": "MOTO 1",
     "Afkorting": "BRM",
@@ -6177,6 +6485,17 @@
     "TypeVoertuig": "Autoladder ",
     "Kenteken": "CG 2228",
     "Bijzonderheden": "T.b.v INFS. Hoogte: 30 meter.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg ",
+    "DE Afkorting": "ONBEKEND",
+    "Afkorting": "LO",
+    "TypeVoertuig": "Logistiek voertuig",
+    "Kenteken": "CG 2229",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
     "Interne opmerking": ""
@@ -6458,6 +6777,17 @@
   },
   {
     "Adres": "Luxembourg",
+    "DE Afkorting": "AB-SPERRE 2",
+    "Afkorting": "OSH",
+    "TypeVoertuig": "Olieschermen haakarmbak",
+    "Kenteken": "AB 104",
+    "Bijzonderheden": "T.b.v NRBC",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg",
     "DE Afkorting": "AB-DEKONP 3-2",
     "Afkorting": "BOH-DC",
     "TypeVoertuig": "Basis ontsmetting haakarmbak decontaminatie",
@@ -6534,23 +6864,12 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Luxembourg ",
-    "DE Afkorting": "RTB 01",
-    "Afkorting": "BRV-K",
-    "TypeVoertuig": "Brandweervaartuig Klein",
-    "Kenteken": "LG 3303",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Central Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Luxembourg ",
-    "DE Afkorting": "RTB 2-1",
-    "Afkorting": "BRV-K",
-    "TypeVoertuig": "Brandweervaartuig Klein",
-    "Kenteken": "LG 3371",
-    "Bijzonderheden": "Tevens RTB 2-12 voor GSAQ",
+    "Adres": "Luxembourg",
+    "DE Afkorting": "ANH-SKIMMER 1",
+    "Afkorting": "GSA",
+    "TypeVoertuig": "Gevaarlijke stoffen aanhanger",
+    "Kenteken": "ONBEKEND",
+    "Bijzonderheden": "T.b.v Olisporen. Voor NRBC",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
     "Interne opmerking": ""
@@ -6567,6 +6886,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Luxembourg",
+    "DE Afkorting": "ANH-SPERRE 1",
+    "Afkorting": "GSA",
+    "TypeVoertuig": "Gevaarlijke stoffen aanhanger",
+    "Kenteken": "ONBEKEND",
+    "Bijzonderheden": "T.b.v Olisporen. Voor NRBC",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Mamer",
     "DE Afkorting": "MTW 1",
     "Afkorting": "DB ",
@@ -6578,12 +6908,34 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Luxembourg ",
+    "DE Afkorting": "RTB 01",
+    "Afkorting": "BRV-K",
+    "TypeVoertuig": "Brandweervaartuig Klein",
+    "Kenteken": "LG 3303",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Mamer",
     "DE Afkorting": "MTW 3",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus  ",
     "Kenteken": "CG 1273",
     "Bijzonderheden": "Bezetting: 9 personen",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxembourg ",
+    "DE Afkorting": "RTB 2-1",
+    "Afkorting": "BRV-K",
+    "TypeVoertuig": "Brandweervaartuig Klein",
+    "Kenteken": "LG 3371",
+    "Bijzonderheden": "Tevens RTB 2-12 voor GSAQ",
     "Hulpdienst": "Brandweer",
     "Regio": "Central Rescue Zone",
     "Interne opmerking": ""
@@ -7613,6 +7965,28 @@
   },
   {
     "Adres": "Dudelange",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1222",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Dudelange",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1222",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Dudelange",
     "DE Afkorting": "DIW 1",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
@@ -7755,12 +8129,34 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "CIS Esch/Alzette, 18 Rue Léon Metz, 4238 Esch-sur-Alzette, Luxemburg",
+    "DE Afkorting": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Dudelange",
     "DE Afkorting": "AB-UMWELT 3-1",
     "Afkorting": "LOH",
     "TypeVoertuig": "Logistiek Haakarmbak Rampen ",
     "Kenteken": "AB 082",
     "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Esch-sur-Alzette",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1048",
+    "Bijzonderheden": "T.b.v Zone Sud",
     "Hulpdienst": "Brandweer",
     "Regio": "Southern Rescue Zone",
     "Interne opmerking": ""
@@ -7777,12 +8173,34 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "CIS Esch/Alzette, 18 Rue Léon Metz, 4238 Esch-sur-Alzette, Luxemburg",
-    "DE Afkorting": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
+    "Adres": "Esch-sur-Alzette",
+    "DE Afkorting": "KDOW 2",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1051",
+    "Bijzonderheden": "T.b.v Zone Sud",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Esch-sur-Alzette",
+    "DE Afkorting": "DIW 1",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
+    "Kenteken": "CG 1063",
+    "Bijzonderheden": "T.b.v Zone Sud",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Esch-sur-Alzette",
+    "DE Afkorting": "DIW 2",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
+    "Kenteken": "CG 1064",
+    "Bijzonderheden": "T.b.v Zone Sud",
     "Hulpdienst": "Brandweer",
     "Regio": "Southern Rescue Zone",
     "Interne opmerking": ""
@@ -7794,6 +8212,28 @@
     "TypeVoertuig": "Adembescherming voertuig",
     "Kenteken": "CG 1091",
     "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Esch-sur-Alzette",
+    "DE Afkorting": "VSF 1",
+    "Afkorting": "VZ",
+    "TypeVoertuig": "Verzorgingsvoertuig",
+    "Kenteken": "CG 1098",
+    "Bijzonderheden": "T.b.v Zone Sud",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Esch-sur-Alzette",
+    "DE Afkorting": "PKW 1",
+    "Afkorting": "GM",
+    "TypeVoertuig": "Gereedschap/materieelvoertuig",
+    "Kenteken": "CG 1316",
+    "Bijzonderheden": "T.b.v Zone Sud",
     "Hulpdienst": "Brandweer",
     "Regio": "Southern Rescue Zone",
     "Interne opmerking": ""
@@ -8559,6 +8999,28 @@
   },
   {
     "Adres": "Pétange",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1232",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Pétange",
+    "DE Afkorting": "KDOW 2",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1238",
+    "Bijzonderheden": "T.b.v Groupements CGDIS",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Pétange",
     "DE Afkorting": "DLK 2-1",
     "Afkorting": "AL",
     "TypeVoertuig": "Autoladder",
@@ -8668,44 +9130,22 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Pétange",
-    "DE Afkorting": "ANH-LOG 2",
-    "Afkorting": "LOG",
-    "TypeVoertuig": "Logistiek Haakarmbak ",
-    "Kenteken": "CG 2175",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Southern Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Pétange",
-    "DE Afkorting": "ANH-STROM 2-1",
-    "Afkorting": "SAA",
-    "TypeVoertuig": "Stroom aggregaat aanhanger",
-    "Kenteken": "CG 2176",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Southern Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Pétange",
-    "DE Afkorting": "MTW 1",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus ",
-    "Kenteken": "CG 2525",
-    "Bijzonderheden": "Bezetting: 8 personen.",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Southern Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "CIS Roeserbann, 40 Grand-Rue, 3394 Roeser, Luxemburg",
     "DE Afkorting": "",
     "Afkorting": "",
     "TypeVoertuig": "",
     "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Pétange",
+    "DE Afkorting": "ANH-LOG 2",
+    "Afkorting": "LOG",
+    "TypeVoertuig": "Logistiek Haakarmbak ",
+    "Kenteken": "CG 2175",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer",
     "Regio": "Southern Rescue Zone",
@@ -8723,12 +9163,34 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Pétange",
+    "DE Afkorting": "ANH-STROM 2-1",
+    "Afkorting": "SAA",
+    "TypeVoertuig": "Stroom aggregaat aanhanger",
+    "Kenteken": "CG 2176",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Roeser",
     "DE Afkorting": "HLF 2-1",
     "Afkorting": "TST",
     "TypeVoertuig": "Tankautospuit terreinvaardig",
     "Kenteken": "CG 1607",
     "Bijzonderheden": "Bezetting: 7 personen.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Pétange",
+    "DE Afkorting": "MTW 1",
+    "Afkorting": "DB",
+    "TypeVoertuig": "Dienstbus ",
+    "Kenteken": "CG 2525",
+    "Bijzonderheden": "Bezetting: 8 personen.",
     "Hulpdienst": "Brandweer",
     "Regio": "Southern Rescue Zone",
     "Interne opmerking": ""
@@ -9350,28 +9812,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "CIS Berdorf ( Bollendorf ) ",
-    "DE Afkorting": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Eastern Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Bollendorf",
-    "DE Afkorting": "LF 1-1",
-    "Afkorting": "TST",
-    "TypeVoertuig": "Tankautospuit terreinvaardig",
-    "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Bezetting: 7 personen.",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Eastern Rescue Zone",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "CIS Biwer, 20 Schoulstrooss, 6833 Biwer, Luxemburg",
     "DE Afkorting": "",
     "Afkorting": "",
@@ -9471,7 +9911,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "CIS Consdorf",
+    "Adres": "CIS Consdorf, 7a Rue de la Mairie, 6211 Consdorf, Luxemburg",
     "DE Afkorting": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -9603,7 +10043,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "CIS Dalheim ( Filsdorf ) ",
+    "Adres": "CIS Dalheim ( Filsdorf ), 4 An Schneider, 5740 Filsdorf Dalheim, Luxemburg",
     "DE Afkorting": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -10302,6 +10742,61 @@
     "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Eastern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Junglinster",
+    "DE Afkorting": "DIW 1",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstauto",
+    "Kenteken": "CG 1060",
+    "Bijzonderheden": "T.b.v Zone Est",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Eastern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Junglinster",
+    "DE Afkorting": "KDOW 1",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1049",
+    "Bijzonderheden": "T.b.v Zone Est",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Eastern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Junglinster",
+    "DE Afkorting": "KDOW 2",
+    "Afkorting": "OVD-B",
+    "TypeVoertuig": "Officier van dienst Brandweer",
+    "Kenteken": "CG 1062",
+    "Bijzonderheden": "T.b.v Zone Est",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Eastern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Junglinster",
+    "DE Afkorting": "VSF 1",
+    "Afkorting": "VZ",
+    "TypeVoertuig": "Verzorgingsvoertuig",
+    "Kenteken": "CG 1095",
+    "Bijzonderheden": "T.b.v Zone Est",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Eastern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Junglinster",
+    "DE Afkorting": "PKW 1",
+    "Afkorting": "GM",
+    "TypeVoertuig": "Gereedschap/materieelvoertuig",
+    "Kenteken": "ONBEKEND",
+    "Bijzonderheden": "T.b.v Zone Est",
     "Hulpdienst": "Brandweer",
     "Regio": "Eastern Rescue Zone",
     "Interne opmerking": ""
@@ -11011,7 +11506,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "CIS Osweiler ( Herborn ) ",
+    "Adres": "CIS Osweiler ( Herborn ), 26 Haaptstrooss, 6665 Hierber Rouspert-Mompech, Luxemburg",
     "DE Afkorting": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -11440,7 +11935,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "CIS Rosport",
+    "Adres": "CIS Rosport, 3a Rue de la Montagne, 6586 Steinheim Rosport-Mompach, Luxemburg",
     "DE Afkorting": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -11594,7 +12089,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "CIS Schengen ( Schwebsange ) ",
+    "Adres": "CIS Schengen ( Schwebsange ), 111 Route du Vin, 5447 Schwebsange Schengen, Luxemburg",
     "DE Afkorting": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -11616,7 +12111,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "CIS Schengen ( Bech-Kleinmacher ) ",
+    "Adres": "CIS Schengen ( Bech-Kleinmacher ), 29 Rue des Caves, 5404 Bech-Kleinmacher Schengen, Luxemburg",
     "DE Afkorting": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -11946,6 +12441,39 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "CIS Nordstad, 122 Av. Lucien Salentiny, 9080 Ettelbruck, Luxemburg",
+    "DE Afkorting": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Northern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nordstad",
+    "DE Afkorting": "Air Rescue 2",
+    "Afkorting": "MMTL",
+    "TypeVoertuig": "Mobiel medisch team luchtvaartuig",
+    "Kenteken": "LX-HLP",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Northern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nordstad",
+    "DE Afkorting": "SAMU Ettelbrück",
+    "Afkorting": "MMT",
+    "TypeVoertuig": "Mobiel medisch team voertuig",
+    "Kenteken": "CG 1659",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Northern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "CIS Nordstad ( Diekirch ), 1 Rue du Onze Septembre, 9282 Diekirch, Luxemburg",
     "DE Afkorting": "",
     "Afkorting": "",
@@ -12232,6 +12760,39 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "CIS Findel, Luxembourg Airport Gate E-13, 1110 Findel, Luxemburg",
+    "DE Afkorting": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Findel",
+    "DE Afkorting": "Air Rescue 1",
+    "Afkorting": "MMTL",
+    "TypeVoertuig": "Mobiel medisch team luchtvaartuig",
+    "Kenteken": "LX-HSL",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Findel",
+    "DE Afkorting": "Air Rescue 3",
+    "Afkorting": "MMTL",
+    "TypeVoertuig": "Mobiel medisch team luchtvaartuig",
+    "Kenteken": "LX-HHO",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "CIS Luxemburg, 3 Bd de Kockelscheuer, 1821 Gasperich Luxembourg, Luxemburg",
     "DE Afkorting": "",
     "Afkorting": "",
@@ -12304,6 +12865,50 @@
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
     "Kenteken": "CG 2439",
     "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxemburg",
+    "DE Afkorting": "SAMU Luxemburg 1",
+    "Afkorting": "MMT",
+    "TypeVoertuig": "Mobiel medisch team voertuig",
+    "Kenteken": "CG 1662",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxemburg",
+    "DE Afkorting": "SAMU Luxemburg 2",
+    "Afkorting": "MMT",
+    "TypeVoertuig": "Mobiel medisch team voertuig",
+    "Kenteken": "CG 1655",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxemburg",
+    "DE Afkorting": "SAMU Luxemburg 3",
+    "Afkorting": "MMT",
+    "TypeVoertuig": "Mobiel medisch team voertuig",
+    "Kenteken": "CG 1656",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Central Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Luxemburg",
+    "DE Afkorting": "SAMU 1",
+    "Afkorting": "MMT",
+    "TypeVoertuig": "Mobiel medisch team voertuig",
+    "Kenteken": "CG 1128",
+    "Bijzonderheden": "T.b.v opleiding",
     "Hulpdienst": "Ambulance ",
     "Regio": "Central Rescue Zone",
     "Interne opmerking": ""
@@ -12578,6 +13183,28 @@
     "Afkorting": "HC-Ambu",
     "TypeVoertuig": "Ambulance hoogcomplexe zorg",
     "Kenteken": "CG 1636",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "CIS Esch/Alzette, Rue Emile Mayrisch, 4240 Esch-sur-Alzette, Luxemburg",
+    "DE Afkorting": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "Southern Rescue Zone",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Esch-sur-Alzette",
+    "DE Afkorting": "SAMU Esch",
+    "Afkorting": "MMT",
+    "TypeVoertuig": "Mobiel medisch team voertuig",
+    "Kenteken": "CG 1661",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "Southern Rescue Zone",

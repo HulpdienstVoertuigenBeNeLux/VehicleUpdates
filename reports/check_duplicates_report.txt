@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 10,952  (of 17,051 total)
+  Records checked : 10,948  (of 17,044 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  4 value(s) affected
+  Duplicate Roepnummer  --  5 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -23,6 +23,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : 01-3903
       Kenteken    : 13-RP-RJ
+
+  >> '02-585'  (2x)
+      Adres       : Ameland
+      Hulpdienst  : Ambulance
+      Roepnummer  : 02-585
+      Kenteken    : TB-049-P
+      Adres       : Terschelling
+      Hulpdienst  : Ambulance
+      Roepnummer  : 02-585
+      Kenteken    : SX-875-V
 
   >> '06-1562'  (2x)
       Adres       : Elburg
@@ -55,7 +65,7 @@
       Kenteken    : ONBEKEND
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  3 value(s) affected
+  Duplicate Kenteken  --  5 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '05-ZDS-6'  (2x)
@@ -77,6 +87,26 @@
       Hulpdienst  : Brandweer
       Roepnummer  : KENBRI HW-626
       Kenteken    : BT-TR-70
+
+  >> 'SX-875-V'  (2x)
+      Adres       : Terschelling
+      Hulpdienst  : Ambulance
+      Roepnummer  : 02-585
+      Kenteken    : SX-875-V
+      Adres       : Assen
+      Hulpdienst  : Ambulance
+      Roepnummer  : 03-802
+      Kenteken    : SX-875-V
+
+  >> 'SX-876-V'  (2x)
+      Adres       : Drachten
+      Hulpdienst  : Ambulance
+      Roepnummer  : 02-546
+      Kenteken    : SX-876-V
+      Adres       : Terschelling
+      Hulpdienst  : Ambulance
+      Roepnummer  : 02-583
+      Kenteken    : SX-876-V
 
   >> 'ZT-644-V'  (2x)
       Adres       : Zwolle
@@ -7308,11 +7338,11 @@
   Region: LUX
 ================================================================================
 
-  Records checked : 1,265  (of 1,356 total)
+  Records checked : 1,321  (of 1,413 total)
   Roepnummer     : no duplicates
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  2 value(s) affected
+  Duplicate Kenteken  --  3 value(s) affected
 --------------------------------------------------------------------------------
 
   >> 'BN 1001'  (2x)
@@ -7324,6 +7354,16 @@
       Hulpdienst  : Ambulance
       Roepnummer  : 
       Kenteken    : BN 1001
+
+  >> 'CG 1222'  (2x)
+      Adres       : Dudelange
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1222
+      Adres       : Dudelange
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : CG 1222
 
   >> 'LG 3372'  (2x)
       Adres       : Echternach
