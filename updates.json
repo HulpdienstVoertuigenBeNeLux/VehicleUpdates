@@ -561,6 +561,13 @@
         "Regio": "Test",
         "Description": "Test Test toegevoegd aan Test",
         "Time": "07-08-2026 11:00:48"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-2501 DB toegevoegd aan De Lutte",
+        "Time": "07-08-2026 13:00:22"
       }
     ],
     "removed": [
@@ -773,6 +780,20 @@
         "Regio": "24",
         "Description": "RAS GM verwijderd van Bedrijfsbrandweer Chemelot",
         "Time": "07-08-2026 11:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-2531 TS verwijderd van De Lutte",
+        "Time": "07-08-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5",
+        "Description": "05-2541 TST-NB verwijderd van De Lutte",
+        "Time": "07-08-2026 13:00:22"
       }
     ],
     "changed": [

@@ -12877,32 +12877,6 @@
     "last_tenaamstelling_check_date": "2026-08-02",
     "aantal_zitplaatsen": null
   },
-  "88-BXG-6": {
-    "expiry": "2026-12-21",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "05-2531"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2023-12-21",
-    "last_tenaamstelling_check_date": "2026-08-02",
-    "aantal_zitplaatsen": "7"
-  },
-  "36-BXV-7": {
-    "expiry": "2027-02-17",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "05-2541"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2024-06-03",
-    "last_tenaamstelling_check_date": "2026-08-02",
-    "aantal_zitplaatsen": "4"
-  },
   "65-WJ-NJ": {
     "expiry": "None",
     "checked": true,
@@ -106573,5 +106547,18 @@
     "datum_tenaamstelling_dt": "2024-09-06",
     "last_tenaamstelling_check_date": "2026-08-07",
     "aantal_zitplaatsen": "5"
+  },
+  "HZL-47-T": {
+    "expiry": "2028-08-11",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "05-2501"
+    ],
+    "last_check_date": "2026-08-07",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-08-11",
+    "last_tenaamstelling_check_date": "2026-08-07",
+    "aantal_zitplaatsen": "8"
   }
 }
