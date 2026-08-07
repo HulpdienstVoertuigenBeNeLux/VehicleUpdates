@@ -960,6 +960,41 @@
         "Regio": "Southern Rescue Zone",
         "Description": " MMT toegevoegd aan Esch-sur-Alzette",
         "Time": "07-08-2026 16:01:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-1596 DA toegevoegd aan Haarlem West",
+        "Time": "07-08-2026 18:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-1597 DA toegevoegd aan Haarlem West",
+        "Time": "07-08-2026 18:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-1598 DA toegevoegd aan Haarlem West",
+        "Time": "07-08-2026 18:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16",
+        "Description": "16-3726 VK-GS toegevoegd aan Moordrecht",
+        "Time": "07-08-2026 18:00:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Eastern Rescue Zone",
+        "Description": " DA toegevoegd aan Echternach",
+        "Time": "07-08-2026 18:00:44"
       }
     ],
     "removed": [
@@ -1249,6 +1284,13 @@
         "Regio": "Luik",
         "Description": "PX501 HZA verwijderd van Malmedy",
         "Time": "07-08-2026 16:01:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "16-3726 VK-GS verwijderd van Moordrecht",
+        "Time": "07-08-2026 18:00:15"
       }
     ],
     "changed": [
@@ -2042,6 +2084,27 @@
         "Regio": "Central Rescue Zone",
         "Description": ": Adres van 'Eschdorf' naar 'Luxembourg' aangepast",
         "Time": "07-08-2026 16:01:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16",
+        "Description": "16-3002: Adres van 'Nieuwerburg' naar 'Nieuwerbrug' aangepast",
+        "Time": "07-08-2026 18:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16",
+        "Description": "16-3031: Adres van 'Nieuwerburg' naar 'Nieuwerbrug' aangepast",
+        "Time": "07-08-2026 18:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "25-122: Kenteken van 'K-634-HR' naar 'KHV-79-H' aangepast",
+        "Time": "07-08-2026 18:00:15"
       }
     ]
   },

@@ -5,9 +5,9 @@
 ----------------------------------------------------------------------------------------
   Brandweer
 ----------------------------------------------------------------------------------------
-  HulpdienstvoertuigenBenelux : 5686
+  HulpdienstvoertuigenBenelux : 5690
   RDW inrichting dataset      : 2582
-  Missing in RDW              : 3509
+  Missing in RDW              : 3513
   Extra in RDW                : 405
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
@@ -2259,6 +2259,7 @@
   - OS65DR
   - P008LV
   - P107ND
+  - P108ND
   - P109ND
   - P110ND
   - P111ND
@@ -3325,7 +3326,10 @@
   - X266VX
   - X325XB
   - X327XD
+  - X333PN
   - X337RN
+  - X339PN
+  - X342PN
   - X349BF
   - X350BF
   - X352HJ
