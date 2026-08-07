@@ -7338,32 +7338,12 @@
   Region: LUX
 ================================================================================
 
-  Records checked : 1,320  (of 1,411 total)
+  Records checked : 0  (of 1,444 total)
   Roepnummer     : no duplicates
+  Kenteken       : no duplicates
 
---------------------------------------------------------------------------------
-  Duplicate Kenteken  --  2 value(s) affected
---------------------------------------------------------------------------------
+  [OK] No duplicates found in Roepnummer or Kenteken.
 
-  >> 'BN 1001'  (2x)
-      Adres       : Esch-sur-Alzette
-      Hulpdienst  : Ambulance
-      Roepnummer  : 
-      Kenteken    : BN 1001
-      Adres       : Esch-sur-Alzette
-      Hulpdienst  : Ambulance
-      Roepnummer  : 
-      Kenteken    : BN 1001
-
-  >> 'LG 3372'  (2x)
-      Adres       : Echternach
-      Hulpdienst  : Brandweer
-      Roepnummer  : 
-      Kenteken    : LG 3372
-      Adres       : Echternach
-      Hulpdienst  : Brandweer
-      Roepnummer  : 
-      Kenteken    : LG 3372
 
 ================================================================================
   RESULT: Duplicates detected -- review the entries above.
