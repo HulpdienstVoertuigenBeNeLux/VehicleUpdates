@@ -70228,19 +70228,6 @@
     "last_tenaamstelling_check_date": "2026-08-03",
     "aantal_zitplaatsen": "4"
   },
-  "HHF-09-X": {
-    "expiry": "2027-02-25",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "03-132"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2025-03-06",
-    "last_tenaamstelling_check_date": "2026-08-03",
-    "aantal_zitplaatsen": "5"
-  },
   "R-343-BG": {
     "expiry": "2027-07-13",
     "checked": true,
@@ -70305,19 +70292,6 @@
     "datum_tenaamstelling_dt": "2022-07-13",
     "last_tenaamstelling_check_date": "2026-08-03",
     "aantal_zitplaatsen": "4"
-  },
-  "HHF-78-V": {
-    "expiry": "2027-03-13",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "03-158"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2025-03-06",
-    "last_tenaamstelling_check_date": "2026-08-03",
-    "aantal_zitplaatsen": "5"
   },
   "T-340-GN": {
     "expiry": "2027-06-25",
@@ -106536,5 +106510,31 @@
     "datum_tenaamstelling_dt": "2021-08-19",
     "last_tenaamstelling_check_date": "2026-08-08",
     "aantal_zitplaatsen": "5"
+  },
+  "HFF-09-X": {
+    "expiry": "2027-02-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "03-132"
+    ],
+    "last_check_date": "2026-08-08",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-02-10",
+    "last_tenaamstelling_check_date": "2026-08-08",
+    "aantal_zitplaatsen": "4"
+  },
+  "HFF-78-V": {
+    "expiry": "2027-02-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "03-158"
+    ],
+    "last_check_date": "2026-08-08",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-02-10",
+    "last_tenaamstelling_check_date": "2026-08-08",
+    "aantal_zitplaatsen": "4"
   }
 }
