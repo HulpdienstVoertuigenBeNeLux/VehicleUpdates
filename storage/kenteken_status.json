@@ -68200,19 +68200,6 @@
     "last_tenaamstelling_check_date": "2026-08-03",
     "aantal_zitplaatsen": "5"
   },
-  "L-697-PR": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "01-122"
-    ],
-    "last_check_date": "2026-08-05",
-    "last_expired_notification_date": "2026-08-03",
-    "datum_tenaamstelling_dt": "2026-06-29",
-    "last_tenaamstelling_check_date": "2026-08-04",
-    "aantal_zitplaatsen": "5"
-  },
   "GXL-29-S": {
     "expiry": "2026-12-14",
     "checked": true,
@@ -106536,5 +106523,18 @@
     "datum_tenaamstelling_dt": "2026-07-29",
     "last_tenaamstelling_check_date": "2026-08-08",
     "aantal_zitplaatsen": "7"
+  },
+  "L-065-XV": {
+    "expiry": "2026-08-19",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "01-122"
+    ],
+    "last_check_date": "2026-08-08",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2021-08-19",
+    "last_tenaamstelling_check_date": "2026-08-08",
+    "aantal_zitplaatsen": "5"
   }
 }
