@@ -42,3 +42,10 @@ jobs:
           git add .
           git reset updates.json
           git diff --cached --quiet || (git commit -m "Automated update from GitHub Actions" && git push)
+
+      - name: Send Discord notification
+        run: |
+          curl -H "Content-Type: application/json" \
+               -H "User-Agent: DiscordBot (https://github.com, 1.0)" \
+               -d '{"content": "Fast sync BE has been performed."}' \
+               "${{ secrets.DISCORD_WEBHOOK_URL_ICT }}"
