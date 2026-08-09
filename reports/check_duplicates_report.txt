@@ -92,10 +92,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,920  (of 8,370 total)
+  Records checked : 6,921  (of 8,371 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  536 value(s) affected
+  Duplicate Roepnummer  --  539 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (4x)
@@ -3006,6 +3006,16 @@
       Roepnummer  : CD1
       Kenteken    : 
 
+  >> 'CHARLEROI 1'  (2x)
+      Adres       : FH PDS CHAR [Marcinelle] Hainaut Est, Charleroi
+      Hulpdienst  : Ambulance
+      Roepnummer  : CHARLEROI 1
+      Kenteken    : 
+      Adres       : BH CHAR ISPPC Mambourg, Charleroi
+      Hulpdienst  : Ambulance
+      Roepnummer  : CHARLEROI 1
+      Kenteken    : 
+
   >> 'CTR211'  (2x)
       Adres       : Liège
       Hulpdienst  : Brandweer
@@ -4630,6 +4640,16 @@
       Adres       : HA UR MOL Heilig Hart, Mol
       Hulpdienst  : Ambulance
       Roepnummer  : MOL
+      Kenteken    : 
+
+  >> 'MONS 1'  (2x)
+      Adres       : FH PDS MONS [Cuesmes] Hainaut Centre, Mons
+      Hulpdienst  : Ambulance
+      Roepnummer  : MONS 1
+      Kenteken    : 
+      Adres       : HH UR MONS CHU Ambroise Paré | PIT, Mons
+      Hulpdienst  : Ambulance
+      Roepnummer  : MONS 1
       Kenteken    : 
 
   >> 'MW1'  (3x)
@@ -7284,6 +7304,16 @@
       Adres       : HB UR BRUX UZ | PIT, Brussel
       Hulpdienst  : Ambulance
       Roepnummer  : VUB 1
+      Kenteken    : 
+
+  >> 'VÉSALE 3'  (2x)
+      Adres       : HH UR MONI CHU Andre Vesale, Vesale
+      Hulpdienst  : Ambulance
+      Roepnummer  : VÉSALE 3
+      Kenteken    : 
+      Adres       : HH UR MONI CHU Andre Vesale, Vesale
+      Hulpdienst  : Ambulance
+      Roepnummer  : VÉSALE 3
       Kenteken    : 
 
   >> 'W1'  (2x)
