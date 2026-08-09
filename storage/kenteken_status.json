@@ -37194,18 +37194,6 @@
     "last_tenaamstelling_check_date": "2026-08-03",
     "aantal_zitplaatsen": "7"
   },
-  "00-VZX-4": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "14-2331"
-    ],
-    "last_check_date": "2026-08-09",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-03"
-  },
   "81-BXJ-7": {
     "expiry": "2027-01-25",
     "checked": true,
@@ -106547,5 +106535,18 @@
     "datum_tenaamstelling_dt": "2020-05-14",
     "last_tenaamstelling_check_date": "2026-08-09",
     "aantal_zitplaatsen": "5"
+  },
+  "00-BZX-4": {
+    "expiry": "2027-01-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "14-2331"
+    ],
+    "last_check_date": "2026-08-09",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-01-24",
+    "last_tenaamstelling_check_date": "2026-08-09",
+    "aantal_zitplaatsen": "7"
   }
 }

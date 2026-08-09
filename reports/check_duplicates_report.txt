@@ -92,10 +92,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,922  (of 8,372 total)
+  Records checked : 6,920  (of 8,370 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  518 value(s) affected
+  Duplicate Roepnummer  --  536 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (4x)
@@ -1366,6 +1366,40 @@
       Roepnummer  : A62
       Kenteken    : 
 
+  >> 'ANTW CADIX'  (2x)
+      Adres       : HA U ANTW CADIX, Antwerpen
+      Hulpdienst  : Ambulance
+      Roepnummer  : ANTW CADIX
+      Kenteken    : 
+      Adres       : HA UR ANTW Cadix, Antwerpen
+      Hulpdienst  : Ambulance
+      Roepnummer  : ANTW CADIX
+      Kenteken    : 
+
+  >> 'ANTW VINCENTIUS'  (2x)
+      Adres       : HA U ANTW St Vincentius, Antwerpen
+      Hulpdienst  : Ambulance
+      Roepnummer  : ANTW VINCENTIUS
+      Kenteken    : 
+      Adres       : HA U ANTW St Vincentius, Antwerpen
+      Hulpdienst  : Ambulance
+      Roepnummer  : ANTW VINCENTIUS
+      Kenteken    : 
+
+  >> 'ANTW ZUID'  (3x)
+      Adres       : FA HVP ANTW [Zuid] Antwerpen, Antwerpen
+      Hulpdienst  : Ambulance
+      Roepnummer  : ANTW ZUID
+      Kenteken    : 
+      Adres       : HA UR ANTW Middelheim, Antwerpen
+      Hulpdienst  : Ambulance
+      Roepnummer  : ANTW ZUID
+      Kenteken    : 
+      Adres       : HA U ANTW St Augustinus, Antwerpen
+      Hulpdienst  : Ambulance
+      Roepnummer  : ANTW ZUID
+      Kenteken    : 
+
   >> 'AP1'  (18x)
       Adres       : Zottegem
       Hulpdienst  : Brandweer
@@ -1950,6 +1984,36 @@
       Adres       : Tielt
       Hulpdienst  : Brandweer
       Roepnummer  : BE3
+      Kenteken    : 
+
+  >> 'BEVEREN 1'  (2x)
+      Adres       : FO HVP BEVE [Melsele] Waasland, Beveren
+      Hulpdienst  : Ambulance
+      Roepnummer  : BEVEREN 1
+      Kenteken    : 
+      Adres       : FO HVP BEVE Waasland, Beveren
+      Hulpdienst  : Ambulance
+      Roepnummer  : BEVEREN 1
+      Kenteken    : 
+
+  >> 'BORNEM'  (2x)
+      Adres       : HA UR BORN AZ Rivierenland, Bornem
+      Hulpdienst  : Ambulance
+      Roepnummer  : BORNEM
+      Kenteken    : 
+      Adres       : HA UR BORN AZ Rivierenland, Bornem
+      Hulpdienst  : Ambulance
+      Roepnummer  : BORNEM
+      Kenteken    : 
+
+  >> 'BRASSCHAAT'  (2x)
+      Adres       : HA UR BRAS [De Mick] AZ Klina, Brasschaat
+      Hulpdienst  : Ambulance
+      Roepnummer  : BRASSCHAAT
+      Kenteken    : 
+      Adres       : HA UR BRAS AZ Klina, Brasschaat
+      Hulpdienst  : Ambulance
+      Roepnummer  : BRASSCHAAT
       Kenteken    : 
 
   >> 'C01'  (2x)
@@ -3076,6 +3140,16 @@
       Roepnummer  : D7
       Kenteken    : 
 
+  >> 'DEURNE'  (2x)
+      Adres       : HA U ANTW AZ Monica, Deurne
+      Hulpdienst  : Ambulance
+      Roepnummer  : DEURNE
+      Kenteken    : 
+      Adres       : HA U ANTW AZ Monica, Deurne
+      Hulpdienst  : Ambulance
+      Roepnummer  : DEURNE
+      Kenteken    : 
+
   >> 'DW1'  (2x)
       Adres       : Roeselare
       Hulpdienst  : Brandweer
@@ -3624,6 +3698,30 @@
       Roepnummer  : G11
       Kenteken    : 
 
+  >> 'GENT 1'  (2x)
+      Adres       : FO HVP GENT [Centrum] Centrum, Gent
+      Hulpdienst  : Ambulance
+      Roepnummer  : GENT 1
+      Kenteken    : 
+      Adres       : HO UR GENT UZ, Gent
+      Hulpdienst  : Ambulance
+      Roepnummer  : GENT 1
+      Kenteken    : 
+
+  >> 'GENT 2'  (3x)
+      Adres       : FO HVP GENT [Centrum] Centrum, Gent
+      Hulpdienst  : Ambulance
+      Roepnummer  : GENT 2
+      Kenteken    : 
+      Adres       : HO UR GENT AZ St Lucas, Gent
+      Hulpdienst  : Ambulance
+      Roepnummer  : GENT 2
+      Kenteken    : 
+      Adres       : HO UR GENT AZ Jan Palfijn, Gent
+      Hulpdienst  : Ambulance
+      Roepnummer  : GENT 2
+      Kenteken    : 
+
   >> 'H1'  (2x)
       Adres       : Lommel
       Hulpdienst  : Brandweer
@@ -3632,6 +3730,16 @@
       Adres       : Zottegem
       Hulpdienst  : Brandweer
       Roepnummer  : H1
+      Kenteken    : 
+
+  >> 'HASSELT 2'  (2x)
+      Adres       : FL HVP HASS Zuidwest, Hasselt
+      Hulpdienst  : Ambulance
+      Roepnummer  : HASSELT 2
+      Kenteken    : 
+      Adres       : HL UR HASS Virga Jesse PIT, Hasselt
+      Hulpdienst  : Ambulance
+      Roepnummer  : HASSELT 2
       Kenteken    : 
 
   >> 'J11'  (2x)
@@ -4150,6 +4258,36 @@
       Roepnummer  : L906
       Kenteken    : 
 
+  >> 'LEUVEN 3'  (2x)
+      Adres       : FV HVP LEUV Oost, Leuven
+      Hulpdienst  : Ambulance
+      Roepnummer  : LEUVEN 3
+      Kenteken    : 
+      Adres       : HV UR LEUV RZ HEILIG HART, Leuven
+      Hulpdienst  : Ambulance
+      Roepnummer  : LEUVEN 3
+      Kenteken    : 
+
+  >> 'LEUVEN 4'  (2x)
+      Adres       : FV HVP LEUV Oost, Leuven
+      Hulpdienst  : Ambulance
+      Roepnummer  : LEUVEN 4
+      Kenteken    : 
+      Adres       : HV UR LEUV RZ HEILIG HART PIT, Leuven
+      Hulpdienst  : Ambulance
+      Roepnummer  : LEUVEN 4
+      Kenteken    : 
+
+  >> 'LIER'  (2x)
+      Adres       : HA UR LIER Heilig Hart, Lier
+      Hulpdienst  : Ambulance
+      Roepnummer  : LIER
+      Kenteken    : 
+      Adres       : HA UR LIER Heilig Hart, Lier
+      Hulpdienst  : Ambulance
+      Roepnummer  : LIER
+      Kenteken    : 
+
   >> 'LW1'  (3x)
       Adres       : Ardooie
       Hulpdienst  : Brandweer
@@ -4472,6 +4610,26 @@
       Adres       : Zele
       Hulpdienst  : Brandweer
       Roepnummer  : M82
+      Kenteken    : 
+
+  >> 'MERELBEKE'  (2x)
+      Adres       : BO MERE WZC Lemberge, Merelbeke
+      Hulpdienst  : Ambulance
+      Roepnummer  : MERELBEKE
+      Kenteken    : 
+      Adres       : HO UR GENT AZ Maria Middelares, Merelbeke
+      Hulpdienst  : Ambulance
+      Roepnummer  : MERELBEKE
+      Kenteken    : 
+
+  >> 'MOL'  (2x)
+      Adres       : FA HVP MOL_ Kempen, Mol
+      Hulpdienst  : Ambulance
+      Roepnummer  : MOL
+      Kenteken    : 
+      Adres       : HA UR MOL Heilig Hart, Mol
+      Hulpdienst  : Ambulance
+      Roepnummer  : MOL
       Kenteken    : 
 
   >> 'MW1'  (3x)
@@ -5946,6 +6104,16 @@
       Roepnummer  : SI1
       Kenteken    : 
 
+  >> 'SINT NIKLAAS 1'  (2x)
+      Adres       : FO HVP SNIK Waasland(ZW SINT NIKLAAS 1), Sint Niklaas
+      Hulpdienst  : Ambulance
+      Roepnummer  : SINT NIKLAAS 1
+      Kenteken    : 
+      Adres       : HO UR SNIK AZ Nikolaas, Sint Niklaas
+      Hulpdienst  : Ambulance
+      Roepnummer  : SINT NIKLAAS 1
+      Kenteken    : 
+
   >> 'T03'  (2x)
       Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
@@ -7068,6 +7236,16 @@
       Roepnummer  : VEURNE
       Kenteken    : 
 
+  >> 'VILVOORDE 1'  (2x)
+      Adres       : FV HVP VILV West, Vilvoorde
+      Hulpdienst  : Ambulance
+      Roepnummer  : VILVOORDE 1
+      Kenteken    : 
+      Adres       : HV UR VILV AZ JAN PORTAELS PIT, Vilvoorde
+      Hulpdienst  : Ambulance
+      Roepnummer  : VILVOORDE 1
+      Kenteken    : 
+
   >> 'VIRTON 1'  (2x)
       Adres       : FX PDS VIRT Luxembourg, Virton
       Hulpdienst  : Ambulance
@@ -7096,6 +7274,16 @@
       Adres       : La Louvière
       Hulpdienst  : Brandweer
       Roepnummer  : VO5
+      Kenteken    : 
+
+  >> 'VUB 1'  (2x)
+      Adres       : HB UR BRUX UZ, Brussel
+      Hulpdienst  : Ambulance
+      Roepnummer  : VUB 1
+      Kenteken    : 
+      Adres       : HB UR BRUX UZ | PIT, Brussel
+      Hulpdienst  : Ambulance
+      Roepnummer  : VUB 1
       Kenteken    : 
 
   >> 'W1'  (2x)
