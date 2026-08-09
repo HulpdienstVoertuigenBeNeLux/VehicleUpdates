@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 10,953  (of 17,050 total)
+  Records checked : 10,953  (of 17,051 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  5 value(s) affected
@@ -125,7 +125,7 @@
   Records checked : 6,922  (of 8,372 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  516 value(s) affected
+  Duplicate Roepnummer  --  518 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (4x)
@@ -7088,6 +7088,16 @@
       Roepnummer  : V505
       Kenteken    : 
 
+  >> 'VEURNE'  (2x)
+      Adres       : FW HVP Veur Westhoek, Veurne
+      Hulpdienst  : Ambulance
+      Roepnummer  : VEURNE
+      Kenteken    : 
+      Adres       : HW UR VEUR AZ West, Veurne
+      Hulpdienst  : Ambulance
+      Roepnummer  : VEURNE
+      Kenteken    : 
+
   >> 'VIRTON 1'  (2x)
       Adres       : FX PDS VIRT Luxembourg, Virton
       Hulpdienst  : Ambulance
@@ -7150,6 +7160,16 @@
       Adres       : Waasmunster
       Hulpdienst  : Brandweer
       Roepnummer  : W8
+      Kenteken    : 
+
+  >> 'WAREGEM'  (2x)
+      Adres       : SPRL CJP AMBULANCES DU CENTRE, Waregem
+      Hulpdienst  : Ambulance
+      Roepnummer  : WAREGEM
+      Kenteken    : 
+      Adres       : HW UR WARE OLV Van Lourdes, Waregem
+      Hulpdienst  : Ambulance
+      Roepnummer  : WAREGEM
       Kenteken    : 
 
 --------------------------------------------------------------------------------
