@@ -1,8 +1,24 @@
 [
   {
     "date": "2026-08-09",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT22 Hoofd/District/Teambureau Rotterdam Centrum  toegevoegd aan Rotterdam",
+        "Time": "09-08-2026 11:59:38"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT22 District/Teambureau Rotterdam Centrum  verwijderd van Rotterdam",
+        "Time": "09-08-2026 11:59:38"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -136,6 +152,132 @@
         "Regio": "RT-POL",
         "Description": "RT81 Bereden Brigade Rotterdam: Bijzonderheden van 'Bereden Brigade' naar 'Bereden brigade en hondengeleiders.' aangepast",
         "Time": "09-08-2026 11:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9286: Afkorting van 'VZH' naar 'VZH-KA' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-9286: TypeVoertuig van 'Verzorgingshaakarmbak' naar 'Verzorgingshaakarmbak met kantine' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT11 Teambureau Waterweg: TypeVoertuig van 'Vlaardingen Delftseveerweg 40' naar 'Delftseveerweg 40, 3134 JG Vlaardingen' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT11 Politiepost Klein, Waterweg: TypeVoertuig van 'Hoek van Holland, Planciushof 83' naar 'Planciushof 83, 3151 GC Hoek van Holland' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT12 District/Teambureau Schiedam: TypeVoertuig van 'Schiedam, Bijdorpplein 1' naar 'Bijdorpplein 1, 3118 JE Schiedam' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT12 District/Teambureau Schiedam: Bijzonderheden van 'Cellencomplex TAT.' naar '' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT13 Teambureau Midden Schieland: TypeVoertuig van 'Rotterdam, Prins Frederik Hendrikstraat 40' naar 'Prins Frederik Hendrikstraat 40, 3051 ES Rotterdam' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT13 Politiepost Klein, Midden Schieland: TypeVoertuig van 'Berkel en Rodenrijs, Raadhuislaan 10' naar 'Raadhuislaan 10, 2651 DB Berkel en Rodenrijs' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT21 Teambureau Delfshaven: TypeVoertuig van 'Rotterdam, Schiedamseweg 400' naar 'Schiedamseweg 400, 3025 AT Rotterdam' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT31 Teambureau Maas en Rotte: TypeVoertuig van 'Rotterdam, Boezembocht 23' naar 'Boezembocht 23, 3034 KA Rotterdam' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT32 District/Teambureau IJsselland: TypeVoertuig van 'Capelle aan den IJssel, Slotlaan 119' naar 'Slotlaan 119, 2902 AL Capelle aan den IJssel' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT32 Politiepost Klein, IJsselland: TypeVoertuig van 'Krimpen aan den IJssel, Albert Schweitzerlaan 12' naar 'Albert Schweitzerlaan 12, 2922 HD Krimpen aan den IJssel' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT41 District/Teambureau Charlois: TypeVoertuig van 'Rotterdam, Zuidplein 111' naar 'Zuidplein 111, 3083 CN Rotterdam' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT42 Teambureau Feyenoord: TypeVoertuig van 'Rotterdam, Maashaven Noordzijde 5' naar 'Maashaven Noordzijde 5, 3072 AE Rotterdam' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT43 Teambureau Nieuw Grijss: TypeVoertuig van 'Rotterdam, Stolwijkstraat 2-8' naar 'Hordijk-Oost, Stolwijkstraat 2-8, 3079 DN Rotterdam' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT51 Teambureau Haringvliet: TypeVoertuig van 'Hellevoetsluis, Bruggehoofd 11' naar 'Bruggehoofd 11, 3223 DL Hellevoetsluis' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT51 Politiepost Klein, Haringvliet: TypeVoertuig van 'Sommelsdijk, Olympiaweg 40' naar 'Olympiaweg 40, 3245 DL Sommelsdijk' aangepast",
+        "Time": "09-08-2026 11:59:38"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT51 Politiepost Klein, Rozenburg: TypeVoertuig van 'Rozenburg, Jan van Goyenstraat 1' naar 'Jan van Goyenstraat 1, 3181 HR Rozenburg' aangepast",
+        "Time": "09-08-2026 11:59:38"
       }
     ]
   },
