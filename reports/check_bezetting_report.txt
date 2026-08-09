@@ -7,8 +7,8 @@
   RDW data ontbreekt              : 243
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 639
-  Bezetting > RDW zitplaatsen     : 340
+  Bezetting != RDW zitplaatsen    : 641
+  Bezetting > RDW zitplaatsen     : 342
   RDW zitplaatsen > bezetting     : 299
 
 ------------------------------------------------------------------------------------------
@@ -311,6 +311,8 @@
   20-1601      | TX-212-P   |         9 |             8
   20-1006      | T-512-NK   |         9 |             8
   20-1102      | TX-214-P   |         9 |             8
+  20-3006      | V-39-NKS   |         4 |             2
+  20-3007      | V-40-NKS   |         4 |             2
   20-3103      | T-514-NK   |         9 |             8
   20-3102      | HNS-71-N   |         9 |             8
   20-3201      | TX-210-P   |         9 |             8
