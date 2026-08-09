@@ -69024,7 +69024,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "02-585"
+      "ONBEKEND"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -69258,7 +69258,6 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "02-546",
       "02-583"
     ],
     "last_check_date": "2026-06-22",
@@ -70141,8 +70140,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "02-585",
-      "03-802"
+      "02-585"
     ],
     "last_check_date": "2026-06-22",
     "last_expired_notification_date": null,
@@ -106536,5 +106534,18 @@
     "datum_tenaamstelling_dt": "2025-02-10",
     "last_tenaamstelling_check_date": "2026-08-08",
     "aantal_zitplaatsen": "4"
+  },
+  "H-476-TD": {
+    "expiry": "2028-05-14",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "03-802"
+    ],
+    "last_check_date": "2026-08-09",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2020-05-14",
+    "last_tenaamstelling_check_date": "2026-08-09",
+    "aantal_zitplaatsen": "5"
   }
 }
