@@ -29,6 +29,13 @@
         "Regio": "RT-POL",
         "Description": "RT72 Teambureau Grens Rotterdam  toegevoegd aan Rotterdam",
         "Time": "10-08-2026 13:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT06 OG Rotterdam  toegevoegd aan Rotterdam",
+        "Time": "10-08-2026 20:00:18"
       }
     ],
     "removed": [
@@ -59,6 +66,13 @@
         "Regio": "RT-POL",
         "Description": "RT71 Politiepost Klein, Haven Rotterdam  verwijderd van Rotterdam",
         "Time": "10-08-2026 13:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT007* Bergers Rotterdam  verwijderd van Rotterdam",
+        "Time": "10-08-2026 20:00:18"
       }
     ],
     "changed": [
@@ -124,6 +138,153 @@
         "Regio": "5",
         "Description": "05-3112: Kenteken van 'GEEN' naar 'WT-ZN-41' aangepast",
         "Time": "10-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "15",
+        "Description": "15-345: Kenteken van 'HRT-80-G' naar 'HTR-80-G' aangepast",
+        "Time": "10-08-2026 20:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT03 AVIM Rotterdam: Bijzonderheden van 'AVIM' naar 'AVIM.' aangepast",
+        "Time": "10-08-2026 20:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT03 Recherche Rotterdam: Bijzonderheden van 'Recherche' naar 'Recherche.' aangepast",
+        "Time": "10-08-2026 20:00:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen",
+        "Description": "S11: TypeVoertuig van 'Dienstbus Ondersteuning' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "L14: TypeVoertuig van 'Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant",
+        "Description": "S24: TypeVoertuig van 'Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen",
+        "Description": "M82: TypeVoertuig van 'Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "M27: TypeVoertuig van 'Dienstbus Ondersteuning' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "M60: TypeVoertuig van 'Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel",
+        "Description": "C56: TypeVoertuig van 'Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel",
+        "Description": "026: TypeVoertuig van 'Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "L129: TypeVoertuig van 'Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen",
+        "Description": "PC1: TypeVoertuig van 'Dienstbus Ondersteuning' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "M306: TypeVoertuig van 'Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "L326: TypeVoertuig van 'Dienstbus Ondersteuning' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "L418: TypeVoertuig van 'Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen",
+        "Description": "80: TypeVoertuig van 'Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "VR258: TypeVoertuig van 'Dienstbus Ondersteuning' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "VR233: TypeVoertuig van 'Dienstbus Ondersteuning' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "VR402: TypeVoertuig van 'Dienstbus Ondersteuning' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "VR501: TypeVoertuig van 'Dienstbus Ondersteuning' naar 'Invoer Error' aangepast",
+        "Time": "10-08-2026 20:00:36"
       }
     ]
   },

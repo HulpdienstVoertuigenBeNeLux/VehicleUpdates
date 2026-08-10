@@ -99708,7 +99708,7 @@
     "Roepnummer": "15-345",
     "Afkorting": "RR",
     "TypeVoertuig": "Rapid responder",
-    "Kenteken": "HRT-80-G",
+    "Kenteken": "HTR-80-G",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "15",
@@ -184184,17 +184184,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Rotterdam",
-    "Roepnummer": "RT03 Recherche Rotterdam",
-    "Afkorting": "",
-    "TypeVoertuig": "Veilingweg 66, Rotterdam",
-    "Kenteken": "",
-    "Bijzonderheden": "Recherche",
-    "Hulpdienst": "Politie ",
-    "Regio": "RT-POL",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "District: Rotterdam RT03/RT04/RT05",
     "Roepnummer": "",
     "Afkorting": "",
@@ -184217,6 +184206,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Rotterdam",
+    "Roepnummer": "RT03 AVIM Rotterdam",
+    "Afkorting": "",
+    "TypeVoertuig": "Doctor J.J.P. Oudsingel 1, Rotterdam",
+    "Kenteken": "",
+    "Bijzonderheden": "AVIM.",
+    "Hulpdienst": "Politie",
+    "Regio": "RT-POL",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "District: Rotterdam RT007*",
     "Roepnummer": "",
     "Afkorting": "",
@@ -184229,12 +184229,12 @@
   },
   {
     "Adres": "Rotterdam",
-    "Roepnummer": "RT007* Bergers Rotterdam",
+    "Roepnummer": "RT03 Recherche Rotterdam",
     "Afkorting": "",
     "TypeVoertuig": "Veilingweg 66, Rotterdam",
     "Kenteken": "",
-    "Bijzonderheden": "Bergers: Team Transport.",
-    "Hulpdienst": "Politie ",
+    "Bijzonderheden": "Recherche.",
+    "Hulpdienst": "Politie",
     "Regio": "RT-POL",
     "Interne opmerking": ""
   },
@@ -184251,34 +184251,12 @@
   },
   {
     "Adres": "Rotterdam",
-    "Roepnummer": "RT03 AVIM Rotterdam",
+    "Roepnummer": "RT06 OG Rotterdam",
     "Afkorting": "",
-    "TypeVoertuig": "Doctor J.J.P. Oudsingel 1, Rotterdam",
+    "TypeVoertuig": "Veilingweg 66, Rotterdam",
     "Kenteken": "",
-    "Bijzonderheden": "AVIM",
-    "Hulpdienst": "Politie ",
-    "Regio": "RT-POL",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "District: Rotterdam RT81",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Politie ",
-    "Regio": "RT-POL",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Rotterdam ",
-    "Roepnummer": "RT81 Bereden Brigade Rotterdam ",
-    "Afkorting": "",
-    "TypeVoertuig": "Voorwateringweg 97, Rotterdam",
-    "Kenteken": "",
-    "Bijzonderheden": "Bereden brigade en hondengeleiders.",
-    "Hulpdienst": "Politie ",
+    "Bijzonderheden": "Team Parate Eenheid.",
+    "Hulpdienst": "Politie",
     "Regio": "RT-POL",
     "Interne opmerking": ""
   },
@@ -184294,6 +184272,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "District: Rotterdam RT81",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Politie",
+    "Regio": "RT-POL",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Rotterdam ",
     "Roepnummer": "Parkhaven, Rotterdam",
     "Afkorting": "",
@@ -184301,6 +184290,17 @@
     "Kenteken": "P1",
     "Bijzonderheden": "Politieboot Groot",
     "Hulpdienst": "Politie ",
+    "Regio": "RT-POL",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Rotterdam",
+    "Roepnummer": "RT81 Bereden Brigade Rotterdam",
+    "Afkorting": "",
+    "TypeVoertuig": "Voorwateringweg 97, Rotterdam",
+    "Kenteken": "",
+    "Bijzonderheden": "Bereden brigade en hondengeleiders.",
+    "Hulpdienst": "Politie",
     "Regio": "RT-POL",
     "Interne opmerking": ""
   },

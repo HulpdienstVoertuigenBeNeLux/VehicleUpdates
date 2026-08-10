@@ -78482,19 +78482,6 @@
     "last_tenaamstelling_check_date": "2026-08-10",
     "aantal_zitplaatsen": "5"
   },
-  "HRT-80-G": {
-    "expiry": "2029-06-10",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "15-345"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2025-06-10",
-    "last_tenaamstelling_check_date": "2026-08-10",
-    "aantal_zitplaatsen": "7"
-  },
   "ZB-022-H": {
     "expiry": "2027-02-18",
     "checked": true,
@@ -106575,5 +106562,18 @@
     "datum_tenaamstelling_dt": "2013-01-21",
     "last_tenaamstelling_check_date": "2026-08-10",
     "aantal_zitplaatsen": null
+  },
+  "HTR-80-G": {
+    "expiry": "2029-09-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "15-345"
+    ],
+    "last_check_date": "2026-08-10",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-09-03",
+    "last_tenaamstelling_check_date": "2026-08-10",
+    "aantal_zitplaatsen": "3"
   }
 }
