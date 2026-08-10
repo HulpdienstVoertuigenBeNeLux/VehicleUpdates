@@ -8,6 +8,27 @@
         "Regio": "18",
         "Description": "18-6604 GM toegevoegd aan Dordrecht Leerpark",
         "Time": "10-08-2026 11:00:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT63 District/Teambureau Drechtsteden Binnen  toegevoegd aan Dordrecht",
+        "Time": "10-08-2026 13:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT71/RT72 District/Teambureau Haven Rotterdam  toegevoegd aan Rotterdam",
+        "Time": "10-08-2026 13:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT72 Teambureau Grens Rotterdam  toegevoegd aan Rotterdam",
+        "Time": "10-08-2026 13:00:19"
       }
     ],
     "removed": [
@@ -24,6 +45,20 @@
         "Regio": "Antwerpen",
         "Description": "A10 ZA verwijderd van Antwerpen-Noord",
         "Time": "10-08-2026 11:00:54"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT63 District/Teambureau Drechtsteden  verwijderd van Dordrecht",
+        "Time": "10-08-2026 13:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT71 Politiepost Klein, Haven Rotterdam  verwijderd van Rotterdam",
+        "Time": "10-08-2026 13:00:19"
       }
     ],
     "changed": [
@@ -75,6 +110,13 @@
         "Regio": "19",
         "Description": "'19-4785' omgenummerd naar '19-4911'",
         "Time": "10-08-2026 11:00:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT32 Politiepost Klein, IJsselland: Bijzonderheden van '' naar 'Kantoor FO. Pauzeplek overige politie eenheden.' aangepast",
+        "Time": "10-08-2026 13:00:19"
       }
     ]
   },
