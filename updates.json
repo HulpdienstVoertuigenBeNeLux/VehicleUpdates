@@ -1,9 +1,82 @@
 [
   {
     "date": "2026-08-10",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-6604 GM toegevoegd aan Dordrecht Leerpark",
+        "Time": "10-08-2026 11:00:28"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-1911 BRV-M verwijderd van Goes Oranjeweg",
+        "Time": "10-08-2026 11:00:28"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "A10 ZA verwijderd van Antwerpen-Noord",
+        "Time": "10-08-2026 11:00:54"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16",
+        "Description": "16-9200: Afkorting van 'DB 9' naar 'DB' aangepast",
+        "Time": "10-08-2026 11:00:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16",
+        "Description": "16-9200: Bijzonderheden van '' naar 'Bezetting: 9 personen.' aangepast",
+        "Time": "10-08-2026 11:00:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-9481: Kenteken van 'J-405-SK' naar 'ZK-168-B' aangepast",
+        "Time": "10-08-2026 11:00:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-6695: Kenteken van 'ONBEKEND' naar 'KP-021-Z' aangepast",
+        "Time": "10-08-2026 11:00:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-341: TypeVoertuig van 'Officier van dienst geneeskundige zorg' naar 'Rapid responder' aangepast",
+        "Time": "10-08-2026 11:00:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "19-4785: Adres van 'Stavenisse' naar 'Goes Oranjeweg' aangepast",
+        "Time": "10-08-2026 11:00:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19",
+        "Description": "'19-4785' omgenummerd naar '19-4911'",
+        "Time": "10-08-2026 11:00:28"
+      }
+    ]
   },
   {
     "date": "2026-08-09",

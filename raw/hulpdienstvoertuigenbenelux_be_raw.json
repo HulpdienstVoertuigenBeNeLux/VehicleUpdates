@@ -89,7 +89,7 @@
   },
   {
     "Adres": "Antwerpen-Noord",
-    "Roepnummer": "A10",
+    "Roepnummer": "A14",
     "Afkorting": "ZA ",
     "TypeVoertuig": "Zware Autopomp",
     "Kenteken": "",
@@ -100,9 +100,20 @@
   },
   {
     "Adres": "Antwerpen-Noord",
-    "Roepnummer": "A14",
+    "Roepnummer": "A16",
     "Afkorting": "ZA ",
-    "TypeVoertuig": "Zware Autopomp",
+    "TypeVoertuig": "Zware Autopomp ",
+    "Kenteken": "",
+    "Bijzonderheden": "Reserve voertuig",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Antwerpen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Antwerpen-Noord",
+    "Roepnummer": "A16",
+    "Afkorting": "ZA ",
+    "TypeVoertuig": "Zware Autopomp ",
     "Kenteken": "",
     "Bijzonderheden": "Reserve voertuig",
     "Hulpdienst": "Brandweer ",
@@ -1555,17 +1566,6 @@
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Antwerpen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Wilrijk ",
-    "Roepnummer": "A16",
-    "Afkorting": "ZA ",
-    "TypeVoertuig": "Zware Autopomp ",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -70417,17 +70417,6 @@
     "TypeVoertuig": "Ziekenwagen",
     "Kenteken": "",
     "Bijzonderheden": "(Team: MHMILI102)",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "HH UR MONI CHU Andre Vesale, Vesale",
-    "Roepnummer": "VÉSALE 3",
-    "Afkorting": "ZW ",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "(Team: MHMILI103)",
     "Hulpdienst": "Ambulance ",
     "Regio": "Henegouwen",
     "Interne opmerking": ""
