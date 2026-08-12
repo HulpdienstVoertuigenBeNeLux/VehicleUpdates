@@ -94600,19 +94600,6 @@
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-08-10"
   },
-  "BX-HS-48": {
-    "expiry": "2027-01-13",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "06-1131"
-    ],
-    "last_check_date": "2026-06-11",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-12-19",
-    "last_tenaamstelling_check_date": "2026-08-10",
-    "aantal_zitplaatsen": "7"
-  },
   "VRV-03-L": {
     "expiry": "2026-10-08",
     "checked": true,
@@ -106407,5 +106394,18 @@
     "datum_tenaamstelling_dt": "2026-07-27",
     "last_tenaamstelling_check_date": "2026-08-12",
     "aantal_zitplaatsen": "5"
+  },
+  "BD-722-P": {
+    "expiry": "None",
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "06-1131"
+    ],
+    "last_check_date": "2026-08-12",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": "2026-08-12",
+    "aantal_zitplaatsen": "7"
   }
 }
