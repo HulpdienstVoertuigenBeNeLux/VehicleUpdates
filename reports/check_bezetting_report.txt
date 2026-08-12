@@ -1,15 +1,15 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                  : 17063
-  Records met parsebare bezetting : 3353
-  Vergeleken met RDW              : 3110
-  RDW data ontbreekt              : 243
+  Totaal records                  : 17055
+  Records met parsebare bezetting : 3350
+  Vergeleken met RDW              : 3106
+  RDW data ontbreekt              : 244
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 642
-  Bezetting > RDW zitplaatsen     : 342
-  RDW zitplaatsen > bezetting     : 300
+  Bezetting != RDW zitplaatsen    : 640
+  Bezetting > RDW zitplaatsen     : 341
+  RDW zitplaatsen > bezetting     : 299
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
@@ -18,9 +18,9 @@
    2 personen : 146
    3 personen : 45
    4 personen : 105
-   5 personen : 788
+   5 personen : 787
    6 personen : 262
-   7 personen : 1090
+   7 personen : 1088
    8 personen : 408
    9 personen : 491
   10 personen : 6
@@ -225,7 +225,6 @@
   12-9003      | T-080-BV   |         9 |             8
   12-9005      | S-615-SH   |         9 |             8
   B45          | V-626-GK   |         9 |             3
-  13-3431      | BB-609-Z   |         7 |             2
   13-5131      | BB-768-B   |         7 |             2
   13-0001      | 2-KLB-16   |         5 |             4
   13-0002      | 2-KLB-17   |         5 |             4
@@ -683,7 +682,6 @@
   24-2731      | 19-BSJ-4   |         6 |             7
   Brandweer 6  | VN-375-T   |         2 |             6
   25-4083      | VB-453-D   |         2 |             6
-  25-4502      | JD-148-P   |         7 |             9
   25-5531      | 78-BXD-3   |         6 |             7
   25-6134      | 04-BXF-8   |         6 |             7
   25-6135      | 12-BXF-8   |         6 |             7
