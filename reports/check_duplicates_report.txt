@@ -112,17 +112,13 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,920  (of 8,370 total)
+  Records checked : 6,911  (of 8,361 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  538 value(s) affected
+  Duplicate Roepnummer  --  542 value(s) affected
 --------------------------------------------------------------------------------
 
-  >> '1'  (4x)
-      Adres       : Borsbeek
-      Hulpdienst  : Brandweer
-      Roepnummer  : 1
-      Kenteken    : 
+  >> '1'  (3x)
       Adres       : Zoersel
       Hulpdienst  : Brandweer
       Roepnummer  : 1
@@ -204,11 +200,7 @@
       Roepnummer  : 14
       Kenteken    : 
 
-  >> '2'  (6x)
-      Adres       : Borsbeek
-      Hulpdienst  : Brandweer
-      Roepnummer  : 2
-      Kenteken    : 
+  >> '2'  (5x)
       Adres       : Oostmalle
       Hulpdienst  : Brandweer
       Roepnummer  : 2
@@ -332,11 +324,7 @@
       Roepnummer  : 28
       Kenteken    : 
 
-  >> '3'  (4x)
-      Adres       : Borsbeek
-      Hulpdienst  : Brandweer
-      Roepnummer  : 3
-      Kenteken    : 
+  >> '3'  (3x)
       Adres       : Wommelgem
       Hulpdienst  : Brandweer
       Roepnummer  : 3
@@ -434,11 +422,7 @@
       Roepnummer  : 467801
       Kenteken    : 
 
-  >> '5'  (5x)
-      Adres       : Borsbeek
-      Hulpdienst  : Brandweer
-      Roepnummer  : 5
-      Kenteken    : 
+  >> '5'  (4x)
       Adres       : Wommelgem
       Hulpdienst  : Brandweer
       Roepnummer  : 5
@@ -470,11 +454,7 @@
       Roepnummer  : 528000
       Kenteken    : 
 
-  >> '6'  (5x)
-      Adres       : Borsbeek
-      Hulpdienst  : Brandweer
-      Roepnummer  : 6
-      Kenteken    : 
+  >> '6'  (4x)
       Adres       : Westmalle
       Hulpdienst  : Brandweer
       Roepnummer  : 6
@@ -978,11 +958,7 @@
       Roepnummer  : A15
       Kenteken    : 
 
-  >> 'A16'  (3x)
-      Adres       : Antwerpen-Noord
-      Hulpdienst  : Brandweer
-      Roepnummer  : A16
-      Kenteken    : 
+  >> 'A16'  (2x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A16
@@ -1424,7 +1400,7 @@
       Roepnummer  : ANTW ZUID
       Kenteken    : 
 
-  >> 'AP1'  (18x)
+  >> 'AP1'  (19x)
       Adres       : Zottegem
       Hulpdienst  : Brandweer
       Roepnummer  : AP1
@@ -1442,6 +1418,10 @@
       Roepnummer  : AP1
       Kenteken    : 
       Adres       : Hooglede
+      Hulpdienst  : Brandweer
+      Roepnummer  : AP1
+      Kenteken    : 
+      Adres       : Ingelmunster
       Hulpdienst  : Brandweer
       Roepnummer  : AP1
       Kenteken    : 
@@ -1498,8 +1478,12 @@
       Roepnummer  : AP1
       Kenteken    : 
 
-  >> 'AP2'  (8x)
+  >> 'AP2'  (9x)
       Adres       : Zottegem
+      Hulpdienst  : Brandweer
+      Roepnummer  : AP2
+      Kenteken    : 
+      Adres       : Ingelmunster
       Hulpdienst  : Brandweer
       Roepnummer  : AP2
       Kenteken    : 
@@ -1548,6 +1532,16 @@
       Adres       : Philippeville
       Hulpdienst  : Brandweer
       Roepnummer  : AP3
+      Kenteken    : 
+
+  >> 'AT1'  (2x)
+      Adres       : Ingelmunster
+      Hulpdienst  : Brandweer
+      Roepnummer  : AT1
+      Kenteken    : 
+      Adres       : Izegem
+      Hulpdienst  : Brandweer
+      Roepnummer  : AT1
       Kenteken    : 
 
   >> 'B03'  (4x)
@@ -1952,8 +1946,24 @@
       Roepnummer  : B9
       Kenteken    : 
 
-  >> 'BE1'  (6x)
+  >> 'BE1'  (10x)
+      Adres       : Ardooie
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE1
+      Kenteken    : 
+      Adres       : Gits
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE1
+      Kenteken    : 
       Adres       : Hooglede
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE1
+      Kenteken    : 
+      Adres       : Ingelmunster
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE1
+      Kenteken    : 
+      Adres       : Izegem
       Hulpdienst  : Brandweer
       Roepnummer  : BE1
       Kenteken    : 
@@ -1978,7 +1988,19 @@
       Roepnummer  : BE1
       Kenteken    : 
 
-  >> 'BE2'  (4x)
+  >> 'BE2'  (7x)
+      Adres       : Gits
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE2
+      Kenteken    : 
+      Adres       : Ingelmunster
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE2
+      Kenteken    : 
+      Adres       : Izegem
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE2
+      Kenteken    : 
       Adres       : Pittem
       Hulpdienst  : Brandweer
       Roepnummer  : BE2
@@ -1996,7 +2018,11 @@
       Roepnummer  : BE2
       Kenteken    : 
 
-  >> 'BE3'  (3x)
+  >> 'BE3'  (4x)
+      Adres       : Ingelmunster
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE3
+      Kenteken    : 
       Adres       : Izegem
       Hulpdienst  : Brandweer
       Roepnummer  : BE3
@@ -2008,6 +2034,16 @@
       Adres       : Tielt
       Hulpdienst  : Brandweer
       Roepnummer  : BE3
+      Kenteken    : 
+
+  >> 'BE4'  (2x)
+      Adres       : Ingelmunster
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE4
+      Kenteken    : 
+      Adres       : Roeselare
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE4
       Kenteken    : 
 
   >> 'BEVEREN 1'  (2x)
@@ -3050,12 +3086,24 @@
       Roepnummer  : CTR211
       Kenteken    : 
 
-  >> 'CW1'  (7x)
+  >> 'CW1'  (10x)
       Adres       : Ardooie
       Hulpdienst  : Brandweer
       Roepnummer  : CW1
       Kenteken    : 
       Adres       : Hooglede
+      Hulpdienst  : Brandweer
+      Roepnummer  : CW1
+      Kenteken    : 
+      Adres       : Ingelmunster
+      Hulpdienst  : Brandweer
+      Roepnummer  : CW1
+      Kenteken    : 
+      Adres       : Izegem
+      Hulpdienst  : Brandweer
+      Roepnummer  : CW1
+      Kenteken    : 
+      Adres       : Roeselare
       Hulpdienst  : Brandweer
       Roepnummer  : CW1
       Kenteken    : 
@@ -3185,13 +3233,23 @@
       Kenteken    : 
 
   >> 'DW1'  (2x)
-      Adres       : Roeselare
+      Adres       : Izegem
       Hulpdienst  : Brandweer
       Roepnummer  : DW1
       Kenteken    : 
       Adres       : Roeselare
       Hulpdienst  : Brandweer
       Roepnummer  : DW1
+      Kenteken    : 
+
+  >> 'DW2'  (2x)
+      Adres       : Izegem
+      Hulpdienst  : Brandweer
+      Roepnummer  : DW2
+      Kenteken    : 
+      Adres       : Roeselare
+      Hulpdienst  : Brandweer
+      Roepnummer  : DW2
       Kenteken    : 
 
   >> 'E04'  (2x)
@@ -3766,6 +3824,16 @@
       Roepnummer  : H1
       Kenteken    : 
 
+  >> 'HA1'  (2x)
+      Adres       : Ardooie
+      Hulpdienst  : Brandweer
+      Roepnummer  : HA1
+      Kenteken    : 
+      Adres       : Roeselare
+      Hulpdienst  : Brandweer
+      Roepnummer  : HA1
+      Kenteken    : 
+
   >> 'HASSELT 2'  (2x)
       Adres       : FL HVP HASS Zuidwest, Hasselt
       Hulpdienst  : Ambulance
@@ -4322,8 +4390,12 @@
       Roepnummer  : LIER
       Kenteken    : 
 
-  >> 'LW1'  (3x)
+  >> 'LW1'  (4x)
       Adres       : Ardooie
+      Hulpdienst  : Brandweer
+      Roepnummer  : LW1
+      Kenteken    : 
+      Adres       : Ingelmunster
       Hulpdienst  : Brandweer
       Roepnummer  : LW1
       Kenteken    : 
@@ -4451,7 +4523,7 @@
       Hulpdienst  : Brandweer
       Roepnummer  : M15
       Kenteken    : 
-      Adres       : Lauwe
+      Adres       : Menen
       Hulpdienst  : Brandweer
       Roepnummer  : M15
       Kenteken    : 
@@ -4676,8 +4748,16 @@
       Roepnummer  : MONS 1
       Kenteken    : 
 
-  >> 'MW1'  (3x)
+  >> 'MW1'  (5x)
       Adres       : Aarsele
+      Hulpdienst  : Brandweer
+      Roepnummer  : MW1
+      Kenteken    : 
+      Adres       : Ingelmunster
+      Hulpdienst  : Brandweer
+      Roepnummer  : MW1
+      Kenteken    : 
+      Adres       : Izegem
       Hulpdienst  : Brandweer
       Roepnummer  : MW1
       Kenteken    : 
@@ -5861,7 +5941,7 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S24
       Kenteken    : 
-      Adres       : Lauwe
+      Adres       : Menen
       Hulpdienst  : Brandweer
       Roepnummer  : S24
       Kenteken    : 
@@ -5885,7 +5965,7 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S26
       Kenteken    : 
-      Adres       : Lauwe
+      Adres       : Menen
       Hulpdienst  : Brandweer
       Roepnummer  : S26
       Kenteken    : 
