@@ -1,8 +1,38 @@
 [
   {
     "date": "2026-08-13",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT71/RT72 District Zeehavenpolitie/Teambureau Havens en Grens Rotterdam  toegevoegd aan Rotterdam",
+        "Time": "13-08-2026 13:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT71 Teambureau Havens Rotterdam  toegevoegd aan Rotterdam",
+        "Time": "13-08-2026 13:00:16"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT71/RT72 District/Teambureau Haven Rotterdam  verwijderd van Rotterdam",
+        "Time": "13-08-2026 13:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "RT-POL",
+        "Description": "RT71 Teambureau Haven Rotterdam  verwijderd van Rotterdam",
+        "Time": "13-08-2026 13:00:16"
+      }
+    ],
     "changed": [
       {
         "Land": "BE",
