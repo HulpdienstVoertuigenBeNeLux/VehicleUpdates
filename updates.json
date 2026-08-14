@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-08-15",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Antwerpen",
+        "Description": "BORGERHOUT: Adres van 'BA ANTW [Borgerhout] AMBUCE, Borgerhout' naar 'Borgerhout' aangepast",
+        "Time": "15-08-2026 00:00:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Antwerpen",
+        "Description": "HOBOKEN: Adres van 'BA ANTW [Hoboken] AMBUCE, Hoboken' naar 'Hoboken' aangepast",
+        "Time": "15-08-2026 00:00:16"
+      }
+    ]
+  },
+  {
     "date": "2026-08-14",
     "added": [
       {
@@ -68211,119 +68232,6 @@
         "Regio": "18",
         "Description": "Middenpolderweg 63B: Bijzonderheden van 'Op verzoek MKA max één ambulance gestationeerd.' naar 'Maximaal één AMBU-HC gestationeerd.' aangepast",
         "Time": "15-07-2026 21:00:13"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-14",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "2",
-        "Description": "02-6103 DA toegevoegd aan Leeuwarden Hoofdpost",
-        "Time": "14-07-2026 15:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "28",
-        "Description": "28-4134 TS-DF toegevoegd aan Woensdrecht",
-        "Time": "14-07-2026 15:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "14",
-        "Description": "14-1467 MSA toegevoegd aan Muiden",
-        "Time": "14-07-2026 19:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "14",
-        "Description": "14-14OMA01 BMA-OTO toegevoegd aan Muiden",
-        "Time": "14-07-2026 19:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "15",
-        "Description": "15-7709 DB toegevoegd aan Den Haag-Loosduinen",
-        "Time": "14-07-2026 19:00:14"
-      }
-    ],
-    "removed": [],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "4",
-        "Description": "04-2833: Kenteken van '48-BRV-1' naar 'BD-411-J' aangepast",
-        "Time": "14-07-2026 15:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "10",
-        "Description": "10-4601: Kenteken van 'JT-185-G' naar 'JTT-60-D' aangepast",
-        "Time": "14-07-2026 15:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "20",
-        "Description": "20-1109: Kenteken van 'T-507-NK' naar 'JBK-08-H' aangepast",
-        "Time": "14-07-2026 15:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "20",
-        "Description": "20-1303: Kenteken van 'T-509-NK' naar 'JBK-38-G' aangepast",
-        "Time": "14-07-2026 15:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "28",
-        "Description": "25-4134: Adres van 'Woensdrecht' naar 'Almere Poort' aangepast",
-        "Time": "14-07-2026 15:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "28",
-        "Description": "25-4134: Afkorting van 'TS-DF' naar 'TS' aangepast",
-        "Time": "14-07-2026 15:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "28",
-        "Description": "25-4134: TypeVoertuig van 'Tankautospuit Defensie' naar 'Tankautospuit' aangepast",
-        "Time": "14-07-2026 15:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "28",
-        "Description": "25-4134: Kenteken van 'DM-760-N' naar '91-BLS-9' aangepast",
-        "Time": "14-07-2026 15:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "28",
-        "Description": "25-4134: Bijzonderheden van '' naar 'Bezetting: 6 personen.' aangepast",
-        "Time": "14-07-2026 15:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "28",
-        "Description": "25-4134: Regio van '28' naar '25' aangepast",
-        "Time": "14-07-2026 15:00:17"
       }
     ]
   }
