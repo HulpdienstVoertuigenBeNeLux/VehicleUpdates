@@ -75156,19 +75156,6 @@
     "last_tenaamstelling_check_date": "2026-08-10",
     "aantal_zitplaatsen": "4"
   },
-  "Z-242-GX": {
-    "expiry": "2027-04-11",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "10-118"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2024-04-11",
-    "last_tenaamstelling_check_date": "2026-08-10",
-    "aantal_zitplaatsen": "4"
-  },
   "Z-426-BT": {
     "expiry": "2027-03-20",
     "checked": true,
@@ -106420,5 +106407,18 @@
     "datum_tenaamstelling_dt": "2026-05-18",
     "last_tenaamstelling_check_date": "2026-08-14",
     "aantal_zitplaatsen": "8"
+  },
+  "KLK-34-T": {
+    "expiry": "2027-07-01",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "10-118"
+    ],
+    "last_check_date": "2026-08-14",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-01",
+    "last_tenaamstelling_check_date": "2026-08-14",
+    "aantal_zitplaatsen": "4"
   }
 }
