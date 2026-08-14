@@ -5,9 +5,9 @@
 ----------------------------------------------------------------------------------------
   Brandweer
 ----------------------------------------------------------------------------------------
-  HulpdienstvoertuigenBenelux : 5685
+  HulpdienstvoertuigenBenelux : 5687
   RDW inrichting dataset      : 2579
-  Missing in RDW              : 3506
+  Missing in RDW              : 3508
   Extra in RDW                : 400
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
@@ -356,7 +356,6 @@
   - 39ZDH9
   - 39ZKH9
   - 3KFN92
-  - 3SGZ58
   - 3TGS46
   - 3TGS47
   - 3TGS65
@@ -426,7 +425,6 @@
   - 45ZKJ3
   - 46NXJS
   - 46RDPK
-  - 46SKL9
   - 46WDGT
   - 46WPLF
   - 46ZFT5
@@ -599,7 +597,6 @@
   - 64BBR1
   - 64BGG8
   - 64DMP8
-  - 64SKF5
   - 64WLSK
   - 65BBZ7
   - 65BJH1
@@ -879,7 +876,6 @@
   - 8ZRF56
   - 8ZRF57
   - 8ZRF61
-  - 8ZRF62
   - 8ZRL05
   - 8ZRL06
   - 8ZRL07
@@ -892,9 +888,7 @@
   - 8ZRL16
   - 8ZRL17
   - 8ZSL02
-  - 8ZSL03
   - 8ZSL04
-  - 8ZSL05
   - 90BKL4
   - 90BLP4
   - 90BPK3
@@ -951,7 +945,6 @@
   - 97BRFJ
   - 97DMV9
   - 97GTS2
-  - 97SLD6
   - 97SNF7
   - 97XVN1
   - 97ZJZG
@@ -1345,6 +1338,7 @@
   - GNK75N
   - GNK76N
   - GORINCHEMX
+  - GPF69X
   - GR009P
   - GR011P
   - GR013P
@@ -1843,6 +1837,7 @@
   - JTP15H
   - JTP16H
   - JTP17H
+  - JTP18H
   - JTP20P
   - JTP21H
   - JTP23H
@@ -2025,6 +2020,11 @@
   - KG991T
   - KGB77G
   - KGP75G
+  - KGP76G
+  - KGP78G
+  - KGP80G
+  - KGP81G
+  - KGV08H
   - KH102H
   - KH103H
   - KH104H
@@ -2056,7 +2056,9 @@
   - KJ124P
   - KJ125P
   - KJ384Z
+  - KJG43B
   - KJG44B
+  - KJG53B
   - KK136N
   - KK137N
   - KK138N
@@ -2080,6 +2082,8 @@
   - KKX03X
   - KKZ32V
   - KL993G
+  - KLT09Z
+  - KLT95X
   - KM1305
   - KM1306
   - KM1701
@@ -3140,7 +3144,6 @@
   - VR635T
   - VRB78G
   - VRF25G
-  - VRR45N
   - VRV03L
   - VRV36T
   - VRV86B
@@ -3457,7 +3460,6 @@
   - ZD782J
   - ZD886S
   - ZD887S
-  - ZF100N
   - ZF101N
   - ZF102N
   - ZF254L

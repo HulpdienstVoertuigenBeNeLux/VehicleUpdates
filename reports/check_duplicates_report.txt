@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 10,957  (of 17,055 total)
+  Records checked : 10,958  (of 17,056 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  4 value(s) affected
@@ -112,10 +112,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,911  (of 8,361 total)
+  Records checked : 6,906  (of 8,356 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  542 value(s) affected
+  Duplicate Roepnummer  --  544 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -3292,7 +3292,11 @@
       Roepnummer  : E08
       Kenteken    : 
 
-  >> 'E1'  (10x)
+  >> 'E1'  (11x)
+      Adres       : Essen
+      Hulpdienst  : Brandweer
+      Roepnummer  : E1
+      Kenteken    : 
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : E1
@@ -3378,7 +3382,11 @@
       Roepnummer  : E106
       Kenteken    : 
 
-  >> 'E11'  (8x)
+  >> 'E11'  (9x)
+      Adres       : Essen
+      Hulpdienst  : Brandweer
+      Roepnummer  : E11
+      Kenteken    : 
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : E11
@@ -3486,7 +3494,11 @@
       Roepnummer  : E19
       Kenteken    : 
 
-  >> 'E2'  (2x)
+  >> 'E2'  (3x)
+      Adres       : Essen
+      Hulpdienst  : Brandweer
+      Roepnummer  : E2
+      Kenteken    : 
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : E2
@@ -3716,6 +3728,16 @@
       Roepnummer  : E51
       Kenteken    : 
 
+  >> 'E6'  (2x)
+      Adres       : Essen
+      Hulpdienst  : Brandweer
+      Roepnummer  : E6
+      Kenteken    : 
+      Adres       : Anderlecht
+      Hulpdienst  : Brandweer
+      Roepnummer  : E6
+      Kenteken    : 
+
   >> 'E61'  (3x)
       Adres       : Maasmechelen
       Hulpdienst  : Brandweer
@@ -3740,11 +3762,17 @@
       Roepnummer  : E7
       Kenteken    : 
 
-  >> 'E9'  (4x)
+  >> 'E8'  (2x)
       Adres       : Essen
       Hulpdienst  : Brandweer
-      Roepnummer  : E9
+      Roepnummer  : E8
       Kenteken    : 
+      Adres       : Héliport
+      Hulpdienst  : Brandweer
+      Roepnummer  : E8
+      Kenteken    : 
+
+  >> 'E9'  (3x)
       Adres       : Essen
       Hulpdienst  : Brandweer
       Roepnummer  : E9
@@ -4004,8 +4032,12 @@
       Roepnummer  : L103
       Kenteken    : 
 
-  >> 'L106'  (2x)
+  >> 'L106'  (3x)
       Adres       : Brugge
+      Hulpdienst  : Brandweer
+      Roepnummer  : L106
+      Kenteken    : 
+      Adres       : Oostende
       Hulpdienst  : Brandweer
       Roepnummer  : L106
       Kenteken    : 
@@ -5438,16 +5470,12 @@
       Roepnummer  : Pf903
       Kenteken    : 
 
-  >> 'R01'  (3x)
+  >> 'R01'  (2x)
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
       Roepnummer  : R01
       Kenteken    : 
       Adres       : Tongeren
-      Hulpdienst  : Brandweer
-      Roepnummer  : R01
-      Kenteken    : 
-      Adres       : Beveren-Leie
       Hulpdienst  : Brandweer
       Roepnummer  : R01
       Kenteken    : 
@@ -5908,12 +5936,8 @@
       Roepnummer  : S21
       Kenteken    : 
 
-  >> 'S22'  (3x)
+  >> 'S22'  (2x)
       Adres       : Bilzen-Hoeselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : S22
-      Kenteken    : 
-      Adres       : Beveren-Leie
       Hulpdienst  : Brandweer
       Roepnummer  : S22
       Kenteken    : 

@@ -5545,7 +5545,7 @@
   },
   {
     "Adres": "Essen  ",
-    "Roepnummer": "",
+    "Roepnummer": "E1",
     "Afkorting": "HZA",
     "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
@@ -5556,9 +5556,9 @@
   },
   {
     "Adres": "Essen  ",
-    "Roepnummer": "E9",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel / Materiaal Voertuig",
+    "Roepnummer": "E2",
+    "Afkorting": "HZA",
+    "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -5578,9 +5578,31 @@
   },
   {
     "Adres": "Essen  ",
-    "Roepnummer": "",
-    "Afkorting": "LW 30",
-    "TypeVoertuig": "Ladderwagen",
+    "Roepnummer": "E6",
+    "Afkorting": "CCFM",
+    "TypeVoertuig": "Bosbrand Autopomp Terreinvaardig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Antwerpen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Essen  ",
+    "Roepnummer": "E7",
+    "Afkorting": "CCFM",
+    "TypeVoertuig": "Bosbrand Autopomp Terreinvaardig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Antwerpen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Essen  ",
+    "Roepnummer": "E8",
+    "Afkorting": "PM",
+    "TypeVoertuig": "Personeel / Materiaal Voertuig",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -5592,6 +5614,17 @@
     "Roepnummer": "E9",
     "Afkorting": "SH",
     "TypeVoertuig": "Snelle Hulpwagem",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Antwerpen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Essen  ",
+    "Roepnummer": "E11",
+    "Afkorting": "LW 30",
+    "TypeVoertuig": "Ladderwagen",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -5614,28 +5647,6 @@
     "Roepnummer": "",
     "Afkorting": "DAT",
     "TypeVoertuig": "Diensauto Terreinvaardig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Antwerpen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Essen  ",
-    "Roepnummer": "",
-    "Afkorting": "CCFM",
-    "TypeVoertuig": "Bosbrand Autopomp Terreinvaardig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Antwerpen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Essen  ",
-    "Roepnummer": "E7",
-    "Afkorting": "CCFM",
-    "TypeVoertuig": "Bosbrand Autopomp Terreinvaardig",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -34409,7 +34420,7 @@
   },
   {
     "Adres": "Oostende",
-    "Roepnummer": "",
+    "Roepnummer": "L106",
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel / Materiaal Voertuig",
     "Kenteken": "",
@@ -37455,65 +37466,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Beveren-Leie - Liebaardstraat 258",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Belgiek - Vichtesteenweg 220, 8540 Deerlijk",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Beveren-Leie  ",
-    "Roepnummer": "A336",
-    "Afkorting": "HZA",
-    "TypeVoertuig": "Halfzware Autopomp",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Beveren-Leie  ",
-    "Roepnummer": "R01",
-    "Afkorting": "SH",
-    "TypeVoertuig": "Snelle Hulpwagem",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Beveren-Leie  ",
-    "Roepnummer": "",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel / Materiaal Voertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Beveren-Leie  ",
-    "Roepnummer": "S22",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel / Materiaal Voertuig",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -37730,17 +37686,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Gullegem - Hondschotestraat 100A",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Belgiek  ",
     "Roepnummer": "S337",
     "Afkorting": "DA",
@@ -37785,6 +37730,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Gullegem - Hondschotestraat 100A",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Gullegem   ",
     "Roepnummer": "A311",
     "Afkorting": "HZA",
@@ -37800,17 +37756,6 @@
     "Roepnummer": "T310",
     "Afkorting": "TW",
     "TypeVoertuig": "Tankwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Harelbeke - Tweebruggenstraat 2",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -37855,6 +37800,17 @@
     "Roepnummer": "K361",
     "Afkorting": "DPA",
     "TypeVoertuig": "DompelPomp Aanhager",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Harelbeke - Tweebruggenstraat 2",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -37983,17 +37939,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Heule - Waterven 1",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Harelbeke   ",
     "Roepnummer": "K353",
     "Afkorting": "SLA",
@@ -38038,6 +37983,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Heule - Waterven 1",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Heule  ",
     "Roepnummer": "A322",
     "Afkorting": "HZA",
@@ -38053,17 +38009,6 @@
     "Roepnummer": "M313",
     "Afkorting": "IZA",
     "TypeVoertuig": "Industriële Zware Autopomp",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Kortrijk - Doorniksesteenweg 214 /A",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -38108,6 +38053,17 @@
     "Roepnummer": "L60",
     "Afkorting": "DPA",
     "TypeVoertuig": "DompelPomp Aanhager",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Kortrijk - Doorniksesteenweg 214 /A",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -38412,17 +38368,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Kuurne - Weggevoerdenplein 8",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Kortrijk   ",
     "Roepnummer": "L312",
     "Afkorting": "VW",
@@ -38460,6 +38405,17 @@
     "Roepnummer": "C302",
     "Afkorting": "CO",
     "TypeVoertuig": "Commandovoertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Kuurne - Weggevoerdenplein 8",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -38533,17 +38489,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ledegem - Kloosterstraat 6a",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Kuurne   ",
     "Roepnummer": "L25",
     "Afkorting": "SIG",
@@ -38588,7 +38533,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Lendelede - Winkelsestraat 15",
+    "Adres": "Ledegem - Kloosterstraat 6a",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -38643,8 +38588,52 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Menen",
-    "Roepnummer": "A316",
+    "Adres": "Ledegem   ",
+    "Roepnummer": "R309",
+    "Afkorting": "SH",
+    "TypeVoertuig": "Snelle Hulpwagem",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Ledegem   ",
+    "Roepnummer": "S313",
+    "Afkorting": "PM",
+    "TypeVoertuig": "Personeel / Materiaal Voertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lendelede - Winkelsestraat 15",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lendelede   ",
+    "Roepnummer": "A328",
+    "Afkorting": "LA",
+    "TypeVoertuig": "Lichte Autopomp",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lendelede   ",
+    "Roepnummer": "A329",
     "Afkorting": "HZA",
     "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
@@ -38654,10 +38643,76 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ledegem   ",
-    "Roepnummer": "R309",
-    "Afkorting": "SH",
-    "TypeVoertuig": "Snelle Hulpwagem",
+    "Adres": "Lendelede   ",
+    "Roepnummer": "T306",
+    "Afkorting": "TW",
+    "TypeVoertuig": "Tankwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lendelede   ",
+    "Roepnummer": "L321",
+    "Afkorting": "PM",
+    "TypeVoertuig": "Personeel / Materiaal Voertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lendelede   ",
+    "Roepnummer": "L317",
+    "Afkorting": "SIG",
+    "TypeVoertuig": "Singnalisatievoertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lendelede   ",
+    "Roepnummer": "",
+    "Afkorting": "BMA",
+    "TypeVoertuig": "Bijzondere Materialen Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lendelede   ",
+    "Roepnummer": "",
+    "Afkorting": "LBA",
+    "TypeVoertuig": "Laadbak Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lendelede   ",
+    "Roepnummer": "L68",
+    "Afkorting": "DMA",
+    "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lendelede   ",
+    "Roepnummer": "L82",
+    "Afkorting": "DMA",
+    "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -38677,9 +38732,9 @@
   },
   {
     "Adres": "Menen",
-    "Roepnummer": "M15",
-    "Afkorting": "HV",
-    "TypeVoertuig": "Hulpverleningsvoertuig (met kraan)",
+    "Roepnummer": "A316",
+    "Afkorting": "HZA",
+    "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -38687,10 +38742,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ledegem   ",
-    "Roepnummer": "S313",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel / Materiaal Voertuig",
+    "Adres": "Menen",
+    "Roepnummer": "M15",
+    "Afkorting": "HV",
+    "TypeVoertuig": "Hulpverleningsvoertuig (met kraan)",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -38731,17 +38786,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Lendelede   ",
-    "Roepnummer": "A328",
-    "Afkorting": "LA",
-    "TypeVoertuig": "Lichte Autopomp",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Menen",
     "Roepnummer": "",
     "Afkorting": "DMA",
@@ -38753,32 +38797,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Lendelede   ",
-    "Roepnummer": "A329",
-    "Afkorting": "HZA",
-    "TypeVoertuig": "Halfzware Autopomp",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Menen",
     "Roepnummer": "",
     "Afkorting": "DMA",
     "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Lendelede   ",
-    "Roepnummer": "T306",
-    "Afkorting": "TW",
-    "TypeVoertuig": "Tankwagen",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -38797,32 +38819,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Lendelede   ",
-    "Roepnummer": "L321",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel / Materiaal Voertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Menen",
     "Roepnummer": "",
     "Afkorting": "HV",
     "TypeVoertuig": "Hulpverleningsvoertuig (met kraan)",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Lendelede   ",
-    "Roepnummer": "L317",
-    "Afkorting": "SIG",
-    "TypeVoertuig": "Singnalisatievoertuig",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -38841,17 +38841,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Lendelede   ",
-    "Roepnummer": "",
-    "Afkorting": "BMA",
-    "TypeVoertuig": "Bijzondere Materialen Aanhanger",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Menen",
     "Roepnummer": "S320",
     "Afkorting": "DB",
@@ -38863,51 +38852,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Lendelede   ",
-    "Roepnummer": "",
-    "Afkorting": "LBA",
-    "TypeVoertuig": "Laadbak Aanhanger",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Lendelede   ",
-    "Roepnummer": "L68",
-    "Afkorting": "DMA",
-    "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Menen - Krommebeekstraat 34d",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Lendelede   ",
-    "Roepnummer": "L82",
-    "Afkorting": "DMA",
-    "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Marke - Rekkemsestraat 54",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -39039,17 +38984,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Waregem - Weversstraat 11",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Menen   ",
     "Roepnummer": "",
     "Afkorting": "LBA",
@@ -39116,6 +39050,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Waregem - Weversstraat 11",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Waregem  ",
     "Roepnummer": "A323",
     "Afkorting": "HZA",
@@ -39142,17 +39087,6 @@
     "Roepnummer": "T307",
     "Afkorting": "TW",
     "TypeVoertuig": "Tankwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Wevelgem - Nieuwe Markt 3",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -39226,6 +39160,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Wevelgem - Nieuwe Markt 3",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Wevelgem  ",
     "Roepnummer": "A315",
     "Afkorting": "HZA",
@@ -39241,17 +39186,6 @@
     "Roepnummer": "T302",
     "Afkorting": "TW",
     "TypeVoertuig": "Tankwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Zwevegem - Ommegangstraat 1",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -39318,6 +39252,17 @@
     "Roepnummer": "",
     "Afkorting": "SLA",
     "TypeVoertuig": "Slangen Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Zwevegem - Ommegangstraat 1",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -39413,17 +39358,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "De Panne - Loskaai 14",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Zwevegem   ",
     "Roepnummer": "",
     "Afkorting": "WTC",
@@ -39480,6 +39414,17 @@
   },
   {
     "Adres": "West-Vlaanderen Zone 4 ( Westhoek ) ",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "De Panne - Loskaai 14",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -39567,17 +39512,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Diksmuide - Heernisse 4",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "De Panne   ",
     "Roepnummer": "V402",
     "Afkorting": "SIG",
@@ -39639,6 +39573,17 @@
     "TypeVoertuig": "Bijzondere Materialen Aanhanger",
     "Kenteken": "",
     "Bijzonderheden": "Medische Aanhanger ",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Diksmuide - Heernisse 4",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "West-Vlaanderen",
     "Interne opmerking": ""
@@ -39787,17 +39732,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Geluwe - Vrouwstraat 2",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Diksmuide   ",
     "Roepnummer": "",
     "Afkorting": "RBA",
@@ -39864,7 +39798,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Houthulst - Kouterstraat 46",
+    "Adres": "Geluwe - Vrouwstraat 2",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -39930,6 +39864,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Houthulst - Kouterstraat 46",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Houthulst   ",
     "Roepnummer": "A421",
     "Afkorting": "HZA",
@@ -39945,17 +39890,6 @@
     "Roepnummer": "A422",
     "Afkorting": "HZA",
     "TypeVoertuig": "Halfzware Autopomp",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Ieper - Minneplein 1a",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -40022,6 +39956,17 @@
     "Roepnummer": "K437",
     "Afkorting": "RBA",
     "TypeVoertuig": "Reddings Boot Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Ieper - Minneplein 1a",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -40249,17 +40194,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Kemmel - Nieuwstraat 46",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Ieper   ",
     "Roepnummer": "K403",
     "Afkorting": "DPA",
@@ -40326,10 +40260,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Kemmel   ",
-    "Roepnummer": "A446",
-    "Afkorting": "HZA",
-    "TypeVoertuig": "Halfzware Autopomp",
+    "Adres": "Kemmel - Nieuwstraat 46",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -40337,10 +40271,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Koekelare - Oostmeetstraat 36",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
+    "Adres": "Kemmel   ",
+    "Roepnummer": "A446",
+    "Afkorting": "HZA",
+    "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -40414,6 +40348,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Koekelare - Oostmeetstraat 36",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Koekelare   ",
     "Roepnummer": "",
     "Afkorting": "LA",
@@ -40451,17 +40396,6 @@
     "Roepnummer": "M407",
     "Afkorting": "HV",
     "TypeVoertuig": "Hulpverleningsvoertuig (met kraan)",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Koksijde - Zeelaan 37",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -40535,7 +40469,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Kortemark - Handzamestraat 84",
+    "Adres": "Koksijde - Zeelaan 37",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -40601,6 +40535,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Kortemark - Handzamestraat 84",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Kortemark   ",
     "Roepnummer": "A445",
     "Afkorting": "HZA",
@@ -40638,17 +40583,6 @@
     "Roepnummer": "E416",
     "Afkorting": "LW 30",
     "TypeVoertuig": "Ladderwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Langemark-Poelkapelle - Melkweg 2",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -40722,7 +40656,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Leke - Lekedorpstraat 31",
+    "Adres": "Langemark-Poelkapelle - Melkweg 2",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -40799,7 +40733,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Lo-Reninge - Zuidstraat 21b",
+    "Adres": "Leke - Lekedorpstraat 31",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -40876,6 +40810,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Lo-Reninge - Zuidstraat 21b",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Lo-Reninge   ",
     "Roepnummer": "A442",
     "Afkorting": "HZA",
@@ -40935,17 +40880,6 @@
     "Roepnummer": "M415",
     "Afkorting": "HV",
     "TypeVoertuig": "Hulpverleningsvoertuig (met kraan)",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Mesen - Vier Koningenstraat 28a",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -41019,6 +40953,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Mesen - Vier Koningenstraat 28a",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Mesen   ",
     "Roepnummer": "A420",
     "Afkorting": "HZA",
@@ -41034,17 +40979,6 @@
     "Roepnummer": "",
     "Afkorting": "TW",
     "TypeVoertuig": "Tankwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Nieuwkerke - Dranouterstraat 5",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -41118,7 +41052,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Nieuwpoort - Gaststraat 37",
+    "Adres": "Nieuwkerke - Dranouterstraat 5",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -41188,6 +41122,17 @@
     "Roepnummer": "",
     "Afkorting": "DMA",
     "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nieuwpoort - Gaststraat 37",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -41283,17 +41228,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Oostduinkerke - Schoolstraat 6",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Nieuwpoort   ",
     "Roepnummer": "",
     "Afkorting": "DA",
@@ -41360,10 +41294,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Oostduinkerke  ",
-    "Roepnummer": "A410",
-    "Afkorting": "HZA",
-    "TypeVoertuig": "Halfzware Autopomp",
+    "Adres": "Oostduinkerke - Schoolstraat 6",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -41371,10 +41305,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Poperinge - Doornstraat 45",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
+    "Adres": "Oostduinkerke  ",
+    "Roepnummer": "A410",
+    "Afkorting": "HZA",
+    "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -41441,6 +41375,17 @@
     "Roepnummer": "",
     "Afkorting": "DMA",
     "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Poperinge - Doornstraat 45",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -41525,17 +41470,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Veurne - Nijverheidsstraat 6",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Poperinge   ",
     "Roepnummer": "L419",
     "Afkorting": "PM",
@@ -41595,6 +41529,17 @@
     "Roepnummer": "",
     "Afkorting": "DMA",
     "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Veurne - Nijverheidsstraat 6",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -41712,17 +41657,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Wervik - Gasstraat 2",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Veurne   ",
     "Roepnummer": "C417",
     "Afkorting": "CO",
@@ -41782,6 +41716,17 @@
     "Roepnummer": "",
     "Afkorting": "RBA",
     "TypeVoertuig": "Reddings Boot Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Wervik - Gasstraat 2",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -41877,17 +41822,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Westouter - Roodkruisstraat 2c",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Wervik  ",
     "Roepnummer": "L427",
     "Afkorting": "DW",
@@ -41954,10 +41888,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Westouter   ",
+    "Adres": "Westouter - Roodkruisstraat 2c",
     "Roepnummer": "",
-    "Afkorting": "HZA",
-    "TypeVoertuig": "Halfzware Autopomp",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -41965,10 +41899,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Zonnebeke - Passendalestraat 31",
+    "Adres": "Westouter   ",
     "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
+    "Afkorting": "HZA",
+    "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -42042,6 +41976,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Zonnebeke - Passendalestraat 31",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Zonnebeke   ",
     "Roepnummer": "",
     "Afkorting": "HZA",
@@ -42079,17 +42024,6 @@
     "Roepnummer": "",
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel / Materiaal Voertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Zuid-IJzer - Haringestraat 26a",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -42163,6 +42097,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Zuid-IJzer - Haringestraat 26a",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Zuid-IJzer  ",
     "Roepnummer": "A437",
     "Afkorting": "HZA",
@@ -42204,17 +42149,6 @@
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Antoing - Chemin de St-Druon 2",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
     "Interne opmerking": ""
   },
   {
@@ -42284,6 +42218,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Antoing - Chemin de St-Druon 2",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Antoing   ",
     "Roepnummer": "A24",
     "Afkorting": "HZA",
@@ -42299,17 +42244,6 @@
     "Roepnummer": "C09",
     "Afkorting": "TW",
     "TypeVoertuig": "Tankwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Rebaix - Chem. de Bilhée 112, Ath",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -42376,6 +42310,17 @@
     "Roepnummer": "",
     "Afkorting": "DMA",
     "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Rebaix - Chem. de Bilhée 112, Ath",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -42482,17 +42427,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Basècles - Rue Gaston Destrebecq 75",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Ath   ",
     "Roepnummer": "VC03",
     "Afkorting": "CO",
@@ -42559,6 +42493,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Basècles - Rue Gaston Destrebecq 75",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Basècles   ",
     "Roepnummer": "A27",
     "Afkorting": "HZA",
@@ -42574,17 +42519,6 @@
     "Roepnummer": "A19",
     "Afkorting": "HZA",
     "TypeVoertuig": "Halfzware Autopomp",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Beloeil - Rue de la Forgette 2",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -42658,6 +42592,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Beloeil - Rue de la Forgette 2",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Beloeil   ",
     "Roepnummer": "A25",
     "Afkorting": "HZA",
@@ -42695,17 +42640,6 @@
     "Roepnummer": "T19",
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel / Materiaal Voertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Bernissart - Rue des Combattants 1",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -42779,10 +42713,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Bernissart  ",
-    "Roepnummer": "A32",
-    "Afkorting": "HZA",
-    "TypeVoertuig": "Halfzware Autopomp",
+    "Adres": "Bernissart - Rue des Combattants 1",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -42790,10 +42724,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Estaimpuis - Rue de la Couronne 69",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
+    "Adres": "Bernissart  ",
+    "Roepnummer": "A32",
+    "Afkorting": "HZA",
+    "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -42867,7 +42801,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Lessines - Rue des 4 Fils Aymon 54b",
+    "Adres": "Estaimpuis - Rue de la Couronne 69",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -42922,6 +42856,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Lessines - Rue des 4 Fils Aymon 54b",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Lessines   ",
     "Roepnummer": "A31",
     "Afkorting": "HZA",
@@ -42937,17 +42882,6 @@
     "Roepnummer": "C15",
     "Afkorting": "TW",
     "TypeVoertuig": "Tankwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Leuze-en-Hainaut - Rue Tour Saint-Pierre 13",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -43014,6 +42948,17 @@
     "Roepnummer": "VC05",
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstaut",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Leuze-en-Hainaut - Rue Tour Saint-Pierre 13",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -43120,17 +43065,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Mouscron - Avenue de Maire 89",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Leuze-en-Hainaut   ",
     "Roepnummer": "VL21",
     "Afkorting": "DB",
@@ -43190,6 +43124,17 @@
     "Roepnummer": "",
     "Afkorting": "BMA",
     "TypeVoertuig": "Bijzondere Materialen Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Mouscron - Avenue de Maire 89",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -43604,17 +43549,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Tournai - Avenue de Maire 89",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Péruwelz   ",
     "Roepnummer": "MB04",
     "Afkorting": "PM",
@@ -43674,6 +43608,17 @@
     "Roepnummer": "",
     "Afkorting": "RBA",
     "TypeVoertuig": "Reddings Boot Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Tournai - Avenue de Maire 89",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -44000,17 +43945,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Warneton - Chaussee d'Ypres 55",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Tournai  ",
     "Roepnummer": "",
     "Afkorting": "DA",
@@ -44070,6 +44004,17 @@
     "Roepnummer": "",
     "Afkorting": "CO",
     "TypeVoertuig": "Commandovoertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Warneton - Chaussee d'Ypres 55",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -44143,17 +44088,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Beaumont - Chaussée de 17",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Warneton   ",
     "Roepnummer": "B10",
     "Afkorting": "SIG",
@@ -44210,6 +44144,17 @@
   },
   {
     "Adres": "Henegouwen Zone 2 ( Hainaut-Est ) ",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Beaumont - Chaussée de 17",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -44385,17 +44330,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Charleroi - Rue de la Tombe 112",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Beaumont   ",
     "Roepnummer": "",
     "Afkorting": "CO",
@@ -44455,6 +44389,17 @@
     "Roepnummer": "",
     "Afkorting": "DMA",
     "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Charleroi - Rue de la Tombe 112",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -44935,17 +44880,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Chimay - Chau. de Mons 37a",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Charleroi   ",
     "Roepnummer": "",
     "Afkorting": "CO",
@@ -45005,6 +44939,17 @@
     "Roepnummer": "",
     "Afkorting": "VW",
     "TypeVoertuig": "Vrachtwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Chimay - Chau. de Mons 37a",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -45298,17 +45243,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Jummet - Rue des Fusillés 8 ( Charleroi )",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Fleurus   ",
     "Roepnummer": "627",
     "Afkorting": "DAT",
@@ -45368,6 +45302,17 @@
     "Roepnummer": "",
     "Afkorting": "DMA",
     "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Jummet - Rue des Fusillés 8 ( Charleroi )",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -45441,17 +45386,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Thuin - Route de Biesme 16",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Jummet   ",
     "Roepnummer": "",
     "Afkorting": "DB",
@@ -45513,6 +45447,17 @@
     "TypeVoertuig": "Bijzonder Materiaal",
     "Kenteken": "",
     "Bijzonderheden": "Wiellader ",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Thuin - Route de Biesme 16",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "Henegouwen",
     "Interne opmerking": ""
@@ -45628,32 +45573,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Binche - Rue de la Pépinière 57a",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Thuin  ",
     "Roepnummer": "94",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus Personeel / Materiaal",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Binche   ",
-    "Roepnummer": "11",
-    "Afkorting": "HZA",
-    "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -45716,6 +45639,28 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Binche - Rue de la Pépinière 57a",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Binche   ",
+    "Roepnummer": "11",
+    "Afkorting": "HZA",
+    "TypeVoertuig": "Halfzware Autopomp",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Binche   ",
     "Roepnummer": "MP2",
     "Afkorting": "HZA",
@@ -45742,17 +45687,6 @@
     "Roepnummer": "10",
     "Afkorting": "LW 24",
     "TypeVoertuig": "Ladderwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Braine-le-Comte - Rue des Etats Unis 9",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -45819,6 +45753,17 @@
     "Roepnummer": "",
     "Afkorting": "CO",
     "TypeVoertuig": "Commandovoertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Braine-le-Comte - Rue des Etats Unis 9",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -45936,17 +45881,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Chièvres - Greu de la Croix 112",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Braine-le-Comte  ",
     "Roepnummer": "O3",
     "Afkorting": "CO",
@@ -46006,6 +45940,17 @@
     "Roepnummer": "",
     "Afkorting": "BMA",
     "TypeVoertuig": "Bijzondere Materialen Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Chièvres - Greu de la Croix 112",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -46079,17 +46024,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Dour - Avenue Regnart, 10",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Chièvres  ",
     "Roepnummer": "T2",
     "Afkorting": "PM",
@@ -46156,6 +46090,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Dour - Avenue Regnart, 10",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Dour   ",
     "Roepnummer": "DP3",
     "Afkorting": "HZA",
@@ -46204,17 +46149,6 @@
     "Roepnummer": "DT1",
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel / Materiaal Voertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Enghien - Rue Rempart St-Christophe 37",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -46281,6 +46215,17 @@
     "Roepnummer": "",
     "Afkorting": "DMA",
     "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Enghien - Rue Rempart St-Christophe 37",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -46376,17 +46321,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "La Louvière - Boulevard du roi Baudouin 1",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Enghien   ",
     "Roepnummer": "T2",
     "Afkorting": "PM",
@@ -46446,6 +46380,17 @@
     "Roepnummer": "",
     "Afkorting": "DMA",
     "TypeVoertuig": "Draagbare Motorpomp Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "La Louvière - Boulevard du roi Baudouin 1",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -46948,17 +46893,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Mons - Rue des sandrinettes 29",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "La Louvière   ",
     "Roepnummer": "",
     "Afkorting": "DB",
@@ -47018,6 +46952,17 @@
     "Roepnummer": "",
     "Afkorting": "COC",
     "TypeVoertuig": "Commanco Container",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Mons - Rue des sandrinettes 29",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -47487,76 +47432,76 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Mons   ",
+    "Roepnummer": "",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstaut",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Mons   ",
+    "Roepnummer": "",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstaut",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Mons   ",
+    "Roepnummer": "",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstaut",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Mons   ",
+    "Roepnummer": "",
+    "Afkorting": "DA",
+    "TypeVoertuig": "Dienstaut",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Mons   ",
+    "Roepnummer": "",
+    "Afkorting": "CO",
+    "TypeVoertuig": "Commandovoertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Mons   ",
+    "Roepnummer": "",
+    "Afkorting": "CO",
+    "TypeVoertuig": "Commandovoertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Quiévrain - Place du Ballodrome",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Mons   ",
-    "Roepnummer": "",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstaut",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Mons   ",
-    "Roepnummer": "",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstaut",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Mons   ",
-    "Roepnummer": "",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstaut",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Mons   ",
-    "Roepnummer": "",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstaut",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Mons   ",
-    "Roepnummer": "",
-    "Afkorting": "CO",
-    "TypeVoertuig": "Commandovoertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Mons   ",
-    "Roepnummer": "",
-    "Afkorting": "CO",
-    "TypeVoertuig": "Commandovoertuig",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -47718,17 +47663,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Saint-Ghislain - Rue de l'abbatoir 17",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Quiévrain   ",
     "Roepnummer": "",
     "Afkorting": "CO",
@@ -47788,6 +47722,17 @@
     "Roepnummer": "",
     "Afkorting": "LBA",
     "TypeVoertuig": "Laadbak Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Saint-Ghislain - Rue de l'abbatoir 17",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -47916,17 +47861,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Soignies - Reu de la Senne 72",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Saint-Ghislain  ",
     "Roepnummer": "",
     "Afkorting": "MTA",
@@ -47988,6 +47922,17 @@
     "TypeVoertuig": "Bijzondere Materialen Aanhanger",
     "Kenteken": "",
     "Bijzonderheden": "Tenten Aanhanger ",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Soignies - Reu de la Senne 72",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
     "Regio": "Henegouwen",
     "Interne opmerking": ""

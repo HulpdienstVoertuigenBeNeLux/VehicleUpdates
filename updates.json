@@ -71,6 +71,41 @@
         "Regio": "West-Vlaanderen",
         "Description": "RC2 BMC toegevoegd aan Roeselare",
         "Time": "14-08-2026 00:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-7202 DA toegevoegd aan Dokkum",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-6108 DA toegevoegd aan Leeuwarden Hoofdpost",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-6403 DA toegevoegd aan Heerenveen",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "GEEN DA toegevoegd aan Rotterdam Port Authority",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25",
+        "Description": "25-5106 DB toegevoegd aan Lelystad",
+        "Time": "14-08-2026 14:00:14"
       }
     ],
     "removed": [
@@ -108,6 +143,48 @@
         "Regio": "West-Vlaanderen",
         "Description": " HV verwijderd van Marke",
         "Time": "14-08-2026 00:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-7301 DA verwijderd van Franeker",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-6405 DA verwijderd van Heerenveen",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-6406 DA verwijderd van Heerenveen",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-LOG-3 LO verwijderd van Velsen Zuid",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "A336 HZA verwijderd van Beveren-Leie",
+        "Time": "14-08-2026 14:01:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": " PM verwijderd van Beveren-Leie",
+        "Time": "14-08-2026 14:01:13"
       }
     ],
     "changed": [
@@ -12276,6 +12353,83 @@
         "Regio": "18",
         "Description": "18-6599: Bijzonderheden van '' naar 'Fire captain Chemours.' aangepast",
         "Time": "14-08-2026 11:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-7207: Kenteken van '8-ZRF-62' naar 'KLT-09-Z' aangepast",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-6105: Kenteken van '8-ZSL-05' naar 'KGP-76-G' aangepast",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-7304: Adres van 'Harlingen' naar 'Leeuwarden Hoofdpost' aangepast",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-7304: Kenteken van '97-SLD-6' naar 'KGP-78-G' aangepast",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-7305: Kenteken van 'ZF-100-N' naar 'KJG-53-B' aangepast",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-5707: Kenteken van '64-SKF-5' naar 'KJG-43-B' aangepast",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6",
+        "Description": "06-5301: Kenteken van 'ONBEKEND' naar 'JTP-18-H' aangepast",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14",
+        "Description": "'14-7086' omgenummerd naar '14-7082'",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14",
+        "Description": "14-7086: Afkorting van 'LO' naar 'AH' aangepast",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14",
+        "Description": "14-7086: TypeVoertuig van 'Logistiek voertuig' naar 'Arbeidshygiëne voertuig' aangepast",
+        "Time": "14-08-2026 14:00:14"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "R01: Adres van 'Beveren-Leie' naar 'Tongeren' aangepast",
+        "Time": "14-08-2026 14:01:13"
       }
     ]
   },
