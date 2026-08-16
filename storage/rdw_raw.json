@@ -33396,6 +33396,11 @@
     "api_gekentekende_voertuigen_carrosserie_specifiek": "https://opendata.rdw.nl/resource/jhie-znh9.json",
     "api_gekentekende_voertuigen_voertuigklasse": "https://opendata.rdw.nl/resource/kmfi-hrps.json"
   },
+  "28-44-YF": {
+    "kenteken": "28-44-YF",
+    "rdw_lookup_result": "not_found",
+    "rdw_lookup_source": "Tenaamstelling check"
+  },
   "28BBZ3": {
     "kenteken": "28BBZ3",
     "voertuigsoort": "Bedrijfsauto",
@@ -37971,6 +37976,11 @@
   },
   "3-YF-680": {
     "kenteken": "3-YF-680",
+    "rdw_lookup_result": "not_found",
+    "rdw_lookup_source": "Tenaamstelling check"
+  },
+  "3-YH-463": {
+    "kenteken": "3-YH-463",
     "rdw_lookup_result": "not_found",
     "rdw_lookup_source": "Tenaamstelling check"
   },
@@ -50627,6 +50637,11 @@
     "api_gekentekende_voertuigen_carrosserie": "https://opendata.rdw.nl/resource/vezc-m2t6.json",
     "api_gekentekende_voertuigen_carrosserie_specifiek": "https://opendata.rdw.nl/resource/jhie-znh9.json",
     "api_gekentekende_voertuigen_voertuigklasse": "https://opendata.rdw.nl/resource/kmfi-hrps.json"
+  },
+  "4-YH-348": {
+    "kenteken": "4-YH-348",
+    "rdw_lookup_result": "not_found",
+    "rdw_lookup_source": "Tenaamstelling check"
   },
   "40BBD5": {
     "kenteken": "40BBD5",
@@ -76323,6 +76338,11 @@
     "api_gekentekende_voertuigen_carrosserie": "https://opendata.rdw.nl/resource/vezc-m2t6.json",
     "api_gekentekende_voertuigen_carrosserie_specifiek": "https://opendata.rdw.nl/resource/jhie-znh9.json",
     "api_gekentekende_voertuigen_voertuigklasse": "https://opendata.rdw.nl/resource/kmfi-hrps.json"
+  },
+  "6-KPL-36": {
+    "kenteken": "6-KPL-36",
+    "rdw_lookup_result": "not_found",
+    "rdw_lookup_source": "Tenaamstelling check"
   },
   "60BDF6": {
     "kenteken": "60BDF6",
@@ -108050,6 +108070,11 @@
     "api_gekentekende_voertuigen_carrosserie_specifiek": "https://opendata.rdw.nl/resource/jhie-znh9.json",
     "api_gekentekende_voertuigen_voertuigklasse": "https://opendata.rdw.nl/resource/kmfi-hrps.json"
   },
+  "85-65-YS": {
+    "kenteken": "85-65-YS",
+    "rdw_lookup_result": "not_found",
+    "rdw_lookup_source": "Tenaamstelling check"
+  },
   "85BBR4": {
     "kenteken": "85BBR4",
     "voertuigsoort": "Bedrijfsauto",
@@ -114705,7 +114730,7 @@
     "voertuigsoort": "Personenauto",
     "merk": "VOLKSWAGEN",
     "handelsbenaming": "GOLF",
-    "vervaldatum_apk": "20261010",
+    "vervaldatum_apk": "20271010",
     "datum_tenaamstelling": "20141215",
     "bruto_bpm": "4474",
     "inrichting": "stationwagen",
@@ -114740,11 +114765,11 @@
     "openstaande_terugroepactie_indicator": "Nee",
     "taxi_indicator": "Nee",
     "maximum_massa_samenstelling": "3470",
-    "jaar_laatste_registratie_tellerstand": "2025",
+    "jaar_laatste_registratie_tellerstand": "2026",
     "tellerstandoordeel": "Logisch",
     "code_toelichting_tellerstandoordeel": "00",
     "tenaamstellen_mogelijk": "Ja",
-    "vervaldatum_apk_dt": "2026-10-10T00:00:00.000",
+    "vervaldatum_apk_dt": "2027-10-10T00:00:00.000",
     "datum_tenaamstelling_dt": "2014-12-15T00:00:00.000",
     "datum_eerste_toelating_dt": "2014-10-10T00:00:00.000",
     "datum_eerste_tenaamstelling_in_nederland_dt": "2014-10-10T00:00:00.000",
@@ -125201,6 +125226,11 @@
     "api_gekentekende_voertuigen_carrosserie": "https://opendata.rdw.nl/resource/vezc-m2t6.json",
     "api_gekentekende_voertuigen_carrosserie_specifiek": "https://opendata.rdw.nl/resource/jhie-znh9.json",
     "api_gekentekende_voertuigen_voertuigklasse": "https://opendata.rdw.nl/resource/kmfi-hrps.json"
+  },
+  "98-16-YL": {
+    "kenteken": "98-16-YL",
+    "rdw_lookup_result": "not_found",
+    "rdw_lookup_source": "Tenaamstelling check"
   },
   "98-C-036": {
     "kenteken": "98-C-036",
@@ -144223,7 +144253,7 @@
     "voertuigsoort": "Bedrijfsauto",
     "merk": "MERCEDES-BENZ",
     "handelsbenaming": "976.06",
-    "vervaldatum_apk": "20260821",
+    "vervaldatum_apk": "20270821",
     "datum_tenaamstelling": "20140130",
     "inrichting": "brandweerwagen",
     "eerste_kleur": "N.v.t.",
@@ -144257,7 +144287,7 @@
     "tellerstandoordeel": "Niet geregistreerd",
     "code_toelichting_tellerstandoordeel": "NG",
     "tenaamstellen_mogelijk": "Ja",
-    "vervaldatum_apk_dt": "2026-08-21T00:00:00.000",
+    "vervaldatum_apk_dt": "2027-08-21T00:00:00.000",
     "datum_tenaamstelling_dt": "2014-01-30T00:00:00.000",
     "datum_eerste_toelating_dt": "2002-10-16T00:00:00.000",
     "datum_eerste_tenaamstelling_in_nederland_dt": "2002-10-16T00:00:00.000",
@@ -160222,6 +160252,11 @@
     "api_gekentekende_voertuigen_carrosserie": "https://opendata.rdw.nl/resource/vezc-m2t6.json",
     "api_gekentekende_voertuigen_carrosserie_specifiek": "https://opendata.rdw.nl/resource/jhie-znh9.json",
     "api_gekentekende_voertuigen_voertuigklasse": "https://opendata.rdw.nl/resource/kmfi-hrps.json"
+  },
+  "BX-HS-03": {
+    "kenteken": "BX-HS-03",
+    "rdw_lookup_result": "not_found",
+    "rdw_lookup_source": "Tenaamstelling check"
   },
   "BX-HZ-48": {
     "kenteken": "BX-HZ-48",
@@ -280246,7 +280281,7 @@
     "merk": "VOLKSWAGEN",
     "handelsbenaming": "ID.3 PRO 107 KW",
     "vervaldatum_apk": "20271104",
-    "datum_tenaamstelling": "20220308",
+    "datum_tenaamstelling": "20260810",
     "inrichting": "stationwagen",
     "aantal_zitplaatsen": "5",
     "eerste_kleur": "GRIJS",
@@ -280276,12 +280311,12 @@
     "export_indicator": "Nee",
     "openstaande_terugroepactie_indicator": "Nee",
     "taxi_indicator": "Nee",
-    "jaar_laatste_registratie_tellerstand": "2025",
+    "jaar_laatste_registratie_tellerstand": "2026",
     "tellerstandoordeel": "Logisch",
     "code_toelichting_tellerstandoordeel": "00",
     "tenaamstellen_mogelijk": "Ja",
     "vervaldatum_apk_dt": "2027-11-04T00:00:00.000",
-    "datum_tenaamstelling_dt": "2022-03-08T00:00:00.000",
+    "datum_tenaamstelling_dt": "2026-08-10T00:00:00.000",
     "datum_eerste_toelating_dt": "2021-11-04T00:00:00.000",
     "datum_eerste_tenaamstelling_in_nederland_dt": "2021-11-04T00:00:00.000",
     "hoogte_voertuig": "155",
@@ -283647,6 +283682,11 @@
     "api_gekentekende_voertuigen_carrosserie": "https://opendata.rdw.nl/resource/vezc-m2t6.json",
     "api_gekentekende_voertuigen_carrosserie_specifiek": "https://opendata.rdw.nl/resource/jhie-znh9.json",
     "api_gekentekende_voertuigen_voertuigklasse": "https://opendata.rdw.nl/resource/kmfi-hrps.json"
+  },
+  "ONEKEND": {
+    "kenteken": "ONEKEND",
+    "rdw_lookup_result": "not_found",
+    "rdw_lookup_source": "Tenaamstelling check"
   },
   "OP01RB": {
     "kenteken": "OP01RB",
@@ -357829,7 +357869,7 @@
     "voertuigsoort": "Bedrijfsauto",
     "merk": "VOLKSWAGEN",
     "handelsbenaming": "AMAROK",
-    "vervaldatum_apk": "20260831",
+    "vervaldatum_apk": "20270831",
     "datum_tenaamstelling": "20201208",
     "bruto_bpm": "60575",
     "inrichting": "open laadvloer",
@@ -357870,11 +357910,11 @@
     "taxi_indicator": "Nee",
     "maximum_massa_samenstelling": "6000",
     "aantal_rolstoelplaatsen": "0",
-    "jaar_laatste_registratie_tellerstand": "2025",
+    "jaar_laatste_registratie_tellerstand": "2026",
     "tellerstandoordeel": "Logisch",
     "code_toelichting_tellerstandoordeel": "00",
     "tenaamstellen_mogelijk": "Ja",
-    "vervaldatum_apk_dt": "2026-08-31T00:00:00.000",
+    "vervaldatum_apk_dt": "2027-08-31T00:00:00.000",
     "datum_tenaamstelling_dt": "2020-12-08T00:00:00.000",
     "datum_eerste_toelating_dt": "2020-08-31T00:00:00.000",
     "datum_eerste_tenaamstelling_in_nederland_dt": "2020-08-31T00:00:00.000",
