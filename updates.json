@@ -2,7 +2,15 @@
   {
     "date": "2026-08-16",
     "added": [],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-1001 DA verwijderd van Grootegast",
+        "Time": "16-08-2026 11:00:13"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -10,6 +18,20 @@
         "Regio": "4",
         "Description": "04-2833: Kenteken van 'BD-411-J' naar 'BD-441-J' aangepast",
         "Time": "16-08-2026 01:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "13",
+        "Description": "13-901: Kenteken van 'NT-811-Z' naar 'R-784-XV' aangepast",
+        "Time": "16-08-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17",
+        "Description": "36-5560: Kenteken van '3-VXG-10' naar 'Z-887-LS' aangepast",
+        "Time": "16-08-2026 11:00:13"
       }
     ]
   },
