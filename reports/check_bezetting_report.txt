@@ -7,9 +7,9 @@
   RDW data ontbreekt              : 243
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 640
+  Bezetting != RDW zitplaatsen    : 639
   Bezetting > RDW zitplaatsen     : 341
-  RDW zitplaatsen > bezetting     : 299
+  RDW zitplaatsen > bezetting     : 298
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
@@ -448,7 +448,6 @@
   04-DB0010    | 61-TTF-1   |         7 |             8
   04-1940      | 10-BBD-1   |         7 |             8
   04-1003      | VD-328-G   |         3 |             6
-  04-2833      | BD-411-J   |         7 |            50
   GEEN         | PZ-855-B   |         2 |             5
   GEEN         | 26-SJP-5   |         5 |             7
   05-9486      | VS-999-L   |         2 |             3
