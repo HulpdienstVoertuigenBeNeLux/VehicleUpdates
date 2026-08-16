@@ -1,7 +1,50 @@
 [
   {
     "date": "2026-08-16",
-    "added": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "03-9501 DA toegevoegd aan Assen Hoofdpost",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-9804 DA toegevoegd aan Emmen",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-9807 DA toegevoegd aan Emmen",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-9904 DA toegevoegd aan Hoogeveen",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-9905 DA toegevoegd aan Hoogeveen",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-9906 DA toegevoegd aan Hoogeveen",
+        "Time": "16-08-2026 12:00:15"
+      }
+    ],
     "removed": [
       {
         "Land": "NL",
@@ -9,6 +52,97 @@
         "Regio": "1",
         "Description": "01-1001 DA verwijderd van Grootegast",
         "Time": "16-08-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-2633 TS verwijderd van Stadskanaal",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-3000 DA verwijderd van Delfzijl",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-3300 DA verwijderd van Uithuizen",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-0303 DA verwijderd van Assen Hoofdpost",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-8202 DA verwijderd van Assen Hoofdpost",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-0305 DA verwijderd van Emmen",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-0308 DA verwijderd van Emmen",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4",
+        "Description": "GEEN DA verwijderd van Zwolle (Hoofdpost)",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-661 Chinook verwijderd van Vliegbasis Gilze-Rijen",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-664 Chinook verwijderd van Vliegbasis Gilze-Rijen",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-665 Chinook verwijderd van Vliegbasis Gilze-Rijen",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-666 Chinook verwijderd van Vliegbasis Gilze-Rijen",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-412 AMBU-IT verwijderd van MAI Barneveld",
+        "Time": "16-08-2026 12:00:15"
       }
     ],
     "changed": [
@@ -32,6 +166,97 @@
         "Regio": "17",
         "Description": "36-5560: Kenteken van '3-VXG-10' naar 'Z-887-LS' aangepast",
         "Time": "16-08-2026 11:00:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-6101: Kenteken van '8-ZSL-04' naar 'KBF-16-V' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-6107: Afkorting van 'IM-COPI' naar 'DA' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-6107: TypeVoertuig van 'Informatiemanager COPI' naar 'Dienstauto' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2",
+        "Description": "02-6107: Bijzonderheden van '' naar 'Bezetting: 5 personen.' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-9293: Kenteken van 'HJ-033-T' naar 'ONBEKEND' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6",
+        "Description": "06-7302: Kenteken van '6-TFR-97' naar 'ONBEKEND' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8",
+        "Description": "08-8005: Kenteken van 'J-345-DK' naar 'J-346-DK' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-474: Bijzonderheden van 'Helikopter met bambi-bucket t.b.v. natuurbrandbestrijding. Max 6 bambi-buckets tegelijk ingezet.' naar 'T.b.v Opleiding in Amerika' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-475: Bijzonderheden van 'Helikopter met bambi-bucket t.b.v. natuurbrandbestrijding. Max 6 bambi-buckets tegelijk ingezet.' naar 'T.b.v Opleiding in Amerika' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-476: Bijzonderheden van 'Helikopter met bambi-bucket t.b.v. natuurbrandbestrijding. Max 6 bambi-buckets tegelijk ingezet.' naar 'T.b.v Opleiding in Amerika' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-477: Bijzonderheden van 'Helikopter met bambi-bucket t.b.v. natuurbrandbestrijding. Max 6 bambi-buckets tegelijk ingezet.' naar 'T.b.v Opleiding in Amerika' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28",
+        "Description": "D-478: Bijzonderheden van 'Helikopter met bambi-bucket t.b.v. natuurbrandbestrijding. Max 6 bambi-buckets tegelijk ingezet.' naar 'T.b.v Opleiding in Amerika' aangepast",
+        "Time": "16-08-2026 12:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "15",
+        "Description": "15-241: Kenteken van 'KR-924-P' naar 'ONBKEND' aangepast",
+        "Time": "16-08-2026 12:00:15"
       }
     ]
   },

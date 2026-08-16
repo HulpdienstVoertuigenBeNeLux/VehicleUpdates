@@ -534,12 +534,6 @@
     "zitplaatsen": 7
   },
   {
-    "roepnummer": "01-2633",
-    "kenteken": "BX-XF-08",
-    "bezetting": 7,
-    "zitplaatsen": 7
-  },
-  {
     "roepnummer": "01-2702",
     "kenteken": "5-VTD-67",
     "bezetting": 6,
@@ -658,12 +652,6 @@
     "kenteken": "BD-665-K",
     "bezetting": 7,
     "zitplaatsen": 7
-  },
-  {
-    "roepnummer": "01-3000",
-    "kenteken": "4-XFG-07",
-    "bezetting": 5,
-    "zitplaatsen": 5
   },
   {
     "roepnummer": "01-3001",
@@ -1531,7 +1519,7 @@
   },
   {
     "roepnummer": "02-6101",
-    "kenteken": "8-ZSL-04",
+    "kenteken": "KBF-16-V",
     "bezetting": 5,
     "zitplaatsen": 5
   },
@@ -1556,6 +1544,12 @@
   {
     "roepnummer": "02-6106",
     "kenteken": "J-266-ZN",
+    "bezetting": 5,
+    "zitplaatsen": 5
+  },
+  {
+    "roepnummer": "02-6107",
+    "kenteken": "JZF-83-S",
     "bezetting": 5,
     "zitplaatsen": 5
   },
@@ -2178,12 +2172,6 @@
     "zitplaatsen": 5
   },
   {
-    "roepnummer": "03-0303",
-    "kenteken": "KD-677-S",
-    "bezetting": 5,
-    "zitplaatsen": 5
-  },
-  {
     "roepnummer": "03-0304",
     "kenteken": "JZ-909-S",
     "bezetting": 5,
@@ -2220,12 +2208,6 @@
     "zitplaatsen": 5
   },
   {
-    "roepnummer": "03-8202",
-    "kenteken": "KB-193-R",
-    "bezetting": 5,
-    "zitplaatsen": 5
-  },
-  {
     "roepnummer": "03-8203",
     "kenteken": "K-445-NS",
     "bezetting": 7,
@@ -2258,6 +2240,12 @@
   {
     "roepnummer": "03-8291",
     "kenteken": "X-575-FX",
+    "bezetting": 5,
+    "zitplaatsen": 5
+  },
+  {
+    "roepnummer": "03-9501",
+    "kenteken": "KJG-52-B",
     "bezetting": 5,
     "zitplaatsen": 5
   },
@@ -2484,20 +2472,8 @@
     "zitplaatsen": 5
   },
   {
-    "roepnummer": "03-0305",
-    "kenteken": "JZ-910-S",
-    "bezetting": 5,
-    "zitplaatsen": 5
-  },
-  {
     "roepnummer": "03-0306",
     "kenteken": "KN-302-G",
-    "bezetting": 5,
-    "zitplaatsen": 5
-  },
-  {
-    "roepnummer": "03-0308",
-    "kenteken": "KN-301-G",
     "bezetting": 5,
     "zitplaatsen": 5
   },
@@ -2596,6 +2572,18 @@
     "kenteken": "VT-803-R",
     "bezetting": 2,
     "zitplaatsen": 2
+  },
+  {
+    "roepnummer": "03-9804",
+    "kenteken": "KKZ-33-V",
+    "bezetting": 5,
+    "zitplaatsen": 5
+  },
+  {
+    "roepnummer": "03-9807",
+    "kenteken": "KKZ-34-V",
+    "bezetting": 5,
+    "zitplaatsen": 5
   },
   {
     "roepnummer": "03-8701",
@@ -2762,6 +2750,24 @@
   {
     "roepnummer": "03-8996",
     "kenteken": "KF-127-J",
+    "bezetting": 5,
+    "zitplaatsen": 5
+  },
+  {
+    "roepnummer": "03-9904",
+    "kenteken": "JXL-79-P",
+    "bezetting": 5,
+    "zitplaatsen": 5
+  },
+  {
+    "roepnummer": "03-9905",
+    "kenteken": "KDB-42-D",
+    "bezetting": 5,
+    "zitplaatsen": 5
+  },
+  {
+    "roepnummer": "03-9906",
+    "kenteken": "KDB-41-D",
     "bezetting": 5,
     "zitplaatsen": 5
   },
@@ -3344,12 +3350,6 @@
   {
     "roepnummer": "GEEN",
     "kenteken": "N-039-FZ",
-    "bezetting": 5,
-    "zitplaatsen": 5
-  },
-  {
-    "roepnummer": "GEEN",
-    "kenteken": "N-802-GZ",
     "bezetting": 5,
     "zitplaatsen": 5
   },
@@ -5365,9 +5365,9 @@
   },
   {
     "roepnummer": "06-7302",
-    "kenteken": "6-TFR-97",
+    "kenteken": "ONBEKEND",
     "bezetting": 5,
-    "zitplaatsen": 5
+    "zitplaatsen": null
   },
   {
     "roepnummer": "06-7334",
@@ -6937,7 +6937,7 @@
   },
   {
     "roepnummer": "08-8005",
-    "kenteken": "J-345-DK",
+    "kenteken": "J-346-DK",
     "bezetting": 5,
     "zitplaatsen": 5
   },
