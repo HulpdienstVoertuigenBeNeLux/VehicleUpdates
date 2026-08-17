@@ -1,7 +1,15 @@
 [
   {
     "date": "2026-08-17",
-    "added": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "7",
+        "Description": "07-7005 VW-LO toegevoegd aan Ede Centrum",
+        "Time": "17-08-2026 15:00:23"
+      }
+    ],
     "removed": [],
     "changed": [
       {
@@ -31,6 +39,20 @@
         "Regio": "9",
         "Description": "GEEN: Bijzonderheden van '' naar 'Unimog t.b.v hersporing' aangepast",
         "Time": "17-08-2026 11:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "TD-003: Kenteken van 'ONBEKEND' naar 'V-08-GKN' aangepast",
+        "Time": "17-08-2026 15:00:23"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "23-1469: Bijzonderheden van '' naar 'Tereinvaardig' aangepast",
+        "Time": "17-08-2026 15:00:23"
       }
     ]
   },

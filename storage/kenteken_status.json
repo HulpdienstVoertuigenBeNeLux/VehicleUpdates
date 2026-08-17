@@ -106344,5 +106344,31 @@
     "datum_tenaamstelling_dt": "2022-10-13",
     "last_tenaamstelling_check_date": "2026-08-16",
     "aantal_zitplaatsen": "1"
+  },
+  "BZ-SJ-21": {
+    "expiry": "2027-01-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "07-7005"
+    ],
+    "last_check_date": "2026-08-17",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2013-12-13",
+    "last_tenaamstelling_check_date": "2026-08-17",
+    "aantal_zitplaatsen": "2"
+  },
+  "V-08-GKN": {
+    "expiry": "2027-09-12",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "TD-003"
+    ],
+    "last_check_date": "2026-08-17",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-09-12",
+    "last_tenaamstelling_check_date": "2026-08-17",
+    "aantal_zitplaatsen": "2"
   }
 }
