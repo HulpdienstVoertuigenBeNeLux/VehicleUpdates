@@ -65692,19 +65692,6 @@
     "last_tenaamstelling_check_date": "2026-08-17",
     "aantal_zitplaatsen": "7"
   },
-  "JF-589-B": {
-    "expiry": "2027-03-31",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "25-5504"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-07-30",
-    "last_tenaamstelling_check_date": "2026-08-17",
-    "aantal_zitplaatsen": "5"
-  },
   "36-BDJ-2": {
     "expiry": "2026-08-19",
     "checked": true,
@@ -106370,5 +106357,18 @@
     "datum_tenaamstelling_dt": "2024-09-12",
     "last_tenaamstelling_check_date": "2026-08-17",
     "aantal_zitplaatsen": "2"
+  },
+  "KGV-85-P": {
+    "expiry": "2030-05-18",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "25-5504"
+    ],
+    "last_check_date": "2026-08-18",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-05-18",
+    "last_tenaamstelling_check_date": "2026-08-18",
+    "aantal_zitplaatsen": "8"
   }
 }
