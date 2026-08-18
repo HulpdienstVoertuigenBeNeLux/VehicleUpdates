@@ -66,22 +66,11 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Eelde Airport",
-    "Roepnummer": "03-994",
-    "Afkorting": "MMTL",
-    "TypeVoertuig": "Mobiel medisch team luchtvaartuig",
-    "Kenteken": "PH-MAA",
-    "Bijzonderheden": "Lifeliner 4.",
-    "Hulpdienst": "Ambulance ",
-    "Regio": "3",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Rotterdam Airport",
     "Roepnummer": "17-992",
     "Afkorting": "MMTL",
     "TypeVoertuig": "Mobiel medisch team luchtvaartuig",
-    "Kenteken": "PH-LLN",
+    "Kenteken": "PH-MAA",
     "Bijzonderheden": "Lifeliner 2.",
     "Hulpdienst": "Ambulance ",
     "Regio": "17",
@@ -165,6 +154,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Eelde Airport",
+    "Roepnummer": "03-994",
+    "Afkorting": "MMTL",
+    "TypeVoertuig": "Mobiel medisch team luchtvaartuig",
+    "Kenteken": "PH-HVB",
+    "Bijzonderheden": "Lifeliner 4.",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "3",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Leeuwarden Airport, Keegsdijkje 7",
     "Roepnummer": "",
     "Afkorting": "",
@@ -180,7 +180,7 @@
     "Roepnummer": "Medic 1",
     "Afkorting": "PAL-RA",
     "TypeVoertuig": "Patiëntenvervoer luchtvaartuig regionale ambulancevoorziening",
-    "Kenteken": "PH-HOW",
+    "Kenteken": "PH-OOP",
     "Bijzonderheden": "",
     "Hulpdienst": "Ambulance ",
     "Regio": "2",
@@ -202,8 +202,8 @@
     "Roepnummer": "Medic 2",
     "Afkorting": "PAL-RA",
     "TypeVoertuig": "Patiëntenvervoer luchtvaartuig regionale ambulancevoorziening",
-    "Kenteken": "PH-OOP",
-    "Bijzonderheden": "",
+    "Kenteken": "PH-HOW",
+    "Bijzonderheden": "Reserveluchtvaartuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "25",
     "Interne opmerking": ""
@@ -224,7 +224,29 @@
     "Roepnummer": "GEEN",
     "Afkorting": "MMTL",
     "TypeVoertuig": "Mobiel medisch team luchtvaartuig",
-    "Kenteken": "PH-HVB",
+    "Kenteken": "PH-LLN",
+    "Bijzonderheden": "Reserveluchtvaartuig.",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "25",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lelystad Airport",
+    "Roepnummer": "GEEN",
+    "Afkorting": "MMTL",
+    "TypeVoertuig": "Mobiel medisch team luchtvaartuig",
+    "Kenteken": "PH-HIP",
+    "Bijzonderheden": "Reserveluchtvaartuig.",
+    "Hulpdienst": "Ambulance ",
+    "Regio": "25",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Lelystad Airport",
+    "Roepnummer": "GEEN",
+    "Afkorting": "MMTL",
+    "TypeVoertuig": "Mobiel medisch team luchtvaartuig",
+    "Kenteken": "PH-HLP",
     "Bijzonderheden": "Reserveluchtvaartuig.",
     "Hulpdienst": "Ambulance ",
     "Regio": "25",
@@ -23520,8 +23542,8 @@
   {
     "Adres": "Ede Centrum",
     "Roepnummer": "07-7005",
-    "Afkorting": "VW-LO",
-    "TypeVoertuig": "Vrachtwagen Logistiek",
+    "Afkorting": "LO",
+    "TypeVoertuig": "Logistiek voertuig",
     "Kenteken": "BZ-SJ-21",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -83689,6 +83711,17 @@
   },
   {
     "Adres": "Swifterbant",
+    "Roepnummer": "25-5504",
+    "Afkorting": "DB",
+    "TypeVoertuig": "Dienstbus",
+    "Kenteken": "KGV-85-P",
+    "Bijzonderheden": "Bezetting: 7 personen.",
+    "Hulpdienst": "brandweer ",
+    "Regio": "25",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Swifterbant",
     "Roepnummer": "25-5534",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -83727,17 +83760,6 @@
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "93-BDK-3",
     "Bijzonderheden": "Bezetting: 7 personen.",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "25",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Swifterbant",
-    "Roepnummer": "25-5504",
-    "Afkorting": "DB",
-    "TypeVoertuig": "Dienstbus",
-    "Kenteken": "KGV-85-P",
-    "Bijzonderheden": "Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer ",
     "Regio": "25",
     "Interne opmerking": ""
