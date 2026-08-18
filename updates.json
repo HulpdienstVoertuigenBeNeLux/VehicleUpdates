@@ -22,9 +22,66 @@
         "Regio": "25",
         "Description": "GEEN MMTL toegevoegd aan Lelystad Airport",
         "Time": "18-08-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-84 BMA-OTO toegevoegd aan Regionaal/Dordrecht Leerpark",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-85 BMA-OTO toegevoegd aan Regionaal/Dordrecht Leerpark",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-86 BMA-OTO toegevoegd aan Regionaal/Dordrecht Leerpark",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-87 BMA-OTO toegevoegd aan Regionaal/Dordrecht Leerpark",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-88 BMA-OTO toegevoegd aan Regionaal/Dordrecht Leerpark",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-89 BMA-OTO toegevoegd aan Regionaal/Dordrecht Leerpark",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "6",
+        "Description": "GEEN CMV Berger toegevoegd aan Didam",
+        "Time": "18-08-2026 16:00:16"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "6",
+        "Description": "GEEN CMV Berger verwijderd van Didam",
+        "Time": "18-08-2026 16:00:16"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -130,6 +187,202 @@
         "Regio": "25",
         "Description": "GEEN: Bijzonderheden van 'Reserveluchtvaartuig.' naar 'Lifeliner 4.' aangepast",
         "Time": "18-08-2026 15:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "CVG: Kenteken van 'ONBKEND' naar 'ONBEKEND' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "CVG 1: Kenteken van 'ONBKEND' naar 'ONBEKEND' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-5412: Bijzonderheden van 'Trailer: 18-5414. Tijdelijk in de haven van Oud-Beijerland na ongeluk trekkend voertuig.' naar 'Trailer: 18-5414 (65-WTS-1).' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-5413: Kenteken van 'VR-481-X' naar 'VR-479-X' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-5413: Bijzonderheden van 'Trekker van de 18-5412. Tijdelijk buiten dienst na ongeluk.' naar 'Trekkend voertuig van de 18-5412.' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-6512: Bijzonderheden van '' naar 'Trailer: 18-6511 (90-WR-DD).' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-9481: Kenteken van 'ZK-168-B' naar 'J-405-SK' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-82: Kenteken van 'ONBEKEND' naar '47-WH-TG' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-83: Kenteken van 'ONBEKEND' naar '92-WX-RH' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "23-4111: Kenteken van 'ONBEKEND' naar 'GEEN' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "23-4711: Kenteken van 'ONBEKEND' naar 'GEEN' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "23-5511: Kenteken van 'ONBEKEND' naar 'GEEN' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "'ONBEKEND' omgenummerd naar 'GEEN'",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1",
+        "Description": "01-302: Kenteken van '2-SRD-63' naar 'ONBEKEND' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "4",
+        "Description": "04-104: Kenteken van 'ZT-644-V' naar 'N-017-JL' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "15",
+        "Description": "15-241: Kenteken van 'ONBKEND' naar 'ONBEKEND' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-6604: Adres van 'Dordrecht Leerpark' naar 'Bleskensgraaf' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "'18-6604' omgenummerd naar '18-9481'",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-6604: Afkorting van 'GM' naar 'PC-L' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-6604: TypeVoertuig van 'Gereedschap/materieelvoertuig' naar 'Pelotonscommandant logistiek' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-6604: Bijzonderheden van 'Bezetting: 3 personen.' naar '' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-9686: Adres van 'Regionaal/Dordrecht Leerpark' naar 'Oud-Beijerland' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "'18-9686' omgenummerd naar '18-5413'",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-9686: Afkorting van 'GMT' naar 'ON-BRV' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-9686: TypeVoertuig van 'Gereedschap/materieelvoertuig terreinvaardig' naar 'Ondersteuningsteam brandweervaartuig' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "18-9686: Bijzonderheden van '' naar 'Trekkend voertuig van de 18-5412.' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "23-3207: Adres van 'Venlo' naar 'Weert' aangepast",
+        "Time": "18-08-2026 16:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23",
+        "Description": "'23-3207' omgenummerd naar '23-4403'",
+        "Time": "18-08-2026 16:00:16"
       }
     ]
   },

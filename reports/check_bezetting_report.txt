@@ -1,24 +1,24 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                  : 17053
-  Records met parsebare bezetting : 3350
-  Vergeleken met RDW              : 3106
+  Totaal records                  : 17056
+  Records met parsebare bezetting : 3348
+  Vergeleken met RDW              : 3104
   RDW data ontbreekt              : 244
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 640
+  Bezetting != RDW zitplaatsen    : 639
   Bezetting > RDW zitplaatsen     : 341
-  RDW zitplaatsen > bezetting     : 299
+  RDW zitplaatsen > bezetting     : 298
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
 ------------------------------------------------------------------------------------------
    1 personen : 11
    2 personen : 146
-   3 personen : 45
+   3 personen : 44
    4 personen : 105
-   5 personen : 786
+   5 personen : 785
    6 personen : 262
    7 personen : 1088
    8 personen : 409
@@ -586,7 +586,6 @@
   18-6431      | 56-BGG-7   |         6 |             7
   18-6432      | 12-BGH-5   |         6 |             7
   18-6531      | 93-BVR-5   |         6 |             7
-  18-6604      | J-405-SK   |         3 |             5
   18-6631      | 21-BVX-5   |         6 |             7
   18-6632      | 12-BVL-3   |         6 |             7
   18-6731      | BB-284-T   |         6 |             7
@@ -671,7 +670,7 @@
   23-5180      | V-75-FNZ   |         3 |             5
   23-5401      | KR-983-F   |         7 |             9
   23-5501      | 3-TKS-80   |         7 |             9
-  ONBEKEND     | BZ-TP-56   |         5 |             7
+  GEEN         | BZ-TP-56   |         5 |             7
   24-0902      | 6-KJX-15   |         8 |             9
   24-1502      | 9-KJR-78   |         8 |             9
   24-2131      | 17-BSJ-4   |         6 |             7
