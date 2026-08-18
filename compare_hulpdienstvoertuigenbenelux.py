@@ -15,19 +15,19 @@ REGION_CONFIGS = {
     "NL": {
         "updates_path": "updates.json",
         "local_file": os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_raw.json"),
-        "webhook_env": "DISCORD_WEBHOOK_URL",
+        "webhook_env": "DISCORD_WEBHOOK_URL_NL",
         "discord_username": "[NL] HulpdienstVoertuigenBeNeLux",
     },
     "BE": {
         "updates_path": "updates.json",
         "local_file": os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_be_raw.json"),
-        "webhook_env": "DISCORD_WEBHOOK_URL",
+        "webhook_env": "DISCORD_WEBHOOK_URL_BE",
         "discord_username": "[BE] HulpdienstVoertuigenBeNeLux",
     },
     "LUX": {
         "updates_path": "updates.json",
         "local_file": os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_lux_raw.json"),
-        "webhook_env": "DISCORD_WEBHOOK_URL",
+        "webhook_env": "DISCORD_WEBHOOK_URL_LUX",
         "discord_username": "[LUX] HulpdienstVoertuigenBeNeLux",
     },
 }
