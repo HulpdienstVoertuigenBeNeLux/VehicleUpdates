@@ -57,7 +57,8 @@ def download_json(url: str) -> list:
         ),
         "Accept": "application/json, text/plain, */*",
         "Referer": "https://hulpdienstvoertuigenbenelux.nl/",
-    }
+        "X-API-Key": os.environ.get("SHEET_API_KEY", ""),
+}
 
     retryable_status_codes = {415, 429, 500, 502, 503, 504}
     max_attempts = 4
