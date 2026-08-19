@@ -37,6 +37,7 @@ jobs:
           DISCORD_WEBHOOK_URL_NL: ${{ secrets.DISCORD_WEBHOOK_URL_NL }}
           DISCORD_WEBHOOK_URL_BE: ${{ secrets.DISCORD_WEBHOOK_URL_BE }}
           DISCORD_WEBHOOK_URL_LUX: ${{ secrets.DISCORD_WEBHOOK_URL_LUX }}
+          DISCORD_WEBHOOK_URL_DE: ${{ secrets.DISCORD_WEBHOOK_URL_DE }}
           DISCORD_APK: ${{ secrets.DISCORD_APK }}
           RDW_API_CHANGES_WEBHOOK: ${{ secrets.RDW_API_CHANGES_WEBHOOK }}
           RDW_APP_TOKEN: ${{ secrets.RDW_APP_TOKEN }}

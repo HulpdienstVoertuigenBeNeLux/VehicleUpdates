@@ -30,6 +30,12 @@ REGION_CONFIGS = {
         "webhook_env": "DISCORD_WEBHOOK_URL_LUX",
         "discord_username": "[LUX] HulpdienstVoertuigenBeNeLux",
     },
+    "DE": {
+        "updates_path": "updates_DE.json",
+        "local_file": os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_de_raw.json"),
+        "webhook_env": "DISCORD_WEBHOOK_URL_DE",
+        "discord_username": "[DE] HulpdienstVoertuigenBeNeLux",
+    },
 }
 
 
