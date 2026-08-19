@@ -45849,17 +45849,6 @@
   },
   {
     "Adres": "Dour   ",
-    "Roepnummer": "VL24",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel / Materiaal Voertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Dour   ",
     "Roepnummer": "LG35",
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel / Materiaal Voertuig",
@@ -46805,17 +46794,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Mons   ",
-    "Roepnummer": "C24",
-    "Afkorting": "TW",
-    "TypeVoertuig": "Tankwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "",
     "Roepnummer": "C26",
     "Afkorting": "TW",
@@ -46824,28 +46802,6 @@
     "Bijzonderheden": "",
     "Hulpdienst": "",
     "Regio": "",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Mons   ",
-    "Roepnummer": "C26",
-    "Afkorting": "TW",
-    "TypeVoertuig": "Tankwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Mons   ",
-    "Roepnummer": "AE15",
-    "Afkorting": "LW 32",
-    "TypeVoertuig": "Ladderwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
     "Interne opmerking": ""
   },
   {
@@ -47663,28 +47619,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "",
-    "Roepnummer": "LG52",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel / Materiaal Voertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Saint-Ghislain  ",
-    "Roepnummer": "BL16",
-    "Afkorting": "SIG",
-    "TypeVoertuig": "Singnalisatievoertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Saint-Ghislain  ",
     "Roepnummer": "BL16",
     "Afkorting": "SIG",
@@ -47708,42 +47642,9 @@
   },
   {
     "Adres": "Saint-Ghislain  ",
-    "Roepnummer": "VC30",
-    "Afkorting": "CO",
-    "TypeVoertuig": "Commandovoertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Saint-Ghislain  ",
     "Roepnummer": "SO1",
     "Afkorting": "CO",
     "TypeVoertuig": "Commandovoertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Saint-Ghislain  ",
-    "Roepnummer": "SO1",
-    "Afkorting": "CO",
-    "TypeVoertuig": "Commandovoertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer ",
-    "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Saint-Ghislain  ",
-    "Roepnummer": "",
-    "Afkorting": "MTA",
-    "TypeVoertuig": "Monitor op aanhangwagen",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer ",
@@ -92276,6 +92177,105 @@
     "Bijzonderheden": "Uitkijkpost met 1 bootje ",
     "Hulpdienst": "Reddingsbrigade ",
     "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Dour   ",
+    "Roepnummer": "VL24",
+    "Afkorting": "PM",
+    "TypeVoertuig": "Personeel / Materiaal Voertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Mons   ",
+    "Roepnummer": "C24",
+    "Afkorting": "TW",
+    "TypeVoertuig": "Tankwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Mons   ",
+    "Roepnummer": "C26",
+    "Afkorting": "TW",
+    "TypeVoertuig": "Tankwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Mons   ",
+    "Roepnummer": "AE15",
+    "Afkorting": "LW 32",
+    "TypeVoertuig": "Ladderwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "LG52",
+    "Afkorting": "PM",
+    "TypeVoertuig": "Personeel / Materiaal Voertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Saint-Ghislain  ",
+    "Roepnummer": "BL16",
+    "Afkorting": "SIG",
+    "TypeVoertuig": "Singnalisatievoertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Saint-Ghislain  ",
+    "Roepnummer": "VC30",
+    "Afkorting": "CO",
+    "TypeVoertuig": "Commandovoertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Saint-Ghislain  ",
+    "Roepnummer": "SO1",
+    "Afkorting": "CO",
+    "TypeVoertuig": "Commandovoertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Saint-Ghislain  ",
+    "Roepnummer": "",
+    "Afkorting": "MTA",
+    "TypeVoertuig": "Monitor op aanhangwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer ",
+    "Regio": "Henegouwen",
     "Interne opmerking": ""
   }
 ]
