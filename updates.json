@@ -8,9 +8,24 @@
         "Regio": "",
         "Description": "GEEN ZSC toegevoegd aan Babberich",
         "Time": "19-08-2026 00:00:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rijkswaterstaat",
+        "Regio": "ON-RWS",
+        "Description": "GEEN ZSC toegevoegd aan Babberich",
+        "Time": "19-08-2026 11:02:35"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN ZSC verwijderd van Babberich",
+        "Time": "19-08-2026 11:02:35"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -18,6 +33,27 @@
         "Regio": "14",
         "Description": "'09-0160' omgenummerd naar '90-0160'",
         "Time": "19-08-2026 01:00:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen",
+        "Description": ": Afkorting van 'BMA' naar 'MTA' aangepast",
+        "Time": "19-08-2026 11:02:43"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen",
+        "Description": ": TypeVoertuig van 'Bijzondere Materialen Aanhanger' naar 'Monitor op aanhangwagen' aangepast",
+        "Time": "19-08-2026 11:02:43"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen",
+        "Description": ": Bijzonderheden van 'Tenten Aanhanger' naar '' aangepast",
+        "Time": "19-08-2026 11:02:43"
       }
     ]
   },
