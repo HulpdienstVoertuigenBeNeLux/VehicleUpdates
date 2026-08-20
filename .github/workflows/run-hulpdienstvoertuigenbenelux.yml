@@ -47,6 +47,8 @@ jobs:
           python rdw_checker.py
           python extra_scripts/poll_inrichting.py
           python check_duplicates.py
+          python fetch_brandstof.py
+          python combine_data.py
 
       - name: Commit and push changes
         run: |
