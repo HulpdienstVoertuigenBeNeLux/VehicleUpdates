@@ -6,7 +6,7 @@ import requests
 STORAGE_DIR = "storage"
 RDW_RAW_FILE = os.path.join(STORAGE_DIR, "rdw_raw.json")
 BRANDSTOF_FILE = os.path.join(STORAGE_DIR, "rdw_brandstof.json")
-MAX_CHECKS = 500
+MAX_CHECKS = 100
 RDW_REQUEST_TIMEOUT_SECONDS = int(os.getenv("RDW_REQUEST_TIMEOUT_SECONDS", "6"))
 
 
