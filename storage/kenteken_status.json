@@ -18380,18 +18380,6 @@
     "last_tenaamstelling_check_date": "2026-08-16",
     "aantal_zitplaatsen": "8"
   },
-  "V-584-NS": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "07-1572"
-    ],
-    "last_check_date": "2026-08-16",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-16"
-  },
   "13-WN-RR": {
     "expiry": "None",
     "checked": true,
@@ -20052,18 +20040,6 @@
     "datum_tenaamstelling_dt": "2019-04-02",
     "last_tenaamstelling_check_date": "2026-08-16",
     "aantal_zitplaatsen": null
-  },
-  "V-583-NS": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "07-4372"
-    ],
-    "last_check_date": "2026-08-16",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-16"
   },
   "99-WN-RP": {
     "expiry": "None",
@@ -106442,5 +106418,31 @@
     "datum_tenaamstelling_dt": "2025-09-23",
     "last_tenaamstelling_check_date": "2026-08-21",
     "aantal_zitplaatsen": "5"
+  },
+  "89-BNN-7": {
+    "expiry": "2027-06-17",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "07-1572"
+    ],
+    "last_check_date": "2026-08-21",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2019-07-08",
+    "last_tenaamstelling_check_date": "2026-08-21",
+    "aantal_zitplaatsen": "7"
+  },
+  "65-BNN-7": {
+    "expiry": "2027-06-11",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "07-4372"
+    ],
+    "last_check_date": "2026-08-21",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2019-07-08",
+    "last_tenaamstelling_check_date": "2026-08-21",
+    "aantal_zitplaatsen": "7"
   }
 }
