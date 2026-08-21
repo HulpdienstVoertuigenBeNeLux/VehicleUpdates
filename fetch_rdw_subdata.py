@@ -7,6 +7,7 @@ STORAGE_DIR = "storage"
 RDW_RAW_FILE = os.path.join(STORAGE_DIR, "rdw_raw.json")
 MAX_CHECKS = 100
 RDW_REQUEST_TIMEOUT_SECONDS = int(os.getenv("RDW_REQUEST_TIMEOUT_SECONDS", "6"))
+RDW_APP_TOKEN = os.getenv("RDW_APP_TOKEN")  # Haalt het token uit GitHub Secrets
 
 API_ENDPOINTS = {
     "brandstof": {
@@ -49,7 +50,6 @@ def save_json(filepath, data):
 
 
 def extract_kentekens(raw_data):
-    """Haalt alle unieke kentekens op uit rdw_raw.json."""
     kentekens = []
     if isinstance(raw_data, dict):
         for key, val in raw_data.items():
@@ -73,26 +73,30 @@ def extract_kentekens(raw_data):
 def fetch_api_data(endpoint_pattern, kenteken):
     clean_kenteken = kenteken.replace("-", "").upper()
     url = endpoint_pattern.format(kenteken=clean_kenteken)
+    
+    headers = {}
+    if RDW_APP_TOKEN:
+        headers["X-App-Token"] = RDW_APP_TOKEN
+
     try:
-        response = requests.get(url, timeout=RDW_REQUEST_TIMEOUT_SECONDS)
+        response = requests.get(url, headers=headers, timeout=RDW_REQUEST_TIMEOUT_SECONDS)
         if response.status_code == 200:
             return response.json()
         return []
     except requests.RequestException as e:
-        print(f"  Fout bij API-call op {url}: {e}")
+        print(f"  Fout bij API-call op {url}: {e}", flush=True)
         return []
 
 
 def run():
     raw_data = load_json(RDW_RAW_FILE)
     if not raw_data:
-        print(f"Kan {RDW_RAW_FILE} niet vinden of het bestand is leeg.")
+        print(f"Kan {RDW_RAW_FILE} niet vinden of het bestand is leeg.", flush=True)
         return
 
     all_kentekens = extract_kentekens(raw_data)
-    print(f"Totaal {len(all_kentekens)} unieke kentekens gevonden in {RDW_RAW_FILE}.")
+    print(f"Totaal {len(all_kentekens)} unieke kentekens gevonden in {RDW_RAW_FILE}.", flush=True)
 
-    # Laad bestaande data van de 5 bestanden
     data_stores = {}
     verwerkte_kentekens_per_api = {}
 
@@ -106,7 +110,6 @@ def run():
                 verwerkt.add(item["kenteken"])
         verwerkte_kentekens_per_api[key] = verwerkt
 
-    # Bepaal welke kentekens in TENMINSTE ÉÉN van de 5 API's nog ontbreken
     te_verwerken = []
     for k in all_kentekens:
         if any(k not in verwerkte_kentekens_per_api[api_key] for api_key in API_ENDPOINTS):
@@ -115,13 +118,13 @@ def run():
     te_verwerken = te_verwerken[:MAX_CHECKS]
 
     if not te_verwerken:
-        print("Alle kentekens zijn voor alle 5 de RDW sub-bestanden al volledig opgehaald!")
+        print("Alle kentekens zijn voor alle 5 de RDW sub-bestanden al volledig opgehaald!", flush=True)
         return
 
-    print(f"Start batch van {len(te_verwerken)} kentekens voor alle 5 sub-API's...")
+    print(f"Start batch van {len(te_verwerken)} kentekens voor alle 5 sub-API's...", flush=True)
 
     for idx, kenteken in enumerate(te_verwerken, 1):
-        print(f"[{idx}/{len(te_verwerken)}] Ophalen data voor kenteken: {kenteken}...")
+        print(f"[{idx}/{len(te_verwerken)}] Ophalen data voor kenteken: {kenteken}...", flush=True)
 
         for api_key, info in API_ENDPOINTS.items():
             if kenteken not in verwerkte_kentekens_per_api[api_key]:
@@ -132,19 +135,17 @@ def run():
                             res["kenteken"] = kenteken
                         data_stores[api_key].append(res)
                 else:
-                    # Registreer een leeg record als de RDW geen gegevens heeft
                     data_stores[api_key].append({"kenteken": kenteken, "no_data": True})
 
                 verwerkte_kentekens_per_api[api_key].add(kenteken)
 
-        time.sleep(0.1)
+        time.sleep(0.05)
 
-    # Sla alle 5 de JSON bestanden op in /storage
     for api_key, info in API_ENDPOINTS.items():
         save_json(info["file"], data_stores[api_key])
-        print(f"Opgeslagen: {info['file']} ({len(data_stores[api_key])} records)")
+        print(f"Opgeslagen: {info['file']} ({len(data_stores[api_key])} records)", flush=True)
 
-    print(f"\nKlaar! Batch van {len(te_verwerken)} kentekens verwerkt.")
+    print(f"\nKlaar! Batch van {len(te_verwerken)} kentekens verwerkt.", flush=True)
 
 
 if __name__ == "__main__":
