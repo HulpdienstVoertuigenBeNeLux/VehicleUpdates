@@ -29,9 +29,15 @@ def run():
         return
 
     brandstof_list = load_json(BRANDSTOF_FILE) or []
-    brandstof_map = {item["kenteken"]: item.get("brandstof_omschrijving") for item in brandstof_list if isinstance(item, dict) and "kenteken" in item}
 
-    # Zet raw_data om naar een uniforme lijst van voertuig-dicts
+    brandstof_map = {}
+    for item in brandstof_list:
+        if isinstance(item, dict) and "kenteken" in item:
+            k = item["kenteken"]
+            if k not in brandstof_map and "brandstof_omschrijving" in item:
+                brandstof_map[k] = item["brandstof_omschrijving"]
+
+    # Converteer raw_data naar lijst
     voertuigen = []
     if isinstance(raw_data, dict):
         for key, val in raw_data.items():
