@@ -5,6 +5,7 @@ import time
 from datetime import datetime
 
 import requests
+import fetch_rdw_subdata
 from extra_scripts import rdw_export_notifier
 from extra_scripts import rdw_raw_store
 
@@ -241,6 +242,7 @@ def run(max_checks: int | None = None) -> int:
             continue
 
         rdw_raw_store.upsert_record(record, fallback_kenteken=kenteken)
+        fetch_rdw_subdata.update_kenteken(kenteken)
 
         entry["aantal_zitplaatsen"] = normalize_aantal_zitplaatsen(
             record.get("aantal_zitplaatsen")
@@ -269,6 +271,7 @@ def run(max_checks: int | None = None) -> int:
 
     save_status(status)
     rdw_raw_store.flush()
+    fetch_rdw_subdata.flush()
     print("Controle voltooid.")
     return processed_checks
 

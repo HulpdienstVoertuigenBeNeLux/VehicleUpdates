@@ -1,3 +1,4 @@
+import atexit
 import os
 import json
 import time
@@ -8,6 +9,7 @@ RDW_RAW_FILE = os.path.join(STORAGE_DIR, "rdw_raw.json")
 MAX_CHECKS = 100
 RDW_REQUEST_TIMEOUT_SECONDS = int(os.getenv("RDW_REQUEST_TIMEOUT_SECONDS", "6"))
 RDW_APP_TOKEN = os.getenv("RDW_APP_TOKEN")  # Haalt het token uit GitHub Secrets
+SAVE_EVERY_UPDATES = int(os.getenv("RDW_SUBDATA_SAVE_EVERY", "20"))
 
 API_ENDPOINTS = {
     "brandstof": {
@@ -88,7 +90,73 @@ def fetch_api_data(endpoint_pattern, kenteken):
         return []
 
 
+# In-memory cache: api_key -> {kenteken: [records]}
+_cache = {}
+_loaded_apis = set()
+_dirty_apis = set()
+_dirty_updates = 0
+
+
+def _load_store(api_key):
+    if api_key in _loaded_apis:
+        return
+    info = API_ENDPOINTS[api_key]
+    existing = load_json(info["file"]) or []
+    grouped = {}
+    for item in existing:
+        if isinstance(item, dict) and "kenteken" in item:
+            grouped.setdefault(item["kenteken"], []).append(item)
+    _cache[api_key] = grouped
+    _loaded_apis.add(api_key)
+
+
+def _save_store(api_key):
+    info = API_ENDPOINTS[api_key]
+    records = []
+    for kenteken in sorted(_cache[api_key].keys()):
+        records.extend(_cache[api_key][kenteken])
+    save_json(info["file"], records)
+
+
+def update_kenteken(kenteken):
+    """Fetch fresh sub-data for a single kenteken and refresh it across all sub-API stores."""
+    global _dirty_updates
+
+    kenteken = str(kenteken or "").strip()
+    if not kenteken:
+        return
+
+    for api_key, info in API_ENDPOINTS.items():
+        _load_store(api_key)
+        results = fetch_api_data(info["url"], kenteken)
+        if results:
+            for res in results:
+                if "kenteken" not in res:
+                    res["kenteken"] = kenteken
+            _cache[api_key][kenteken] = results
+        else:
+            _cache[api_key][kenteken] = [{"kenteken": kenteken, "no_data": True}]
+        _dirty_apis.add(api_key)
+
+    _dirty_updates += 1
+    if _dirty_updates >= max(1, SAVE_EVERY_UPDATES):
+        flush()
+
+
+def flush():
+    """Persist any pending sub-data updates to disk."""
+    global _dirty_updates
+    for api_key in list(_dirty_apis):
+        _save_store(api_key)
+    _dirty_apis.clear()
+    _dirty_updates = 0
+
+
+atexit.register(flush)
+
+
 def run():
+    """Bulk-fill sub-data for any kenteken in rdw_raw.json missing from one or more sub-files."""
     raw_data = load_json(RDW_RAW_FILE)
     if not raw_data:
         print(f"Kan {RDW_RAW_FILE} niet vinden of het bestand is leeg.", flush=True)
@@ -97,24 +165,13 @@ def run():
     all_kentekens = extract_kentekens(raw_data)
     print(f"Totaal {len(all_kentekens)} unieke kentekens gevonden in {RDW_RAW_FILE}.", flush=True)
 
-    data_stores = {}
-    verwerkte_kentekens_per_api = {}
+    for api_key in API_ENDPOINTS:
+        _load_store(api_key)
 
-    for key, info in API_ENDPOINTS.items():
-        existing_content = load_json(info["file"]) or []
-        data_stores[key] = existing_content
-
-        verwerkt = set()
-        for item in existing_content:
-            if isinstance(item, dict) and "kenteken" in item:
-                verwerkt.add(item["kenteken"])
-        verwerkte_kentekens_per_api[key] = verwerkt
-
-    te_verwerken = []
-    for k in all_kentekens:
-        if any(k not in verwerkte_kentekens_per_api[api_key] for api_key in API_ENDPOINTS):
-            te_verwerken.append(k)
-
+    te_verwerken = [
+        k for k in all_kentekens
+        if any(k not in _cache[api_key] for api_key in API_ENDPOINTS)
+    ]
     te_verwerken = te_verwerken[:MAX_CHECKS]
 
     if not te_verwerken:
@@ -127,23 +184,22 @@ def run():
         print(f"[{idx}/{len(te_verwerken)}] Ophalen data voor kenteken: {kenteken}...", flush=True)
 
         for api_key, info in API_ENDPOINTS.items():
-            if kenteken not in verwerkte_kentekens_per_api[api_key]:
+            if kenteken not in _cache[api_key]:
                 results = fetch_api_data(info["url"], kenteken)
                 if results:
                     for res in results:
                         if "kenteken" not in res:
                             res["kenteken"] = kenteken
-                        data_stores[api_key].append(res)
+                    _cache[api_key][kenteken] = results
                 else:
-                    data_stores[api_key].append({"kenteken": kenteken, "no_data": True})
-
-                verwerkte_kentekens_per_api[api_key].add(kenteken)
+                    _cache[api_key][kenteken] = [{"kenteken": kenteken, "no_data": True}]
+                _dirty_apis.add(api_key)
 
         time.sleep(0.05)
 
+    flush()
     for api_key, info in API_ENDPOINTS.items():
-        save_json(info["file"], data_stores[api_key])
-        print(f"Opgeslagen: {info['file']} ({len(data_stores[api_key])} records)", flush=True)
+        print(f"Opgeslagen: {info['file']} ({sum(len(v) for v in _cache[api_key].values())} records)", flush=True)
 
     print(f"\nKlaar! Batch van {len(te_verwerken)} kentekens verwerkt.", flush=True)
 

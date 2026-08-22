@@ -6,6 +6,7 @@ import os
 import shutil
 
 import check_tenaamstelling_changes
+import fetch_rdw_subdata
 from extra_scripts import rdw_export_notifier
 from extra_scripts import rdw_raw_store
 
@@ -230,6 +231,7 @@ def run(max_checks=None):
             source="APK check",
             roepnummer=", ".join(roepnummers) if roepnummers else None,
         )
+        fetch_rdw_subdata.update_kenteken(kenteken)
 
         stored_tenaamstelling = check_tenaamstelling_changes.normalize_tenaamstelling(
             status[kenteken].get("datum_tenaamstelling_dt")
@@ -310,6 +312,7 @@ def run(max_checks=None):
                 status[kenteken]["last_expired_notification_date"] = None
     save_kenteken_status(status)
     rdw_raw_store.flush()
+    fetch_rdw_subdata.flush()
 
     # Always write a fresh, deduplicated, up-to-date report, excluding unchecked kentekens
     expired_lines = []
