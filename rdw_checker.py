@@ -4,7 +4,7 @@ import time
 from extra_scripts import check_bezetting
 from extra_scripts import cleanup
 
-MAX_RDW_CHECKS_PER_RUN = 500
+MAX_RDW_CHECKS_PER_RUN = 100
 
 
 def _format_duration(seconds: float) -> str:
