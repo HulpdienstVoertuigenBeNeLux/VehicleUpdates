@@ -1,9 +1,180 @@
 [
   {
     "date": "2026-08-23",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg",
+        "Description": "M151 LBC toegevoegd aan Hasselt",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg",
+        "Description": "M153 LBC toegevoegd aan Hasselt",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg",
+        "Description": "M197 ZZC toegevoegd aan Hasselt",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg",
+        "Description": "L70 BM toegevoegd aan Hasselt",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "EV301 LW 24 toegevoegd aan Hamoir",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "EV302 LW 24 toegevoegd aan Hamoir",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "B301 SH toegevoegd aan Hamoir",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "PV326 PM toegevoegd aan Hamoir",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "V332 PM toegevoegd aan Hamoir",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "D303 SIG toegevoegd aan Hamoir",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "VC312 CO toegevoegd aan Hamoir",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "V408  toegevoegd aan Herve",
+        "Time": "23-08-2026 15:00:39"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "P304 HZA verwijderd van Hamoir",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "V408 PM verwijderd van Wervik",
+        "Time": "23-08-2026 15:00:39"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-8094: Kenteken van 'JZ-912-S' naar 'ONBEKEND' aangepast",
+        "Time": "23-08-2026 15:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-9703: Kenteken van 'V-53-PPL' naar 'V-853-BB' aangepast",
+        "Time": "23-08-2026 15:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-8194: Kenteken van 'JX-611-N' naar 'ONBEKEND' aangepast",
+        "Time": "23-08-2026 15:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6",
+        "Description": "06-2901: Kenteken van 'ONBEKEND' naar 'JTP-19-H' aangepast",
+        "Time": "23-08-2026 15:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12",
+        "Description": "12-3011: Kenteken van 'ONBEKEND' naar '59-83-YT' aangepast",
+        "Time": "23-08-2026 15:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "16",
+        "Description": "36-3530: Kenteken van 'Onbekend' naar 'T-413-KH' aangepast",
+        "Time": "23-08-2026 15:00:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "A102: Adres van 'Middelkerke' naar 'Antwerpen-Noord' aangepast",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "A102: Afkorting van 'HZA' naar 'HA-KR' aangepast",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "A102: TypeVoertuig van 'Halfzware Autopomp' naar 'Haakarmvoertuig (Met kraan)' aangepast",
+        "Time": "23-08-2026 15:00:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "A112: Adres van 'De Haan-Wenduine' naar 'Middelkerke' aangepast",
+        "Time": "23-08-2026 15:00:39"
+      }
+    ]
   },
   {
     "date": "2026-08-22",

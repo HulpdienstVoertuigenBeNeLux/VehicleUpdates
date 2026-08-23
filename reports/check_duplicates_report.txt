@@ -72,10 +72,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,864  (of 8,312 total)
+  Records checked : 6,869  (of 8,318 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  533 value(s) affected
+  Duplicate Roepnummer  --  535 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -678,16 +678,6 @@
       Roepnummer  : A101
       Kenteken    : 
 
-  >> 'A102'  (2x)
-      Adres       : Antwerpen-Noord
-      Hulpdienst  : Brandweer
-      Roepnummer  : A102
-      Kenteken    : 
-      Adres       : Middelkerke
-      Hulpdienst  : Brandweer
-      Roepnummer  : A102
-      Kenteken    : 
-
   >> 'A103'  (2x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
@@ -750,12 +740,16 @@
       Roepnummer  : A111
       Kenteken    : 
 
-  >> 'A112'  (2x)
+  >> 'A112'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A112
       Kenteken    : 
       Adres       : De Haan-Wenduine
+      Hulpdienst  : Brandweer
+      Roepnummer  : A112
+      Kenteken    : 
+      Adres       : Middelkerke
       Hulpdienst  : Brandweer
       Roepnummer  : A112
       Kenteken    : 
@@ -3438,12 +3432,8 @@
       Roepnummer  : E21
       Kenteken    : 
 
-  >> 'E301'  (3x)
+  >> 'E301'  (2x)
       Adres       : Kuurne
-      Hulpdienst  : Brandweer
-      Roepnummer  : E301
-      Kenteken    : 
-      Adres       : Hamoir
       Hulpdienst  : Brandweer
       Roepnummer  : E301
       Kenteken    : 
@@ -4406,6 +4396,16 @@
       Roepnummer  : M105
       Kenteken    : 
 
+  >> 'M109'  (2x)
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : M109
+      Kenteken    : 
+      Adres       : Gistel
+      Hulpdienst  : Brandweer
+      Roepnummer  : M109
+      Kenteken    : 
+
   >> 'M11'  (5x)
       Adres       : Bree
       Hulpdienst  : Brandweer
@@ -4640,6 +4640,16 @@
       Adres       : Maldegem
       Hulpdienst  : Brandweer
       Roepnummer  : M61
+      Kenteken    : 
+
+  >> 'M65'  (2x)
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : M65
+      Kenteken    : 
+      Adres       : Vilvoorde
+      Hulpdienst  : Brandweer
+      Roepnummer  : M65
       Kenteken    : 
 
   >> 'M81'  (3x)
@@ -5088,6 +5098,16 @@
       Roepnummer  : P30
       Kenteken    : 
 
+  >> 'P301'  (2x)
+      Adres       : Hamoir
+      Hulpdienst  : Brandweer
+      Roepnummer  : P301
+      Kenteken    : 
+      Adres       : Huy
+      Hulpdienst  : Brandweer
+      Roepnummer  : P301
+      Kenteken    : 
+
   >> 'P31'  (4x)
       Adres       : Lennik
       Hulpdienst  : Brandweer
@@ -5120,7 +5140,11 @@
       Roepnummer  : P32
       Kenteken    : 
 
-  >> 'P33'  (3x)
+  >> 'P33'  (4x)
+      Adres       : Lennik
+      Hulpdienst  : Brandweer
+      Roepnummer  : P33
+      Kenteken    : 
       Adres       : Opwijk
       Hulpdienst  : Brandweer
       Roepnummer  : P33
