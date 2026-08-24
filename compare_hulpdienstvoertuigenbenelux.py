@@ -52,6 +52,8 @@ def ensure_raw_file_path(path: str) -> str:
 def save_raw_sheet(region: str, data: Any) -> None:
     os.makedirs(RAW_SHEETS_DIR, exist_ok=True)
     raw_sheet_path = os.path.join(RAW_SHEETS_DIR, f"{region}.json")
+    if isinstance(data, dict) and "_cachedAt" in data:
+        data = {k: v for k, v in data.items() if k != "_cachedAt"}
     with open(raw_sheet_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
