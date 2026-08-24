@@ -9,6 +9,7 @@ import time
 
 
 RAW_DIR = "raw"
+RAW_SHEETS_DIR = os.path.join(RAW_DIR, "sheets")
 
 
 REGION_CONFIGS = {
@@ -48,7 +49,14 @@ def ensure_raw_file_path(path: str) -> str:
         shutil.move(root_path, raw_path)
     return raw_path
 
-def download_json(url: str) -> list:
+def save_raw_sheet(region: str, data: Any) -> None:
+    os.makedirs(RAW_SHEETS_DIR, exist_ok=True)
+    raw_sheet_path = os.path.join(RAW_SHEETS_DIR, f"{region}.json")
+    with open(raw_sheet_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def download_json(url: str, region: Optional[str] = None) -> list:
     headers = {
         # Some hosting layers reject non-browser clients unless common headers are present.
         "User-Agent": (
@@ -96,6 +104,9 @@ def download_json(url: str) -> list:
 
     if data is None:
         raise RuntimeError(f"Failed to download JSON after {max_attempts} attempts: {url}")
+
+    if region:
+        save_raw_sheet(region, data)
 
     # Support both spreadsheet-style payloads ({"values": [[...], ...]}) and
     # direct list payloads from fallback/proxy responses.
@@ -463,7 +474,7 @@ def run_region(region: str) -> None:
 
     print("Downloading latest JSON...")
     try:
-        new_json = download_json(url)
+        new_json = download_json(url, region)
     except (requests.RequestException, RuntimeError, ValueError) as exc:
         print(f"Failed to download or parse online JSON for region {region}: {exc}")
         print("Skipping this region for now so the workflow can continue.")
