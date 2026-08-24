@@ -72,10 +72,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,869  (of 8,318 total)
+  Records checked : 6,870  (of 8,319 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  535 value(s) affected
+  Duplicate Roepnummer  --  536 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -1230,6 +1230,16 @@
       Adres       : Aalter
       Hulpdienst  : Brandweer
       Roepnummer  : A44
+      Kenteken    : 
+
+  >> 'A49'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A49
+      Kenteken    : 
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A49
       Kenteken    : 
 
   >> 'A5'  (2x)
