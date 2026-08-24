@@ -72,10 +72,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,870  (of 8,319 total)
+  Records checked : 6,871  (of 8,319 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  536 value(s) affected
+  Duplicate Roepnummer  --  537 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -7246,6 +7246,16 @@
       Adres       : Verviers
       Hulpdienst  : Brandweer
       Roepnummer  : V407
+      Kenteken    : 
+
+  >> 'V408'  (2x)
+      Adres       : Wervik
+      Hulpdienst  : Brandweer
+      Roepnummer  : V408
+      Kenteken    : 
+      Adres       : Herve
+      Hulpdienst  : Brandweer
+      Roepnummer  : V408
       Kenteken    : 
 
   >> 'V409'  (2x)

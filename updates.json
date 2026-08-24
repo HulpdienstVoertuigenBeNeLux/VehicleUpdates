@@ -1,8 +1,24 @@
 [
   {
     "date": "2026-08-24",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "V408 PM toegevoegd aan Herve",
+        "Time": "24-08-2026 12:00:18"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "V408  verwijderd van Herve",
+        "Time": "24-08-2026 12:00:18"
+      }
+    ],
     "changed": [
       {
         "Land": "BE",
