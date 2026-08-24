@@ -1,9 +1,131 @@
 [
   {
     "date": "2026-08-24",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "LKW-DekonP Type Error toegevoegd aan (FRW) Stadt Bremerhaven",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "FwA-PLF Anhänger Pulver toegevoegd aan (FRW) Stadt Bremen-West",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "GW-SLM Gerätewagen Sonderlöschmittel toegevoegd aan (FRW) Stadt Bremen-Nord",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "BT-LKW Type Error toegevoegd aan (FRW) Stadt Bremerhaven",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Celle",
+        "Regio": "",
+        "Description": "DekonP Dekontamination Personen toegevoegd aan Feuerwehr Celle",
+        "Time": "24-08-2026 14:00:17"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "FwA Pulver Anhänger Pulver verwijderd van (FRW) Stadt Bremen-West",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "GW-Logistik GPZ Type Error verwijderd van (FRW) Stadt Bremen-Nord",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "GW-Sonder Type Error verwijderd van (FRW) Stadt Bremen-Nord",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "GW-Instandsetzung/Werkstatt Type Error verwijderd van (FRW) Stadt Bremen",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "Tausch) (rot) Type Error verwijderd van (FRW) Bremen",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "Verlegungs-RTW Type Error verwijderd van (FRW) Bremen",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "GW-L (PSA) Type Error verwijderd van (FRW) Stadt Bremen",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "BetrLKW Type Error verwijderd van (FRW) Stadt Bremerhaven",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "DEKONP Dekontamination Personen verwijderd van (FRW) Stadt Bremerhaven",
+        "Time": "24-08-2026 14:00:17"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "GW-L: DE Afkorting van 'Florian Bremen 04/18-01' naar 'Florian Bremen 04/18-04' aangepast",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "GW-L: Afkorting van 'Gerätewagen Logistik' naar 'Type Error' aangepast",
+        "Time": "24-08-2026 14:00:17"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "GW-San: Afkorting van 'Gerätewagen San' naar 'Gerätewagen Sanitätsdienst' aangepast",
+        "Time": "24-08-2026 14:00:17"
+      }
+    ]
   },
   {
     "date": "2026-08-23",
