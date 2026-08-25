@@ -1,15 +1,15 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                  : 17081
+  Totaal records                  : 17079
   Records met parsebare bezetting : 3349
   Vergeleken met RDW              : 3102
   RDW data ontbreekt              : 247
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 639
+  Bezetting != RDW zitplaatsen    : 640
   Bezetting > RDW zitplaatsen     : 341
-  RDW zitplaatsen > bezetting     : 298
+  RDW zitplaatsen > bezetting     : 299
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
@@ -509,6 +509,7 @@
   B47          | VG-699-P   |         2 |             7
   13-4301      | HST-44-L   |         7 |             9
   13-4502      | HST-41-L   |         8 |             9
+  13-8101      | GK-454-S   |         6 |             8
   13-8801      | P-755-BS   |         6 |             8
   13-8831      | 54-BPL-1   |         6 |             7
   13-9303      | X-069-GR   |         5 |             7

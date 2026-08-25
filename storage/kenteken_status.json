@@ -34948,19 +34948,6 @@
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-08-24"
   },
-  "65-BR-ZJ": {
-    "expiry": "2027-03-31",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "13-8101"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-05-22",
-    "last_tenaamstelling_check_date": "2026-08-24",
-    "aantal_zitplaatsen": "6"
-  },
   "P-755-BS": {
     "expiry": "2027-02-16",
     "checked": true,
@@ -94878,36 +94865,12 @@
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-08-24"
   },
-  "PH-HVB": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "03-994"
-    ],
-    "last_check_date": "2026-08-21",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-24"
-  },
   "PH-UMC": {
     "expiry": null,
     "checked": true,
     "unknown": true,
     "roepnummers": [
       "08-993"
-    ],
-    "last_check_date": "2026-08-21",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-24"
-  },
-  "PH-MAA": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "17-992"
     ],
     "last_check_date": "2026-08-21",
     "last_expired_notification_date": null,
@@ -106205,7 +106168,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "GEEN"
+      "17-992"
     ],
     "last_check_date": "2026-08-25",
     "last_expired_notification_date": null,
@@ -106217,6 +106180,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
+      "03-994",
       "GEEN"
     ],
     "last_check_date": "2026-08-25",
@@ -106469,5 +106433,18 @@
     "datum_tenaamstelling_dt": "2023-06-30",
     "last_tenaamstelling_check_date": "2026-08-23",
     "aantal_zitplaatsen": "5"
+  },
+  "GK-454-S": {
+    "expiry": "2026-10-06",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "13-8101"
+    ],
+    "last_check_date": "2026-08-25",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-05-19",
+    "last_tenaamstelling_check_date": "2026-08-25",
+    "aantal_zitplaatsen": "8"
   }
 }

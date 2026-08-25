@@ -2,8 +2,59 @@
   {
     "date": "2026-08-25",
     "added": [],
-    "removed": [],
-    "changed": []
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "ON44 Politiepost Klein, Anrhem-Noord  verwijderd van Anrhem",
+        "Time": "25-08-2026 14:00:15"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-992: Kenteken van 'PH-MAA' naar 'PH-HIP' aangepast",
+        "Time": "25-08-2026 14:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3",
+        "Description": "03-994: Kenteken van 'PH-HVB' naar 'PH-HLP' aangepast",
+        "Time": "25-08-2026 14:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13",
+        "Description": "13-8101: Kenteken van '65-BR-ZJ' naar 'GK-454-S' aangepast",
+        "Time": "25-08-2026 14:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "GEEN: Adres van 'Lelystad Airport' naar 'Rotterdam Airport' aangepast",
+        "Time": "25-08-2026 14:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "'GEEN' omgenummerd naar '17-992'",
+        "Time": "25-08-2026 14:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25",
+        "Description": "GEEN: Bijzonderheden van 'Reserveluchtvaartuig.' naar 'Lifeliner 2.' aangepast",
+        "Time": "25-08-2026 14:00:15"
+      }
+    ]
   },
   {
     "date": "2026-08-24",
