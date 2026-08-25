@@ -94858,7 +94858,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "13-991"
+      "GEEN"
     ],
     "last_check_date": "2026-08-21",
     "last_expired_notification_date": null,
@@ -94882,7 +94882,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "GEEN"
+      "13-991"
     ],
     "last_check_date": "2026-08-21",
     "last_expired_notification_date": null,
@@ -106180,8 +106180,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "03-994",
-      "GEEN"
+      "03-994"
     ],
     "last_check_date": "2026-08-25",
     "last_expired_notification_date": null,
@@ -106446,5 +106445,18 @@
     "datum_tenaamstelling_dt": "2026-05-19",
     "last_tenaamstelling_check_date": "2026-08-25",
     "aantal_zitplaatsen": "8"
+  },
+  "KFZ-74-F": {
+    "expiry": "2030-08-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-08-25",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-08-03",
+    "last_tenaamstelling_check_date": "2026-08-25",
+    "aantal_zitplaatsen": "5"
   }
 }
