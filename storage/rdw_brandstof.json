@@ -90961,6 +90961,19 @@
     "uitlaatemissieniveau": "EURO 6 W"
   },
   {
+    "kenteken": "JKB02V",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "65",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443AX",
+    "nominaal_continu_maximumvermogen": "89.00",
+    "elektrisch_verbruik_enkel_elektrisch_wltp": "159.00",
+    "actie_radius_enkel_elektrisch_wltp": "560",
+    "netto_max_vermogen_elektrisch": "210.00",
+    "uitlaatemissieniveau": "AX"
+  },
+  {
     "kenteken": "JKB32X",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Elektriciteit",
@@ -96433,72 +96446,6 @@
     "uitlaatemissieniveau": "EURO VI D"
   },
   {
-    "kenteken": "K089TP",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Elektriciteit",
-    "emissiecode_omschrijving": "Z",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832DG",
-    "nominaal_continu_maximumvermogen": "42.40",
-    "elektrisch_verbruik_extern_opladen_wltp": "72.00",
-    "actie_radius_extern_opladen_wltp": "56",
-    "netto_max_vermogen_elektrisch": "80.60",
-    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
-    "uitlaatemissieniveau": "EURO 6 DG",
-    "elektriciteitsverbruik_gewogen_gecombineerd": "158.00",
-    "actieradius_extern_oplaadbaar": "72"
-  },
-  {
-    "kenteken": "K089TP",
-    "brandstof_volgnummer": "2",
-    "brandstof_omschrijving": "Benzine",
-    "co2_uitstoot_gewogen": "26.00000",
-    "geluidsniveau_rijdend": "67",
-    "geluidsniveau_stationair": "73",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832DG",
-    "nettomaximumvermogen": "112.00",
-    "toerental_geluidsniveau": "3750",
-    "emis_co2_gewogen_gecombineerd_wltp": "32",
-    "brandstof_verbruik_gecombineerd_wltp": "6.500",
-    "brandstof_verbruik_gewogen_gecombineerd_wltp": "1.400",
-    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
-    "uitlaatemissieniveau": "EURO 6 DG",
-    "brandstofverbruik_gewogen_gecombineerd": "1.200"
-  },
-  {
-    "kenteken": "K089TP",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Elektriciteit",
-    "emissiecode_omschrijving": "Z",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832DG",
-    "nominaal_continu_maximumvermogen": "42.40",
-    "elektrisch_verbruik_extern_opladen_wltp": "72.00",
-    "actie_radius_extern_opladen_wltp": "56",
-    "netto_max_vermogen_elektrisch": "80.60",
-    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
-    "uitlaatemissieniveau": "EURO 6 DG",
-    "elektriciteitsverbruik_gewogen_gecombineerd": "158.00",
-    "actieradius_extern_oplaadbaar": "72"
-  },
-  {
-    "kenteken": "K089TP",
-    "brandstof_volgnummer": "2",
-    "brandstof_omschrijving": "Benzine",
-    "co2_uitstoot_gewogen": "26.00000",
-    "geluidsniveau_rijdend": "67",
-    "geluidsniveau_stationair": "73",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832DG",
-    "nettomaximumvermogen": "112.00",
-    "toerental_geluidsniveau": "3750",
-    "emis_co2_gewogen_gecombineerd_wltp": "32",
-    "brandstof_verbruik_gecombineerd_wltp": "6.500",
-    "brandstof_verbruik_gewogen_gecombineerd_wltp": "1.400",
-    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
-    "uitlaatemissieniveau": "EURO 6 DG",
-    "brandstofverbruik_gewogen_gecombineerd": "1.200"
-  },
-  {
     "kenteken": "K108PZ",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -101424,21 +101371,6 @@
     "uitlaatemissieniveau": "AX"
   },
   {
-    "kenteken": "KG927L",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "brandstofverbruik_gecombineerd": "6.50",
-    "co2_uitstoot_gecombineerd": "170",
-    "geluidsniveau_rijdend": "73",
-    "geluidsniveau_stationair": "77",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2015/45W",
-    "uitstoot_deeltjes_licht": "0.00046",
-    "nettomaximumvermogen": "136.00",
-    "toerental_geluidsniveau": "3000",
-    "uitlaatemissieniveau": "EURO 6 W"
-  },
-  {
     "kenteken": "KG002V",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -102000,6 +101932,21 @@
   },
   {
     "kenteken": "KG924L",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "6.50",
+    "co2_uitstoot_gecombineerd": "170",
+    "geluidsniveau_rijdend": "73",
+    "geluidsniveau_stationair": "77",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2015/45W",
+    "uitstoot_deeltjes_licht": "0.00046",
+    "nettomaximumvermogen": "136.00",
+    "toerental_geluidsniveau": "3000",
+    "uitlaatemissieniveau": "EURO 6 W"
+  },
+  {
+    "kenteken": "KG927L",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
     "brandstofverbruik_gecombineerd": "6.50",
@@ -156084,7 +156031,7 @@
     "no_data": true
   },
   {
-    "kenteken": "X493XZ",
+    "kenteken": "X829TR",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Elektriciteit",
     "emissiecode_omschrijving": "Z",
@@ -156095,7 +156042,7 @@
     "klasse_hybride_elektrisch_voertuig": "OVC-HEV"
   },
   {
-    "kenteken": "X493XZ",
+    "kenteken": "X829TR",
     "brandstof_volgnummer": "2",
     "brandstof_omschrijving": "Benzine",
     "geluidsniveau_rijdend": "68",
@@ -156109,32 +156056,6 @@
     "brandstof_verbruik_gewogen_gecombineerd_wltp": "1.800",
     "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
     "uitlaatemissieniveau": "EURO 6 AP"
-  },
-  {
-    "kenteken": "X594LB",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Elektriciteit",
-    "geluidsniveau_rijdend": "67",
-    "emissiecode_omschrijving": "Z",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AX",
-    "nominaal_continu_maximumvermogen": "50.00",
-    "elektrisch_verbruik_enkel_elektrisch_wltp": "162.00",
-    "actie_radius_enkel_elektrisch_wltp": "460",
-    "netto_max_vermogen_elektrisch": "150.00",
-    "uitlaatemissieniveau": "AX"
-  },
-  {
-    "kenteken": "X595LB",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Elektriciteit",
-    "geluidsniveau_rijdend": "67",
-    "emissiecode_omschrijving": "Z",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AX",
-    "nominaal_continu_maximumvermogen": "50.00",
-    "elektrisch_verbruik_enkel_elektrisch_wltp": "162.00",
-    "actie_radius_enkel_elektrisch_wltp": "460",
-    "netto_max_vermogen_elektrisch": "150.00",
-    "uitlaatemissieniveau": "AX"
   },
   {
     "kenteken": "X036VZ",
@@ -157770,6 +157691,33 @@
     "uitlaatemissieniveau": "EURO VI E"
   },
   {
+    "kenteken": "X493XZ",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "emissiecode_omschrijving": "Z",
+    "nominaal_continu_maximumvermogen": "55.00",
+    "elektrisch_verbruik_extern_opladen_wltp": "172.00",
+    "actie_radius_extern_opladen_wltp": "48",
+    "netto_max_vermogen_elektrisch": "85.00",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV"
+  },
+  {
+    "kenteken": "X493XZ",
+    "brandstof_volgnummer": "2",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_rijdend": "68",
+    "geluidsniveau_stationair": "69",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AP",
+    "nettomaximumvermogen": "110.00",
+    "toerental_geluidsniveau": "3750",
+    "emis_deeltjes_type1_wltp": "0.00",
+    "emis_co2_gewogen_gecombineerd_wltp": "41",
+    "brandstof_verbruik_gewogen_gecombineerd_wltp": "1.800",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 AP"
+  },
+  {
     "kenteken": "X496LL",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Elektriciteit",
@@ -158023,6 +157971,32 @@
     "emissie_co2_gecombineerd_wltp": "322",
     "brandstof_verbruik_gecombineerd_wltp": "12.289",
     "uitlaatemissieniveau": "EURO VI E"
+  },
+  {
+    "kenteken": "X594LB",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "67",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AX",
+    "nominaal_continu_maximumvermogen": "50.00",
+    "elektrisch_verbruik_enkel_elektrisch_wltp": "162.00",
+    "actie_radius_enkel_elektrisch_wltp": "460",
+    "netto_max_vermogen_elektrisch": "150.00",
+    "uitlaatemissieniveau": "AX"
+  },
+  {
+    "kenteken": "X595LB",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "67",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AX",
+    "nominaal_continu_maximumvermogen": "50.00",
+    "elektrisch_verbruik_enkel_elektrisch_wltp": "162.00",
+    "actie_radius_enkel_elektrisch_wltp": "460",
+    "netto_max_vermogen_elektrisch": "150.00",
+    "uitlaatemissieniveau": "AX"
   },
   {
     "kenteken": "X605BD",
