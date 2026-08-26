@@ -348,6 +348,20 @@
     "brandstof_omschrijving": "Diesel"
   },
   {
+    "kenteken": "01BJH1",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_rijdend": "96",
+    "geluidsniveau_stationair": "96",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*627/2014A",
+    "nettomaximumvermogen": "170.00",
+    "toerental_geluidsniveau": "1650",
+    "uitlaatemissieniveau": "EURO VI A",
+    "actieradius_extern_oplaadbaar": "0",
+    "actieradius": "0"
+  },
+  {
     "kenteken": "01BBF7",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -6195,6 +6209,18 @@
     "brandstof_omschrijving": "Diesel"
   },
   {
+    "kenteken": "18BNL6",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_rijdend": "78",
+    "geluidsniveau_stationair": "86",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2016/1718C",
+    "nettomaximumvermogen": "170.00",
+    "toerental_geluidsniveau": "1350",
+    "uitlaatemissieniveau": "EURO VI C"
+  },
+  {
     "kenteken": "18-WH-SK",
     "no_data": true
   },
@@ -6507,6 +6533,16 @@
   {
     "kenteken": "18ZDH9",
     "brandstof_omschrijving": "Diesel"
+  },
+  {
+    "kenteken": "19BFS8",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*64/2012B",
+    "nettomaximumvermogen": "132.00",
+    "uitlaatemissieniveau": "EURO VI B",
+    "co2_emissieklasse": "1"
   },
   {
     "kenteken": "19-WD-SN",
@@ -28757,6 +28793,19 @@
     "brandstof_omschrijving": "Diesel"
   },
   {
+    "kenteken": "77BGR5",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_stationair": "93",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*627/2014A",
+    "nettomaximumvermogen": "220.00",
+    "toerental_geluidsniveau": "1650",
+    "uitlaatemissieniveau": "EURO VI A",
+    "actieradius_extern_oplaadbaar": "0",
+    "actieradius": "0"
+  },
+  {
     "kenteken": "77BBL7",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -38926,6 +38975,19 @@
   {
     "kenteken": "93WSVK",
     "no_data": true
+  },
+  {
+    "kenteken": "94BTD4",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_rijdend": "78",
+    "geluidsniveau_stationair": "90",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2018/932D",
+    "nettomaximumvermogen": "235.00",
+    "toerental_geluidsniveau": "1650",
+    "uitlaatemissieniveau": "EURO VI D",
+    "co2_emissieklasse": "1"
   },
   {
     "kenteken": "94BBP8",
@@ -49823,6 +49885,15 @@
     "emissiecode_omschrijving": "3",
     "nettomaximumvermogen": "250.00",
     "uitlaatemissieniveau": "EURO 3"
+  },
+  {
+    "kenteken": "BPVR87",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "emissiecode_omschrijving": "3",
+    "nettomaximumvermogen": "220.00",
+    "uitlaatemissieniveau": "EURO 3",
+    "co2_emissieklasse": "1"
   },
   {
     "kenteken": "BPBB40",
@@ -105636,6 +105707,32 @@
     "uitlaatemissieniveau": "EURO 6 W"
   },
   {
+    "kenteken": "L226RJ",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "65",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AX",
+    "nominaal_continu_maximumvermogen": "70.00",
+    "elektrisch_verbruik_enkel_elektrisch_wltp": "168.10",
+    "actie_radius_enkel_elektrisch_wltp": "532",
+    "netto_max_vermogen_elektrisch": "150.00",
+    "uitlaatemissieniveau": "AX"
+  },
+  {
+    "kenteken": "L782TL",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "65",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AX",
+    "nominaal_continu_maximumvermogen": "70.00",
+    "elektrisch_verbruik_enkel_elektrisch_wltp": "168.60",
+    "actie_radius_enkel_elektrisch_wltp": "531",
+    "netto_max_vermogen_elektrisch": "150.00",
+    "uitlaatemissieniveau": "AX"
+  },
+  {
     "kenteken": "L006ZK",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -138843,6 +138940,20 @@
     "opgegeven_maximum_snelheid": "60.00"
   },
   {
+    "kenteken": "V39JRX",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_rijdend": "65",
+    "geluidsniveau_stationair": "75",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EA",
+    "nettomaximumvermogen": "85.00",
+    "toerental_geluidsniveau": "3750",
+    "emissie_co2_gecombineerd_wltp": "155",
+    "brandstof_verbruik_gecombineerd_wltp": "6.798",
+    "uitlaatemissieniveau": "EURO 6 EA"
+  },
+  {
     "kenteken": "V018FN",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -155412,6 +155523,21 @@
     "uitlaatemissieniveau": "EURO 6 AR"
   },
   {
+    "kenteken": "VZT08P",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_rijdend": "70",
+    "geluidsniveau_stationair": "77",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AR",
+    "nettomaximumvermogen": "110.00",
+    "toerental_geluidsniveau": "2813",
+    "emis_deeltjes_type1_wltp": "0.22",
+    "emissie_co2_gecombineerd_wltp": "204",
+    "brandstof_verbruik_gecombineerd_wltp": "7.800",
+    "uitlaatemissieniveau": "EURO 6 AR"
+  },
+  {
     "kenteken": "VZX29F",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -156029,33 +156155,6 @@
   {
     "kenteken": "WZRT04",
     "no_data": true
-  },
-  {
-    "kenteken": "X829TR",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Elektriciteit",
-    "emissiecode_omschrijving": "Z",
-    "nominaal_continu_maximumvermogen": "55.00",
-    "elektrisch_verbruik_extern_opladen_wltp": "172.00",
-    "actie_radius_extern_opladen_wltp": "48",
-    "netto_max_vermogen_elektrisch": "85.00",
-    "klasse_hybride_elektrisch_voertuig": "OVC-HEV"
-  },
-  {
-    "kenteken": "X829TR",
-    "brandstof_volgnummer": "2",
-    "brandstof_omschrijving": "Benzine",
-    "geluidsniveau_rijdend": "68",
-    "geluidsniveau_stationair": "69",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AP",
-    "nettomaximumvermogen": "110.00",
-    "toerental_geluidsniveau": "3750",
-    "emis_deeltjes_type1_wltp": "0.00",
-    "emis_co2_gewogen_gecombineerd_wltp": "41",
-    "brandstof_verbruik_gewogen_gecombineerd_wltp": "1.800",
-    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
-    "uitlaatemissieniveau": "EURO 6 AP"
   },
   {
     "kenteken": "X036VZ",
@@ -159248,6 +159347,33 @@
     "uitlaatemissieniveau": "AX",
     "actieradius": "420",
     "elektriciteitsverbruik_volledig_elektrisch": "170"
+  },
+  {
+    "kenteken": "X829TR",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "emissiecode_omschrijving": "Z",
+    "nominaal_continu_maximumvermogen": "55.00",
+    "elektrisch_verbruik_extern_opladen_wltp": "172.00",
+    "actie_radius_extern_opladen_wltp": "48",
+    "netto_max_vermogen_elektrisch": "85.00",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV"
+  },
+  {
+    "kenteken": "X829TR",
+    "brandstof_volgnummer": "2",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_rijdend": "68",
+    "geluidsniveau_stationair": "69",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AP",
+    "nettomaximumvermogen": "110.00",
+    "toerental_geluidsniveau": "3750",
+    "emis_deeltjes_type1_wltp": "0.00",
+    "emis_co2_gewogen_gecombineerd_wltp": "41",
+    "brandstof_verbruik_gewogen_gecombineerd_wltp": "1.800",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 AP"
   },
   {
     "kenteken": "X838BZ",
