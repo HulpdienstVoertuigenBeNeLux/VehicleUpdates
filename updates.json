@@ -1,9 +1,89 @@
 [
   {
     "date": "2026-08-26",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-511 DA-RA toegevoegd aan Barendrecht Breslau",
+        "Time": "26-08-2026 16:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-512 DA-RA toegevoegd aan Barendrecht Breslau",
+        "Time": "26-08-2026 16:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17",
+        "Description": "17-516 DA-RA toegevoegd aan Barendrecht Breslau",
+        "Time": "26-08-2026 16:00:17"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18",
+        "Description": "KENBRI SB-584 SB verwijderd van Kenbri Verhuur",
+        "Time": "26-08-2026 16:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20",
+        "Description": "20-7034 TS verwijderd van Waalwijk",
+        "Time": "26-08-2026 16:00:17"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1",
+        "Description": "01-1801: Kenteken van '4-XFG-13' naar 'ONBEKEND' aangepast",
+        "Time": "26-08-2026 16:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "11",
+        "Description": "11-8531: Kenteken van 'BD-XZ-58' naar 'ONBEKEND' aangepast",
+        "Time": "26-08-2026 16:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14",
+        "Description": "14-6006: Kenteken van 'VB-428-G' naar 'ONBEKEND' aangepast",
+        "Time": "26-08-2026 16:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14",
+        "Description": "14-2701: Kenteken van 'GB-081-V' naar 'ONBEKEND' aangepast",
+        "Time": "26-08-2026 16:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17",
+        "Description": "17-8792: Kenteken van 'VB-350-N / V-775-TS?' naar 'X-493-XZ' aangepast",
+        "Time": "26-08-2026 16:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2",
+        "Description": "AMN040: Kenteken van 'VV-113-D' naar 'ONBEKEND' aangepast",
+        "Time": "26-08-2026 16:00:17"
+      }
+    ]
   },
   {
     "date": "2026-08-25",

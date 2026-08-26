@@ -5,9 +5,9 @@
 ----------------------------------------------------------------------------------------
   Ambulance
 ----------------------------------------------------------------------------------------
-  HulpdienstvoertuigenBenelux : 1647
+  HulpdienstvoertuigenBenelux : 1650
   RDW inrichting dataset      : 1358
-  Missing in RDW              : 616
+  Missing in RDW              : 619
   Extra in RDW                : 327
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
@@ -253,6 +253,7 @@
   - KG085L
   - KG530P
   - KG924L
+  - KG927L
   - KGG50N
   - KGJ58J
   - KK797Z
@@ -579,6 +580,8 @@
   - X287VT
   - X338PN
   - X510XX
+  - X594LB
+  - X595LB
   - X611KJ
   - X627SZ
   - X628SZ
