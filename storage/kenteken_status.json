@@ -103320,18 +103320,6 @@
     "last_tenaamstelling_check_date": "2026-08-27",
     "aantal_zitplaatsen": "3"
   },
-  "HA-77-90": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "03-0399"
-    ],
-    "last_check_date": "2026-08-21",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-21"
-  },
   "8-XJD-93": {
     "expiry": "2026-10-10",
     "checked": true,
@@ -106538,5 +106526,31 @@
     "datum_tenaamstelling_dt": "2022-06-17",
     "last_tenaamstelling_check_date": "2026-08-26",
     "aantal_zitplaatsen": "6"
+  },
+  "BD-971-S": {
+    "expiry": "2027-07-13",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "03-0399"
+    ],
+    "last_check_date": "2026-08-27",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-13",
+    "last_tenaamstelling_check_date": "2026-08-27",
+    "aantal_zitplaatsen": "2"
+  },
+  "KFZ-78-F": {
+    "expiry": "2030-08-06",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-08-27",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-08-06",
+    "last_tenaamstelling_check_date": "2026-08-27",
+    "aantal_zitplaatsen": "5"
   }
 }

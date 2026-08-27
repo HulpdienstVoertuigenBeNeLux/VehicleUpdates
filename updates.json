@@ -1,9 +1,32 @@
 [
   {
     "date": "2026-08-27",
-    "added": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "9",
+        "Description": "GEEN (DA) OVD-Rail toegevoegd aan ProRail ICB Amersfoort",
+        "Time": "27-08-2026 18:00:17"
+      }
+    ],
     "removed": [],
-    "changed": []
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-0399: Kenteken van 'HA-77-90' naar 'BD-971-S' aangepast",
+        "Time": "27-08-2026 18:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3",
+        "Description": "03-0399: Bijzonderheden van 'Voertuig nu nog voorzien van handelaarskentekenplaten.' naar '' aangepast",
+        "Time": "27-08-2026 18:00:17"
+      }
+    ]
   },
   {
     "date": "2026-08-26",
