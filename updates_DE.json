@@ -1,9 +1,208 @@
 [
   {
     "date": "2026-08-27",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "GW-DekonP Dekontamination Personen toegevoegd aan (FRW) Stadt Bremerhaven",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "GW-BT Type Error toegevoegd aan (FRW) Stadt Bremen",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "AB-STR Type Error toegevoegd aan (FRW) Stadt Bremen",
+        "Time": "27-08-2026 20:00:22"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "LKW-DekonP Type Error verwijderd van (FRW) Stadt Bremerhaven",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Bremen",
+        "Regio": "",
+        "Description": "LKW-Verpflegung LKW-Verpflegung verwijderd van (FF) Stadt Bremen-Neustadt",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "HanseSani Type Error verwijderd van (FRW) Bremen",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "HanseSani Reserve Type Error verwijderd van (FRW) Bremen",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "GW-Hygiene Type Error verwijderd van (FRW) Stadt Bremen",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "GW-Schlauch W 4/1 Type Error verwijderd van (FRW) Stadt Bremen",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "RTW Takt. Res. 5 (P) Type Error verwijderd van (FRW) Bremen",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "I-RTW (Infektion) Type Error verwijderd van (FRW) Bremen",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "AB-Strahlenschutz Type Error verwijderd van (FRW) Stadt Bremen",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "KdoW (AL) Type Error verwijderd van (FRW) Stadt Bremerhaven",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "ELW 1 B-D Type Error verwijderd van (FRW) Stadt Bremerhaven",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "MTW (Schule) Type Error verwijderd van (FRW) Stadt Bremerhaven",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "GW-TH Type Error verwijderd van (FRW) Stadt Bremerhaven",
+        "Time": "27-08-2026 20:00:22"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "ELW 1: DE Afkorting van 'Florian Bremerhaven 01/11-02' naar 'Florian Bremerhaven 01/11-03' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "ELW 1: Afkorting van 'Einsatzleitwagen 1' naar 'Type Error' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "GW-L: Afkorting van 'Type Error' naar 'Gerätewagen Logistik' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Bremerhaven",
+        "Regio": "",
+        "Description": "FwA-JF: DE Afkorting van 'Jugendfeuerwehr Anhänger' naar 'Anhänger' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "I-RTW: DE Afkorting van 'Florian Bremen 01/83-30' naar 'Florian Bremen 05/83-30' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "I-RTW: Afkorting van 'Infektions Rettungstransportwagen' naar 'Type Error' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Bremen (HB)",
+        "Regio": "",
+        "Description": "I-RTW: TypeVoertuig van 'Ztg. Reserve' naar '' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "RBA1: DE Afkorting van 'FwA' naar 'Anhänger' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "RBA2: DE Afkorting van 'FwA' naar 'Anhänger' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "SE: DE Afkorting van 'FwA' naar 'Anhänger' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "Babsi (Baumbiegesimulator): DE Afkorting van 'FwA' naar 'Anhänger' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "Leitstelle Unterweser-Elbe (CUX, HB, OHZ)",
+        "Regio": "",
+        "Description": "BT-LKW: Afkorting van 'Type Error' naar 'Lastkraftwagen Betreuung' aangepast",
+        "Time": "27-08-2026 20:00:22"
+      }
+    ]
   },
   {
     "date": "2026-08-26",
