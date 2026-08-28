@@ -7,8 +7,8 @@
   RDW data ontbreekt              : 248
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 640
-  Bezetting > RDW zitplaatsen     : 341
+  Bezetting != RDW zitplaatsen    : 641
+  Bezetting > RDW zitplaatsen     : 342
   RDW zitplaatsen > bezetting     : 299
 
 ------------------------------------------------------------------------------------------
@@ -46,6 +46,7 @@
   01-1101      | 33-BDS-5   |         6 |             3
   01-1302      | 7-VTR-76   |         7 |             6
   01-1601      | HFR-02-G   |         7 |             5
+  01-1731      | BD-959-S   |         8 |             7
   01-1804      | V-39-DST   |         7 |             5
   01-1808      | J-466-JD   |         5 |             4
   01-2233      | BV-HD-83   |         9 |             8

@@ -506,19 +506,6 @@
     "last_tenaamstelling_check_date": "2026-08-23",
     "aantal_zitplaatsen": "8"
   },
-  "BX-JG-48": {
-    "expiry": "2027-02-05",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "01-1731"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-12-23",
-    "last_tenaamstelling_check_date": "2026-08-23",
-    "aantal_zitplaatsen": "8"
-  },
   "VL-197-V": {
     "expiry": "2027-03-17",
     "checked": true,
@@ -106641,5 +106628,18 @@
     "datum_tenaamstelling_dt": "2023-03-22",
     "last_tenaamstelling_check_date": "2026-08-28",
     "aantal_zitplaatsen": "6"
+  },
+  "BD-959-S": {
+    "expiry": "2027-08-26",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "01-1731"
+    ],
+    "last_check_date": "2026-08-28",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-08-26",
+    "last_tenaamstelling_check_date": "2026-08-28",
+    "aantal_zitplaatsen": "7"
   }
 }
