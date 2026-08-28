@@ -1,5 +1,48 @@
 [
   {
+    "date": "2026-08-28",
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Onbekend  toegevoegd aan GEEN",
+        "Time": "28-08-2026 09:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "ON-POL",
+        "Description": "Onbekend  toegevoegd aan GEEN",
+        "Time": "28-08-2026 09:00:17"
+      }
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "15",
+        "Description": "15-840: Kenteken van 'ONBEKEND' naar 'HSN-45-V' aangepast",
+        "Time": "28-08-2026 09:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "MD-POL",
+        "Description": "Oostvaardersdijk 8b, Lelystad: TypeVoertuig van '52.505324, 5.420248' naar '52.612000, 5.747392' aangepast",
+        "Time": "28-08-2026 09:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "MD-POL",
+        "Description": "Oostvaardersdijk 8b, Lelystad: Kenteken van 'P165' naar 'P175' aangepast",
+        "Time": "28-08-2026 09:00:17"
+      }
+    ]
+  },
+  {
     "date": "2026-08-27",
     "added": [
       {
@@ -52721,456 +52764,6 @@
         "Regio": "23",
         "Description": "23-124: Kenteken van 'NP-152-R' naar 'GGX-60-P' aangepast",
         "Time": "28-07-2026 18:00:20"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-6669 MSH-TPB toegevoegd aan Terneuzen Koegors",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-8605 DA toegevoegd aan Terneuzen Koegors",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "GEEN BMA-OTO toegevoegd aan Terneuzen Koegors",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "15",
-        "Description": "Galgepad 9  toegevoegd aan ",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "15",
-        "Description": "Via Donizetti 1  toegevoegd aan ",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "15",
-        "Description": "Brusselstraat 4  toegevoegd aan ",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "25",
-        "Description": "25-217 AMBU-MC toegevoegd aan Almere",
-        "Time": "27-07-2026 16:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6591 COP-DCU toegevoegd aan Dordrecht Oranjepark",
-        "Time": "27-07-2026 19:00:13"
-      }
-    ],
-    "removed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "15",
-        "Description": "  verwijderd van Westland",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "15",
-        "Description": "  verwijderd van Leidschendam-Voorburg",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "15",
-        "Description": "  verwijderd van Zoetermeer Stadshart",
-        "Time": "27-07-2026 00:00:14"
-      }
-    ],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "15",
-        "Description": "15-5000: Afkorting van 'FR-B' naar 'DB' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "15",
-        "Description": "15-5000: TypeVoertuig van 'First responder brandweer' naar 'Dienstbus' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "15",
-        "Description": "15-5000: Bijzonderheden van '' naar 'FR-B.' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "15",
-        "Description": "15-9891: Adres van '' naar 'Haaglanden Regionaal' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-0432: Bijzonderheden van 'TS-SK. Bezetting: 7 personen.' naar 'ON-GW en TS-SK. Bezetting: 7 personen.' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-2231: Bijzonderheden van 'TS-SK en GP. Bezetting: 6 personen.' naar 'TS-BO, TS-SK en GP. Bezetting: 6 personen.' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "17-4532: Bijzonderheden van 'TS-SK. Bezetting: 7 personen.' naar 'ON-GW, TS-GO en TS-SK. Bezetting: 7 personen.' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "KENBRI AS-591: Kenteken van 'ONBEKEND' naar '22-BLX-9' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "KENBRI HW-592: Kenteken van 'ONBEKEND' naar '07-BLZ-4' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-2213: Kenteken van 'ONBEKEND' naar 'SCALDIS' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-2212: Kenteken van 'ONBEKEND' naar 'EENDRACHT' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-8588: Kenteken van 'V-958-ZJ' naar 'BB-109-B' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-8593: Kenteken van 'RS-014-D' naar 'ONBEKEND' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-6616: Kenteken van 'ONBEKEND' naar 'GEEN' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-6615: Kenteken van 'ONBEKEND' naar 'GEEN' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-6603: Kenteken van '93-SNT-8' naar 'JTT-53-D' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-6611: Kenteken van 'ONBEKEND' naar '5-YB-200' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-6667: Bijzonderheden van '' naar 'Inhoud: 1000 kg poeder.' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-6687: Afkorting van 'LOH' naar 'SAH' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-6687: TypeVoertuig van 'Logistiek haakarmbak' naar 'Stroom aggregaat haakarmbak' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-6687: Bijzonderheden van '' naar 'LIH.' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-8603: Kenteken van 'ONBEKEND' naar '4-XGX-48' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-8662: Bijzonderheden van 'Trekkend voertuig: 19-8681.' naar 'Inhoud: 26000 liter water. Trekkend voertuig: 19-8681.' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-8670: Bijzonderheden van '' naar 'T.b.v. HV opleidingen.' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-8698: Kenteken van 'ONBEKEND' naar 'ZT-424-P' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "19-6731: Kenteken van '58-BPJ-5' naar 'BV-ZH-48' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "17",
-        "Description": "17-120: Kenteken van 'ONBEKEND' naar 'L-115-NR' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "17",
-        "Description": "Slotlaan 121: Bijzonderheden van 'Maximaal twee AMBU-HC gestationeerd, waarvan één ook RR kan zijn.' naar 'Max 2 AMBU-HC gestationeerd, waarvan één RR kan zijn.' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "18",
-        "Description": "Middenpolderweg 63B: Bijzonderheden van 'Maximaal één AMBU-HC gestationeerd.' naar 'Max 1 AMBU-HC gestationeerd.' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "'GEEN' omgenummerd naar '17-9902'",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "'GEEN' omgenummerd naar '17-9101'",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Afkorting van 'DA' naar 'PR' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: TypeVoertuig van 'Dienstauto' naar 'Preventie' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17",
-        "Description": "GEEN: Bijzonderheden van 'Secundaire veiligheidsregio huisstijl. Bezetting: 5 personen.' naar 'Piketvoertuig.' aangepast",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19",
-        "Description": "'19-2838' omgenummerd naar '19-2835'",
-        "Time": "27-07-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "14",
-        "Description": "14-191: Kenteken van 'ZB-973-S' naar 'KLX-78-J' aangepast",
-        "Time": "27-07-2026 01:00:11"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "10",
-        "Description": "10-105: Kenteken van 'G-685-XL' naar 'KKT-40-X' aangepast",
-        "Time": "27-07-2026 16:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "25",
-        "Description": "25-128: Kenteken van 'H-676-KJ' naar 'JTT-27-V' aangepast",
-        "Time": "27-07-2026 16:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Reddingsbrigade",
-        "Regio": "12",
-        "Description": "36-0810: Afkorting van 'RB' naar 'CI-RB' aangepast",
-        "Time": "27-07-2026 16:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Reddingsbrigade",
-        "Regio": "12",
-        "Description": "36-0810: TypeVoertuig van 'Reddingsbrigade voertuig' naar 'Coördinatie- en informatievoorzieningsvoertuig Reddingsbrigade' aangepast",
-        "Time": "27-07-2026 16:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Reddingsbrigade",
-        "Regio": "12",
-        "Description": "36-0810: Kenteken van 'VX-FJ-15' naar 'VZX-29-F' aangepast",
-        "Time": "27-07-2026 16:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6501: Bijzonderheden van '' naar 'ON-BRV.' aangepast",
-        "Time": "27-07-2026 19:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6513: Afkorting van 'ON-BRV' naar 'GMT' aangepast",
-        "Time": "27-07-2026 19:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6513: TypeVoertuig van 'Ondersteuningsteam brandweervaartuig' naar 'Gereedschap/materieelvoertuig terreinvaardig' aangepast",
-        "Time": "27-07-2026 19:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6513: Bijzonderheden van '' naar 'ON-BRV.' aangepast",
-        "Time": "27-07-2026 19:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6531: Bijzonderheden van 'Bezetting: 6 personen.' naar 'ON-UHD. Bezetting: 6 personen.' aangepast",
-        "Time": "27-07-2026 19:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6564: Bijzonderheden van 'BU-UHD.' naar 'BU-WS, BU-VN en BU-UHD.' aangepast",
-        "Time": "27-07-2026 19:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6565: Bijzonderheden van 'Ligplaats: Van Leeuwenhoekweg 20.' naar 'WOV-G. Ligplaats: Van Leeuwenhoekweg 20.' aangepast",
-        "Time": "27-07-2026 19:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6611: Bijzonderheden van 'BUV-OWD.' naar 'WO-NO en BUV-OWD.' aangepast",
-        "Time": "27-07-2026 19:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18",
-        "Description": "18-6651: Bijzonderheden van 'Lengte: 30 meter.' naar 'RV-AF. Lengte: 30 meter.' aangepast",
-        "Time": "27-07-2026 19:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Rode Kruis",
-        "Regio": "5",
-        "Description": "05-9-30: Adres van 'Holten' naar 'Verbindingsdienst Overijssel' aangepast",
-        "Time": "27-07-2026 19:00:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "2",
-        "Description": "Dienstauto Ameland: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Bezetting: 2 personen.' aangepast",
-        "Time": "27-07-2026 23:15:38"
       }
     ]
   }
