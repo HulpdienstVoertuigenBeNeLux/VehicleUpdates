@@ -116219,28 +116219,6 @@
     "technisch_toegestane_maximum_aslast": "11500"
   },
   {
-    "kenteken": "BD959S",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "wettelijk_toegestane_maximum_aslast": "7500",
-    "technisch_toegestane_maximum_aslast": "7500",
-    "afstand_tot_volgende_as_voertuig": "410"
-  },
-  {
-    "kenteken": "BD959S",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "weggedrag_code": "G",
-    "wettelijk_toegestane_maximum_aslast": "11500",
-    "technisch_toegestane_maximum_aslast": "13000"
-  },
-  {
     "kenteken": "BD013K",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -119171,6 +119149,28 @@
     "weggedrag_code": "A",
     "wettelijk_toegestane_maximum_aslast": "3600",
     "technisch_toegestane_maximum_aslast": "3600"
+  },
+  {
+    "kenteken": "BD959S",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "7500",
+    "technisch_toegestane_maximum_aslast": "7500",
+    "afstand_tot_volgende_as_voertuig": "410"
+  },
+  {
+    "kenteken": "BD959S",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "11500",
+    "technisch_toegestane_maximum_aslast": "13000"
   },
   {
     "kenteken": "BD971S",
@@ -188371,6 +188371,26 @@
     "spoorbreedte": "141",
     "wettelijk_toegestane_maximum_aslast": "750",
     "technisch_toegestane_maximum_aslast": "750"
+  },
+  {
+    "kenteken": "JDB34D",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "165",
+    "wettelijk_toegestane_maximum_aslast": "1320",
+    "technisch_toegestane_maximum_aslast": "1320"
+  },
+  {
+    "kenteken": "JDB34D",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "A",
+    "spoorbreedte": "166",
+    "wettelijk_toegestane_maximum_aslast": "1420",
+    "technisch_toegestane_maximum_aslast": "1420"
   },
   {
     "kenteken": "JDP99P",

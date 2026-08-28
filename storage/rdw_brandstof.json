@@ -48149,18 +48149,6 @@
     "uitlaatemissieniveau": "EURO 1"
   },
   {
-    "kenteken": "BD959S",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "geluidsniveau_rijdend": "79",
-    "geluidsniveau_stationair": "85",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2022/2383E",
-    "nettomaximumvermogen": "240.00",
-    "toerental_geluidsniveau": "1425",
-    "uitlaatemissieniveau": "EURO VI E"
-  },
-  {
     "kenteken": "BD013K",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -49597,6 +49585,18 @@
     "toerental_geluidsniveau": "2850",
     "uitlaatemissieniveau": "EURO VI E",
     "co2_emissieklasse": "1"
+  },
+  {
+    "kenteken": "BD959S",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_rijdend": "79",
+    "geluidsniveau_stationair": "85",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2022/2383E",
+    "nettomaximumvermogen": "240.00",
+    "toerental_geluidsniveau": "1425",
+    "uitlaatemissieniveau": "EURO VI E"
   },
   {
     "kenteken": "BD971S",
@@ -90116,6 +90116,38 @@
     "elektriciteitsverbruik_gewogen_gecombineerd": "117.00",
     "actieradius": "160",
     "elektriciteitsverbruik_volledig_elektrisch": "117"
+  },
+  {
+    "kenteken": "JDB34D",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "68",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EA",
+    "nominaal_continu_maximumvermogen": "99.00",
+    "elektrisch_verbruik_extern_opladen_wltp": "181.00",
+    "actie_radius_extern_opladen_wltp": "82",
+    "netto_max_vermogen_elektrisch": "107.00",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EA",
+    "elektriciteitsverbruik_gewogen_gecombineerd": "182.00",
+    "actieradius_extern_oplaadbaar": "82"
+  },
+  {
+    "kenteken": "JDB34D",
+    "brandstof_volgnummer": "2",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_rijdend": "68",
+    "geluidsniveau_stationair": "72",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EA",
+    "nettomaximumvermogen": "186.00",
+    "toerental_geluidsniveau": "3750",
+    "emis_deeltjes_type1_wltp": "0.12",
+    "emis_co2_gewogen_gecombineerd_wltp": "22",
+    "brandstof_verbruik_gewogen_gecombineerd_wltp": "0.900",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EA"
   },
   {
     "kenteken": "JDP99P",
