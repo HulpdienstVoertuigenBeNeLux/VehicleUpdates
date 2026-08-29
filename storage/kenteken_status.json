@@ -34745,19 +34745,6 @@
     "last_tenaamstelling_check_date": "2026-08-24",
     "aantal_zitplaatsen": "9"
   },
-  "15-BDJ-8": {
-    "expiry": "2027-04-24",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "13-5231"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-12-11",
-    "last_tenaamstelling_check_date": "2026-08-24",
-    "aantal_zitplaatsen": "7"
-  },
   "BZ-PZ-41": {
     "expiry": "2026-12-17",
     "checked": true,
@@ -92516,7 +92503,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "13-4131"
+      "13-5231"
     ],
     "last_check_date": "2026-06-01",
     "last_expired_notification_date": null,
@@ -106640,6 +106627,19 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2025-09-30",
     "last_tenaamstelling_check_date": "2026-08-28",
+    "aantal_zitplaatsen": "5"
+  },
+  "V-03-LRK": {
+    "expiry": "2028-06-20",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "36-3120"
+    ],
+    "last_check_date": "2026-08-29",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-06-20",
+    "last_tenaamstelling_check_date": "2026-08-29",
     "aantal_zitplaatsen": "5"
   }
 }
