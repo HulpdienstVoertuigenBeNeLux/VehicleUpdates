@@ -1842,19 +1842,6 @@
     "last_tenaamstelling_check_date": "2026-08-30",
     "aantal_zitplaatsen": "7"
   },
-  "VTT-90-K": {
-    "expiry": "2026-08-09",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "01-2904"
-    ],
-    "last_check_date": "2026-08-30",
-    "last_expired_notification_date": "2026-08-30",
-    "datum_tenaamstelling_dt": "2023-05-19",
-    "last_tenaamstelling_check_date": "2026-08-30",
-    "aantal_zitplaatsen": "7"
-  },
   "V-410-PS": {
     "expiry": "2026-09-21",
     "checked": true,
@@ -64789,19 +64776,6 @@
     "last_tenaamstelling_check_date": "2026-08-24",
     "aantal_zitplaatsen": "6"
   },
-  "VB-716-L": {
-    "expiry": "2027-03-12",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "25-8101"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-03-12",
-    "last_tenaamstelling_check_date": "2026-08-24",
-    "aantal_zitplaatsen": "3"
-  },
   "VV-792-F": {
     "expiry": "2027-04-18",
     "checked": true,
@@ -106667,5 +106641,57 @@
     "datum_tenaamstelling_dt": "2025-03-27",
     "last_tenaamstelling_check_date": "2026-08-29",
     "aantal_zitplaatsen": "5"
+  },
+  "VTT-70-K": {
+    "expiry": "2027-03-09",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "01-2904"
+    ],
+    "last_check_date": "2026-08-30",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2023-03-09",
+    "last_tenaamstelling_check_date": "2026-08-30",
+    "aantal_zitplaatsen": "5"
+  },
+  "BX-FB-36": {
+    "expiry": "2026-09-17",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "18-9435"
+    ],
+    "last_check_date": "2026-08-30",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2013-01-22",
+    "last_tenaamstelling_check_date": "2026-08-30",
+    "aantal_zitplaatsen": "7"
+  },
+  "BX-BG-91": {
+    "expiry": "2027-04-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "18-9480"
+    ],
+    "last_check_date": "2026-08-30",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2013-01-22",
+    "last_tenaamstelling_check_date": "2026-08-30",
+    "aantal_zitplaatsen": "7"
+  },
+  "V-50-PFD": {
+    "expiry": "2030-03-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "25-8101"
+    ],
+    "last_check_date": "2026-08-30",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-03-24",
+    "last_tenaamstelling_check_date": "2026-08-30",
+    "aantal_zitplaatsen": "3"
   }
 }

@@ -1,15 +1,15 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                  : 17126
-  Records met parsebare bezetting : 3349
-  Vergeleken met RDW              : 3099
+  Totaal records                  : 17130
+  Records met parsebare bezetting : 3351
+  Vergeleken met RDW              : 3101
   RDW data ontbreekt              : 250
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
   Bezetting != RDW zitplaatsen    : 641
-  Bezetting > RDW zitplaatsen     : 342
-  RDW zitplaatsen > bezetting     : 299
+  Bezetting > RDW zitplaatsen     : 343
+  RDW zitplaatsen > bezetting     : 298
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
@@ -20,7 +20,7 @@
    4 personen : 105
    5 personen : 785
    6 personen : 262
-   7 personen : 1089
+   7 personen : 1091
    8 personen : 408
    9 personen : 491
   10 personen : 6
@@ -54,6 +54,7 @@
   01-0134      | 28-BTD-8   |         7 |             2
   01-2603      | 78-TGL-6   |         9 |             8
   01-2905      | N-386-ZZ   |         9 |             8
+  01-2904      | VTT-70-K   |         6 |             5
   01-2903      | N-385-ZZ   |         9 |             8
   01-2933      | BV-FV-70   |         8 |             7
   01-2901      | X-337-RN   |         9 |             8
@@ -399,7 +400,6 @@
   01-1802      | J-181-DZ   |         7 |             9
   01-2031      | BD-786-S   |         6 |             7
   01-2701      | 5-VTD-66   |         5 |             6
-  01-2904      | VTT-90-K   |         6 |             7
   01-3131      | BD-792-J   |         6 |             7
   GEEN         | VL-868-F   |         2 |             3
   01-3903      | 13-RP-RJ   |         7 |             9
