@@ -97,6 +97,18 @@ _dirty_apis = set()
 _dirty_updates = 0
 
 
+def _dedupe_records(records):
+    """Drop exact duplicates and records that are a strict subset of a richer one."""
+    unique = []
+    for item in records:
+        item_items = set(item.items())
+        if any(item_items <= set(other.items()) for other in unique):
+            continue
+        unique = [other for other in unique if not set(other.items()) <= item_items]
+        unique.append(item)
+    return unique
+
+
 def _load_store(api_key):
     if api_key in _loaded_apis:
         return
@@ -106,6 +118,8 @@ def _load_store(api_key):
     for item in existing:
         if isinstance(item, dict) and "kenteken" in item:
             grouped.setdefault(item["kenteken"], []).append(item)
+    for kenteken, records in grouped.items():
+        grouped[kenteken] = _dedupe_records(records)
     _cache[api_key] = grouped
     _loaded_apis.add(api_key)
 
