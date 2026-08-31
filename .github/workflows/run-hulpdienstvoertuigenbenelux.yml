@@ -51,7 +51,7 @@ jobs:
           python check_duplicates.py
           python fetch_rdw_subdata.py
           python combine_data.py
-          python extra_scripts/rdw_push.py
+          # python extra_scripts/rdw_push.py
 
       - name: Commit and push changes
         run: |
