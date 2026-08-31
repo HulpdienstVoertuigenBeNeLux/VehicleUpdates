@@ -166,6 +166,15 @@ def run() -> None:
             entry.update(_flatten_records(name, grouped.get(kenteken, [])))
         combined.append(entry)
 
+    # Ensure every entry has the same keys, so vehicles without certain sub-data
+    # get an explicit null instead of the field being absent entirely.
+    all_keys: set[str] = set()
+    for entry in combined:
+        all_keys.update(entry)
+    for entry in combined:
+        for key in all_keys:
+            entry.setdefault(key, None)
+
     save_json(OUTPUT_FILE, combined)
     print(f"Succesvol {len(combined)} voertuigen gecombineerd naar {OUTPUT_FILE}!", flush=True)
 

@@ -112,7 +112,8 @@ def load_full_combined() -> list:
 
 
 def _normalize_kenteken(value: Any) -> str:
-    return str(value or "").strip().replace("-", "").replace(" ", "").upper()
+    # Exact match including dashes: "02-WHDX" and "02-WH-DX" are different kentekens.
+    return str(value or "").strip().upper()
 
 
 def _kentekens_by_record(records: list) -> dict[str, dict[str, Any]]:
@@ -158,7 +159,9 @@ def compare_with_full_combined(vehicles: list) -> None:
         }
         print(f"Verschil voor {combined_record.get('kenteken')}:")
         for key in sorted(changed_keys):
-            print(f"  {key}: API={api_record.get(key)!r} FullCombined={combined_record.get(key)!r}")
+            api_value = json.dumps(api_record.get(key), ensure_ascii=False)
+            combined_value = json.dumps(combined_record.get(key), ensure_ascii=False)
+            print(f"  {key}: API={api_value} FullCombined={combined_value}")
 
     # Full combined is leading: (re)push records missing from the API and records with different values.
     pushed = 0
