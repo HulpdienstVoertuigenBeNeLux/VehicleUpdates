@@ -41,6 +41,8 @@ jobs:
           DISCORD_APK: ${{ secrets.DISCORD_APK }}
           RDW_API_CHANGES_WEBHOOK: ${{ secrets.RDW_API_CHANGES_WEBHOOK }}
           RDW_APP_TOKEN: ${{ secrets.RDW_APP_TOKEN }}
+          HVNBL_RDW_API_KEY: ${{ secrets.HVNBL_RDW_API_KEY }}
+          DISCORD_WEBHOOK_URL_RDW_API_PUSH: ${{ secrets.DISCORD_WEBHOOK_URL_RDW_API_PUSH }}
         run: |
           git pull
           python compare_hulpdienstvoertuigenbenelux.py ALL
@@ -49,6 +51,7 @@ jobs:
           python check_duplicates.py
           python fetch_rdw_subdata.py
           python combine_data.py
+          python extra_scripts/rdw_push.py
 
       - name: Commit and push changes
         run: |

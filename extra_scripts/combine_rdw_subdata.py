@@ -24,6 +24,10 @@ SUBDATA_FILES = {
     "voertuigklasse": os.path.join(STORAGE_DIR, "rdw_voertuigklasse.json"),
 }
 
+# The destination API truncates field/column names longer than this, so keys are
+# shortened here to match and stay unique.
+MAX_KEY_LENGTH = 60
+
 
 def load_json(filepath: str) -> Any:
     if not os.path.exists(filepath):
@@ -69,12 +73,31 @@ def _normalize_raw(raw_data: Any) -> dict[str, dict[str, Any]]:
     return {}
 
 
+def _unique_truncate(key: str, existing: dict[str, Any], max_length: int) -> str:
+    """Shorten key to max_length, appending a numeric suffix if that collides with an existing key."""
+    if len(key) <= max_length:
+        return key
+
+    truncated = key[:max_length]
+    if truncated not in existing:
+        return truncated
+
+    suffix = 1
+    while True:
+        suffix_str = f"~{suffix}"
+        candidate = key[: max_length - len(suffix_str)] + suffix_str
+        if candidate not in existing:
+            return candidate
+        suffix += 1
+
+
 def _flatten_records(name: str, records: list[dict[str, Any]]) -> dict[str, Any]:
     """Turn a list of sub-data records into numbered scalar fields, e.g. assen_1_hefas."""
     flat: dict[str, Any] = {}
     for index, record in enumerate(records, start=1):
         for key, value in record.items():
-            flat[f"{name}_{index}_{key}"] = value
+            full_key = f"{name}_{index}_{key}"
+            flat[_unique_truncate(full_key, flat, MAX_KEY_LENGTH)] = value
     return flat
 
 
