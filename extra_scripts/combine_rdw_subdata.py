@@ -13,8 +13,15 @@ from typing import Any
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(BASE_DIR)
 STORAGE_DIR = os.path.join(PROJECT_ROOT, "storage")
+RAW_DIR = os.path.join(PROJECT_ROOT, "raw")
 RDW_RAW_FILE = os.path.join(STORAGE_DIR, "rdw_raw.json")
 OUTPUT_FILE = os.path.join(STORAGE_DIR, "rdw_full_combined.json")
+
+# Source file where kentekens are stored in their original, correctly dashed format.
+# Only the NL source has RDW data; BE/DE/LUX vehicles aren't Dutch-registered.
+HULPDIENST_RAW_FILES = [
+    os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_raw.json"),
+]
 
 SUBDATA_FILES = {
     "brandstof": os.path.join(STORAGE_DIR, "rdw_brandstof.json"),
@@ -58,6 +65,27 @@ def _format_kenteken(kenteken: str) -> str:
         else:
             groups.append(char)
     return "-".join(groups)
+
+
+def _normalize_kenteken(kenteken: str) -> str:
+    return str(kenteken or "").replace("-", "").replace(" ", "").upper()
+
+
+def _load_original_kentekens() -> dict[str, str]:
+    """Map normalized (dashless) kenteken -> original kenteken as scraped, dashes included."""
+    original_by_normalized: dict[str, str] = {}
+    for filepath in HULPDIENST_RAW_FILES:
+        data = load_json(filepath)
+        if not isinstance(data, list):
+            continue
+        for item in data:
+            if not isinstance(item, dict):
+                continue
+            original = str(item.get("Kenteken", "")).strip()
+            if not original:
+                continue
+            original_by_normalized[_normalize_kenteken(original)] = original
+    return original_by_normalized
 
 
 def _normalize_raw(raw_data: Any) -> dict[str, dict[str, Any]]:
@@ -120,6 +148,8 @@ def run() -> None:
         print(f"Kan {RDW_RAW_FILE} niet vinden of het bestand is leeg.", flush=True)
         return
 
+    original_kentekens = _load_original_kentekens()
+
     subdata_grouped = {
         name: _group_by_kenteken(load_json(path))
         for name, path in SUBDATA_FILES.items()
@@ -129,7 +159,9 @@ def run() -> None:
     for kenteken, base in raw_map.items():
         # Drop the API links since the actual sub-data is embedded below.
         entry = {k: v for k, v in base.items() if not k.startswith("api_gekentekende_voertuigen")}
-        entry["kenteken"] = _format_kenteken(kenteken)
+        normalized = _normalize_kenteken(kenteken)
+        # Prefer the original scraped kenteken (correct dashes) over re-deriving them.
+        entry["kenteken"] = original_kentekens.get(normalized) or _format_kenteken(kenteken)
         for name, grouped in subdata_grouped.items():
             entry.update(_flatten_records(name, grouped.get(kenteken, [])))
         combined.append(entry)
