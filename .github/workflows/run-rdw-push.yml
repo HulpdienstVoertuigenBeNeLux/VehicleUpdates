@@ -27,4 +27,5 @@ jobs:
           HVNBL_RDW_API_KEY: ${{ secrets.HVNBL_RDW_API_KEY }}
           DISCORD_WEBHOOK_URL_RDW_API_PUSH: ${{ secrets.DISCORD_WEBHOOK_URL_RDW_API_PUSH }}
         run: |
+          python extra_scripts/combine_rdw_subdata.py
           python extra_scripts/rdw_push.py
