@@ -127,6 +127,15 @@ def _kentekens_by_record(records: list) -> dict[str, dict[str, Any]]:
     return result
 
 
+def _normalize_value(value: Any) -> Any:
+    # The API returns "null" or "0" as a coerced default for empty numeric fields, treat those like None.
+    if value is None or (isinstance(value, str) and value.strip().lower() == "null"):
+        return None
+    if not isinstance(value, bool) and isinstance(value, (int, float, str)) and str(value).strip() == "0":
+        return None
+    return value
+
+
 def compare_with_full_combined(vehicles: list) -> None:
     api_by_kenteken = _kentekens_by_record(vehicles)
     combined_by_kenteken = _kentekens_by_record(load_full_combined())
@@ -137,13 +146,19 @@ def compare_with_full_combined(vehicles: list) -> None:
 
     same = 0
     different_kentekens: set[str] = set()
+    diffs_by_kenteken: dict[str, set[str]] = {}
     for kenteken in shared:
         api_record = api_by_kenteken[kenteken]
         combined_record = combined_by_kenteken[kenteken]
-        if api_record == combined_record:
-            same += 1
-        else:
+        changed_keys = {
+            key for key in set(api_record) | set(combined_record)
+            if _normalize_value(api_record.get(key)) != _normalize_value(combined_record.get(key))
+        }
+        if changed_keys:
             different_kentekens.add(kenteken)
+            diffs_by_kenteken[kenteken] = changed_keys
+        else:
+            same += 1
 
     print(f"Zelfde in beide: {same}")
     print(f"Verschillend (zelfde kenteken, andere waarden): {len(different_kentekens)}")
@@ -153,15 +168,13 @@ def compare_with_full_combined(vehicles: list) -> None:
     for kenteken in sorted(different_kentekens):
         api_record = api_by_kenteken[kenteken]
         combined_record = combined_by_kenteken[kenteken]
-        changed_keys = {
-            key for key in set(api_record) | set(combined_record)
-            if api_record.get(key) != combined_record.get(key)
-        }
         print(f"Verschil voor {combined_record.get('kenteken')}:")
-        for key in sorted(changed_keys):
-            api_value = json.dumps(api_record.get(key), ensure_ascii=False)
-            combined_value = json.dumps(combined_record.get(key), ensure_ascii=False)
-            print(f"  {key}: API={api_value} FullCombined={combined_value}")
+        for key in sorted(diffs_by_kenteken[kenteken]):
+            api_value = api_record.get(key)
+            combined_value = combined_record.get(key)
+            api_display = json.dumps("null" if api_value is None else api_value, ensure_ascii=False)
+            combined_display = json.dumps("null" if combined_value is None else combined_value, ensure_ascii=False)
+            print(f"  {key}: API={api_display} FullCombined={combined_display}")
 
     # Full combined is leading: (re)push records missing from the API and records with different values.
     pushed = 0
