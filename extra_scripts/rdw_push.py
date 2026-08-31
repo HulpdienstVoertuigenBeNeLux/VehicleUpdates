@@ -21,9 +21,17 @@ DISCORD_EMBED_DESCRIPTION_LIMIT = 4096
 
 
 def fetch_vehicles() -> list:
-    response = requests.get(API_URL, timeout=REQUEST_TIMEOUT_SECONDS)
-    response.raise_for_status()
-    return response.json()
+    last_error: Exception | None = None
+    for attempt in range(1, 3):
+        try:
+            response = requests.get(API_URL, timeout=REQUEST_TIMEOUT_SECONDS)
+            response.raise_for_status()
+            return response.json()
+        except (requests.RequestException, requests.exceptions.JSONDecodeError) as exc:
+            last_error = exc
+            print(f"Ophalen mislukt (poging {attempt}/2): {exc}")
+
+    raise RuntimeError(f"Ophalen van {API_URL} definitief mislukt: {last_error}") from last_error
 
 
 def push_vehicle(record: dict[str, Any]) -> None:
@@ -31,6 +39,30 @@ def push_vehicle(record: dict[str, Any]) -> None:
     headers = {"X-RDW-API-Key": api_key}
     response = requests.post(API_URL, headers=headers, json=record, timeout=REQUEST_TIMEOUT_SECONDS)
     response.raise_for_status()
+
+
+def notify_fetch_failure(error: str) -> None:
+    webhook_url = os.getenv("DISCORD_WEBHOOK_URL_RDW_API_PUSH", "")
+    if not webhook_url:
+        print(f"Discord notificatie overgeslagen: geen webhook URL ({error})")
+        return
+
+    payload = {
+        "username": "HulpdienstVoertuigenBeNeLux RDW Push",
+        "embeds": [
+            {
+                "title": "RDW push: ophalen mislukt",
+                "description": _strip_url(error)[:DISCORD_EMBED_DESCRIPTION_LIMIT],
+                "color": RED_COLOR,
+            }
+        ],
+    }
+    try:
+        requests.post(webhook_url, json=payload, timeout=10)
+    except requests.RequestException as exc:
+        print(f"Discord notificatie mislukt: {exc}")
+    finally:
+        time.sleep(10)
 
 
 def notify_push_summary(pushed: int, failures: list[tuple[str, str]]) -> None:
@@ -146,8 +178,19 @@ def compare_with_full_combined(vehicles: list) -> None:
 
 
 def run() -> None:
-    vehicles = fetch_vehicles()
+    try:
+        vehicles = fetch_vehicles()
+    except RuntimeError as exc:
+        print(str(exc))
+        notify_fetch_failure(str(exc))
+        return
+
     print(f"Opgehaald: {len(vehicles)} voertuigen van {API_URL}")
+    if not vehicles:
+        message = f"Lege lijst ontvangen van {API_URL}, sync overgeslagen (niets gepusht)."
+        print(message)
+        notify_fetch_failure(message)
+        return
     compare_with_full_combined(vehicles)
 
 
