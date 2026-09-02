@@ -92706,19 +92706,6 @@
     "last_tenaamstelling_check_date": "2026-08-31",
     "aantal_zitplaatsen": "5"
   },
-  "15-BGT-6": {
-    "expiry": "2027-08-02",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "06-2631"
-    ],
-    "last_check_date": "2026-08-03",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2016-02-01",
-    "last_tenaamstelling_check_date": "2026-08-31",
-    "aantal_zitplaatsen": "8"
-  },
   "TN-504-K": {
     "expiry": "2026-11-26",
     "checked": true,
@@ -106718,5 +106705,18 @@
     "datum_tenaamstelling_dt": "2025-10-02",
     "last_tenaamstelling_check_date": "2026-09-02",
     "aantal_zitplaatsen": "5"
+  },
+  "BD-219-V": {
+    "expiry": "2027-08-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "06-2631"
+    ],
+    "last_check_date": "2026-09-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-08-25",
+    "last_tenaamstelling_check_date": "2026-09-02",
+    "aantal_zitplaatsen": "7"
   }
 }
