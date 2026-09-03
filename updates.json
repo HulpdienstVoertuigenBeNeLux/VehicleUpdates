@@ -1,8 +1,31 @@
 [
   {
     "date": "2026-09-03",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "7 - Gelderland-Midden (VGGM",
+        "Description": "36-0449 NRV toegevoegd aan Arnhem",
+        "Time": "03-09-2026 13:00:19"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid VRGZ)",
+        "Description": "08-9721 GPH verwijderd van Nijmegen Centrum",
+        "Time": "03-09-2026 13:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid VRGZ)",
+        "Description": "08-9667 BMH-GW verwijderd van Nijmegen West",
+        "Time": "03-09-2026 13:00:19"
+      }
+    ],
     "changed": []
   },
   {
