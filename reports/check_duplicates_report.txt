@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 10,971  (of 17,121 total)
+  Records checked : 10,983  (of 17,134 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  4 value(s) affected
+  Duplicate Roepnummer  --  7 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -52,6 +52,36 @@
       Adres       : Air Ambulance & Medical Repatriation Winterswijk
       Hulpdienst  : Ambulance
       Roepnummer  : 1
+      Kenteken    : ONBEKEND
+
+  >> '10-6301'  (2x)
+      Adres       : Petten
+      Hulpdienst  : Brandweer
+      Roepnummer  : 10-6301
+      Kenteken    : ONBEKEND
+      Adres       : Petten
+      Hulpdienst  : Brandweer
+      Roepnummer  : 10-6301
+      Kenteken    : ONBEKEND
+
+  >> '10-6331'  (2x)
+      Adres       : Petten
+      Hulpdienst  : Brandweer
+      Roepnummer  : 10-6331
+      Kenteken    : ONBEKEND
+      Adres       : Petten
+      Hulpdienst  : Brandweer
+      Roepnummer  : 10-6331
+      Kenteken    : ONBEKEND
+
+  >> '10-6332'  (2x)
+      Adres       : Petten
+      Hulpdienst  : Brandweer
+      Roepnummer  : 10-6332
+      Kenteken    : ONBEKEND
+      Adres       : Petten
+      Hulpdienst  : Brandweer
+      Roepnummer  : 10-6332
       Kenteken    : ONBEKEND
 
 --------------------------------------------------------------------------------
@@ -7782,7 +7812,7 @@
   Region: LUX
 ================================================================================
 
-  Records checked : 0  (of 1,444 total)
+  Records checked : 0  (of 1,445 total)
   Roepnummer     : no duplicates
   Kenteken       : no duplicates
 
