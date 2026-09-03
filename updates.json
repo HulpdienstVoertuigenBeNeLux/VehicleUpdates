@@ -43,6 +43,48 @@
         "Regio": "10 - Noord-Holland-Noord (VRNHN)",
         "Description": "10-6381 VKT-NB toegevoegd aan Petten",
         "Time": "03-09-2026 16:00:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen",
+        "Description": "419 777 HA-KR toegevoegd aan Zelzate",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg",
+        "Description": "D124 PM toegevoegd aan Marche-en-Famenne",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg",
+        "Description": "P909 CCFM toegevoegd aan Marche-en-Famenne",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Feuerwehr",
+        "Regio": "Central Rescue Zone",
+        "Description": " OO toegevoegd aan Luxembourg",
+        "Time": "03-09-2026 17:01:44"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "  toegevoegd aan ",
+        "Time": "03-09-2026 17:01:44"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Feuerwehr",
+        "Regio": "Eastern Rescue Zone",
+        "Description": " DA toegevoegd aan Remich",
+        "Time": "03-09-2026 17:01:44"
       }
     ],
     "removed": [
@@ -80,9 +122,108 @@
         "Regio": "19 - Zeeland (VRZ)",
         "Description": "RSG219 RBV-WSC verwijderd van Nieuwvliet",
         "Time": "03-09-2026 14:00:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg",
+        "Description": "P609 HZA verwijderd van Marche-en-Famenne",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg",
+        "Description": "L909 CCFM verwijderd van Marche-en-Famenne",
+        "Time": "03-09-2026 17:00:59"
       }
     ],
-    "changed": []
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-8101: Adres van 'Almere Poort' naar 'Almere Buiten' aangepast",
+        "Time": "03-09-2026 17:00:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "L116: Adres van 'Oostkamp' naar 'Marche-en-Famenne' aangepast",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "S120: Adres van 'Torhout' naar 'Marche-en-Famenne' aangepast",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "S120: Afkorting van 'DB' naar 'SH' aangepast",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "S120: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Snelle Hulpwagem' aangepast",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "V406: Adres van 'Herve' naar 'Marche-en-Famenne' aangepast",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "E409: Adres van 'Wervik' naar 'Marche-en-Famenne' aangepast",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "E409: Afkorting van 'HW 32' naar 'LW 30' aangepast",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "E409: TypeVoertuig van 'Hoogwerker' naar 'Ladderwagen' aangepast",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "P209: Adres van 'Grivegnée' naar 'Marche-en-Famenne' aangepast",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "P209: Afkorting van 'ZA' naar 'HZA' aangepast",
+        "Time": "03-09-2026 17:00:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik",
+        "Description": "P209: TypeVoertuig van 'Zware Autopomp' naar 'Halfzware Autopomp' aangepast",
+        "Time": "03-09-2026 17:00:59"
+      }
+    ]
   },
   {
     "date": "2026-09-02",
