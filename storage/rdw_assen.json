@@ -16216,48 +16216,6 @@
     "technisch_toegestane_maximum_aslast": "1680"
   },
   {
-    "kenteken": "30BLK5",
-    "as_nummer": "1",
-    "aantal_assen": "4",
-    "aangedreven_as": "N",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "wettelijk_toegestane_maximum_aslast": "9000",
-    "technisch_toegestane_maximum_aslast": "9000"
-  },
-  {
-    "kenteken": "30BLK5",
-    "as_nummer": "2",
-    "aantal_assen": "4",
-    "aangedreven_as": "N",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "wettelijk_toegestane_maximum_aslast": "9000",
-    "technisch_toegestane_maximum_aslast": "9000"
-  },
-  {
-    "kenteken": "30BLK5",
-    "as_nummer": "3",
-    "aantal_assen": "4",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "weggedrag_code": "G",
-    "wettelijk_toegestane_maximum_aslast": "9500",
-    "technisch_toegestane_maximum_aslast": "13000"
-  },
-  {
-    "kenteken": "30BLK5",
-    "as_nummer": "4",
-    "aantal_assen": "4",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "weggedrag_code": "G",
-    "wettelijk_toegestane_maximum_aslast": "9500",
-    "technisch_toegestane_maximum_aslast": "13000"
-  },
-  {
     "kenteken": "30BBH9",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -16433,6 +16391,48 @@
     "weggedrag_code": "G",
     "wettelijk_toegestane_maximum_aslast": "10900",
     "technisch_toegestane_maximum_aslast": "10900"
+  },
+  {
+    "kenteken": "30BLK5",
+    "as_nummer": "1",
+    "aantal_assen": "4",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "9000",
+    "technisch_toegestane_maximum_aslast": "9000"
+  },
+  {
+    "kenteken": "30BLK5",
+    "as_nummer": "2",
+    "aantal_assen": "4",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "9000",
+    "technisch_toegestane_maximum_aslast": "9000"
+  },
+  {
+    "kenteken": "30BLK5",
+    "as_nummer": "3",
+    "aantal_assen": "4",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "9500",
+    "technisch_toegestane_maximum_aslast": "13000"
+  },
+  {
+    "kenteken": "30BLK5",
+    "as_nummer": "4",
+    "aantal_assen": "4",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "9500",
+    "technisch_toegestane_maximum_aslast": "13000"
   },
   {
     "kenteken": "30BLR5",
@@ -130803,6 +130803,27 @@
     "no_data": true
   },
   {
+    "kenteken": "V51NDP",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "157",
+    "wettelijk_toegestane_maximum_aslast": "1200",
+    "technisch_toegestane_maximum_aslast": "1200",
+    "afstand_tot_volgende_as_voertuig": "276"
+  },
+  {
+    "kenteken": "V51NDP",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "160",
+    "wettelijk_toegestane_maximum_aslast": "1410",
+    "technisch_toegestane_maximum_aslast": "1410"
+  },
+  {
     "kenteken": "V018FN",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -133609,27 +133630,6 @@
     "spoorbreedte": "172",
     "wettelijk_toegestane_maximum_aslast": "2250",
     "technisch_toegestane_maximum_aslast": "2250"
-  },
-  {
-    "kenteken": "V44NBH",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "plaatscode_as": "V",
-    "spoorbreedte": "173",
-    "wettelijk_toegestane_maximum_aslast": "1700",
-    "technisch_toegestane_maximum_aslast": "1700",
-    "afstand_tot_volgende_as_voertuig": "350"
-  },
-  {
-    "kenteken": "V44NBH",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "plaatscode_as": "A",
-    "spoorbreedte": "172",
-    "wettelijk_toegestane_maximum_aslast": "1850",
-    "technisch_toegestane_maximum_aslast": "1850"
   },
   {
     "kenteken": "V44PGT",

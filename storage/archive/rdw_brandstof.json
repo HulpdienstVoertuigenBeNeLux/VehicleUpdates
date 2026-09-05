@@ -699,5 +699,33 @@
     "toerental_geluidsniveau": "1725",
     "uitlaatemissieniveau": "EURO VI D",
     "co2_emissieklasse": "1"
+  },
+  {
+    "kenteken": "V44NBH",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EA",
+    "nominaal_continu_maximumvermogen": "63.50",
+    "elektrisch_verbruik_extern_opladen_wltp": "198.00",
+    "actie_radius_extern_opladen_wltp": "52",
+    "netto_max_vermogen_elektrisch": "111.70",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EA"
+  },
+  {
+    "kenteken": "V44NBH",
+    "brandstof_volgnummer": "2",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_rijdend": "70",
+    "geluidsniveau_stationair": "76",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EA",
+    "nettomaximumvermogen": "86.50",
+    "toerental_geluidsniveau": "2140",
+    "emis_co2_gewogen_gecombineerd_wltp": "39",
+    "brandstof_verbruik_gewogen_gecombineerd_wltp": "1.700",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EA"
   }
 ]
