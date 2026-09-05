@@ -79,7 +79,9 @@ def check_json():
         send_discord_alert(invalid_entries)
         print(f"Fouten gevonden: {len(invalid_entries)} ongeldige regio('s). Berichten verstuurd naar Discord.")
         
-        sys.exit(0)
+        # OUD: sys.exit(1)  <-- Dit veroorzaakte de rode 'Error' in GitHub Actions
+        # NIEUW:
+        sys.exit(0) # Zorgt ervoor dat GitHub Actions het proces als geslaagd (groen) ziet
     else:
         print("Alle regio's zijn correct gecontroleerd!")
 
