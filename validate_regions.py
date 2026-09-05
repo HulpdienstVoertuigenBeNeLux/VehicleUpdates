@@ -4,6 +4,7 @@ import sys
 import time
 import requests
 
+# LIJST MET UITSLUITEND EXACT CORRECTE REGIO'S
 VALID_REGIONS = {
     "Alle Regio's",
     "1 - Groningen (VRG)",
@@ -14,7 +15,6 @@ VALID_REGIONS = {
     "6 - Noord- en Oost-Gelderland (VNOG)",
     "7 - Gelderland-Midden (VGGM)",
     "8 - Gelderland-Zuid (VRGZ)",
-    "8 - Gelderland-Zuid VRGZ)",
     "9 - Utrecht (VRU)",
     "10 - Noord-Holland-Noord (VRNHN)",
     "11 - Zaanstreek-Waterland (VRZW)",
@@ -42,7 +42,7 @@ VALID_REGIONS = {
 }
 
 FILE_PATH = "raw/hulpdienstvoertuigenbenelux_raw.json"
-WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL_REGIONS")
+WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL_REGIONS") or os.getenv("DISCORD_WEBHOOK_URL")
 
 def check_json():
     if not os.path.exists(FILE_PATH):
@@ -57,12 +57,16 @@ def check_json():
 
     for index, item in enumerate(items):
         if isinstance(item, dict):
-            regio = item.get("Regio")
+            regio_raw = item.get("Regio")
             
-            # Sla over als de regio niet aanwezig is, None is, of een lege tekst is
-            if regio is None or str(regio).strip() == "":
+            # Sla over als Regio niet ingesteld is, None is, of leeg is
+            if regio_raw is None or str(regio_raw).strip() == "":
                 continue
 
+            # Haal spaties/newlines aan het begin en einde weg
+            regio = str(regio_raw).strip()
+
+            # Controleer of de regio exact klopt
             if regio not in VALID_REGIONS:
                 invalid_entries.append({
                     "index": index,
@@ -83,7 +87,6 @@ def send_discord_alert(errors):
         print("Geen Discord Webhook URL ingesteld.")
         return
 
-    # Verdeel fouten in groepjes van 10 per Discord bericht
     chunk_size = 10
     for i in range(0, len(errors), chunk_size):
         chunk = errors[i:i + chunk_size]
@@ -104,9 +107,11 @@ def send_discord_alert(errors):
         }
 
         payload = {"embeds": [embed]}
-        requests.post(WEBHOOK_URL, json=payload)
-        
-        # Wacht 2 seconden om Discord rate limits te voorkomen
+        try:
+            requests.post(WEBHOOK_URL, json=payload)
+        except Exception as e:
+            print(f"Fout bij versturen naar Discord: {e}")
+            
         time.sleep(2)
 
 if __name__ == "__main__":
