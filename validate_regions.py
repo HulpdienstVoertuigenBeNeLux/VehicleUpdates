@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+import time
 import requests
 
 VALID_REGIONS = {
@@ -41,7 +42,7 @@ VALID_REGIONS = {
 }
 
 FILE_PATH = "raw/hulpdienstvoertuigenbenelux_raw.json"
-WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
+WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL_REGIONS")
 
 def check_json():
     if not os.path.exists(FILE_PATH):
@@ -77,26 +78,31 @@ def send_discord_alert(errors):
         print("Geen Discord Webhook URL ingesteld.")
         return
 
-    fields = []
-    for err in errors[:10]: # Maximaal 10 fouten per bericht om Discord-limieten te voorkomen
-        fields.append({
-            "name": f"Item #{err['index']} - Roepnummer: {err['roepnummer']}",
-            "value": f"**Foutieve Regio:** `{err['regio']}`\n**Adres:** {err['adres']}",
-            "inline": False
-        })
+    # Verdeel fouten in groepjes van 10 per Discord bericht
+    chunk_size = 10
+    for i in range(0, len(errors), chunk_size):
+        chunk = errors[i:i + chunk_size]
+        
+        fields = []
+        for err in chunk:
+            fields.append({
+                "name": f"Item #{err['index']} - Roepnummer: {err['roepnummer']}",
+                "value": f"**Foutieve Regio:** `{err['regio']}`\n**Adres:** {err['adres']}",
+                "inline": False
+            })
 
-    embed = {
-        "title": "🚨 Foutieve Regio Gevonden!",
-        "description": f"Er zijn **{len(errors)}** items met een ongeldige regio gevonden in `{FILE_PATH}`.",
-        "color": 15158332,
-        "fields": fields
-    }
+        embed = {
+            "title": f"🚨 Foutieve Regio Gevonden ({i + 1} t/m {min(i + chunk_size, len(errors))} van {len(errors)})",
+            "description": f"Bestand: `{FILE_PATH}`",
+            "color": 15158332,
+            "fields": fields
+        }
 
-    if len(errors) > 10:
-        embed["footer"] = {"text": f"En nog {len(errors) - 10} andere fouten..."}
-
-    payload = {"embeds": [embed]}
-    requests.post(WEBHOOK_URL, json=payload)
+        payload = {"embeds": [embed]}
+        requests.post(WEBHOOK_URL, json=payload)
+        
+        # Wacht 2 seconden om Discord rate limits te voorkomen
+        time.sleep(2)
 
 if __name__ == "__main__":
     check_json()
