@@ -1,0 +1,27 @@
+name: Validate Regions JSON
+
+on:
+  push:
+    paths:
+      - 'raw/hulpdienstvoertuigenbenelux_raw.json'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code ophalen
+        uses: actions/checkout@v4
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Afhankelijkheden installeren
+        run: pip install requests
+
+      - name: Controle uitvoeren
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_REGIONS }}
+        run: python validate_regions.py
