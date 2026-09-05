@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 10,979  (of 17,129 total)
+  Records checked : 11,019  (of 17,172 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  4 value(s) affected
+  Duplicate Roepnummer  --  5 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -54,6 +54,20 @@
       Roepnummer  : 1
       Kenteken    : ONBEKEND
 
+  >> 'Sanquin Utrecht'  (3x)
+      Adres       : Utrecht
+      Hulpdienst  : Rode Kruis
+      Roepnummer  : Sanquin Utrecht
+      Kenteken    : 
+      Adres       : Utrecht
+      Hulpdienst  : Rode Kruis
+      Roepnummer  : Sanquin Utrecht
+      Kenteken    : 
+      Adres       : Utrecht
+      Hulpdienst  : Rode Kruis
+      Roepnummer  : Sanquin Utrecht
+      Kenteken    : 
+
 --------------------------------------------------------------------------------
   Duplicate Kenteken  --  2 value(s) affected
 --------------------------------------------------------------------------------
@@ -82,7 +96,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,870  (of 9,495 total)
+  Records checked : 6,870  (of 9,491 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  536 value(s) affected
@@ -1337,7 +1351,7 @@
       Kenteken    : 
 
   >> 'ANTW ZUID'  (3x)
-      Adres       : FA HVP ANTW [Zuid] Antwerpen, Antwerpen
+      Adres       : Antwerpen
       Hulpdienst  : Ambulance
       Roepnummer  : ANTW ZUID
       Kenteken    : 
