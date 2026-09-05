@@ -96,10 +96,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,870  (of 9,491 total)
+  Records checked : 6,870  (of 9,484 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  536 value(s) affected
+  Duplicate Roepnummer  --  540 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -3576,6 +3576,16 @@
       Roepnummer  : E405
       Kenteken    : 
 
+  >> 'E409'  (2x)
+      Adres       : Wervik
+      Hulpdienst  : Brandweer
+      Roepnummer  : E409
+      Kenteken    : 
+      Adres       : Marche-en-Famenne
+      Hulpdienst  : Brandweer
+      Roepnummer  : E409
+      Kenteken    : 
+
   >> 'E41'  (5x)
       Adres       : Lanaken
       Hulpdienst  : Brandweer
@@ -4032,6 +4042,16 @@
       Adres       : Virton
       Hulpdienst  : Brandweer
       Roepnummer  : L114
+      Kenteken    : 
+
+  >> 'L116'  (2x)
+      Adres       : Oostkamp
+      Hulpdienst  : Brandweer
+      Roepnummer  : L116
+      Kenteken    : 
+      Adres       : Marche-en-Famenne
+      Hulpdienst  : Brandweer
+      Roepnummer  : L116
       Kenteken    : 
 
   >> 'L119'  (2x)
@@ -5046,6 +5066,16 @@
       Roepnummer  : P206
       Kenteken    : 
 
+  >> 'P209'  (2x)
+      Adres       : Grivegnée
+      Hulpdienst  : Brandweer
+      Roepnummer  : P209
+      Kenteken    : 
+      Adres       : Marche-en-Famenne
+      Hulpdienst  : Brandweer
+      Roepnummer  : P209
+      Kenteken    : 
+
   >> 'P21'  (3x)
       Adres       : Aarschot
       Hulpdienst  : Brandweer
@@ -5796,6 +5826,16 @@
       Adres       : Stekene
       Hulpdienst  : Brandweer
       Roepnummer  : S12
+      Kenteken    : 
+
+  >> 'S120'  (2x)
+      Adres       : Torhout
+      Hulpdienst  : Brandweer
+      Roepnummer  : S120
+      Kenteken    : 
+      Adres       : Marche-en-Famenne
+      Hulpdienst  : Brandweer
+      Roepnummer  : S120
       Kenteken    : 
 
   >> 'S13'  (2x)
@@ -7238,12 +7278,16 @@
       Roepnummer  : V405
       Kenteken    : 
 
-  >> 'V406'  (2x)
+  >> 'V406'  (3x)
       Adres       : Poperinge
       Hulpdienst  : Brandweer
       Roepnummer  : V406
       Kenteken    : 
       Adres       : Herve
+      Hulpdienst  : Brandweer
+      Roepnummer  : V406
+      Kenteken    : 
+      Adres       : Marche-en-Famenne
       Hulpdienst  : Brandweer
       Roepnummer  : V406
       Kenteken    : 
