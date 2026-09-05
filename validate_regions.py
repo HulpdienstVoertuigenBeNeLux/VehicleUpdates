@@ -58,6 +58,11 @@ def check_json():
     for index, item in enumerate(items):
         if isinstance(item, dict):
             regio = item.get("Regio")
+            
+            # Sla over als de regio niet aanwezig is, None is, of een lege tekst is
+            if regio is None or str(regio).strip() == "":
+                continue
+
             if regio not in VALID_REGIONS:
                 invalid_entries.append({
                     "index": index,
