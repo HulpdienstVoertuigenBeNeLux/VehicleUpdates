@@ -13,7 +13,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(BASE_DIR)
 FULL_COMBINED_FILE = os.path.join(PROJECT_ROOT, "storage", "rdw_full_combined.json")
 
-API_URL = "https://development.hulpdienstvoertuigenbenelux.nl/api/rdw/vehicles"
+API_URL = "https://hulpdienstvoertuigenbenelux.nl/api/rdw/vehicles"
 REQUEST_TIMEOUT_SECONDS = 30
 RED_COLOR = 15158332
 GREEN_COLOR = 3066993
