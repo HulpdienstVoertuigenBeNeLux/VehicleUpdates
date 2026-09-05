@@ -23,5 +23,5 @@ jobs:
 
       - name: Controle uitvoeren
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_REGIONS }}
+          DISCORD_WEBHOOK_URL_REGIONS: ${{ secrets.DISCORD_WEBHOOK_URL_REGIONS }}
         run: python validate_regions.py
