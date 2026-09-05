@@ -94566,7 +94566,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "GEEN"
+      "08-993"
     ],
     "last_check_date": "2026-09-04",
     "last_expired_notification_date": null,
@@ -94578,7 +94578,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "08-993"
+      "GEEN"
     ],
     "last_check_date": "2026-09-04",
     "last_expired_notification_date": null,
@@ -106619,5 +106619,18 @@
     "datum_tenaamstelling_dt": "2026-08-17",
     "last_tenaamstelling_check_date": "2026-09-02",
     "aantal_zitplaatsen": "5"
+  },
+  "KVF-69-H": {
+    "expiry": "2027-08-28",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "18-194"
+    ],
+    "last_check_date": "2026-09-05",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-08-28",
+    "last_tenaamstelling_check_date": "2026-09-05",
+    "aantal_zitplaatsen": "4"
   }
 }
