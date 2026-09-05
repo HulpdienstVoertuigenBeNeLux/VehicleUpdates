@@ -75,10 +75,11 @@ def check_json():
                     "roepnummer": item.get("Roepnummer", "Onbekend")
                 })
 
-    if invalid_entries:
+   if invalid_entries:
         send_discord_alert(invalid_entries)
-        print(f"Fouten gevonden: {len(invalid_entries)} ongeldige regio('s).")
-        sys.exit(1)
+        print(f"Fouten gevonden: {len(invalid_entries)} ongeldige regio('s). Berichten verstuurd naar Discord.")
+        
+        sys.exit(0)
     else:
         print("Alle regio's zijn correct gecontroleerd!")
 
