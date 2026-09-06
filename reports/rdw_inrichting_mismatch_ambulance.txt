@@ -5,9 +5,9 @@
 ----------------------------------------------------------------------------------------
   Ambulance
 ----------------------------------------------------------------------------------------
-  HulpdienstvoertuigenBenelux : 1652
+  HulpdienstvoertuigenBenelux : 1654
   RDW inrichting dataset      : 1357
-  Missing in RDW              : 621
+  Missing in RDW              : 623
   Extra in RDW                : 326
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
@@ -614,6 +614,8 @@
   - Z031PX
   - Z389GK
   - Z396BP
+  - Z399BP
+  - Z401BP
   - Z639SZ
   - Z710DN
   - Z789FZ

@@ -5,14 +5,15 @@
 ----------------------------------------------------------------------------------------
   Brandweer
 ----------------------------------------------------------------------------------------
-  HulpdienstvoertuigenBenelux : 5687
+  HulpdienstvoertuigenBenelux : 5700
   RDW inrichting dataset      : 2578
-  Missing in RDW              : 3513
-  Extra in RDW                : 404
+  Missing in RDW              : 3524
+  Extra in RDW                : 402
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
   - 0022YK
   - 0023YK
+  - 0024YK
   - 0025YK
   - 0036YV
   - 0037YV
@@ -33,7 +34,6 @@
   - 01BPP6
   - 01BVN7
   - 01DMX1
-  - 01SNF8
   - 01TNN2
   - 01ZRR5
   - 01ZXN5
@@ -60,6 +60,7 @@
   - 04BVK9
   - 04DMF7
   - 04DMX1
+  - 04WTFG
   - 05BDR1
   - 05BHZ9
   - 05BJV8
@@ -107,6 +108,7 @@
   - 11JTJ4
   - 11TNF7
   - 11WNRR
+  - 11WVJL
   - 11ZDH9
   - 1224YE
   - 12BHZ9
@@ -122,6 +124,7 @@
   - 13RPRJ
   - 13WFXF
   - 13WHVH
+  - 13WKSV
   - 13WNLJ
   - 13WNRR
   - 13ZDH9
@@ -467,6 +470,7 @@
   - 4VKT50
   - 4VRZ08
   - 4VTL62
+  - 4VTV34
   - 4XGX48
   - 4XRZ07
   - 4YH236
@@ -571,6 +575,7 @@
   - 5YD085
   - 5YG557
   - 5YG560
+  - 5YG573
   - 5ZLZ23
   - 5ZLZ28
   - 60BNJ7
@@ -638,6 +643,7 @@
   - 69BVZ2
   - 69BXV1
   - 69WFLJ
+  - 69WJVL
   - 69WTHJ
   - 6KJX10
   - 6KJX13
@@ -914,7 +920,6 @@
   - 9510YV
   - 9518YN
   - 9546YD
-  - 9587YN
   - 9596YV
   - 95BKK8
   - 95DMV9
@@ -922,6 +927,7 @@
   - 95KTX7
   - 95WJTG
   - 95WPTP
+  - 95WXPT
   - 95XTX5
   - 95ZTH9
   - 9612YN
@@ -1625,6 +1631,7 @@
   - J405SK
   - J406SK
   - J407SK
+  - J408SP
   - J432KF
   - J466JD
   - J467JD
@@ -1791,6 +1798,7 @@
   - JNN91L
   - JNP67G
   - JNS82P
+  - JRF09V
   - JRF10V
   - JRF11V
   - JRF12V
@@ -3266,6 +3274,8 @@
   - WP48PN
   - WP55HB
   - WPPX33
+  - WR19XT
+  - WRFZ35
   - WS29LV
   - WS30LV
   - WS31LV
@@ -3274,11 +3284,11 @@
   - WS35LV
   - WS68GP
   - WS69GP
+  - WSFT99
   - WSNN09
   - WTBX30
   - WTDL39
   - WTRN46
-  - WTZN41
   - WV38RR
   - WVFV73
   - WVFV76
@@ -3297,6 +3307,7 @@
   - WXPV78
   - WXTH15
   - WY15ZK
+  - WY83NB
   - WZ07RS
   - WZ82JZ
   - WZGR08
@@ -3713,7 +3724,6 @@
   - BPDJ04
   - BPDV98
   - BPFJ62
-  - BPFN88
   - BPFV72
   - BPHF06
   - BPJR61
@@ -3856,7 +3866,6 @@
   - BXLP08
   - BXLZ88
   - BXLZ89
-  - BXNB03
   - BXNB22
   - BXNB79
   - BXNL11

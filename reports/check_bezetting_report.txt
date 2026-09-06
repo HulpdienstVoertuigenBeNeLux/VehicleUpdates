@@ -1,26 +1,26 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                  : 17170
-  Records met parsebare bezetting : 3348
-  Vergeleken met RDW              : 3102
-  RDW data ontbreekt              : 246
+  Totaal records                  : 17185
+  Records met parsebare bezetting : 3349
+  Vergeleken met RDW              : 3104
+  RDW data ontbreekt              : 245
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 644
-  Bezetting > RDW zitplaatsen     : 346
+  Bezetting != RDW zitplaatsen    : 645
+  Bezetting > RDW zitplaatsen     : 347
   RDW zitplaatsen > bezetting     : 298
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
 ------------------------------------------------------------------------------------------
-   1 personen : 11
+   1 personen : 10
    2 personen : 146
-   3 personen : 44
-   4 personen : 105
-   5 personen : 785
+   3 personen : 45
+   4 personen : 106
+   5 personen : 784
    6 personen : 262
-   7 personen : 1090
+   7 personen : 1091
    8 personen : 407
    9 personen : 491
   10 personen : 6
@@ -375,12 +375,13 @@
   23-1405      | TP-758-V   |         5 |             4
   23-3205      | G-840-PN   |         5 |             4
   23-3206      | J-144-RX   |         5 |             4
+  23-3207      | J-536-TX   |         5 |             4
   23-3208      | TP-756-V   |         5 |             4
   23-6102      | J-535-TX   |         5 |             4
-  23-6103      | J-536-TX   |         5 |             4
   23-3401      | J-398-SK   |         9 |             8
   23-4101      | J-397-SK   |         9 |             8
   23-4201      | J-402-SK   |         9 |             8
+  23-5105      | VGR-45-H   |         3 |             2
   23-6107      | TP-752-V   |         5 |             4
   24-0737      | 44-BDF-4   |         8 |             7
   24-0738      | 56-BDD-7   |         9 |             7
