@@ -71037,18 +71037,6 @@
     "last_tenaamstelling_check_date": "2026-08-31",
     "aantal_zitplaatsen": "4"
   },
-  "L-441-RR": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "06-164"
-    ],
-    "last_check_date": "2026-09-06",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-31"
-  },
   "GNN-08-N": {
     "expiry": "2026-10-17",
     "checked": true,
@@ -89280,18 +89268,6 @@
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-08-31"
   },
-  "40-45-YK": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "36-3239"
-    ],
-    "last_check_date": "2026-09-06",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-08-31"
-  },
   "02-84-YJ": {
     "expiry": null,
     "checked": true,
@@ -106658,5 +106634,30 @@
     "datum_tenaamstelling_dt": "2026-06-29",
     "last_tenaamstelling_check_date": "2026-09-06",
     "aantal_zitplaatsen": "2"
+  },
+  "KTV-84-B": {
+    "expiry": "2027-09-02",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "06-164"
+    ],
+    "last_check_date": "2026-09-06",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-09-02",
+    "last_tenaamstelling_check_date": "2026-09-06",
+    "aantal_zitplaatsen": "4"
+  },
+  "4-YG-992": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "36-3239"
+    ],
+    "last_check_date": "2026-09-06",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": "2026-09-06"
   }
 }
