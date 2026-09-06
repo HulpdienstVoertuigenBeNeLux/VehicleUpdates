@@ -1,14 +1,14 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                  : 17171
+  Totaal records                  : 17170
   Records met parsebare bezetting : 3348
-  Vergeleken met RDW              : 3101
-  RDW data ontbreekt              : 247
+  Vergeleken met RDW              : 3102
+  RDW data ontbreekt              : 246
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)             : 0
-  Bezetting != RDW zitplaatsen    : 643
-  Bezetting > RDW zitplaatsen     : 345
+  Bezetting != RDW zitplaatsen    : 644
+  Bezetting > RDW zitplaatsen     : 346
   RDW zitplaatsen > bezetting     : 298
 
 ------------------------------------------------------------------------------------------
@@ -20,8 +20,8 @@
    4 personen : 105
    5 personen : 785
    6 personen : 262
-   7 personen : 1089
-   8 personen : 408
+   7 personen : 1090
+   8 personen : 407
    9 personen : 491
   10 personen : 6
   11 personen : 1
@@ -208,6 +208,7 @@
   10-5303      | VGF-46-V   |         6 |             5
   10-5431      | 75-BVH-5   |         8 |             7
   10-5404      | VZP-50-Z   |         7 |             6
+  10-5439      | BS-VP-79   |         7 |             6
   10-5630      | 12-BLK-1   |         8 |             7
   10-5984      | V-383-KN   |         6 |             5
   11-5005      | VZK-33-T   |         3 |             2

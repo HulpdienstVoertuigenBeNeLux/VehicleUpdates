@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,017  (of 17,171 total)
+  Records checked : 11,016  (of 17,170 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  5 value(s) affected
+  Duplicate Roepnummer  --  6 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -52,6 +52,16 @@
       Adres       : Air Ambulance & Medical Repatriation Winterswijk
       Hulpdienst  : Ambulance
       Roepnummer  : 1
+      Kenteken    : ONBEKEND
+
+  >> '10-6695'  (2x)
+      Adres       : Hoofdkantoor VRNHN
+      Hulpdienst  : Brandweer
+      Roepnummer  : 10-6695
+      Kenteken    : JRF-11-V
+      Adres       : Hoofdkantoor VRNHN
+      Hulpdienst  : Brandweer
+      Roepnummer  : 10-6695
       Kenteken    : ONBEKEND
 
   >> 'Sanquin Utrecht'  (3x)
