@@ -34423,6 +34423,14 @@
     "nettomaximumvermogen": "96.00"
   },
   {
+    "kenteken": "BTTR72",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "emissiecode_omschrijving": "4",
+    "nettomaximumvermogen": "265.00",
+    "uitlaatemissieniveau": "EURO 4"
+  },
+  {
     "kenteken": "BTBF04",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -99017,6 +99025,33 @@
     "nettomaximumvermogen": "140.00",
     "toerental_geluidsniveau": "2850",
     "uitlaatemissieniveau": "EURO VI D"
+  },
+  {
+    "kenteken": "Z857NB",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AP",
+    "nominaal_continu_maximumvermogen": "7.20",
+    "netto_max_vermogen_elektrisch": "9.00",
+    "klasse_hybride_elektrisch_voertuig": "NOVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 AP"
+  },
+  {
+    "kenteken": "Z857NB",
+    "brandstof_volgnummer": "2",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_rijdend": "65",
+    "geluidsniveau_stationair": "71",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AP",
+    "nettomaximumvermogen": "114.00",
+    "toerental_geluidsniveau": "3750",
+    "emis_deeltjes_type1_wltp": "0.32",
+    "emissie_co2_gecombineerd_wltp": "119",
+    "brandstof_verbruik_gecombineerd_wltp": "5.300",
+    "klasse_hybride_elektrisch_voertuig": "NOVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 AP"
   },
   {
     "kenteken": "Z001RX",

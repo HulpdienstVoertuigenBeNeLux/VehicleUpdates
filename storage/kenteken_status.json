@@ -1173,7 +1173,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "01-1990"
+      "01-1904"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -103511,7 +103511,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "KENBRI HW-592"
+      "10-5151"
     ],
     "last_check_date": "2026-07-27",
     "last_expired_notification_date": null,
@@ -106659,5 +106659,31 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-09-06"
+  },
+  "Z-857-NB": {
+    "expiry": "2028-05-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "01-1990"
+    ],
+    "last_check_date": "2026-09-06",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-05-30",
+    "last_tenaamstelling_check_date": "2026-09-06",
+    "aantal_zitplaatsen": "5"
+  },
+  "BT-TR-72": {
+    "expiry": "2027-05-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "10-4851"
+    ],
+    "last_check_date": "2026-09-06",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2013-12-21",
+    "last_tenaamstelling_check_date": "2026-09-06",
+    "aantal_zitplaatsen": "2"
   }
 }

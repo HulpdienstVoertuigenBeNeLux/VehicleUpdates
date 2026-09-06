@@ -15,9 +15,38 @@
         "Regio": "1 - Groningen (VRG)",
         "Description": "01-2476 VIA toegevoegd aan Oude Pekela",
         "Time": "06-09-2026 13:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-1904 DA toegevoegd aan Groningen Hoofdpost",
+        "Time": "06-09-2026 15:00:20"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-8433 TS verwijderd van Utrecht Leidsche Rijn",
+        "Time": "06-09-2026 15:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "11 - Zaanstreek-Waterland (VRZW)",
+        "Description": "11-0834 TS verwijderd van Middenbeemster",
+        "Time": "06-09-2026 15:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-4401 DA verwijderd van Valkenswaard",
+        "Time": "06-09-2026 15:00:20"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -32,6 +61,48 @@
         "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
         "Description": "36-3239: Kenteken van '40-45-YK' naar '4-YG-992' aangepast",
         "Time": "06-09-2026 13:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-1990: Kenteken van 'JH-394-V' naar 'Z-857-NB' aangepast",
+        "Time": "06-09-2026 15:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "10-4851: Kenteken van 'ONBEKEND' naar 'BT-TR-72' aangepast",
+        "Time": "06-09-2026 15:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "10-5151: Kenteken van 'ONBEKEND' naar '07-BLZ-4' aangepast",
+        "Time": "06-09-2026 15:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI HW-592: Adres van 'Kenbri Verhuur' naar 'Hoorn Centrum' aangepast",
+        "Time": "06-09-2026 15:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "'KENBRI HW-592' omgenummerd naar '10-5151'",
+        "Time": "06-09-2026 15:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI HW-592: Bijzonderheden van 'RV. Verhuurvoertuig.' naar 'Lengte: 32 meter.' aangepast",
+        "Time": "06-09-2026 15:00:20"
       }
     ]
   },

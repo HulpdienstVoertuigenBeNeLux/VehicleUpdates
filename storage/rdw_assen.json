@@ -63733,6 +63733,27 @@
     "technisch_toegestane_maximum_aslast": "4000"
   },
   {
+    "kenteken": "BTTR72",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "9000",
+    "technisch_toegestane_maximum_aslast": "9000"
+  },
+  {
+    "kenteken": "BTTR72",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "L",
+    "wettelijk_toegestane_maximum_aslast": "11500",
+    "technisch_toegestane_maximum_aslast": "11500"
+  },
+  {
     "kenteken": "BTBF04",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -152254,6 +152275,27 @@
     "spoorbreedte": "173",
     "wettelijk_toegestane_maximum_aslast": "2430",
     "technisch_toegestane_maximum_aslast": "2430"
+  },
+  {
+    "kenteken": "Z857NB",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "157",
+    "wettelijk_toegestane_maximum_aslast": "1015",
+    "technisch_toegestane_maximum_aslast": "1015",
+    "afstand_tot_volgende_as_voertuig": "270"
+  },
+  {
+    "kenteken": "Z857NB",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "157",
+    "wettelijk_toegestane_maximum_aslast": "915",
+    "technisch_toegestane_maximum_aslast": "915"
   },
   {
     "kenteken": "Z001RX",
