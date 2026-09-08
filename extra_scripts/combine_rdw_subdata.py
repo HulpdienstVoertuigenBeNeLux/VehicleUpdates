@@ -168,9 +168,9 @@ def run() -> None:
 
     # Ensure every entry has the same keys, so vehicles without certain sub-data
     # get an explicit null instead of the field being absent entirely.
-    all_keys: set[str] = set()
-    for entry in combined:
-        all_keys.update(entry)
+    # Sorted to keep key order deterministic across runs (set iteration order is randomized
+    # per process), otherwise the output reshuffles on every run even with unchanged data.
+    all_keys = sorted({key for entry in combined for key in entry})
     for entry in combined:
         for key in all_keys:
             entry.setdefault(key, None)
