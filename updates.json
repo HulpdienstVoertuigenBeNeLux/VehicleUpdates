@@ -1,7 +1,15 @@
 [
   {
     "date": "2026-09-10",
-    "added": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "GEEN GM toegevoegd aan Vakbekwaamheid",
+        "Time": "10-09-2026 10:00:20"
+      }
+    ],
     "removed": [],
     "changed": [
       {
@@ -10,6 +18,13 @@
         "Regio": "8 - Gelderland-Zuid (VRGZ)",
         "Description": "08-805: Kenteken van '56-TSB-6' naar 'JDD-55-R' aangepast",
         "Time": "10-09-2026 04:00:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3151: Kenteken van 'BX-LP-54' naar 'BD-676-T' aangepast",
+        "Time": "10-09-2026 10:00:20"
       }
     ]
   },

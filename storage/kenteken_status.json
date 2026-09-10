@@ -43419,19 +43419,6 @@
     "last_tenaamstelling_check_date": "2026-09-07",
     "aantal_zitplaatsen": "7"
   },
-  "BX-LP-54": {
-    "expiry": "2027-02-26",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "17-3151"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2010-03-26",
-    "last_tenaamstelling_check_date": "2026-09-07",
-    "aantal_zitplaatsen": "2"
-  },
   "ZD-616-F": {
     "expiry": "2026-11-20",
     "checked": true,
@@ -106946,5 +106933,31 @@
     "datum_tenaamstelling_dt": "2025-09-03",
     "last_tenaamstelling_check_date": "2026-09-10",
     "aantal_zitplaatsen": "8"
+  },
+  "BD-431-N": {
+    "expiry": "2027-06-18",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-09-10",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-06-18",
+    "last_tenaamstelling_check_date": "2026-09-10",
+    "aantal_zitplaatsen": "3"
+  },
+  "BD-676-T": {
+    "expiry": "2027-08-17",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "17-3151"
+    ],
+    "last_check_date": "2026-09-10",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-08-17",
+    "last_tenaamstelling_check_date": "2026-09-10",
+    "aantal_zitplaatsen": "2"
   }
 }
