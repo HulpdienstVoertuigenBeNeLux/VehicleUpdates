@@ -72546,19 +72546,6 @@
     "last_tenaamstelling_check_date": "2026-09-07",
     "aantal_zitplaatsen": "8"
   },
-  "56-TSB-6": {
-    "expiry": "2027-05-11",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "08-805"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-01-03",
-    "last_tenaamstelling_check_date": "2026-09-07",
-    "aantal_zitplaatsen": "5"
-  },
   "GX-690-K": {
     "expiry": "2026-10-15",
     "checked": true,
@@ -106946,5 +106933,18 @@
     "datum_tenaamstelling_dt": "2026-03-27",
     "last_tenaamstelling_check_date": "2026-09-09",
     "aantal_zitplaatsen": "2"
+  },
+  "JDD-55-R": {
+    "expiry": "2028-09-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "08-805"
+    ],
+    "last_check_date": "2026-09-10",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-09-03",
+    "last_tenaamstelling_check_date": "2026-09-10",
+    "aantal_zitplaatsen": "8"
   }
 }
