@@ -8,9 +8,24 @@
         "Regio": "",
         "Description": "18-7082 LOA toegevoegd aan sliedrecht",
         "Time": "12-09-2026 20:00:15"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-7082 BMA-OTO toegevoegd aan sliedrecht",
+        "Time": "12-09-2026 21:00:16"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "18-7082 LOA verwijderd van sliedrecht",
+        "Time": "12-09-2026 21:00:16"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
