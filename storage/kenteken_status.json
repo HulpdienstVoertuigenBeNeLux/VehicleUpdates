@@ -12461,19 +12461,6 @@
     "last_tenaamstelling_check_date": "2026-09-06",
     "aantal_zitplaatsen": null
   },
-  "RS-233-F": {
-    "expiry": "2027-01-31",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "05-2401"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2018-01-31",
-    "last_tenaamstelling_check_date": "2026-09-06",
-    "aantal_zitplaatsen": "8"
-  },
   "10-BVT-8": {
     "expiry": "2027-04-29",
     "checked": true,
@@ -106959,5 +106946,18 @@
     "datum_tenaamstelling_dt": "2026-08-17",
     "last_tenaamstelling_check_date": "2026-09-10",
     "aantal_zitplaatsen": "2"
+  },
+  "HXK-04-J": {
+    "expiry": "2028-07-22",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "05-2401"
+    ],
+    "last_check_date": "2026-09-12",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-07-22",
+    "last_tenaamstelling_check_date": "2026-09-12",
+    "aantal_zitplaatsen": "8"
   }
 }
