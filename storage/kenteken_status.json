@@ -11369,19 +11369,6 @@
     "last_tenaamstelling_check_date": "2026-09-13",
     "aantal_zitplaatsen": "7"
   },
-  "45-BRV-1": {
-    "expiry": "2027-07-20",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-2831"
-    ],
-    "last_check_date": "2026-07-21",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2021-07-20",
-    "last_tenaamstelling_check_date": "2026-09-08",
-    "aantal_zitplaatsen": "7"
-  },
   "72-BSL-8": {
     "expiry": "2027-05-28",
     "checked": true,
@@ -106959,5 +106946,31 @@
     "datum_tenaamstelling_dt": "2018-11-30",
     "last_tenaamstelling_check_date": "2026-09-12",
     "aantal_zitplaatsen": null
+  },
+  "BD-118-K": {
+    "expiry": "2027-05-01",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-2831"
+    ],
+    "last_check_date": "2026-09-13",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-05-01",
+    "last_tenaamstelling_check_date": "2026-09-13",
+    "aantal_zitplaatsen": "7"
+  },
+  "BD-818-L": {
+    "expiry": "2027-07-21",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "07-9043"
+    ],
+    "last_check_date": "2026-09-13",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-21",
+    "last_tenaamstelling_check_date": "2026-09-13",
+    "aantal_zitplaatsen": "7"
   }
 }
