@@ -1,8 +1,24 @@
 [
   {
     "date": "2026-09-18",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "GEEN DB-ICB toegevoegd aan Prorail ICB Eindhoven",
+        "Time": "18-09-2026 13:00:16"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "GEEN DB-ICB verwijderd van Prorail ICB Eindhoven",
+        "Time": "18-09-2026 13:00:16"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
