@@ -8189,27 +8189,6 @@
     "technisch_toegestane_maximum_aslast": "3500"
   },
   {
-    "kenteken": "16BGT6",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "wettelijk_toegestane_maximum_aslast": "6100",
-    "technisch_toegestane_maximum_aslast": "6100"
-  },
-  {
-    "kenteken": "16BGT6",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "weggedrag_code": "G",
-    "wettelijk_toegestane_maximum_aslast": "11000",
-    "technisch_toegestane_maximum_aslast": "11000"
-  },
-  {
     "kenteken": "16BGX1",
     "as_nummer": "1",
     "aantal_assen": "3",
@@ -58018,7 +57997,7 @@
     "technisch_toegestane_maximum_aslast": "11500"
   },
   {
-    "kenteken": "BD616V",
+    "kenteken": "BD525V",
     "as_nummer": "1",
     "aantal_assen": "2",
     "aangedreven_as": "N",
@@ -58026,10 +58005,10 @@
     "plaatscode_as": "V",
     "wettelijk_toegestane_maximum_aslast": "7500",
     "technisch_toegestane_maximum_aslast": "7500",
-    "afstand_tot_volgende_as_voertuig": "410"
+    "afstand_tot_volgende_as_voertuig": "390"
   },
   {
-    "kenteken": "BD616V",
+    "kenteken": "BD525V",
     "as_nummer": "2",
     "aantal_assen": "2",
     "aangedreven_as": "J",
@@ -59210,6 +59189,28 @@
     "weggedrag_code": "G",
     "wettelijk_toegestane_maximum_aslast": "11000",
     "technisch_toegestane_maximum_aslast": "11000"
+  },
+  {
+    "kenteken": "BD616V",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "7500",
+    "technisch_toegestane_maximum_aslast": "7500",
+    "afstand_tot_volgende_as_voertuig": "410"
+  },
+  {
+    "kenteken": "BD616V",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "11500",
+    "technisch_toegestane_maximum_aslast": "13000"
   },
   {
     "kenteken": "BD627D",
