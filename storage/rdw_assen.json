@@ -57997,6 +57997,28 @@
     "technisch_toegestane_maximum_aslast": "11500"
   },
   {
+    "kenteken": "BD579V",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "6000",
+    "technisch_toegestane_maximum_aslast": "6000",
+    "afstand_tot_volgende_as_voertuig": "413"
+  },
+  {
+    "kenteken": "BD579V",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "11000",
+    "technisch_toegestane_maximum_aslast": "11000"
+  },
+  {
     "kenteken": "BD004T",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -71640,25 +71662,6 @@
     "plaatscode_as": "A",
     "weggedrag_code": "A",
     "wettelijk_toegestane_maximum_aslast": "11500"
-  },
-  {
-    "kenteken": "BXSH49",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "wettelijk_toegestane_maximum_aslast": "4700"
-  },
-  {
-    "kenteken": "BXSH49",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "weggedrag_code": "A",
-    "wettelijk_toegestane_maximum_aslast": "9300"
   },
   {
     "kenteken": "BXSH70",
@@ -131589,27 +131592,6 @@
     "no_data": true
   },
   {
-    "kenteken": "V86DNL",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "plaatscode_as": "V",
-    "spoorbreedte": "162",
-    "wettelijk_toegestane_maximum_aslast": "1680",
-    "technisch_toegestane_maximum_aslast": "1680",
-    "afstand_tot_volgende_as_voertuig": "340"
-  },
-  {
-    "kenteken": "V86DNL",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "plaatscode_as": "A",
-    "spoorbreedte": "161",
-    "wettelijk_toegestane_maximum_aslast": "1625",
-    "technisch_toegestane_maximum_aslast": "1625"
-  },
-  {
     "kenteken": "V018FN",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -137085,6 +137067,27 @@
     "spoorbreedte": "154",
     "wettelijk_toegestane_maximum_aslast": "1300",
     "technisch_toegestane_maximum_aslast": "1300"
+  },
+  {
+    "kenteken": "V86DNL",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "162",
+    "wettelijk_toegestane_maximum_aslast": "1680",
+    "technisch_toegestane_maximum_aslast": "1680",
+    "afstand_tot_volgende_as_voertuig": "340"
+  },
+  {
+    "kenteken": "V86DNL",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "161",
+    "wettelijk_toegestane_maximum_aslast": "1625",
+    "technisch_toegestane_maximum_aslast": "1625"
   },
   {
     "kenteken": "V86JNT",

@@ -49504,19 +49504,6 @@
     "last_tenaamstelling_check_date": "2026-09-14",
     "aantal_zitplaatsen": "6"
   },
-  "BX-SH-49": {
-    "expiry": "2027-08-30",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "19-4530"
-    ],
-    "last_check_date": "2026-08-31",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2014-06-27",
-    "last_tenaamstelling_check_date": "2026-09-14",
-    "aantal_zitplaatsen": "7"
-  },
   "BS-DX-24": {
     "expiry": "2027-07-28",
     "checked": true,
@@ -107194,5 +107181,18 @@
     "datum_tenaamstelling_dt": "2024-10-02",
     "last_tenaamstelling_check_date": "2026-09-18",
     "aantal_zitplaatsen": "6"
+  },
+  "BD-579-V": {
+    "expiry": "2027-09-02",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "19-4530"
+    ],
+    "last_check_date": "2026-09-18",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-09-02",
+    "last_tenaamstelling_check_date": "2026-09-18",
+    "aantal_zitplaatsen": "7"
   }
 }
