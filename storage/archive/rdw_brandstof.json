@@ -1320,5 +1320,56 @@
     "nettomaximumvermogen": "140.00",
     "toerental_geluidsniveau": "2850",
     "uitlaatemissieniveau": "EURO VI D"
+  },
+  {
+    "kenteken": "26JJV1",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "9.90",
+    "co2_uitstoot_gecombineerd": "261",
+    "geluidsniveau_rijdend": "74",
+    "geluidsniveau_stationair": "80",
+    "emissiecode_omschrijving": "4",
+    "milieuklasse_eg_goedkeuring_licht": "70/220*2006/96B",
+    "uitstoot_deeltjes_licht": "0.00410",
+    "nettomaximumvermogen": "100.00",
+    "toerental_geluidsniveau": "2625",
+    "uitlaatemissieniveau": "EURO 4"
+  },
+  {
+    "kenteken": "37BDN7",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*64/2012A",
+    "nettomaximumvermogen": "120.00",
+    "uitlaatemissieniveau": "EURO VI A",
+    "actieradius_extern_oplaadbaar": "0",
+    "actieradius": "0"
+  },
+  {
+    "kenteken": "BHBJ48",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "emissiecode_omschrijving": "2",
+    "nettomaximumvermogen": "100.00"
+  },
+  {
+    "kenteken": "TG061S",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "8.00",
+    "co2_uitstoot_gecombineerd": "212",
+    "geluidsniveau_rijdend": "68",
+    "geluidsniveau_stationair": "77",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*EU 2017/1347BG",
+    "uitstoot_deeltjes_licht": "0.00345",
+    "nettomaximumvermogen": "130.00",
+    "toerental_geluidsniveau": "2550",
+    "emis_deeltjes_type1_wltp": "3.45",
+    "emissie_co2_gecombineerd_wltp": "256",
+    "brandstof_verbruik_gecombineerd_wltp": "9.700",
+    "uitlaatemissieniveau": "EURO 6 BG"
   }
 ]
