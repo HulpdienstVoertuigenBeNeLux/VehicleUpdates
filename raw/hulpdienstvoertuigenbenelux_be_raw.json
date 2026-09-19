@@ -33188,6 +33188,17 @@
   },
   {
     "Adres": "Brugge",
+    "Roepnummer": "T112",
+    "Afkorting": "TW",
+    "TypeVoertuig": "Tankwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Brugge",
     "Roepnummer": "T152",
     "Afkorting": "TW",
     "TypeVoertuig": "Tankwagen",
@@ -33243,9 +33254,31 @@
   },
   {
     "Adres": "Brugge",
-    "Roepnummer": "",
+    "Roepnummer": "M122",
     "Afkorting": "PM",
     "TypeVoertuig": "Personeel / Materiaal Voertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Brugge",
+    "Roepnummer": "L148",
+    "Afkorting": "PM",
+    "TypeVoertuig": "Personeel / Materiaal Voertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Brugge",
+    "Roepnummer": "L150",
+    "Afkorting": "(VW) DC",
+    "TypeVoertuig": "Vrachtwagen Decontaminatie",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer",
@@ -33864,6 +33897,17 @@
     "TypeVoertuig": "Dienstbus Personeel / Materiaal",
     "Kenteken": "",
     "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Gistel",
+    "Roepnummer": "A117",
+    "Afkorting": "HZA",
+    "TypeVoertuig": "Halfzware Autopomp",
+    "Kenteken": "",
+    "Bijzonderheden": "Jeugdbrandweer",
     "Hulpdienst": "Brandweer",
     "Regio": "West-Vlaanderen",
     "Interne opmerking": ""
@@ -40825,6 +40869,17 @@
     "Roepnummer": "L456",
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus Personeel / Materiaal",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Leke",
+    "Roepnummer": "L475",
+    "Afkorting": "PM",
+    "TypeVoertuig": "Personeel / Materiaal Voertuig",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Brandweer",
@@ -67177,17 +67232,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Gistel",
-    "Roepnummer": "GISTEL 2",
-    "Afkorting": "ZW",
-    "TypeVoertuig": "Ziekenwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "(Team: AWGIST02A)",
-    "Hulpdienst": "Ambulance",
-    "Regio": "West-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Ziekenwagen Harelbeke",
     "Roepnummer": "",
     "Afkorting": "",
@@ -67348,6 +67392,17 @@
     "TypeVoertuig": "Ziekenwagen",
     "Kenteken": "",
     "Bijzonderheden": "(Team: AWKOKS01A)",
+    "Hulpdienst": "Ambulance",
+    "Regio": "West-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Koksijde",
+    "Roepnummer": "Z403",
+    "Afkorting": "ZW",
+    "TypeVoertuig": "Ziekenwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "Reserve Ambulance",
     "Hulpdienst": "Ambulance",
     "Regio": "West-Vlaanderen",
     "Interne opmerking": ""
@@ -81822,17 +81877,6 @@
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "Wegen Politie Daussoulx",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Politie",
-    "Regio": "Namen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Daussoulx",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",

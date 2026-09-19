@@ -92,6 +92,48 @@
         "Regio": "15 - Haaglanden (VRH)",
         "Description": "15-5482 LO toegevoegd aan Pijnacker-Nootdorp",
         "Time": "19-09-2026 21:00:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "T112 TW toegevoegd aan Brugge",
+        "Time": "19-09-2026 22:00:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "M122 PM toegevoegd aan Brugge",
+        "Time": "19-09-2026 22:00:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "L148 PM toegevoegd aan Brugge",
+        "Time": "19-09-2026 22:00:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "L150 (VW) DC toegevoegd aan Brugge",
+        "Time": "19-09-2026 22:00:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "L475 PM toegevoegd aan Leke",
+        "Time": "19-09-2026 22:00:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "Z403 ZW toegevoegd aan Koksijde",
+        "Time": "19-09-2026 22:00:19"
       }
     ],
     "removed": [
@@ -143,6 +185,13 @@
         "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
         "Description": "GEEN IM Berger verwijderd van Apeldoorn",
         "Time": "19-09-2026 11:00:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "GISTEL 2 ZW verwijderd van Gistel",
+        "Time": "19-09-2026 22:00:19"
       }
     ],
     "changed": [
