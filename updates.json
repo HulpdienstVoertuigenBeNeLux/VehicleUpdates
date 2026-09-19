@@ -78,6 +78,13 @@
         "Regio": "Luik",
         "Description": "  toegevoegd aan Malmedy",
         "Time": "19-09-2026 00:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Kustwacht",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "GEEN KW toegevoegd aan Den Helder",
+        "Time": "19-09-2026 11:00:16"
       }
     ],
     "removed": [
@@ -108,6 +115,27 @@
         "Regio": "Luik",
         "Description": " HZA verwijderd van Malmedy",
         "Time": "19-09-2026 00:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-0304 DA verwijderd van Assen Hoofdpost",
+        "Time": "19-09-2026 11:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-551 LO-RA verwijderd van t Harde",
+        "Time": "19-09-2026 11:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "GEEN IM Berger verwijderd van Apeldoorn",
+        "Time": "19-09-2026 11:00:16"
       }
     ],
     "changed": [
@@ -117,6 +145,34 @@
         "Regio": "Brussel",
         "Description": ": TypeVoertuig van 'Wegen Politie Ouderghem' naar 'Wegen Politie Oudergem' aangepast",
         "Time": "19-09-2026 00:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-0667: Afkorting van 'RIA' naar 'RI' aangepast",
+        "Time": "19-09-2026 11:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-0667: TypeVoertuig van 'Rietdak brandbestrijdingsteam aanhanger' naar 'Rietdak brandbestrijdingsteam' aangepast",
+        "Time": "19-09-2026 11:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-0667: Kenteken van 'GEEN' naar 'BD-551-R' aangepast",
+        "Time": "19-09-2026 11:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-111: Kenteken van 'K-630-HR' naar 'KHV-81-H' aangepast",
+        "Time": "19-09-2026 11:00:16"
       }
     ]
   },
