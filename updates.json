@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-09-20",
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Politie",
+        "Regio": "Antwerpen",
+        "Description": "  toegevoegd aan Kallo",
+        "Time": "20-09-2026 00:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Politie",
+        "Regio": "West-Vlaanderen",
+        "Description": "  toegevoegd aan Zeerugge",
+        "Time": "20-09-2026 00:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Politie",
+        "Regio": "West-Vlaanderen",
+        "Description": "  toegevoegd aan Blankenberge",
+        "Time": "20-09-2026 00:00:20"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": " EGA verwijderd van Blankenberge",
+        "Time": "20-09-2026 00:00:20"
+      }
+    ],
+    "changed": []
+  },
+  {
     "date": "2026-09-19",
     "added": [
       {
@@ -6873,85 +6909,6 @@
         "Regio": "LB-POL",
         "Description": "LB31 Teambureau Heuvelland: TypeVoertuig van 'Valkenburg, et, Nieuweweg 24' naar 'Valkenburg, Nieuweweg 24' aangepast",
         "Time": "20-08-2026 23:00:15"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "",
-        "Regio": "",
-        "Description": "GEEN ZSC toegevoegd aan Babberich",
-        "Time": "19-08-2026 00:00:14"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Rijkswaterstaat",
-        "Regio": "ON-RWS",
-        "Description": "GEEN ZSC toegevoegd aan Babberich",
-        "Time": "19-08-2026 11:02:35"
-      }
-    ],
-    "removed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "",
-        "Regio": "",
-        "Description": "GEEN ZSC verwijderd van Babberich",
-        "Time": "19-08-2026 11:02:35"
-      }
-    ],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "14",
-        "Description": "'09-0160' omgenummerd naar '90-0160'",
-        "Time": "19-08-2026 01:00:16"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Henegouwen",
-        "Description": ": Afkorting van 'BMA' naar 'MTA' aangepast",
-        "Time": "19-08-2026 11:02:43"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Henegouwen",
-        "Description": ": TypeVoertuig van 'Bijzondere Materialen Aanhanger' naar 'Monitor op aanhangwagen' aangepast",
-        "Time": "19-08-2026 11:02:43"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Henegouwen",
-        "Description": ": Bijzonderheden van 'Tenten Aanhanger' naar '' aangepast",
-        "Time": "19-08-2026 11:02:43"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "25",
-        "Description": "25-5001: Kenteken van '30-ZFT-5' naar 'ONBEKEND' aangepast",
-        "Time": "19-08-2026 12:00:22"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "25",
-        "Description": "25-5503: Kenteken van 'JD-156-P' naar 'ONBEKEND' aangepast",
-        "Time": "19-08-2026 12:00:22"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "13",
-        "Description": "'13-DA920' omgenummerd naar '13-0402'",
-        "Time": "19-08-2026 12:00:22"
       }
     ]
   }
