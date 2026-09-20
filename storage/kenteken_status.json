@@ -77458,19 +77458,6 @@
     "last_tenaamstelling_check_date": "2026-09-14",
     "aantal_zitplaatsen": "5"
   },
-  "VF-631-L": {
-    "expiry": "2026-09-06",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "15-714"
-    ],
-    "last_check_date": "2026-09-20",
-    "last_expired_notification_date": "2026-09-20",
-    "datum_tenaamstelling_dt": "2022-07-13",
-    "last_tenaamstelling_check_date": "2026-09-20",
-    "aantal_zitplaatsen": "6"
-  },
   "K-380-PS": {
     "expiry": "2027-01-30",
     "checked": true,
@@ -107165,6 +107152,19 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2026-08-05",
     "last_tenaamstelling_check_date": "2026-09-19",
+    "aantal_zitplaatsen": "5"
+  },
+  "KGG-47-N": {
+    "expiry": "2030-05-07",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "15-714"
+    ],
+    "last_check_date": "2026-09-20",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-05-07",
+    "last_tenaamstelling_check_date": "2026-09-20",
     "aantal_zitplaatsen": "5"
   }
 }
