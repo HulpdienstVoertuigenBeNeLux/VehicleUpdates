@@ -81898,7 +81898,7 @@
     "Adres": "Antwerpen",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Antwerpen ( Antwerpen )",
+    "TypeVoertuig": "Federale Politie Antwerpen",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -81909,7 +81909,7 @@
     "Adres": "Hasselt",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Limburg ( Limburg )",
+    "TypeVoertuig": "Federale Politie Limburg",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -81920,7 +81920,18 @@
     "Adres": "Asse",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Halle-Vilvoorde ( Vlaams Brabant )",
+    "TypeVoertuig": "Federale Politie Halle-Vilvoorde",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Vlaams-Brabant",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Leuven",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Federale Politie Leuven",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -81931,7 +81942,7 @@
     "Adres": "Gent",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Oost Vlaanderen ( Oost Vlaanderen )",
+    "TypeVoertuig": "Federale Politie Oost Vlaanderen",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -81939,21 +81950,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Leuven",
+    "Adres": "Brugge",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Leuven ( Vlaams-Brabant )",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Politie",
-    "Regio": "Vlaams-Brabant",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Ieper",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Ieper ( West Vlaanderen )",
+    "TypeVoertuig": "Federale Politie West-Vlaanderen",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -81961,32 +81961,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Elsene",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Elsene ( Brussel )",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Politie",
-    "Regio": "Brussel",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Etterbeek",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Etterbeek ( Brussel )",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Politie",
-    "Regio": "Brussel",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Brussel",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Brussel ( Brussel )",
+    "TypeVoertuig": "Federale Politie Brussel",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -81994,21 +81972,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Sint-Jans-Molenbeek",
+    "Adres": "Nivelles",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Sint-Jans-Molenbeek ( Brussel )",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Politie",
-    "Regio": "Brussel",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Tubize",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Tubize ( Waals Brabant )",
+    "TypeVoertuig": "Federale Politie Brabant Wallon",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -82016,10 +81983,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Liège",
+    "Adres": "Eupen",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Liège ( Luik )",
+    "TypeVoertuig": "Federale Politie Eupen",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -82027,10 +81994,21 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Arlon",
+    "Adres": "Liège",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Arlon ( Luxemburg )",
+    "TypeVoertuig": "Federale Politie Liège",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Luik",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Neufchâteau",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Federale Politie Luxembourg",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -82041,7 +82019,7 @@
     "Adres": "Namur",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Namur ( Namur )",
+    "TypeVoertuig": "Federale Politie Namur",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -82049,10 +82027,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Tournai",
+    "Adres": "Charleroi",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Tournai ( Henegouwen )",
+    "TypeVoertuig": "Federale Politie Charleroi",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -82060,10 +82038,10 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Mons",
+    "Adres": "Bergen",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Mons ( Henegouwen )",
+    "TypeVoertuig": "Federale Politie Mons",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
@@ -82071,14 +82049,14 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Mons",
+    "Adres": "",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Federale Politie Mons ( Henegouwen )",
+    "TypeVoertuig": "",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
-    "Regio": "Henegouwen",
+    "Regio": "",
     "Interne opmerking": ""
   },
   {
