@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-09-21",
+    "added": [],
+    "removed": [],
+    "changed": []
+  },
+  {
     "date": "2026-09-20",
     "added": [
       {
@@ -7042,56 +7048,6 @@
         "Regio": "7",
         "Description": "07-4372: Kenteken van 'V-583-NS' naar '65-BNN-7' aangepast",
         "Time": "21-08-2026 15:00:16"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "added": [],
-    "removed": [
-      {
-        "Land": "BE",
-        "Hulpdienst": "",
-        "Regio": "",
-        "Description": "  verwijderd van Henegouwen Zone 1 ( Wallonie Picarde )",
-        "Time": "20-08-2026 14:00:17"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Henegouwen",
-        "Description": "SE1 LW 30 verwijderd van Saint-Ghislain",
-        "Time": "20-08-2026 14:00:17"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Henegouwen",
-        "Description": "SD1 PM verwijderd van Saint-Ghislain",
-        "Time": "20-08-2026 14:00:17"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Henegouwen",
-        "Description": "STP PM verwijderd van Saint-Ghislain",
-        "Time": "20-08-2026 14:00:17"
-      }
-    ],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1",
-        "Description": "01-2031: Kenteken van 'BZ-RB-99' naar 'BD-786-S' aangepast",
-        "Time": "20-08-2026 14:00:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Politie",
-        "Regio": "LB-POL",
-        "Description": "LB31 Teambureau Heuvelland: TypeVoertuig van 'Valkenburg, et, Nieuweweg 24' naar 'Valkenburg, Nieuweweg 24' aangepast",
-        "Time": "20-08-2026 23:00:15"
       }
     ]
   }
