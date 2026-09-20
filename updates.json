@@ -59,9 +59,31 @@
         "Regio": "3 - Drenthe (VRD)",
         "Description": "03-8908 DA verwijderd van Hoogeveen",
         "Time": "20-09-2026 09:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-8607 DA verwijderd van Emmen",
+        "Time": "20-09-2026 11:00:27"
       }
     ],
-    "changed": []
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "'15-9584' omgenummerd naar '15-9684'",
+        "Time": "20-09-2026 11:00:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-9584: Bijzonderheden van 'T.b.v. stafofficieren Haaglanden. Bezetting: 5 personen.' naar 'Regionaal voertuig. Bezetting: 5 personen.' aangepast",
+        "Time": "20-09-2026 11:00:27"
+      }
+    ]
   },
   {
     "date": "2026-09-19",
