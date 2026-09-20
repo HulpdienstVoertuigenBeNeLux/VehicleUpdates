@@ -29,6 +29,13 @@
         "Regio": "Luik",
         "Description": "  toegevoegd aan Luik",
         "Time": "20-09-2026 14:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-6121 VK-GS toegevoegd aan Ens",
+        "Time": "20-09-2026 17:00:53"
       }
     ],
     "removed": [
@@ -80,6 +87,13 @@
         "Regio": "15 - Haaglanden (VRH)",
         "Description": "15-9683 TD verwijderd van Haaglanden Regionaal",
         "Time": "20-09-2026 15:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-8026 VK-GS verwijderd van Ens",
+        "Time": "20-09-2026 17:00:53"
       }
     ],
     "changed": [
@@ -152,6 +166,34 @@
         "Regio": "Henegouwen",
         "Description": ": TypeVoertuig van 'Wegen Politie Bergen' naar 'Scheepsvaart Politie Bergen' aangepast",
         "Time": "20-09-2026 14:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "20-7201: Interne opmerking van '' naar 'Wordt gebruikt als verkenningsvoertuig' aangepast",
+        "Time": "20-09-2026 17:00:53"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28 - Defensie",
+        "Description": "28-4951: Afkorting van 'HW-DF' naar 'AL-DF' aangepast",
+        "Time": "20-09-2026 17:00:53"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28 - Defensie",
+        "Description": "28-4951: TypeVoertuig van 'Hoogwerker Defensie' naar 'Autoladder Defensie' aangepast",
+        "Time": "20-09-2026 17:00:53"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28 - Defensie",
+        "Description": "28-4951: Bijzonderheden van 'Bezetting: 3 personen.' naar 'Rescue Stairs' aangepast",
+        "Time": "20-09-2026 17:00:53"
       }
     ]
   },
