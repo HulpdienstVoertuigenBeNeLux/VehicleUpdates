@@ -36,6 +36,20 @@
         "Regio": "25 - Flevoland (VRFL)",
         "Description": "25-6121 VK-GS toegevoegd aan Ens",
         "Time": "20-09-2026 17:00:53"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Politie",
+        "Regio": "Vlaams-Brabant",
+        "Description": "  toegevoegd aan Leuven",
+        "Time": "20-09-2026 23:00:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": " RBA toegevoegd aan Veurne",
+        "Time": "20-09-2026 23:00:17"
       }
     ],
     "removed": [
@@ -94,6 +108,13 @@
         "Regio": "25 - Flevoland (VRFL)",
         "Description": "25-8026 VK-GS verwijderd van Ens",
         "Time": "20-09-2026 17:00:53"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Politie",
+        "Regio": "West-Vlaanderen",
+        "Description": "  verwijderd van Veurne",
+        "Time": "20-09-2026 23:00:17"
       }
     ],
     "changed": [
