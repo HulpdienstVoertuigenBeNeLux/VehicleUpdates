@@ -32036,6 +32036,19 @@
     "uitlaatemissieniveau": "EURO 1"
   },
   {
+    "kenteken": "BD771B",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_rijdend": "72",
+    "geluidsniveau_stationair": "83",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2022/2383E",
+    "nettomaximumvermogen": "125.00",
+    "toerental_geluidsniveau": "2850",
+    "uitlaatemissieniveau": "EURO VI E",
+    "co2_emissieklasse": "1"
+  },
+  {
     "kenteken": "BD004T",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -93929,21 +93942,6 @@
     "uitlaatemissieniveau": "EURO 6 AR"
   },
   {
-    "kenteken": "VZ999F",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "brandstofverbruik_gecombineerd": "8.60",
-    "co2_uitstoot_gecombineerd": "229",
-    "geluidsniveau_rijdend": "74",
-    "geluidsniveau_stationair": "81",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*136/2014Y",
-    "uitstoot_deeltjes_licht": "0.00059",
-    "nettomaximumvermogen": "103.00",
-    "toerental_geluidsniveau": "2375",
-    "uitlaatemissieniveau": "EURO 6 Y"
-  },
-  {
     "kenteken": "VZ001G",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -94170,6 +94168,21 @@
     "nettomaximumvermogen": "75.00",
     "toerental_geluidsniveau": "2375",
     "uitlaatemissieniveau": "EURO 6 X"
+  },
+  {
+    "kenteken": "VZ999F",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "8.60",
+    "co2_uitstoot_gecombineerd": "229",
+    "geluidsniveau_rijdend": "74",
+    "geluidsniveau_stationair": "81",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*136/2014Y",
+    "uitstoot_deeltjes_licht": "0.00059",
+    "nettomaximumvermogen": "103.00",
+    "toerental_geluidsniveau": "2375",
+    "uitlaatemissieniveau": "EURO 6 Y"
   },
   {
     "kenteken": "VZB12H",

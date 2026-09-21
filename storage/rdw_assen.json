@@ -57869,6 +57869,28 @@
     "technisch_toegestane_maximum_aslast": "11500"
   },
   {
+    "kenteken": "BD771B",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "2100",
+    "technisch_toegestane_maximum_aslast": "2100",
+    "afstand_tot_volgende_as_voertuig": "433"
+  },
+  {
+    "kenteken": "BD771B",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "A",
+    "wettelijk_toegestane_maximum_aslast": "3600",
+    "technisch_toegestane_maximum_aslast": "3600"
+  },
+  {
     "kenteken": "BD004T",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -145901,26 +145923,6 @@
     "technisch_toegestane_maximum_aslast": "1750"
   },
   {
-    "kenteken": "VZ999F",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "plaatscode_as": "V",
-    "spoorbreedte": "171",
-    "wettelijk_toegestane_maximum_aslast": "1650",
-    "technisch_toegestane_maximum_aslast": "1650"
-  },
-  {
-    "kenteken": "VZ999F",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "plaatscode_as": "A",
-    "spoorbreedte": "172",
-    "wettelijk_toegestane_maximum_aslast": "2250",
-    "technisch_toegestane_maximum_aslast": "2250"
-  },
-  {
     "kenteken": "VZ001G",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -146240,6 +146242,26 @@
     "spoorbreedte": "153",
     "wettelijk_toegestane_maximum_aslast": "1230",
     "technisch_toegestane_maximum_aslast": "1230"
+  },
+  {
+    "kenteken": "VZ999F",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "V",
+    "spoorbreedte": "171",
+    "wettelijk_toegestane_maximum_aslast": "1650",
+    "technisch_toegestane_maximum_aslast": "1650"
+  },
+  {
+    "kenteken": "VZ999F",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "A",
+    "spoorbreedte": "172",
+    "wettelijk_toegestane_maximum_aslast": "2250",
+    "technisch_toegestane_maximum_aslast": "2250"
   },
   {
     "kenteken": "VZB12H",
