@@ -48236,11 +48236,11 @@
   },
   {
     "Adres": "Haaglanden Regionaal",
-    "Roepnummer": "15-9684",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "HRJ-21-X",
-    "Bijzonderheden": "T.b.v. Adviseur Risicobeheersing. Bezetting: 5 personen.",
+    "Roepnummer": "15-9683",
+    "Afkorting": "TD",
+    "TypeVoertuig": "Technische dienst",
+    "Kenteken": "VZ-999-F",
+    "Bijzonderheden": "T.b.v. logistiek.",
     "Hulpdienst": "Brandweer",
     "Regio": "15 - Haaglanden (VRH)",
     "Interne opmerking": ""
@@ -48251,7 +48251,7 @@
     "Afkorting": "DA",
     "TypeVoertuig": "Dienstauto",
     "Kenteken": "HRJ-21-X",
-    "Bijzonderheden": "Regionaal voertuig. Bezetting: 5 personen.",
+    "Bijzonderheden": "T.b.v. Adviseur Risicobeheersing. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer",
     "Regio": "15 - Haaglanden (VRH)",
     "Interne opmerking": ""
@@ -52394,17 +52394,6 @@
   },
   {
     "Adres": "Vlaardingen",
-    "Roepnummer": "17-0390",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Clustercommandant. Bezetting: 5 personen.",
-    "Hulpdienst": "Brandweer",
-    "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Vlaardingen",
     "Roepnummer": "17-9071",
     "Afkorting": "BM-VTHS",
     "TypeVoertuig": "Bijzonder materieel veiligheidstester hoogspanning",
@@ -55232,17 +55221,6 @@
   },
   {
     "Adres": "Barendrecht",
-    "Roepnummer": "17-3690",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Clustercommandant. Bezetting: 5 personen.",
-    "Hulpdienst": "Brandweer",
-    "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Barendrecht",
     "Roepnummer": "17-9169",
     "Afkorting": "PM-BBM",
     "TypeVoertuig": "Personeel/materieelvoertuig met bijzondere brandbestrijdingsmiddelen",
@@ -55347,17 +55325,6 @@
     "TypeVoertuig": "Quick response team",
     "Kenteken": "53-BVT-8",
     "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Groene Tuin",
-    "Roepnummer": "17-3790",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Clustercommandant. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer",
     "Regio": "17 - Rotterdam-Rijnmond (VRR)",
     "Interne opmerking": ""
@@ -55721,17 +55688,6 @@
     "TypeVoertuig": "Watertankhaakarmbak groot",
     "Kenteken": "GEEN",
     "Bijzonderheden": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Olympia",
-    "Roepnummer": "17-4590",
-    "Afkorting": "DA",
-    "TypeVoertuig": "Dienstauto",
-    "Kenteken": "ONBEKEND",
-    "Bijzonderheden": "Clustercommandant. Bezetting: 5 personen.",
     "Hulpdienst": "Brandweer",
     "Regio": "17 - Rotterdam-Rijnmond (VRR)",
     "Interne opmerking": ""
@@ -102852,10 +102808,10 @@
   {
     "Adres": "Barendrecht Breslau",
     "Roepnummer": "17-811",
-    "Afkorting": "OVDG-Z",
-    "TypeVoertuig": "Officier van dienst geneeskundige zorg Zuid",
+    "Afkorting": "OVD-G",
+    "TypeVoertuig": "Officier van dienst geneeskundige zorg",
     "Kenteken": "TB-946-R",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "OVDG-Z.",
     "Hulpdienst": "Ambulance",
     "Regio": "17 - Rotterdam-Rijnmond (VRR)",
     "Interne opmerking": ""
@@ -102863,10 +102819,10 @@
   {
     "Adres": "Rotterdam Brugwachter",
     "Roepnummer": "17-812",
-    "Afkorting": "OVDG-N",
-    "TypeVoertuig": "Officier van dienst geneeskundige zorg Noord",
+    "Afkorting": "OVD-G",
+    "TypeVoertuig": "Officier van dienst geneeskundige zorg",
     "Kenteken": "GRJ-13-V",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "OVDG-N.",
     "Hulpdienst": "Ambulance",
     "Regio": "17 - Rotterdam-Rijnmond (VRR)",
     "Interne opmerking": ""
@@ -103721,10 +103677,10 @@
   {
     "Adres": "Dordrecht",
     "Roepnummer": "18-802",
-    "Afkorting": "OVDG-ZW",
-    "TypeVoertuig": "Officier van dienst geneeskundige zorg Zuid-West",
+    "Afkorting": "OVD-G",
+    "TypeVoertuig": "Officier van dienst geneeskundige zorg",
     "Kenteken": "XD-986-J",
-    "Bijzonderheden": "Piketvoertuig.",
+    "Bijzonderheden": "OVDG-ZW. Piketvoertuig.",
     "Hulpdienst": "Ambulance",
     "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
     "Interne opmerking": ""
@@ -103842,10 +103798,10 @@
   {
     "Adres": "Papendrecht",
     "Roepnummer": "18-801",
-    "Afkorting": "OVDG-NO",
-    "TypeVoertuig": "Officier van dienst geneeskundige zorg Noord-Oost",
+    "Afkorting": "OVD-G",
+    "TypeVoertuig": "Officier van dienst geneeskundige zorg",
     "Kenteken": "GNK-74-N",
-    "Bijzonderheden": "Piketvoertuig.",
+    "Bijzonderheden": "OVDG-NO. Piketvoertuig.",
     "Hulpdienst": "Ambulance",
     "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
     "Interne opmerking": ""
@@ -111202,7 +111158,7 @@
     "Adres": "Nationaal Logistiek Centrum",
     "Roepnummer": "30-501",
     "Afkorting": "HA",
-    "TypeVoertuig": "Haakarmvoertuig Rode Kruis",
+    "TypeVoertuig": "Haakarmvoertuig",
     "Kenteken": "48-BRG-9",
     "Bijzonderheden": "",
     "Hulpdienst": "Rode Kruis",

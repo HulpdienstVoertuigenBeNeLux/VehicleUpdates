@@ -1,8 +1,45 @@
 [
   {
     "date": "2026-09-21",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-9683 TD toegevoegd aan Haaglanden Regionaal",
+        "Time": "21-09-2026 13:00:22"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0390 DA verwijderd van Vlaardingen",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3690 DA verwijderd van Barendrecht",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3790 DA verwijderd van Groene Tuin",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4590 DA verwijderd van Olympia",
+        "Time": "21-09-2026 13:00:22"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -38,6 +75,104 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "17-9093: Bijzonderheden van 'Piketvoertuig. Gebied: Rijnmond Zuid.' naar 'Reserve (H)OVD-B voertuig. Primair t.b.v. afdeling operationele voorbereiding.' aangepast",
         "Time": "21-09-2026 09:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-9684: Bijzonderheden van 'Regionaal voertuig. Bezetting: 5 personen.' naar 'T.b.v. Adviseur Risicobeheersing. Bezetting: 5 personen.' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-811: Afkorting van 'OVDG-Z' naar 'OVD-G' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-811: TypeVoertuig van 'Officier van dienst geneeskundige zorg Zuid' naar 'Officier van dienst geneeskundige zorg' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-811: Bijzonderheden van '' naar 'OVDG-Z.' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-812: Afkorting van 'OVDG-N' naar 'OVD-G' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-812: TypeVoertuig van 'Officier van dienst geneeskundige zorg Noord' naar 'Officier van dienst geneeskundige zorg' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-812: Bijzonderheden van '' naar 'OVDG-N.' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-802: Afkorting van 'OVDG-ZW' naar 'OVD-G' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-802: TypeVoertuig van 'Officier van dienst geneeskundige zorg Zuid-West' naar 'Officier van dienst geneeskundige zorg' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-802: Bijzonderheden van 'Piketvoertuig.' naar 'OVDG-ZW. Piketvoertuig.' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-801: Afkorting van 'OVDG-NO' naar 'OVD-G' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-801: TypeVoertuig van 'Officier van dienst geneeskundige zorg Noord-Oost' naar 'Officier van dienst geneeskundige zorg' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-801: Bijzonderheden van 'Piketvoertuig.' naar 'OVDG-NO. Piketvoertuig.' aangepast",
+        "Time": "21-09-2026 13:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "7 - Gelderland-Midden (VGGM)",
+        "Description": "30-501: TypeVoertuig van 'Haakarmvoertuig Rode Kruis' naar 'Haakarmvoertuig' aangepast",
+        "Time": "21-09-2026 13:00:22"
       }
     ]
   },
