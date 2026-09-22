@@ -17506,20 +17506,6 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
-    "kenteken": "BD251V",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "31",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
-  },
-  {
-    "kenteken": "BD356V",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "31",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
-  },
-  {
     "kenteken": "BD004T",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -17738,6 +17724,13 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
+    "kenteken": "BD251V",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "31",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+  },
+  {
     "kenteken": "BD282G",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -17750,6 +17743,13 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "03",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "BD356V",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "31",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
     "kenteken": "BD384N",
@@ -39720,6 +39720,10 @@
   },
   {
     "kenteken": "Z401BP",
+    "no_data": true
+  },
+  {
+    "kenteken": "Z403BP",
     "no_data": true
   },
   {
