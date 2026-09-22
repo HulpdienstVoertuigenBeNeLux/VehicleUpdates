@@ -1,5 +1,48 @@
 [
   {
+    "date": "2026-09-23",
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Politie",
+        "Regio": "Brussel",
+        "Description": "  toegevoegd aan Etterbeek",
+        "Time": "23-09-2026 00:00:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Politie",
+        "Regio": "Henegouwen",
+        "Description": "  toegevoegd aan Gosselies",
+        "Time": "23-09-2026 00:00:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Politie",
+        "Regio": "Luik",
+        "Description": "  toegevoegd aan Gr6ace-Hollogne",
+        "Time": "23-09-2026 00:00:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Politie",
+        "Regio": "West-Vlaanderen",
+        "Description": "  toegevoegd aan Wevelgem",
+        "Time": "23-09-2026 00:00:25"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": " SLA verwijderd van Wevelgem",
+        "Time": "23-09-2026 00:00:25"
+      }
+    ],
+    "changed": []
+  },
+  {
     "date": "2026-09-22",
     "added": [
       {
@@ -7692,11 +7735,5 @@
         "Time": "23-08-2026 15:00:39"
       }
     ]
-  },
-  {
-    "date": "2026-08-22",
-    "added": [],
-    "removed": [],
-    "changed": []
   }
 ]
