@@ -48363,19 +48363,6 @@
     "last_tenaamstelling_check_date": "2026-09-16",
     "aantal_zitplaatsen": "8"
   },
-  "BJ-TH-66": {
-    "expiry": "2026-12-28",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "19-2232"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-03-15",
-    "last_tenaamstelling_check_date": "2026-09-21",
-    "aantal_zitplaatsen": null
-  },
   "BR-FD-97": {
     "expiry": "2027-03-19",
     "checked": true,
@@ -50036,19 +50023,6 @@
     "datum_tenaamstelling_dt": "2023-11-16",
     "last_tenaamstelling_check_date": "2026-09-21",
     "aantal_zitplaatsen": "6"
-  },
-  "BV-SR-36": {
-    "expiry": "2027-01-25",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "19-4931"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-03-12",
-    "last_tenaamstelling_check_date": "2026-09-21",
-    "aantal_zitplaatsen": "9"
   },
   "BZ-PR-44": {
     "expiry": "2026-12-01",
@@ -107179,5 +107153,31 @@
     "datum_tenaamstelling_dt": "2026-02-05",
     "last_tenaamstelling_check_date": "2026-09-21",
     "aantal_zitplaatsen": "6"
+  },
+  "BD-251-V": {
+    "expiry": "2027-08-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "19-2232"
+    ],
+    "last_check_date": "2026-09-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-08-24",
+    "last_tenaamstelling_check_date": "2026-09-22",
+    "aantal_zitplaatsen": "7"
+  },
+  "BD-356-V": {
+    "expiry": "2027-09-02",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "19-4931"
+    ],
+    "last_check_date": "2026-09-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-09-02",
+    "last_tenaamstelling_check_date": "2026-09-22",
+    "aantal_zitplaatsen": "7"
   }
 }
