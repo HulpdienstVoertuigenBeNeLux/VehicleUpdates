@@ -81462,19 +81462,6 @@
     "last_tenaamstelling_check_date": "2026-09-21",
     "aantal_zitplaatsen": "3"
   },
-  "G-774-HN": {
-    "expiry": "2026-09-25",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "20-181"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2019-09-25",
-    "last_tenaamstelling_check_date": "2026-09-21",
-    "aantal_zitplaatsen": "4"
-  },
   "T-839-JJ": {
     "expiry": "2027-06-22",
     "checked": true,
@@ -83096,19 +83083,6 @@
     "last_tenaamstelling_check_date": "2026-09-22",
     "aantal_zitplaatsen": "4"
   },
-  "G-269-DH": {
-    "expiry": "2026-11-21",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "AES-11"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-04-14",
-    "last_tenaamstelling_check_date": "2026-09-21",
-    "aantal_zitplaatsen": "4"
-  },
   "5-KBZ-82": {
     "expiry": null,
     "checked": true,
@@ -84285,19 +84259,6 @@
       "24-135"
     ],
     "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2023-01-26",
-    "last_tenaamstelling_check_date": "2026-09-21",
-    "aantal_zitplaatsen": "5"
-  },
-  "H-872-XH": {
-    "expiry": "2027-06-10",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-138"
-    ],
-    "last_check_date": "2026-06-11",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2023-01-26",
     "last_tenaamstelling_check_date": "2026-09-21",
@@ -107244,5 +107205,44 @@
     "datum_tenaamstelling_dt": "2025-10-23",
     "last_tenaamstelling_check_date": "2026-09-22",
     "aantal_zitplaatsen": "2"
+  },
+  "JXX-24-G": {
+    "expiry": "2027-02-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "20-181"
+    ],
+    "last_check_date": "2026-09-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-02-16",
+    "last_tenaamstelling_check_date": "2026-09-22",
+    "aantal_zitplaatsen": "4"
+  },
+  "J-017-ZK": {
+    "expiry": "2026-11-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "AES-11"
+    ],
+    "last_check_date": "2026-09-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-04-01",
+    "last_tenaamstelling_check_date": "2026-09-22",
+    "aantal_zitplaatsen": "4"
+  },
+  "KTF-97-G": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "24-138"
+    ],
+    "last_check_date": "2026-09-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-08-27",
+    "last_tenaamstelling_check_date": "2026-09-22",
+    "aantal_zitplaatsen": "4"
   }
 }
