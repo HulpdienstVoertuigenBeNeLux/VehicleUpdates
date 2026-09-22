@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,003  (of 17,158 total)
+  Records checked : 11,007  (of 17,162 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  4 value(s) affected
@@ -44,11 +44,15 @@
       Roepnummer  : 08-151 of 08-152
       Kenteken    : ZH-127-F
 
-  >> '1'  (2x)
+  >> '1'  (3x)
       Adres       : Eelde Airport
       Hulpdienst  : Brandweer
       Roepnummer  : 1
       Kenteken    : GEEN
+      Adres       : Dordrecht
+      Hulpdienst  : Brandweer
+      Roepnummer  : 1
+      Kenteken    : BV-TS-92
       Adres       : Air Ambulance & Medical Repatriation Winterswijk
       Hulpdienst  : Ambulance
       Roepnummer  : 1
@@ -72,7 +76,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,780  (of 10,026 total)
+  Records checked : 6,783  (of 10,028 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  534 value(s) affected
@@ -1478,36 +1482,6 @@
       Roepnummer  : B03
       Kenteken    : 
 
-  >> 'B04'  (2x)
-      Adres       : Brasschaat
-      Hulpdienst  : Brandweer
-      Roepnummer  : B04
-      Kenteken    : 
-      Adres       : Hasselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : B04
-      Kenteken    : 
-
-  >> 'B05'  (2x)
-      Adres       : Brasschaat
-      Hulpdienst  : Brandweer
-      Roepnummer  : B05
-      Kenteken    : 
-      Adres       : Hasselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : B05
-      Kenteken    : 
-
-  >> 'B06'  (2x)
-      Adres       : Brasschaat
-      Hulpdienst  : Brandweer
-      Roepnummer  : B06
-      Kenteken    : 
-      Adres       : Hasselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : B06
-      Kenteken    : 
-
   >> 'B08'  (2x)
       Adres       : Brasschaat
       Hulpdienst  : Brandweer
@@ -1532,11 +1506,7 @@
       Roepnummer  : B1
       Kenteken    : 
 
-  >> 'B10'  (3x)
-      Adres       : Brasschaat
-      Hulpdienst  : Brandweer
-      Roepnummer  : B10
-      Kenteken    : 
+  >> 'B10'  (2x)
       Adres       : Beveren
       Hulpdienst  : Brandweer
       Roepnummer  : B10
@@ -1632,11 +1602,7 @@
       Roepnummer  : B12
       Kenteken    : 
 
-  >> 'B13'  (4x)
-      Adres       : Brasschaat
-      Hulpdienst  : Brandweer
-      Roepnummer  : B13
-      Kenteken    : 
+  >> 'B13'  (3x)
       Adres       : Brecht
       Hulpdienst  : Brandweer
       Roepnummer  : B13
@@ -1668,16 +1634,6 @@
       Adres       : Beveren
       Hulpdienst  : Brandweer
       Roepnummer  : B16
-      Kenteken    : 
-
-  >> 'B17'  (2x)
-      Adres       : Brasschaat
-      Hulpdienst  : Brandweer
-      Roepnummer  : B17
-      Kenteken    : 
-      Adres       : Melsele
-      Hulpdienst  : Brandweer
-      Roepnummer  : B17
       Kenteken    : 
 
   >> 'B2'  (2x)
@@ -1982,12 +1938,16 @@
       Roepnummer  : BRASSCHAAT
       Kenteken    : 
 
-  >> 'C01'  (2x)
+  >> 'C01'  (3x)
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
       Roepnummer  : C01
       Kenteken    : 
       Adres       : Tongeren
+      Hulpdienst  : Brandweer
+      Roepnummer  : C01
+      Kenteken    : 
+      Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : C01
       Kenteken    : 
@@ -2000,6 +1960,16 @@
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : C02
+      Kenteken    : 
+
+  >> 'C04'  (2x)
+      Adres       : Heusden-Zolder
+      Hulpdienst  : Brandweer
+      Roepnummer  : C04
+      Kenteken    : 
+      Adres       : Halle
+      Hulpdienst  : Brandweer
+      Roepnummer  : C04
       Kenteken    : 
 
   >> 'C05'  (2x)
@@ -2530,11 +2500,7 @@
       Roepnummer  : C31
       Kenteken    : 
 
-  >> 'C32'  (4x)
-      Adres       : Halle
-      Hulpdienst  : Brandweer
-      Roepnummer  : C32
-      Kenteken    : 
+  >> 'C32'  (3x)
       Adres       : Anderlecht
       Hulpdienst  : Brandweer
       Roepnummer  : C32
@@ -2642,6 +2608,16 @@
       Adres       : Welkenraedt
       Hulpdienst  : Brandweer
       Roepnummer  : C402
+      Kenteken    : 
+
+  >> 'C405'  (2x)
+      Adres       : Kortemark
+      Hulpdienst  : Brandweer
+      Roepnummer  : C405
+      Kenteken    : 
+      Adres       : Plombières
+      Hulpdienst  : Brandweer
+      Roepnummer  : C405
       Kenteken    : 
 
   >> 'C408'  (2x)
@@ -2964,6 +2940,16 @@
       Adres       : Charleroi
       Hulpdienst  : Ambulance
       Roepnummer  : CHARLEROI 1
+      Kenteken    : 
+
+  >> 'CT92'  (2x)
+      Adres       : Leuven
+      Hulpdienst  : Brandweer
+      Roepnummer  : CT92
+      Kenteken    : 
+      Adres       : Halle
+      Hulpdienst  : Brandweer
+      Roepnummer  : CT92
       Kenteken    : 
 
   >> 'CTR211'  (2x)
@@ -4510,7 +4496,7 @@
       Roepnummer  : M21
       Kenteken    : 
 
-  >> 'M22'  (4x)
+  >> 'M22'  (5x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : M22
@@ -4524,6 +4510,10 @@
       Roepnummer  : M22
       Kenteken    : 
       Adres       : Landen
+      Hulpdienst  : Brandweer
+      Roepnummer  : M22
+      Kenteken    : 
+      Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : M22
       Kenteken    : 
@@ -4564,6 +4554,16 @@
       Adres       : Buggenhout
       Hulpdienst  : Brandweer
       Roepnummer  : M4
+      Kenteken    : 
+
+  >> 'M40'  (2x)
+      Adres       : Aarschot
+      Hulpdienst  : Brandweer
+      Roepnummer  : M40
+      Kenteken    : 
+      Adres       : Halle
+      Hulpdienst  : Brandweer
+      Roepnummer  : M40
       Kenteken    : 
 
   >> 'M404'  (2x)
@@ -4856,11 +4856,7 @@
       Roepnummer  : P11
       Kenteken    : 
 
-  >> 'P12'  (4x)
-      Adres       : Halle
-      Hulpdienst  : Brandweer
-      Roepnummer  : P12
-      Kenteken    : 
+  >> 'P12'  (3x)
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P12
@@ -5158,6 +5154,16 @@
       Roepnummer  : P34
       Kenteken    : 
 
+  >> 'P36'  (2x)
+      Adres       : Halle
+      Hulpdienst  : Brandweer
+      Roepnummer  : P36
+      Kenteken    : 
+      Adres       : Schaarbeek
+      Hulpdienst  : Brandweer
+      Roepnummer  : P36
+      Kenteken    : 
+
   >> 'P4'  (3x)
       Adres       : Asse
       Hulpdienst  : Brandweer
@@ -5286,16 +5292,6 @@
       Roepnummer  : P51
       Kenteken    : 
 
-  >> 'P6'  (2x)
-      Adres       : Halle
-      Hulpdienst  : Brandweer
-      Roepnummer  : P6
-      Kenteken    : 
-      Adres       : Héliport
-      Hulpdienst  : Brandweer
-      Roepnummer  : P6
-      Kenteken    : 
-
   >> 'P62'  (2x)
       Adres       : Wavre
       Hulpdienst  : Brandweer
@@ -5342,6 +5338,16 @@
       Adres       : Zele
       Hulpdienst  : Brandweer
       Roepnummer  : P81
+      Kenteken    : 
+
+  >> 'P83'  (2x)
+      Adres       : Halle
+      Hulpdienst  : Brandweer
+      Roepnummer  : P83
+      Kenteken    : 
+      Adres       : Zele
+      Hulpdienst  : Brandweer
+      Roepnummer  : P83
       Kenteken    : 
 
   >> 'P9'  (2x)
@@ -5854,16 +5860,6 @@
       Adres       : Enghien
       Hulpdienst  : Brandweer
       Roepnummer  : S2
-      Kenteken    : 
-
-  >> 'S20'  (2x)
-      Adres       : Sint-Truiden
-      Hulpdienst  : Brandweer
-      Roepnummer  : S20
-      Kenteken    : 
-      Adres       : Halle
-      Hulpdienst  : Brandweer
-      Roepnummer  : S20
       Kenteken    : 
 
   >> 'S21'  (3x)
@@ -7756,7 +7752,7 @@
   Region: LUX
 ================================================================================
 
-  Records checked : 0  (of 1,447 total)
+  Records checked : 0  (of 1,448 total)
   Roepnummer     : no duplicates
   Kenteken       : no duplicates
 

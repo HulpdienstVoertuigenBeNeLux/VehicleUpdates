@@ -6218,7 +6218,7 @@
     ],
     [
       "Brasschaat",
-      "B04",
+      "BA-1H",
       "HZA",
       "Halfzware Autopomp",
       "",
@@ -6232,7 +6232,7 @@
     ],
     [
       "Brasschaat",
-      "B09",
+      "BA-2H",
       "HZA",
       "Halfzware Autopomp",
       "",
@@ -6246,7 +6246,7 @@
     ],
     [
       "Brasschaat",
-      "B17",
+      "BA-TW",
       "TW",
       "Tankwagen",
       "",
@@ -6260,7 +6260,7 @@
     ],
     [
       "Brasschaat",
-      "B10",
+      "BA-AL",
       "LW 30",
       "Ladderwagen",
       "",
@@ -6302,7 +6302,7 @@
     ],
     [
       "Brasschaat",
-      "B13",
+      "BA-BW1",
       "CCFM",
       "Bosbrand Autopomp Terreinvaardig",
       "",
@@ -6316,7 +6316,7 @@
     ],
     [
       "Brasschaat",
-      "B05",
+      "BA-BW2",
       "CCFM",
       "Bosbrand Autopomp Terreinvaardig",
       "",
@@ -6386,7 +6386,7 @@
     ],
     [
       "Brasschaat",
-      "B06",
+      "BA-HA1",
       "HA",
       "Haakarmvoertuig",
       "",
@@ -23676,7 +23676,7 @@
     ],
     [
       "Halle",
-      "P6",
+      "P36",
       "HZA",
       "Halfzware Autopomp",
       "",
@@ -23690,7 +23690,7 @@
     ],
     [
       "Halle",
-      "P12",
+      "P06",
       "HZA",
       "Halfzware Autopomp",
       "",
@@ -23704,9 +23704,9 @@
     ],
     [
       "Halle",
-      "T5",
-      "TW",
-      "Tankwagen",
+      "P83",
+      "HZA",
+      "Halfzware Autopomp",
       "",
       "",
       "Brandweer",
@@ -23718,7 +23718,7 @@
     ],
     [
       "Halle",
-      "T54",
+      "T5",
       "TW",
       "Tankwagen",
       "",
@@ -23732,6 +23732,20 @@
     ],
     [
       "Halle",
+      "T54",
+      "TW",
+      "Tankwagen",
+      "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant",
+      "",
+      "",
+      "",
+      "VEH-005-POST-103"
+    ],
+    [
+      "Halle",
       "L18",
       "LW 32",
       "Ladderwagen",
@@ -23742,7 +23756,7 @@
       "",
       "",
       "",
-      "VEH-005-POST-103"
+      "VEH-006-POST-103"
     ],
     [
       "Halle",
@@ -23756,7 +23770,7 @@
       "",
       "",
       "",
-      "VEH-006-POST-103"
+      "VEH-007-POST-103"
     ],
     [
       "Halle",
@@ -23770,7 +23784,7 @@
       "",
       "",
       "",
-      "VEH-007-POST-103"
+      "VEH-008-POST-103"
     ],
     [
       "Halle",
@@ -23784,7 +23798,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-103"
+      "VEH-009-POST-103"
     ],
     [
       "Halle",
@@ -23798,7 +23812,7 @@
       "",
       "",
       "",
-      "VEH-009-POST-103"
+      "VEH-010-POST-103"
     ],
     [
       "Halle",
@@ -23812,7 +23826,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-103"
+      "VEH-011-POST-103"
     ],
     [
       "Halle",
@@ -23826,7 +23840,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-103"
+      "VEH-012-POST-103"
     ],
     [
       "Halle",
@@ -23840,11 +23854,11 @@
       "",
       "",
       "",
-      "VEH-012-POST-103"
+      "VEH-013-POST-103"
     ],
     [
       "Halle",
-      "S20",
+      "M22",
       "SIG",
       "Singnalisatievoertuig",
       "",
@@ -23854,7 +23868,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-103"
+      "VEH-014-POST-103"
     ],
     [
       "Halle",
@@ -23868,7 +23882,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-103"
+      "VEH-015-POST-103"
     ],
     [
       "Halle",
@@ -23882,7 +23896,7 @@
       "",
       "",
       "",
-      "VEH-015-POST-103"
+      "VEH-016-POST-103"
     ],
     [
       "Halle",
@@ -23896,25 +23910,11 @@
       "",
       "",
       "",
-      "VEH-016-POST-103"
-    ],
-    [
-      "Halle",
-      "C32",
-      "CO",
-      "Commandovoertuig",
-      "",
-      "",
-      "Brandweer",
-      "Vlaams-Brabant",
-      "",
-      "",
-      "",
       "VEH-017-POST-103"
     ],
     [
       "Halle",
-      "C33",
+      "C04",
       "CO",
       "Commandovoertuig",
       "",
@@ -23928,7 +23928,7 @@
     ],
     [
       "Halle",
-      "C34",
+      "C01",
       "CO",
       "Commandovoertuig",
       "",
@@ -23942,7 +23942,35 @@
     ],
     [
       "Halle",
-      "M45",
+      "C33",
+      "CO",
+      "Commandovoertuig",
+      "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant",
+      "",
+      "",
+      "",
+      "VEH-020-POST-103"
+    ],
+    [
+      "Halle",
+      "C34",
+      "CO",
+      "Commandovoertuig",
+      "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant",
+      "",
+      "",
+      "",
+      "VEH-021-POST-103"
+    ],
+    [
+      "Halle",
+      "M40",
       "HA-KR",
       "Haakarmvoertuig (Met kraan)",
       "",
@@ -23952,7 +23980,21 @@
       "",
       "",
       "",
-      "VEH-020-POST-103"
+      "VEH-022-POST-103"
+    ],
+    [
+      "Halle",
+      "M53",
+      "HA-KR",
+      "Haakarmvoertuig (Met kraan)",
+      "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant",
+      "",
+      "",
+      "",
+      "VEH-023-POST-103"
     ],
     [
       "Halle",
@@ -23966,7 +24008,7 @@
       "",
       "",
       "",
-      "VEH-021-POST-103"
+      "VEH-024-POST-103"
     ],
     [
       "Halle",
@@ -23980,25 +24022,25 @@
       "",
       "",
       "",
-      "VEH-022-POST-103"
+      "VEH-025-POST-103"
     ],
     [
       "Halle",
-      "CT94",
+      "CT49",
       "BMC",
       "Bijzonde Materialen Container",
       "",
-      "Bjjzonder Materiaal Container",
+      "",
       "Brandweer",
       "Vlaams-Brabant",
       "",
       "",
       "",
-      "VEH-023-POST-103"
+      "VEH-026-POST-103"
     ],
     [
       "Halle",
-      "CT83",
+      "CT92",
       "RBC",
       "Reddins Boot op platte Container",
       "",
@@ -24008,7 +24050,7 @@
       "",
       "",
       "",
-      "VEH-024-POST-103"
+      "VEH-027-POST-103"
     ],
     [
       "Halle",
@@ -24022,7 +24064,7 @@
       "",
       "",
       "",
-      "VEH-025-POST-103"
+      "VEH-028-POST-103"
     ],
     [
       "Halle",
@@ -24036,7 +24078,7 @@
       "",
       "",
       "",
-      "VEH-026-POST-103"
+      "VEH-029-POST-103"
     ],
     [
       "Halle",
@@ -24050,7 +24092,7 @@
       "",
       "",
       "",
-      "VEH-027-POST-103"
+      "VEH-030-POST-103"
     ],
     [
       "Lennik - Karel Keymolenstraat 4",
@@ -51040,7 +51082,7 @@
       "Brandweer",
       "West-Vlaanderen",
       "",
-      "",
+      "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/T407-unknown-1790073758713.webp",
       "",
       "VEH-004-POST-229"
     ],
@@ -71010,7 +71052,7 @@
     ],
     [
       "Plombières",
-      "",
+      "C405",
       "TW",
       "Tankwagen",
       "",
@@ -104441,20 +104483,6 @@
       "VEH-014-POST-969"
     ],
     [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "Politie",
-      "",
-      "",
-      "",
-      "",
-      "VEH-015-POST-969"
-    ],
-    [
       "Scheepsvaart Politie",
       "",
       "",
@@ -104466,7 +104494,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-969"
+      "POST-1832"
     ],
     [
       "Antwerpen",
@@ -104480,7 +104508,7 @@
       "",
       "",
       "51.310167699359916, 4.323528945687937",
-      "VEH-001-POST-970"
+      "VEH-001-POST-1832"
     ],
     [
       "Kallo",
@@ -104494,7 +104522,7 @@
       "",
       "",
       "51.27941223971887, 4.275616183064355",
-      "VEH-002-POST-970"
+      "VEH-002-POST-1832"
     ],
     [
       "Gent",
@@ -104508,7 +104536,7 @@
       "",
       "",
       "51.11236570928404, 3.748237919202255",
-      "VEH-003-POST-970"
+      "VEH-003-POST-1832"
     ],
     [
       "Zeerugge",
@@ -104522,7 +104550,7 @@
       "",
       "",
       "51.32734276702716, 3.191938876882224",
-      "VEH-004-POST-970"
+      "VEH-004-POST-1832"
     ],
     [
       "Blankenberge",
@@ -104536,7 +104564,7 @@
       "",
       "",
       "51.31079195027535, 3.1159362247846727",
-      "VEH-005-POST-970"
+      "VEH-005-POST-1832"
     ],
     [
       "Oostende",
@@ -104550,7 +104578,7 @@
       "",
       "",
       "51.2297885834169, 2.925961686028867",
-      "VEH-006-POST-970"
+      "VEH-006-POST-1832"
     ],
     [
       "Nieuwpoort",
@@ -104564,7 +104592,7 @@
       "",
       "",
       "51.14017041582777, 2.7460701389892366",
-      "VEH-007-POST-970"
+      "VEH-007-POST-1832"
     ],
     [
       "Luik",
@@ -104578,7 +104606,7 @@
       "",
       "",
       "50.64699355422432, 5.584679378315314",
-      "VEH-008-POST-970"
+      "VEH-008-POST-1832"
     ],
     [
       "Bergen",
@@ -104592,7 +104620,7 @@
       "",
       "",
       "50.46235216030607, 3.965443820102219",
-      "VEH-009-POST-970"
+      "VEH-009-POST-1832"
     ],
     [
       "Noodcentrale 112 Antwerpen",

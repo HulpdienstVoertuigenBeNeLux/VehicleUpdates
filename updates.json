@@ -1,8 +1,171 @@
 [
   {
     "date": "2026-09-22",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN BMH-OTO toegevoegd aan Vakbekwaamheid/Breevaartstraat",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-869 BMH-OTO toegevoegd aan Spinel Veiligheidscentrum",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "EMS-46 EH toegevoegd aan EMS Uden",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "GEEN CMV Berger toegevoegd aan Blaricum",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rijkswaterstaat",
+        "Regio": "WNZ-RWS",
+        "Description": "GEEN (DA) OVD-RWS toegevoegd aan Rhoon",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rijkswaterstaat",
+        "Regio": "WNZ-RWS",
+        "Description": "GEEN (DAT) WIS toegevoegd aan Rhoon",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "BA-1H HZA toegevoegd aan Brasschaat",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "BA-2H HZA toegevoegd aan Brasschaat",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "BA-TW TW toegevoegd aan Brasschaat",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "BA-AL LW 30 toegevoegd aan Brasschaat",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "BA-BW1 CCFM toegevoegd aan Brasschaat",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "BA-BW2 CCFM toegevoegd aan Brasschaat",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "BA-HA1 HA toegevoegd aan Brasschaat",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "P06 HZA toegevoegd aan Halle",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "M53 HA-KR toegevoegd aan Halle",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "CT49 BMC toegevoegd aan Halle",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Feuerwehr",
+        "Regio": "Central Rescue Zone",
+        "Description": " AL toegevoegd aan Luxembourg",
+        "Time": "22-09-2026 16:02:04"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Rettungsdienst",
+        "Regio": "Southern Rescue Zone",
+        "Description": " HC-Ambu toegevoegd aan Kayl Tetange",
+        "Time": "22-09-2026 16:02:04"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Rettungsdienst",
+        "Regio": "Southern Rescue Zone",
+        "Description": " HC-Ambu toegevoegd aan Kayl Tetange",
+        "Time": "22-09-2026 16:02:04"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen",
+        "Description": "B09 HZA verwijderd van Brasschaat",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "M45 HA-KR verwijderd van Halle",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "CT94 BMC verwijderd van Halle",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "CT83 RBC verwijderd van Halle",
+        "Time": "22-09-2026 16:00:52"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -52,6 +215,174 @@
         "Regio": "DH-POL",
         "Description": "DH03 Recherche Den Haag: Bijzonderheden van 'Recherche.' naar 'Recherche en Team Transport (bergers).' aangepast",
         "Time": "22-09-2026 15:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "AES-22: Afkorting van 'RR-EH' naar 'MFT-EH' aangepast",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "AES-22: TypeVoertuig van 'Rapid responder evenementenhulpverlening' naar 'Multifunctioneel terreinvoertuig evenementenhulpverlening' aangepast",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "AES-22: Bijzonderheden van 'Terreinvaardig voertuig.' naar '' aangepast",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "GEEN: Afkorting van 'CMV Berger' naar 'IM Berger' aangepast",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "GEEN: TypeVoertuig van 'Vrachtwagenberging' naar 'Plateauwagen' aangepast",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-88: Adres van 'Coevorden' naar 'Dordrecht' aangepast",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "'03-88' omgenummerd naar '1'",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-88: Bijzonderheden van 'Reservevoertuig. Bezetting: 8 personen.' naar 'Bezetting: 8 personen.' aangepast",
+        "Time": "22-09-2026 16:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "M22: Adres van 'Landen' naar 'Halle' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "M22: Afkorting van 'SH' naar 'SIG' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "M22: TypeVoertuig van 'Snelle Hulpwagem' naar 'Singnalisatievoertuig' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg",
+        "Description": "C01: Adres van 'Tongeren' naar 'Halle' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg",
+        "Description": "C04: Adres van 'Heusden-Zolder' naar 'Halle' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "S20: Adres van 'Halle' naar 'Sint-Truiden' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "S20: Afkorting van 'SIG' naar 'PM' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "S20: TypeVoertuig van 'Singnalisatievoertuig' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "M40: Adres van 'Aarschot' naar 'Halle' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "CT92: Adres van 'Leuven' naar 'Halle' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "CT92: Afkorting van 'BMC' naar 'RBC' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "CT92: TypeVoertuig van 'Bijzonde Materialen Container' naar 'Reddins Boot op platte Container' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant",
+        "Description": "CT92: Bijzonderheden van 'Transport Container' naar '' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "C405: Adres van 'Kortemark' naar 'Plombières' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "C405: Afkorting van 'CO' naar 'TW' aangepast",
+        "Time": "22-09-2026 16:00:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen",
+        "Description": "C405: TypeVoertuig van 'Commandovoertuig' naar 'Tankwagen' aangepast",
+        "Time": "22-09-2026 16:00:52"
       }
     ]
   },

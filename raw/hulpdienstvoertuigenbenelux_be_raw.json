@@ -4874,7 +4874,7 @@
   },
   {
     "Adres": "Brasschaat",
-    "Roepnummer": "B04",
+    "Roepnummer": "BA-1H",
     "Afkorting": "HZA",
     "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
@@ -4885,7 +4885,7 @@
   },
   {
     "Adres": "Brasschaat",
-    "Roepnummer": "B09",
+    "Roepnummer": "BA-2H",
     "Afkorting": "HZA",
     "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
@@ -4896,7 +4896,7 @@
   },
   {
     "Adres": "Brasschaat",
-    "Roepnummer": "B17",
+    "Roepnummer": "BA-TW",
     "Afkorting": "TW",
     "TypeVoertuig": "Tankwagen",
     "Kenteken": "",
@@ -4907,7 +4907,7 @@
   },
   {
     "Adres": "Brasschaat",
-    "Roepnummer": "B10",
+    "Roepnummer": "BA-AL",
     "Afkorting": "LW 30",
     "TypeVoertuig": "Ladderwagen",
     "Kenteken": "",
@@ -4940,7 +4940,7 @@
   },
   {
     "Adres": "Brasschaat",
-    "Roepnummer": "B13",
+    "Roepnummer": "BA-BW1",
     "Afkorting": "CCFM",
     "TypeVoertuig": "Bosbrand Autopomp Terreinvaardig",
     "Kenteken": "",
@@ -4951,7 +4951,7 @@
   },
   {
     "Adres": "Brasschaat",
-    "Roepnummer": "B05",
+    "Roepnummer": "BA-BW2",
     "Afkorting": "CCFM",
     "TypeVoertuig": "Bosbrand Autopomp Terreinvaardig",
     "Kenteken": "",
@@ -5006,7 +5006,7 @@
   },
   {
     "Adres": "Brasschaat",
-    "Roepnummer": "B06",
+    "Roepnummer": "BA-HA1",
     "Afkorting": "HA",
     "TypeVoertuig": "Haakarmvoertuig",
     "Kenteken": "",
@@ -18591,7 +18591,7 @@
   },
   {
     "Adres": "Halle",
-    "Roepnummer": "P6",
+    "Roepnummer": "P36",
     "Afkorting": "HZA",
     "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
@@ -18602,7 +18602,18 @@
   },
   {
     "Adres": "Halle",
-    "Roepnummer": "P12",
+    "Roepnummer": "P06",
+    "Afkorting": "HZA",
+    "TypeVoertuig": "Halfzware Autopomp",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Vlaams-Brabant",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Halle",
+    "Roepnummer": "P83",
     "Afkorting": "HZA",
     "TypeVoertuig": "Halfzware Autopomp",
     "Kenteken": "",
@@ -18723,7 +18734,7 @@
   },
   {
     "Adres": "Halle",
-    "Roepnummer": "S20",
+    "Roepnummer": "M22",
     "Afkorting": "SIG",
     "TypeVoertuig": "Singnalisatievoertuig",
     "Kenteken": "",
@@ -18767,7 +18778,18 @@
   },
   {
     "Adres": "Halle",
-    "Roepnummer": "C32",
+    "Roepnummer": "C04",
+    "Afkorting": "CO",
+    "TypeVoertuig": "Commandovoertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Vlaams-Brabant",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Halle",
+    "Roepnummer": "C01",
     "Afkorting": "CO",
     "TypeVoertuig": "Commandovoertuig",
     "Kenteken": "",
@@ -18800,7 +18822,18 @@
   },
   {
     "Adres": "Halle",
-    "Roepnummer": "M45",
+    "Roepnummer": "M40",
+    "Afkorting": "HA-KR",
+    "TypeVoertuig": "Haakarmvoertuig (Met kraan)",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Vlaams-Brabant",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Halle",
+    "Roepnummer": "M53",
     "Afkorting": "HA-KR",
     "TypeVoertuig": "Haakarmvoertuig (Met kraan)",
     "Kenteken": "",
@@ -18833,18 +18866,18 @@
   },
   {
     "Adres": "Halle",
-    "Roepnummer": "CT94",
+    "Roepnummer": "CT49",
     "Afkorting": "BMC",
     "TypeVoertuig": "Bijzonde Materialen Container",
     "Kenteken": "",
-    "Bijzonderheden": "Bjjzonder Materiaal Container",
+    "Bijzonderheden": "",
     "Hulpdienst": "Brandweer",
     "Regio": "Vlaams-Brabant",
     "Interne opmerking": ""
   },
   {
     "Adres": "Halle",
-    "Roepnummer": "CT83",
+    "Roepnummer": "CT92",
     "Afkorting": "RBC",
     "TypeVoertuig": "Reddins Boot op platte Container",
     "Kenteken": "",
@@ -55782,7 +55815,7 @@
   },
   {
     "Adres": "Plombières",
-    "Roepnummer": "",
+    "Roepnummer": "C405",
     "Afkorting": "TW",
     "TypeVoertuig": "Tankwagen",
     "Kenteken": "",
@@ -82046,17 +82079,6 @@
     "Bijzonderheden": "",
     "Hulpdienst": "Politie",
     "Regio": "Henegouwen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Hulpdienst": "Politie",
-    "Regio": "",
     "Interne opmerking": ""
   },
   {

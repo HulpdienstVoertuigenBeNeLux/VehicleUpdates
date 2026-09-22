@@ -7860,7 +7860,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "03-88"
+      "1"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -107192,5 +107192,57 @@
     "datum_tenaamstelling_dt": "2024-03-11",
     "last_tenaamstelling_check_date": "2026-09-22",
     "aantal_zitplaatsen": "5"
+  },
+  "VTD-80-P": {
+    "expiry": "2027-02-25",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "EMS-46"
+    ],
+    "last_check_date": "2026-09-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2023-03-09",
+    "last_tenaamstelling_check_date": "2026-09-22",
+    "aantal_zitplaatsen": "3"
+  },
+  "18-BRL-3": {
+    "expiry": "2027-04-02",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-09-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2021-04-02",
+    "last_tenaamstelling_check_date": "2026-09-22",
+    "aantal_zitplaatsen": "2"
+  },
+  "S-665-PD": {
+    "expiry": "2027-09-28",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-09-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2023-09-28",
+    "last_tenaamstelling_check_date": "2026-09-22",
+    "aantal_zitplaatsen": "5"
+  },
+  "V-47-NKF": {
+    "expiry": "2028-10-23",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-09-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-10-23",
+    "last_tenaamstelling_check_date": "2026-09-22",
+    "aantal_zitplaatsen": "2"
   }
 }

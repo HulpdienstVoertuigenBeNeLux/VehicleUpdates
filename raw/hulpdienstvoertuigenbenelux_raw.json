@@ -10175,17 +10175,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Coevorden",
-    "Roepnummer": "03-88",
-    "Afkorting": "TS",
-    "TypeVoertuig": "Tankautospuit",
-    "Kenteken": "BV-TS-92",
-    "Bijzonderheden": "Reservevoertuig. Bezetting: 8 personen.",
-    "Hulpdienst": "Brandweer",
-    "Regio": "3 - Drenthe (VRD)",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "03-88 Schoonoord, Alle Boelensstraat 29",
     "Roepnummer": "",
     "Afkorting": "",
@@ -58201,6 +58190,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Vakbekwaamheid/Breevaartstraat",
+    "Roepnummer": "GEEN",
+    "Afkorting": "BMH-OTO",
+    "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
+    "Kenteken": "GEEN",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "RelyOn Nutec Fire Academy, Beerweg 71 Maasvlakte Rotterdam",
     "Roepnummer": "",
     "Afkorting": "",
@@ -61820,6 +61820,28 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "H2K Brandweeropleidingen Dordrecht, Olivijn 300",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Dordrecht",
+    "Roepnummer": "1",
+    "Afkorting": "TS",
+    "TypeVoertuig": "Tankautospuit",
+    "Kenteken": "BV-TS-92",
+    "Bijzonderheden": "Bezetting: 8 personen.",
+    "Hulpdienst": "Brandweer",
+    "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Vakbekwaamheid, Spinel Veiligheidscentrum, Spinel 100",
     "Roepnummer": "",
     "Afkorting": "",
@@ -61859,6 +61881,17 @@
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "K-397-VZ",
     "Bijzonderheden": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Spinel Veiligheidscentrum",
+    "Roepnummer": "18-869",
+    "Afkorting": "BMH-OTO",
+    "TypeVoertuig": "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
+    "Kenteken": "GEEN",
+    "Bijzonderheden": "Ambulance haakarmbak",
     "Hulpdienst": "Brandweer",
     "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
     "Interne opmerking": ""
@@ -94204,6 +94237,17 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "EMS Uden",
+    "Roepnummer": "EMS-46",
+    "Afkorting": "EH",
+    "TypeVoertuig": "Evenementenhulpverlening voertuig",
+    "Kenteken": "VTD-80-P",
+    "Bijzonderheden": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "8 - Gelderland-Zuid (VRGZ)",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "VWS Posten:",
     "Roepnummer": "",
     "Afkorting": "",
@@ -107725,10 +107769,10 @@
   {
     "Adres": "AES, Vlierden",
     "Roepnummer": "AES-22",
-    "Afkorting": "RR-EH",
-    "TypeVoertuig": "Rapid responder evenementenhulpverlening",
+    "Afkorting": "MFT-EH",
+    "TypeVoertuig": "Multifunctioneel terreinvoertuig evenementenhulpverlening",
     "Kenteken": "T-08-BPN",
-    "Bijzonderheden": "Terreinvaardig voertuig.",
+    "Bijzonderheden": "",
     "Hulpdienst": "Ambulance",
     "Regio": "22 - Brabant-Zuidoost (VRBZO)",
     "Interne opmerking": ""
@@ -137427,7 +137471,7 @@
     "Roepnummer": "GEEN",
     "Afkorting": "CMV Berger",
     "TypeVoertuig": "Vrachtwagenberging",
-    "Kenteken": "",
+    "Kenteken": "18-BRL-3",
     "Bijzonderheden": "",
     "Hulpdienst": "Bergingsbedrijf",
     "Regio": "14 - Gooi en Vechtstreek (VRGV)",
@@ -164949,7 +164993,7 @@
     "Roepnummer": "GEEN",
     "Afkorting": "(DA) OVD-RWS",
     "TypeVoertuig": "Dienstauto Officier Van Dienst Rijkswaterstaat",
-    "Kenteken": "",
+    "Kenteken": "S-665-PD",
     "Bijzonderheden": "",
     "Hulpdienst": "Rijkswaterstaat",
     "Regio": "WNZ-RWS",
@@ -164960,7 +165004,7 @@
     "Roepnummer": "GEEN",
     "Afkorting": "(DAT) WIS",
     "TypeVoertuig": "Dienstauto Terreinvaardig Weginspecteur",
-    "Kenteken": "",
+    "Kenteken": "V-47-NKF",
     "Bijzonderheden": "",
     "Hulpdienst": "Rijkswaterstaat",
     "Regio": "WNZ-RWS",
