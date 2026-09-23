@@ -69725,19 +69725,6 @@
     "last_tenaamstelling_check_date": "2026-09-21",
     "aantal_zitplaatsen": "4"
   },
-  "H-464-PJ": {
-    "expiry": "2027-03-29",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "05-104"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2020-03-19",
-    "last_tenaamstelling_check_date": "2026-09-21",
-    "aantal_zitplaatsen": "4"
-  },
   "T-285-XZ": {
     "expiry": "2027-09-22",
     "checked": true,
@@ -107244,5 +107231,31 @@
     "datum_tenaamstelling_dt": "2026-08-28",
     "last_tenaamstelling_check_date": "2026-09-23",
     "aantal_zitplaatsen": "4"
+  },
+  "KGX-71-G": {
+    "expiry": "2027-04-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "05-104"
+    ],
+    "last_check_date": "2026-09-23",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-04-24",
+    "last_tenaamstelling_check_date": "2026-09-23",
+    "aantal_zitplaatsen": "4"
+  },
+  "X-115-PF": {
+    "expiry": "2028-01-09",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "36-0070"
+    ],
+    "last_check_date": "2026-09-23",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-01-09",
+    "last_tenaamstelling_check_date": "2026-09-23",
+    "aantal_zitplaatsen": "5"
   }
 }
