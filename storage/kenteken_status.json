@@ -80123,19 +80123,6 @@
     "last_tenaamstelling_check_date": "2026-09-21",
     "aantal_zitplaatsen": "3"
   },
-  "ZR-443-K": {
-    "expiry": "2027-03-03",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "18-196"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2019-07-22",
-    "last_tenaamstelling_check_date": "2026-09-21",
-    "aantal_zitplaatsen": "4"
-  },
   "S-097-ZH": {
     "expiry": "2027-05-26",
     "checked": true,
@@ -107243,6 +107230,19 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2026-08-27",
     "last_tenaamstelling_check_date": "2026-09-22",
+    "aantal_zitplaatsen": "4"
+  },
+  "KVF-67-H": {
+    "expiry": "2027-08-28",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "18-196"
+    ],
+    "last_check_date": "2026-09-23",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-08-28",
+    "last_tenaamstelling_check_date": "2026-09-23",
     "aantal_zitplaatsen": "4"
   }
 }
