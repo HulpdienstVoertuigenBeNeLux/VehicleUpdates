@@ -29,9 +29,115 @@
         "Regio": "9 - Utrecht (VRU)",
         "Description": "LOG5 LOH toegevoegd aan Utrecht Leidsche Rijn",
         "Time": "24-09-2026 12:00:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "Z423 ZW toegevoegd aan Diksmuide",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "Z421 ZW toegevoegd aan Nieuwkerke",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "Z420 ZW toegevoegd aan Ieper",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "Z422 ZW toegevoegd aan Koksijde",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "Z418 ZW toegevoegd aan Nieuwpoort",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "Z417 ZW toegevoegd aan De Panne",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "Z415 ZW toegevoegd aan Poperinge",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "Z419 ZW toegevoegd aan Wervik",
+        "Time": "24-09-2026 14:00:20"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "DIKSMUIDE 1 ZW verwijderd van Diksmuide",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "NIEUWKERKE ZW verwijderd van Nieuwkerke",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "KOKSIJDE ZW verwijderd van Koksijde",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "NIEUWPOORT ZW verwijderd van Nieuwpoort",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "DE PANNE ZW verwijderd van De Panne",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "POPERINGE ZW verwijderd van Poperinge",
+        "Time": "24-09-2026 14:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "WERVIK ZW verwijderd van Wervik",
+        "Time": "24-09-2026 14:00:20"
+      }
+    ],
     "changed": [
       {
         "Land": "BE",
@@ -67,6 +173,13 @@
         "Regio": "14 - Gooi en Vechtstreek (VRGV)",
         "Description": "14-2301: TypeVoertuig van 'Dienstauto' naar 'Dienstauto terreinvaardig' aangepast",
         "Time": "24-09-2026 12:00:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen",
+        "Description": "Z403: Kenteken van '' naar '1-KXS-141' aangepast",
+        "Time": "24-09-2026 14:00:20"
       }
     ]
   },
