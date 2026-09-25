@@ -137,6 +137,7 @@ def download_json(url: str, region: Optional[str] = None) -> list:
         "TypeVoertuig",
         "Kenteken",
         "Bijzonderheden",
+        "Extra Afkortingen",
         "Hulpdienst",
         "Regio",
         "Interne opmerking"
@@ -155,6 +156,7 @@ def download_json(url: str, region: Optional[str] = None) -> list:
         "type voertuig": "TypeVoertuig",
         "kenteken": "Kenteken",
         "bijzonderheden": "Bijzonderheden",
+        "extra afkortingen": "Extra Afkortingen",
         "hulpdienst": "Hulpdienst",
         "regio": "Regio",
         "interne opmerking": "Interne opmerking",
