@@ -1,8 +1,9 @@
+from collections import defaultdict
 import json
 import os
 import re
-from collections import defaultdict
 from typing import Any
+import urllib.request
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -17,231 +18,230 @@ BEZETTING_RE = re.compile(r"bezetting\s*:\s*(\d+)\s*personen?", re.IGNORECASE)
 
 
 def _safe_text(value: Any) -> str:
-    return str(value or "").strip()
+  return str(value or "").strip()
 
 
 def _normalize_kenteken(value: Any) -> str:
-    return _safe_text(value).replace("-", "").replace(" ", "").upper()
+  return _safe_text(value).replace("-", "").replace(" ", "").upper()
 
 
 def _parse_int(value: Any) -> int | None:
-    text = _safe_text(value)
-    if not text:
-        return None
-    if text.isdigit():
-        return int(text)
+  text = _safe_text(value)
+  if not text:
     return None
+  if text.isdigit():
+    return int(text)
+  return None
 
 
 def _load_records() -> list[dict[str, Any]]:
-    if not os.path.exists(RAW_FILE):
-        raise FileNotFoundError(f"Raw input file niet gevonden: {RAW_FILE}")
+  if not os.path.exists(RAW_FILE):
+    raise FileNotFoundError(f"Raw input file niet gevonden: {RAW_FILE}")
 
-    with open(RAW_FILE, encoding="utf-8") as infile:
-        data = json.load(infile)
+  with open(RAW_FILE, encoding="utf-8") as infile:
+    data = json.load(infile)
 
-    if not isinstance(data, list):
-        raise ValueError("Raw input heeft onverwacht formaat (verwacht lijst van objecten).")
+  if not isinstance(data, list):
+    raise ValueError(
+        "Raw input heeft onverwacht formaat (verwacht lijst van objecten)."
+    )
 
-    return [row for row in data if isinstance(row, dict)]
+  return [row for row in data if isinstance(row, dict)]
 
 
 def _load_status_by_kenteken() -> dict[str, dict[str, Any]]:
-    return _status_lookup(_load_status())
+  return _status_lookup(_load_status())
 
 
 def _load_status() -> dict[str, dict[str, Any]]:
-    if not os.path.exists(STATUS_JSON_FILE):
-        return {}
+  if not os.path.exists(STATUS_JSON_FILE):
+    return {}
 
-    try:
-        with open(STATUS_JSON_FILE, encoding="utf-8") as infile:
-            status_data = json.load(infile)
-    except Exception:
-        return {}
+  try:
+    with open(STATUS_JSON_FILE, encoding="utf-8") as infile:
+      status_data = json.load(infile)
+  except Exception:
+    return {}
 
-    if not isinstance(status_data, dict):
-        return {}
+  if not isinstance(status_data, dict):
+    return {}
 
-    result: dict[str, dict[str, Any]] = {}
-    for kenteken, row in status_data.items():
-        if isinstance(row, dict):
-            result[kenteken] = row
-    return result
+  result: dict[str, dict[str, Any]] = {}
+  for kenteken, row in status_data.items():
+    if isinstance(row, dict):
+      result[kenteken] = row
+  return result
 
 
 def _save_status(status: dict[str, dict[str, Any]]) -> None:
-    os.makedirs(STORAGE_DIR, exist_ok=True)
-    with open(STATUS_JSON_FILE, "w", encoding="utf-8") as outfile:
-        json.dump(status, outfile, indent=2, ensure_ascii=False)
+  os.makedirs(STORAGE_DIR, exist_ok=True)
+  with open(STATUS_JSON_FILE, "w", encoding="utf-8") as outfile:
+    json.dump(status, outfile, indent=2, ensure_ascii=False)
 
 
 def _status_lookup(status: dict[str, dict[str, Any]]) -> dict[str, dict[str, Any]]:
-    normalized_map: dict[str, dict[str, Any]] = {}
-    for kenteken, row in status.items():
-        normalized = _normalize_kenteken(kenteken)
-        if normalized:
-            normalized_map[normalized] = row
-    return normalized_map
+  normalized_map: dict[str, dict[str, Any]] = {}
+  for kenteken, row in status.items():
+    normalized = _normalize_kenteken(kenteken)
+    if normalized:
+      normalized_map[normalized] = row
+  return normalized_map
 
 
 def _status_key_lookup(status: dict[str, dict[str, Any]]) -> dict[str, str]:
-    mapping: dict[str, str] = {}
-    for kenteken in status.keys():
-        normalized = _normalize_kenteken(kenteken)
-        if normalized:
-            mapping[normalized] = kenteken
-    return mapping
+  mapping: dict[str, str] = {}
+  for kenteken in status.keys():
+    normalized = _normalize_kenteken(kenteken)
+    if normalized:
+      mapping[normalized] = kenteken
+  return mapping
 
 
 def _parse_bezetting(bijzonderheden: str) -> int | None:
-    match = BEZETTING_RE.search(bijzonderheden)
-    if not match:
-        return None
-    return int(match.group(1))
+  match = BEZETTING_RE.search(bijzonderheden)
+  if not match:
+    return None
+  return int(match.group(1))
 
 
 def _analyze(records: list[dict[str, Any]]) -> dict[str, Any]:
-    total = len(records)
-    with_bezetting = 0
-    malformed = []
-    out_of_range = []
-    distribution: dict[int, int] = defaultdict(int)
+  total = len(records)
+  with_bezetting = 0
+  malformed = []
+  out_of_range = []
+  distribution: dict[int, int] = defaultdict(int)
 
-    for row in records:
-        bijzonderheden = _safe_text(row.get("Bijzonderheden"))
-        if "bezetting" not in bijzonderheden.lower():
-            continue
+  for row in records:
+    bijzonderheden = _safe_text(row.get("Bijzonderheden"))
+    if "bezetting" not in bijzonderheden.lower():
+      continue
 
-        parsed = _parse_bezetting(bijzonderheden)
-        if parsed is None:
-            malformed.append(row)
-            continue
+    parsed = _parse_bezetting(bijzonderheden)
+    if parsed is None:
+      malformed.append(row)
+      continue
 
-        with_bezetting += 1
-        distribution[parsed] += 1
+    with_bezetting += 1
+    distribution[parsed] += 1
 
-        if parsed < 1 or parsed > 12:
-            out_of_range.append(row)
+    if parsed < 1 or parsed > 12:
+      out_of_range.append(row)
 
-    return {
-        "total": total,
-        "with_bezetting": with_bezetting,
-        "malformed": malformed,
-        "out_of_range": out_of_range,
-        "distribution": dict(sorted(distribution.items())),
-    }
+  return {
+      "total": total,
+      "with_bezetting": with_bezetting,
+      "malformed": malformed,
+      "out_of_range": out_of_range,
+      "distribution": dict(sorted(distribution.items())),
+  }
 
 
 def _line_for_record(row: dict[str, Any]) -> str:
-    hulpdienst = _safe_text(row.get("Hulpdienst"))
-    roepnummer = _safe_text(row.get("Roepnummer"))
-    kenteken = _safe_text(row.get("Kenteken"))
-    adres = _safe_text(row.get("Adres"))
-    bijzonderheden = _safe_text(row.get("Bijzonderheden"))
-    return (
-        f"- Hulpdienst={hulpdienst} | Roepnummer={roepnummer} | Kenteken={kenteken} | "
-        f"Adres={adres} | Bijzonderheden={bijzonderheden}"
-    )
+  hulpdienst = _safe_text(row.get("Hulpdienst"))
+  roepnummer = _safe_text(row.get("Roepnummer"))
+  kenteken = _safe_text(row.get("Kenteken"))
+  adres = _safe_text(row.get("Adres"))
+  bijzonderheden = _safe_text(row.get("Bijzonderheden"))
+  return (
+      f"- Hulpdienst={hulpdienst} | Roepnummer={roepnummer} |"
+      f" Kenteken={kenteken} | Adres={adres} | Bijzonderheden={bijzonderheden}"
+  )
 
 
 def _extract_bezetting_rows(
     records: list[dict[str, Any]],
     status_by_kenteken: dict[str, dict[str, Any]],
 ) -> list[dict[str, Any]]:
-    extracted: list[dict[str, Any]] = []
-    for row in records:
-        parsed = _parse_bezetting(_safe_text(row.get("Bijzonderheden")))
-        if parsed is None:
-            continue
+  extracted: list[dict[str, Any]] = []
+  for row in records:
+    parsed = _parse_bezetting(_safe_text(row.get("Bijzonderheden")))
+    if parsed is None:
+      continue
 
-        kenteken = _safe_text(row.get("Kenteken"))
-        status_row = status_by_kenteken.get(_normalize_kenteken(kenteken), {})
-        zitplaatsen = _parse_int(status_row.get("aantal_zitplaatsen"))
+    kenteken = _safe_text(row.get("Kenteken"))
+    status_row = status_by_kenteken.get(_normalize_kenteken(kenteken), {})
+    zitplaatsen = _parse_int(status_row.get("aantal_zitplaatsen"))
 
-        extracted.append(
-            {
-                "roepnummer": _safe_text(row.get("Roepnummer")),
-                "kenteken": kenteken,
-                "bezetting": parsed,
-                "zitplaatsen": zitplaatsen,
-            }
-        )
+    extracted.append({
+        "roepnummer": _safe_text(row.get("Roepnummer")),
+        "kenteken": kenteken,
+        "bezetting": parsed,
+        "zitplaatsen": zitplaatsen,
+    })
 
-    return extracted
+  return extracted
 
 
 def _write_bezetting_json(rows: list[dict[str, Any]]) -> None:
-    os.makedirs(STORAGE_DIR, exist_ok=True)
-    with open(OUTPUT_JSON_FILE, "w", encoding="utf-8") as outfile:
-        json.dump(rows, outfile, indent=2, ensure_ascii=False)
+  os.makedirs(STORAGE_DIR, exist_ok=True)
+  with open(OUTPUT_JSON_FILE, "w", encoding="utf-8") as outfile:
+    json.dump(rows, outfile, indent=2, ensure_ascii=False)
 
 
 def _collect_mismatches(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    mismatches: list[dict[str, Any]] = []
-    for row in rows:
-        bezetting = row.get("bezetting")
-        zitplaatsen = row.get("zitplaatsen")
-        if bezetting is None or zitplaatsen is None:
-            continue
-        if bezetting != zitplaatsen:
-            mismatches.append(row)
-    return mismatches
+  mismatches: list[dict[str, Any]] = []
+  for row in rows:
+    bezetting = row.get("bezetting")
+    zitplaatsen = row.get("zitplaatsen")
+    if bezetting is None or zitplaatsen is None:
+      continue
+    if bezetting != zitplaatsen:
+      mismatches.append(row)
+  return mismatches
 
 
 def _split_mismatches(
     mismatches: list[dict[str, Any]],
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
-    bezetting_hoger: list[dict[str, Any]] = []
-    zitplaatsen_hoger: list[dict[str, Any]] = []
+  bezetting_hoger: list[dict[str, Any]] = []
+  zitplaatsen_hoger: list[dict[str, Any]] = []
 
-    for row in mismatches:
-        bezetting = row.get("bezetting")
-        zitplaatsen = row.get("zitplaatsen")
-        if bezetting is None or zitplaatsen is None:
-            continue
-        if bezetting > zitplaatsen:
-            bezetting_hoger.append(row)
-        elif zitplaatsen > bezetting:
-            zitplaatsen_hoger.append(row)
+  for row in mismatches:
+    bezetting = row.get("bezetting")
+    zitplaatsen = row.get("zitplaatsen")
+    if bezetting is None or zitplaatsen is None:
+      continue
+    if bezetting > zitplaatsen:
+      bezetting_hoger.append(row)
+    elif zitplaatsen > bezetting:
+      zitplaatsen_hoger.append(row)
 
-    return bezetting_hoger, zitplaatsen_hoger
+  return bezetting_hoger, zitplaatsen_hoger
 
 
 def _collect_missing_zitplaatsen_kentekens(
     records: list[dict[str, Any]],
     status: dict[str, dict[str, Any]],
 ) -> list[str]:
-    status_keys_by_normalized = _status_key_lookup(status)
-    missing: list[str] = []
-    seen: set[str] = set()
+  status_keys_by_normalized = _status_key_lookup(status)
+  missing: list[str] = []
+  seen: set[str] = set()
 
-    for row in records:
-        if _parse_bezetting(_safe_text(row.get("Bijzonderheden"))) is None:
-            continue
+  for row in records:
+    if _parse_bezetting(_safe_text(row.get("Bijzonderheden"))) is None:
+      continue
 
-        raw_kenteken = _safe_text(row.get("Kenteken"))
-        normalized = _normalize_kenteken(raw_kenteken)
-        if not normalized or normalized in seen:
-            continue
+    raw_kenteken = _safe_text(row.get("Kenteken"))
+    normalized = _normalize_kenteken(raw_kenteken)
+    if not normalized or normalized in seen:
+      continue
 
-        status_key = status_keys_by_normalized.get(normalized)
-        if not status_key:
-            continue
+    status_key = status_keys_by_normalized.get(normalized)
+    if not status_key:
+      continue
 
-        status_row = status.get(status_key, {})
-        expiry = _safe_text(status_row.get("expiry")).lower()
-        if expiry in {"", "none", "null"}:
-            # Voertuigen zonder APK-vervaldatum behandelen als niet RDW-plichtig.
-            continue
+    status_row = status.get(status_key, {})
+    expiry = _safe_text(status_row.get("expiry")).lower()
+    if expiry in {"", "none", "null"}:
+      continue
 
-        if _parse_int(status_row.get("aantal_zitplaatsen")) is not None:
-            continue
+    if _parse_int(status_row.get("aantal_zitplaatsen")) is not None:
+      continue
 
-        missing.append(status_key)
-        seen.add(normalized)
+    missing.append(status_key)
+    seen.add(normalized)
 
-    return missing
+  return missing
 
 
 def _enrich_missing_zitplaatsen(
@@ -249,9 +249,61 @@ def _enrich_missing_zitplaatsen(
     status: dict[str, dict[str, Any]],
     max_checks: int | None,
 ) -> int:
-    _ = records, status, max_checks
-    print("Zitplaatsen controle gebruikt geen RDW requests; alleen bestaande statusdata.")
-    return 0
+  _ = records, status, max_checks
+  print(
+      "Zitplaatsen controle gebruikt geen RDW requests; alleen bestaande"
+      " statusdata."
+  )
+  return 0
+
+
+# --- DISCORD INTEGRATIE FUNCTIES ---
+def _send_discord_mismatches(mismatches: list[dict[str, Any]]) -> None:
+  webhook_url = os.environ.get("DISCORD_WEBHOOK_URL_ZITPLAATSEN")
+  if not webhook_url:
+    print("Geen Discord webhook URL gevonden in environment variables.")
+    return
+
+  total_mismatches = len(mismatches)
+  if total_mismatches == 0:
+    print("Geen mismatches gevonden om te versturen naar Discord.")
+    return
+
+  msg = (
+      f"⚠️ **Zitplaatsen-mismatch rapport**\n"
+      f"Totaal aantal afwijkingen gevonden: **{total_mismatches}**\n\n"
+  )
+
+  for m in mismatches:
+    line = (
+        f"• **{m.get('roepnummer', 'Onbekend')}** ({m.get('kenteken')})\n"
+        f"  ↳ Bezetting (Raw): **{m.get('bezetting')}** pers. | RDW Zitplaatsen:"
+        f" **{m.get('zitplaatsen')}**\n"
+    )
+
+    if len(msg) + len(line) > 1900:
+      _post_to_discord(webhook_url, msg)
+      msg = "⚠️ *(Vervolg van het rapport)*:\n"
+
+    msg += line
+
+  _post_to_discord(webhook_url, msg)
+
+
+def _post_to_discord(webhook_url: str, message: str) -> None:
+  payload = {"content": message}
+  data = json.dumps(payload).encode("utf-8")
+  req = urllib.request.Request(
+      webhook_url,
+      data=data,
+      headers={"Content-Type": "application/json", "User-Agent": "Mozilla"},
+  )
+  try:
+    urllib.request.urlopen(req)
+    print("Discord melding succesvol verzonden.")
+  except Exception as e:
+    print(f"Fout bij versturen naar Discord: {e}")
+# -----------------------------------
 
 
 def _write_report(
@@ -260,136 +312,144 @@ def _write_report(
     compared_with_rdw: int,
     missing_rdw_data: int,
 ) -> None:
-    os.makedirs(REPORTS_DIR, exist_ok=True)
-    bezetting_hoger, zitplaatsen_hoger = _split_mismatches(mismatches)
+  os.makedirs(REPORTS_DIR, exist_ok=True)
+  bezetting_hoger, zitplaatsen_hoger = _split_mismatches(mismatches)
 
-    width = 90
-    sep = "=" * width
-    thin = "-" * width
+  width = 90
+  sep = "=" * width
+  thin = "-" * width
 
-    with open(REPORT_FILE, "w", encoding="utf-8") as outfile:
-        def w(line: str = "") -> None:
-            outfile.write(line + "\n")
+  with open(REPORT_FILE, "w", encoding="utf-8") as outfile:
 
-        def trunc(text: Any, width: int) -> str:
-            value = _safe_text(text)
-            if len(value) <= width:
-                return value
-            if width <= 1:
-                return value[:width]
-            return value[: width - 1] + "~"
+    def w(line: str = "") -> None:
+      outfile.write(line + "\n")
 
-        def write_mismatch_table(rows: list[dict[str, Any]]) -> None:
-            if not rows:
-                w("  (geen)")
-                return
+    def trunc(text: Any, width: int) -> str:
+      value = _safe_text(text)
+      if len(value) <= width:
+        return value
+      if width <= 1:
+        return value[:width]
+      return value[: width - 1] + "~"
 
-            roep_w = 12
-            kenteken_w = 10
-            bezetting_w = 9
-            rdw_w = 13
+    def write_mismatch_table(rows: list[dict[str, Any]]) -> None:
+      if not rows:
+        w("  (geen)")
+        return
 
-            header = (
-                f"  {'Roepnummer':<{roep_w}} | "
-                f"{'Kenteken':<{kenteken_w}} | "
-                f"{'Bezetting':>{bezetting_w}} | "
-                f"{'RDW':>{rdw_w}}"
-            )
-            rule = "  " + "-" * (len(header) - 2)
-            w(header)
-            w(rule)
+      roep_w = 12
+      kenteken_w = 10
+      bezetting_w = 9
+      rdw_w = 13
 
-            for row in rows:
-                bezetting = row.get("bezetting")
-                zitplaatsen = row.get("zitplaatsen")
+      header = (
+          f"  {'Roepnummer':<{roep_w}} | "
+          f"{'Kenteken':<{kenteken_w}} | "
+          f"{'Bezetting':>{bezetting_w}} | "
+          f"{'RDW':>{rdw_w}}"
+      )
+      rule = "  " + "-" * (len(header) - 2)
+      w(header)
+      w(rule)
 
-                w(
-                    f"  {trunc(row.get('roepnummer', ''), roep_w):<{roep_w}} | "
-                    f"{trunc(row.get('kenteken', ''), kenteken_w):<{kenteken_w}} | "
-                    f"{str(bezetting):>{bezetting_w}} | "
-                    f"{str(zitplaatsen):>{rdw_w}}"
-                )
+      for row in rows:
+        bezetting = row.get("bezetting")
+        zitplaatsen = row.get("zitplaatsen")
 
-        w(sep)
-        w("  Bezetting Check Report")
-        w(sep)
-        w(f"  Totaal records                  : {result['total']}")
-        w(f"  Records met parsebare bezetting : {result['with_bezetting']}")
-        w(f"  Vergeleken met RDW              : {compared_with_rdw}")
-        w(f"  RDW data ontbreekt              : {missing_rdw_data}")
-        w(f"  Onjuist geformatteerde bezetting: {len(result['malformed'])}")
-        w(f"  Buiten range (1-12)             : {len(result['out_of_range'])}")
-        w(f"  Bezetting != RDW zitplaatsen    : {len(mismatches)}")
-        w(f"  Bezetting > RDW zitplaatsen     : {len(bezetting_hoger)}")
-        w(f"  RDW zitplaatsen > bezetting     : {len(zitplaatsen_hoger)}")
+        w(
+            f"  {trunc(row.get('roepnummer', ''), roep_w):<{roep_w}} | "
+            f"{trunc(row.get('kenteken', ''), kenteken_w):<{kenteken_w}} | "
+            f"{str(bezetting):>{bezetting_w}} | "
+            f"{str(zitplaatsen):>{rdw_w}}"
+        )
 
-        w()
-        w(thin)
-        w("  Verdeling bezetting")
-        w(thin)
-        if result["distribution"]:
-            for size, count in result["distribution"].items():
-                w(f"  {size:>2} personen : {count}")
-        else:
-            w("  (geen bezetting gevonden)")
+    w(sep)
+    w("  Bezetting Check Report")
+    w(sep)
+    w(f"  Totaal records                   : {result['total']}")
+    w(f"  Records met parsebare bezetting : {result['with_bezetting']}")
+    w(f"  Vergeleken met RDW               : {compared_with_rdw}")
+    w(f"  RDW data ontbreekt               : {missing_rdw_data}")
+    w(f"  Onjuist geformatteerde bezetting: {len(result['malformed'])}")
+    w(f"  Buiten range (1-12)              : {len(result['out_of_range'])}")
+    w(f"  Bezetting != RDW zitplaatsen     : {len(mismatches)}")
+    w(f"  Bezetting > RDW zitplaatsen      : {len(bezetting_hoger)}")
+    w(f"  RDW zitplaatsen > bezetting      : {len(zitplaatsen_hoger)}")
 
-        w()
-        w(thin)
-        w("  Onjuist geformatteerde bezetting")
-        w(thin)
-        if result["malformed"]:
-            for row in result["malformed"]:
-                w(_line_for_record(row))
-        else:
-            w("  (geen)")
+    w()
+    w(thin)
+    w("  Verdeling bezetting")
+    w(thin)
+    if result["distribution"]:
+      for size, count in result["distribution"].items():
+        w(f"  {size:>2} personen : {count}")
+    else:
+      w("  (geen bezetting gevonden)")
 
-        w()
-        w(thin)
-        w("  Buiten range (1-12)")
-        w(thin)
-        if result["out_of_range"]:
-            for row in result["out_of_range"]:
-                w(_line_for_record(row))
-        else:
-            w("  (geen)")
+    w()
+    w(thin)
+    w("  Onjuist geformatteerde bezetting")
+    w(thin)
+    if result["malformed"]:
+      for row in result["malformed"]:
+        w(_line_for_record(row))
+    else:
+      w("  (geen)")
 
-        w()
-        w(thin)
-        w("  Verschil: bezetting hoger dan RDW zitplaatsen")
-        w(thin)
-        write_mismatch_table(bezetting_hoger)
+    w()
+    w(thin)
+    w("  Buiten range (1-12)")
+    w(thin)
+    if result["out_of_range"]:
+      for row in result["out_of_range"]:
+        w(_line_for_record(row))
+    else:
+      w("  (geen)")
 
-        w()
-        w(thin)
-        w("  Verschil: RDW zitplaatsen hoger dan bezetting")
-        w(thin)
-        write_mismatch_table(zitplaatsen_hoger)
+    w()
+    w(thin)
+    w("  Verschil: bezetting hoger dan RDW zitplaatsen")
+    w(thin)
+    write_mismatch_table(bezetting_hoger)
 
-        w()
-        w(sep)
+    w()
+    w(thin)
+    w("  Verschil: RDW zitplaatsen hoger dan bezetting")
+    w(thin)
+    write_mismatch_table(zitplaatsen_hoger)
+
+    w()
+    w(sep)
 
 
 def run(max_checks: int | None = None) -> int:
-    records = _load_records()
-    status = _load_status()
-    used_checks = _enrich_missing_zitplaatsen(records, status, max_checks=max_checks)
+  records = _load_records()
+  status = _load_status()
+  used_checks = _enrich_missing_zitplaatsen(records, status, max_checks=max_checks)
 
-    status_by_kenteken = _status_lookup(status)
-    result = _analyze(records)
-    bezetting_rows = _extract_bezetting_rows(records, status_by_kenteken)
-    compared_with_rdw = sum(1 for row in bezetting_rows if row.get("zitplaatsen") is not None)
-    missing_rdw_data = len(bezetting_rows) - compared_with_rdw
-    mismatches = _collect_mismatches(bezetting_rows)
-    _write_report(result, mismatches, compared_with_rdw, missing_rdw_data)
-    _write_bezetting_json(bezetting_rows)
-    print(f"Bezetting rapport geschreven naar: {REPORT_FILE}")
-    print(f"Bezetting JSON geschreven naar: {OUTPUT_JSON_FILE}")
-    return used_checks
+  status_by_kenteken = _status_lookup(status)
+  result = _analyze(records)
+  bezetting_rows = _extract_bezetting_rows(records, status_by_kenteken)
+  compared_with_rdw = sum(
+      1 for row in bezetting_rows if row.get("zitplaatsen") is not None
+  )
+  missing_rdw_data = len(bezetting_rows) - compared_with_rdw
+  mismatches = _collect_mismatches(bezetting_rows)
+
+  _write_report(result, mismatches, compared_with_rdw, missing_rdw_data)
+  _write_bezetting_json(bezetting_rows)
+
+  # Hier wordt het verzamelde Discord rapport verstuurd
+  _send_discord_mismatches(mismatches)
+
+  print(f"Bezetting rapport geschreven naar: {REPORT_FILE}")
+  print(f"Bezetting JSON geschreven naar: {OUTPUT_JSON_FILE}")
+  return used_checks
 
 
 def main() -> None:
-    run()
+  run()
 
 
 if __name__ == "__main__":
-    main()
+  main()
