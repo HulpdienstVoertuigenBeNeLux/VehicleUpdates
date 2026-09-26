@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run extra_scripts/check script
+      - name: Run check seats
         env:
           DISCORD_WEBHOOK_URL_ZITPLAATSEN: ${{ secrets.DISCORD_WEBHOOK_URL_ZITPLAATSEN }}
-        run: python check_seats.py
+        run: python extra_scripts/check_seats.py
