@@ -6,9 +6,9 @@
   Brandweer
 ----------------------------------------------------------------------------------------
   HulpdienstvoertuigenBenelux : 5720
-  RDW inrichting dataset      : 2585
+  RDW inrichting dataset      : 2586
   Missing in RDW              : 3540
-  Extra in RDW                : 405
+  Extra in RDW                : 406
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
   - 0022YK
@@ -1606,7 +1606,6 @@
   - J140RX
   - J144RX
   - J152ZR
-  - J154ZR
   - J169ZR
   - J171ZR
   - J181DZ
@@ -2075,6 +2074,7 @@
   - KJ124P
   - KJ125P
   - KJ384Z
+  - KJD39N
   - KJG43B
   - KJG44B
   - KJG52B
@@ -2817,7 +2817,9 @@
   - V16LHT
   - V16NTL
   - V17NTL
+  - V17RBR
   - V181SH
+  - V18BRB
   - V18NTL
   - V193TB
   - V19NTL
@@ -2891,6 +2893,7 @@
   - V488HL
   - V48NKL
   - V496DL
+  - V49PXL
   - V50LDF
   - V50PFD
   - V518VR
@@ -3113,14 +3116,11 @@
   - VKP04V
   - VKS23L
   - VKX12R
-  - VL197V
   - VL198V
-  - VL200V
   - VL348Z
   - VL657B
   - VL658B
   - VL699X
-  - VL700X
   - VL702X
   - VL868F
   - VLD73R
@@ -3596,6 +3596,7 @@
   - 44BDL3
   - 45BRV1
   - 45BTB2
+  - 47BGB7
   - 48BRV1
   - 49BHF3
   - 4VFF58
