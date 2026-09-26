@@ -18,4 +18,4 @@ jobs:
       - name: Run check seats
         env:
           DISCORD_WEBHOOK_URL_ZITPLAATSEN: ${{ secrets.DISCORD_WEBHOOK_URL_ZITPLAATSEN }}
-        run: python extra_scripts/check_seats.py
+        run: python extra_scripts/bezetting.py
