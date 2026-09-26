@@ -2,6 +2,7 @@ from collections import defaultdict
 import json
 import os
 import re
+import time
 from typing import Any
 import urllib.request
 
@@ -257,7 +258,7 @@ def _enrich_missing_zitplaatsen(
   return 0
 
 
-# --- DISCORD INTEGRATIE FUNCTIES ---
+# --- DISCORD INTEGRATIE MET RATE LIMIT BESCHERMING ---
 def _send_discord_mismatches(mismatches: list[dict[str, Any]]) -> None:
   webhook_url = os.environ.get("DISCORD_WEBHOOK_URL_ZITPLAATSEN")
   if not webhook_url:
@@ -283,6 +284,7 @@ def _send_discord_mismatches(mismatches: list[dict[str, Any]]) -> None:
 
     if len(msg) + len(line) > 1900:
       _post_to_discord(webhook_url, msg)
+      time.sleep(1.5)  # Pauze om 429 Too Many Requests te voorkomen
       msg = "⚠️ *(Vervolg van het rapport)*:\n"
 
     msg += line
@@ -303,7 +305,7 @@ def _post_to_discord(webhook_url: str, message: str) -> None:
     print("Discord melding succesvol verzonden.")
   except Exception as e:
     print(f"Fout bij versturen naar Discord: {e}")
-# -----------------------------------
+# ---------------------------------------------------
 
 
 def _write_report(
@@ -439,7 +441,7 @@ def run(max_checks: int | None = None) -> int:
   _write_report(result, mismatches, compared_with_rdw, missing_rdw_data)
   _write_bezetting_json(bezetting_rows)
 
-  # Hier wordt het verzamelde Discord rapport verstuurd
+  # Discord melding versturen met ingebouwde beveiliging tegen rate limits
   _send_discord_mismatches(mismatches)
 
   print(f"Bezetting rapport geschreven naar: {REPORT_FILE}")
