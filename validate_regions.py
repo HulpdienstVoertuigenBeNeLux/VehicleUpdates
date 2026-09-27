@@ -46,10 +46,10 @@ REPORT_PATH = "reports/incorrect_regions.json"
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL_REGIONS") or os.getenv("DISCORD_WEBHOOK_URL")
 
 def save_report(invalid_entries):
-    # Zorg dat de 'reports' map bestaat
+    # Zorg dat de 'reports' map automatisch wordt aangemaakt als deze nog niet bestaat
     os.makedirs(os.path.dirname(REPORT_PATH), exist_ok=True)
     
-    # Schrijf het JSON-bestand netjes weg
+    # Schrijf de lijst met fouten naar het JSON bestand
     with open(REPORT_PATH, "w", encoding="utf-8") as f:
         json.dump(invalid_entries, f, ensure_ascii=False, indent=4)
     
@@ -92,7 +92,7 @@ def check_json():
         print(f"Fouten gevonden: {len(invalid_entries)} ongeldige regio('s). Berichten verstuurd naar Discord.")
         sys.exit(0)
     else:
-        # Optioneel: als er geen fouten zijn, schrijf een lege lijst naar het rapport
+        # Sla een lege lijst op in het rapport als er geen fouten zijn
         save_report([])
         print("Alle regio's zijn correct gecontroleerd!")
 
