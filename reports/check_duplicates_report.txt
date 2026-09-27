@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,124  (of 17,300 total)
+  Records checked : 11,127  (of 17,303 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  4 value(s) affected
+  Duplicate Roepnummer  --  6 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -58,6 +58,26 @@
       Roepnummer  : 1
       Kenteken    : ONBEKEND
 
+  >> '36-6477'  (2x)
+      Adres       : Ouddorp
+      Hulpdienst  : Reddingsbrigade
+      Roepnummer  : 36-6477
+      Kenteken    : GEEN
+      Adres       : Ouddorp
+      Hulpdienst  : Reddingsbrigade
+      Roepnummer  : 36-6477
+      Kenteken    : GEEN
+
+  >> '36-6479'  (2x)
+      Adres       : Ouddorp
+      Hulpdienst  : Reddingsbrigade
+      Roepnummer  : 36-6479
+      Kenteken    : GEEN
+      Adres       : Ouddorp
+      Hulpdienst  : Reddingsbrigade
+      Roepnummer  : 36-6479
+      Kenteken    : GEEN
+
 --------------------------------------------------------------------------------
   Duplicate Kenteken  --  1 value(s) affected
 --------------------------------------------------------------------------------
@@ -76,7 +96,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,789  (of 10,056 total)
+  Records checked : 6,787  (of 10,139 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  533 value(s) affected
@@ -1046,8 +1066,12 @@
       Roepnummer  : A29
       Kenteken    : 
 
-  >> 'A30'  (2x)
+  >> 'A30'  (3x)
       Adres       : Antwerpen-Zuid
+      Hulpdienst  : Brandweer
+      Roepnummer  : A30
+      Kenteken    : 
+      Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
       Roepnummer  : A30
       Kenteken    : 
@@ -1477,7 +1501,7 @@
       Hulpdienst  : Brandweer
       Roepnummer  : B03
       Kenteken    : 
-      Adres       : Tessenderlo
+      Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
       Roepnummer  : B03
       Kenteken    : 
