@@ -1,5 +1,1461 @@
 [
   {
+    "date": "2026-09-28",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-1332: Extra Afkortingen van '' naar 'TS-GO' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0231: Bijzonderheden van 'OR. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0331: Bijzonderheden van 'HV. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0332: Bijzonderheden van 'ON-PLL en TS-SK. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0411: Bijzonderheden van 'BUV-OWD.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0432: Bijzonderheden van 'ON-GW en TS-SK. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0531: Bijzonderheden van 'BU-MOR, BU-VTLS en HV. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0532: Bijzonderheden van 'TS-SK. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0532: Extra Afkortingen van '' naar 'TS-SK' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9072: Bijzonderheden van 'BU-RK. Tevens 17-0521 VK-GS.' naar 'Tevens 17-0521 VK-GS.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9072: Extra Afkortingen van '' naar 'BU-RK, VK-GS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0732: Bijzonderheden van 'ON-GW. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0732: Extra Afkortingen van '' naar 'ON-GW' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0831: Bijzonderheden van 'OR. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0831: Extra Afkortingen van '' naar 'OR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0931: Bijzonderheden van 'TS-SIB en TS-OPS. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0931: Extra Afkortingen van '' naar 'TS-SIB, TS-OPS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0951: Bijzonderheden van 'RV en ON-SIB. Lengte: 30 meter.' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0951: Extra Afkortingen van '' naar 'RV, ON-SIB' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9089: Bijzonderheden van 'ON-SIB.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9089: Extra Afkortingen van '' naar 'ON-SIB' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1031: Bijzonderheden van 'HV. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1031: Extra Afkortingen van '' naar 'HV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1111: Bijzonderheden van 'BUV-OWD.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1111: Extra Afkortingen van '' naar 'BUV-OWD' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1113: Bijzonderheden van 'LO-KR.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1113: Extra Afkortingen van '' naar 'LO-KR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1132: Bijzonderheden van 'TS-SK en ON-PLL. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1132: Extra Afkortingen van '' naar 'TS-SK, ON-PLL' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1151: Bijzonderheden van 'RV. Lengte: 32 meter.' naar 'Lengte: 32 meter.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1151: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN: Extra Afkortingen van '' naar 'VK-GS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1331: Bijzonderheden van 'OS en GP. Bezetting: 6 personen.' naar 'Bezetting: 6 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1331: Extra Afkortingen van '' naar 'OS, GP' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1431: Bijzonderheden van 'TS-SIB en GP. Bezetting: 6 personen.' naar 'Bezetting: 6 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1431: Extra Afkortingen van '' naar 'TS-SIB, GP' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1481: Bijzonderheden van 'ON-SIB.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1481: Extra Afkortingen van '' naar 'ON-SIB' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1531: Bijzonderheden van 'GP. Bezetting: 6 personen.' naar 'Bezetting: 6 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1531: Extra Afkortingen van '' naar 'GP' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1685: Bijzonderheden van 'BU-UHD.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1685: Extra Afkortingen van '' naar 'BU-UHD' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1686: Bijzonderheden van 'BU-UHD.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1686: Extra Afkortingen van '' naar 'BU-UHD' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1731: Bijzonderheden van 'GP. Bezetting: 6 personen.' naar 'Bezetting: 6 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1731: Extra Afkortingen van '' naar 'GP' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1921: Bijzonderheden van 'HVH.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1921: Extra Afkortingen van '' naar 'HVH' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1931: Bijzonderheden van 'GP. Bezetting: 6 personen.' naar 'Bezetting: 6 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1931: Extra Afkortingen van '' naar 'GP' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2031: Bijzonderheden van 'GP. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2031: Extra Afkortingen van '' naar 'GP' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2131: Bijzonderheden van 'ON-UHD. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2131: Extra Afkortingen van '' naar 'ON-UHD' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2182: Bijzonderheden van 'BU-UHD.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2182: Extra Afkortingen van '' naar 'BU-UHD' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2231: Bijzonderheden van 'TS-BO, TS-SK en GP. Bezetting: 6 personen.' naar 'Bezetting: 6 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2231: Extra Afkortingen van '' naar 'TS-BO, TS-SK, GP' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2341: Extra Afkortingen van '' naar 'VK-GS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2431: Bijzonderheden van 'HV. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2431: Extra Afkortingen van '' naar 'HV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2531: Bijzonderheden van 'TS-NB en OR. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2531: Extra Afkortingen van '' naar 'TS-NB, OR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2551: Bijzonderheden van 'RV. Lengte: 32 meter.' naar 'Lengte: 32 meter.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2551: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2631: Bijzonderheden van 'OR. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2631: Extra Afkortingen van '' naar 'OR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN: Extra Afkortingen van '' naar 'VK-GS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2731: Bijzonderheden van 'TS-SK. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2731: Extra Afkortingen van '' naar 'TS-SK' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3031: Bijzonderheden van 'ON-GW. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3031: Extra Afkortingen van '' naar 'ON-GW' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3111: Bijzonderheden van 'BUV-OWD.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3111: Extra Afkortingen van '' naar 'BUV-OWD' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3113: Bijzonderheden van 'LO-KR.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3113: Extra Afkortingen van '' naar 'LO-KR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3131: Bijzonderheden van 'HV. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3131: Extra Afkortingen van '' naar 'HV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3132: Bijzonderheden van 'TS-SK. Bemanning door vrijwilligers. Bezetting: 7 personen.' naar 'Bemanning door vrijwilligers. Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3132: Extra Afkortingen van '' naar 'TS-SK' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3151: Bijzonderheden van 'RV. Lengte: 34 meter.' naar 'Lengte: 34 meter.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3151: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "DB09: Extra Afkortingen van '' naar 'VK-GS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9074: Extra Afkortingen van '' naar 'VK-GS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3331: Bijzonderheden van 'TS-OPS. Heeft geen eigen inzetgebied, alleen voor aflossing en (geplande) herbezetting. Bezetting: 7 personen.' naar 'Heeft geen eigen inzetgebied, alleen voor aflossing en (geplande) herbezetting. Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3331: Extra Afkortingen van '' naar 'TS-OPS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3451: Bijzonderheden van 'RV. Lengte: 30 meter.' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3451: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3631: Bijzonderheden van 'OR. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3631: Extra Afkortingen van '' naar 'OR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3731: Bijzonderheden van 'BU-VTLS en HV. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3731: Extra Afkortingen van '' naar 'BU-VTLS, HV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3751: Bijzonderheden van 'AL-QRT. Lengte: 30 meter.' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3751: Extra Afkortingen van '' naar 'AL-QRT, RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3832: Bijzonderheden van 'TS-SK. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3832: Extra Afkortingen van '' naar 'TS-SK' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9073: Extra Afkortingen van '' naar 'VK-GS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3931: Bijzonderheden van 'TS-NB. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3931: Extra Afkortingen van '' naar 'TS-NB' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3941: Extra Afkortingen van '' naar 'VK-GS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4031: Bijzonderheden van 'TS-NB en HV. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4031: Extra Afkortingen van '' naar 'TS-NB, HV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4131: Bijzonderheden van 'TS-NB en OR. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4131: Extra Afkortingen van '' naar 'TS-NB, OR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4231: Bijzonderheden van 'TS-GO. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4231: Extra Afkortingen van '' naar 'TS-GO' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4331: Bijzonderheden van 'HV. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4331: Extra Afkortingen van '' naar 'HV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4431: Bijzonderheden van 'OR. Bezetting: 8 personen.' naar 'Bezetting: 8 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4431: Extra Afkortingen van '' naar 'OR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4532: Bijzonderheden van 'ON-GW, TS-GO en TS-SK. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4532: Extra Afkortingen van '' naar 'ON-GW, TS-GO, TS-SK' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4631: Extra Afkortingen van '' naar 'VK-GS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4731: Bijzonderheden van 'ON-PLL. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4731: Extra Afkortingen van '' naar 'ON-PLL' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4831: Bijzonderheden van 'OR. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4831: Extra Afkortingen van '' naar 'OR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4931: Bijzonderheden van 'HV. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4931: Extra Afkortingen van '' naar 'HV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9099: Bijzonderheden van 'BUL-DRK, BUV-SN, BU-BRB. Piketvoertuig.' naar 'Piketvoertuig.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9099: Extra Afkortingen van '' naar 'BUL-DRK, BUV-SN, BU-BRB' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9076: Afkorting van 'PM' naar 'BM-VTHS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9076: Bijzonderheden van 'BU-RK en BU-VTHS. Reservevoertuig.' naar 'Reservevoertuig.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9076: Extra Afkortingen van '' naar 'BU-RK' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9201: Extra Afkortingen van '' naar 'AB' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9202: Extra Afkortingen van '' naar 'AH, AB' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9203: Extra Afkortingen van '' naar 'AH, AB' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9211: Bijzonderheden van 'BUV-OWD. Reservevoertuig VRR en VRZHZ.' naar 'Reservevoertuig VRR en VRZHZ.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9211: Extra Afkortingen van '' naar 'BUV-OWD' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9232: Bijzonderheden van 'Reservevoertuig. OR. Bezetting: 7 personen.' naar 'Reservevoertuig. Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9232: Extra Afkortingen van '' naar 'OR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9233: Bijzonderheden van 'Reservevoertuig. OR. Bezetting: 7 personen.' naar 'Reservevoertuig. Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9233: Extra Afkortingen van '' naar 'OR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9237: Bijzonderheden van 'Reservevoertuig. HV. Bezetting: 7 personen.' naar 'Reservevoertuig. Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9237: Extra Afkortingen van '' naar 'HV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9251: Adres van 'Krimpen a/d IJssel' naar 'Logistiek/Driemanssteeweg' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9251: Bijzonderheden van 'RV. Tijdelijke plaatsing van de oude HW van kazerne Slotlaan i.v.m. afsluiting van de Algerabrug.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9251: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9331: Adres van 'Krimpen a/d IJssel' naar 'Vakbekwaamheid/Breevaartstraat' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9331: Afkorting van 'TS' naar 'TS-OTO' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9331: TypeVoertuig van 'Tankautospuit' naar 'Tankautospuit t.b.v. opleiding, training en oefenen' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9331: Bijzonderheden van 'TS-OTO. Bezetting: 7 personen. Tijdelijk operationeel inzetbaar i.v.m. afsluiting van de Algerabrug.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9336: Bijzonderheden van 'TS-RO. Bezetting: 7 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9336: Extra Afkortingen van '' naar 'TS-RO' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "AW-1: Bijzonderheden van 'LO-KR. Bezetting: 6 personen.' naar 'Bezetting: 6 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "AW-1: Extra Afkortingen van '' naar 'LO-KR' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "DP1: Bijzonderheden van 'DPH-GW.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "DP1: Extra Afkortingen van '' naar 'DPH-GW' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "DP2: Bijzonderheden van 'DPH-GW.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "DP2: Extra Afkortingen van '' naar 'DPH-GW' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "HBC1: Bijzonderheden van 'BMH-BBM.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "HBC1: Extra Afkortingen van '' naar 'BMH-BBM' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "HW001: Bijzonderheden van 'HW-IB.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "HW001: Extra Afkortingen van '' naar 'HW-IB' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN: Bijzonderheden van 'BMH-BBM.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN: Extra Afkortingen van '' naar 'BMH-BBM' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-5451: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-5921: Bijzonderheden van 'BU-VTHS.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-5921: Extra Afkortingen van '' naar 'BU-VTHS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6221: Bijzonderheden van 'BU-VTHS.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6221: Extra Afkortingen van '' naar 'BU-VTHS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6351: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6381: Bijzonderheden van 'In bruikleen bij de Gezamenlijke Brandweer.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6369: Bijzonderheden van 'SB-BA. Moet nog in dienst komen.' naar 'Moet nog in dienst komen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6369: Extra Afkortingen van '' naar 'SB-BA' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6501: Bijzonderheden van 'ON-BRV.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6501: Extra Afkortingen van '' naar 'ON-BRV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6513: Bijzonderheden van 'ON-BRV.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6513: Extra Afkortingen van '' naar 'ON-BRV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6531: Bijzonderheden van 'ON-UHD. Bezetting: 6 personen.' naar 'Bezetting: 6 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6531: Extra Afkortingen van '' naar 'ON-UHD' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6564: Bijzonderheden van 'BU-WS, BU-VN en BU-UHD.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6564: Extra Afkortingen van '' naar 'BU-WS, BU-VN, BU-UHD' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6565: Bijzonderheden van 'WOV-G. Ligplaats: Van Leeuwenhoekweg 20.' naar 'Ligplaats: Van Leeuwenhoekweg 20.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6565: Extra Afkortingen van '' naar 'WOV-G' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6611: Bijzonderheden van 'WO-NO en BUV-OWD.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6611: Extra Afkortingen van '' naar 'WO-NO, BUV-OWD' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6651: Bijzonderheden van 'RV-AF. Lengte: 30 meter.' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6651: Extra Afkortingen van '' naar 'RV-AF' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6951: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-7021: Bijzonderheden van 'BU-VTHS.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-7021: Extra Afkortingen van '' naar 'BU-VTHS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-7721: Bijzonderheden van 'GS.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-7721: Extra Afkortingen van '' naar 'GS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-7921: Bijzonderheden van 'BU-VTHS.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-7921: Extra Afkortingen van '' naar 'BU-VTHS' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-8131: Bijzonderheden van 'TS-BO. Bezetting: 6 personen.' naar 'Bezetting: 6 personen.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-8131: Extra Afkortingen van '' naar 'TS-BO' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-8151: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9423: Bijzonderheden van 'HON-B.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9423: Extra Afkortingen van '' naar 'HON-B' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI AL-586: Bijzonderheden van 'RV. Verhuurvoertuig.' naar 'Verhuurvoertuig.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI AL-586: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI CT-579: Bijzonderheden van 'HV. Verhuurvoertuig.' naar 'Verhuurvoertuig.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI CT-579: Extra Afkortingen van '' naar 'HV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI HW-594: Bijzonderheden van 'RV. Verhuurvoertuig. Lengte: 34 meter.' naar 'Verhuurvoertuig. Lengte: 34 meter.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI HW-594: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI HW-626: Bijzonderheden van 'RV. Verhuurvoertuig. Lengte: 32 meter.' naar 'Verhuurvoertuig. Lengte: 32 meter.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI HW-626: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "ONBEKEND: Bijzonderheden van 'RV. Verhuurvoertuig. Lengte: 32 meter.' naar 'Verhuurvoertuig. Lengte: 32 meter.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "ONBEKEND: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-545: Bijzonderheden van 'Piketvoertuig. Tevens reserve NICU en PICU.' naar 'Piketvoertuig. Inzetbaar als reserve NICU/PICU.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-305: Bijzonderheden van 'NICU en PICU.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-811: Bijzonderheden van 'OVDG-Z.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-812: Bijzonderheden van 'OVDG-N.' naar '' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-802: Bijzonderheden van 'OVDG-ZW. Piketvoertuig.' naar 'Piketvoertuig.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-801: Bijzonderheden van 'OVDG-NO. Piketvoertuig.' naar 'Piketvoertuig.' aangepast",
+        "Time": "28-09-2026 00:00:18"
+      }
+    ]
+  },
+  {
     "date": "2026-09-27",
     "added": [],
     "removed": [],
@@ -8575,35 +10031,6 @@
         "Regio": "6",
         "Description": "06-714: Kenteken van 'ONBEKEND' naar 'JDB-34-D' aangepast",
         "Time": "28-08-2026 18:00:23"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "ProRail",
-        "Regio": "9",
-        "Description": "GEEN (DA) OVD-Rail toegevoegd aan ProRail ICB Amersfoort",
-        "Time": "27-08-2026 18:00:17"
-      }
-    ],
-    "removed": [],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "3",
-        "Description": "03-0399: Kenteken van 'HA-77-90' naar 'BD-971-S' aangepast",
-        "Time": "27-08-2026 18:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "3",
-        "Description": "03-0399: Bijzonderheden van 'Voertuig nu nog voorzien van handelaarskentekenplaten.' naar '' aangepast",
-        "Time": "27-08-2026 18:00:17"
       }
     ]
   }
