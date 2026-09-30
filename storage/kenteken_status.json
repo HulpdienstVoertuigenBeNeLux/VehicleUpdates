@@ -50192,19 +50192,6 @@
     "last_tenaamstelling_check_date": "2026-09-28",
     "aantal_zitplaatsen": "9"
   },
-  "BN-VD-40": {
-    "expiry": "2026-10-05",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "19-6530"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-08-08",
-    "last_tenaamstelling_check_date": "2026-09-28",
-    "aantal_zitplaatsen": null
-  },
   "22-BKT-2": {
     "expiry": "2027-04-12",
     "checked": true,
@@ -106412,5 +106399,18 @@
     "datum_tenaamstelling_dt": "2026-04-16",
     "last_tenaamstelling_check_date": "2026-09-27",
     "aantal_zitplaatsen": "9"
+  },
+  "BD-349-X": {
+    "expiry": "2027-09-15",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "19-6530"
+    ],
+    "last_check_date": "2026-09-30",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-09-15",
+    "last_tenaamstelling_check_date": "2026-09-30",
+    "aantal_zitplaatsen": "7"
   }
 }

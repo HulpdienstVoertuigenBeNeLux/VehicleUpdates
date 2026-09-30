@@ -1,28 +1,28 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                   : 17300
+  Totaal records                   : 17301
   Records met parsebare bezetting : 3348
-  Vergeleken met RDW               : 3110
-  RDW data ontbreekt               : 238
+  Vergeleken met RDW               : 3111
+  RDW data ontbreekt               : 237
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)              : 0
-  Bezetting != RDW zitplaatsen     : 646
-  Bezetting > RDW zitplaatsen      : 347
-  RDW zitplaatsen > bezetting      : 299
+  Bezetting != RDW zitplaatsen     : 616
+  Bezetting > RDW zitplaatsen      : 330
+  RDW zitplaatsen > bezetting      : 286
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
 ------------------------------------------------------------------------------------------
    1 personen : 10
    2 personen : 143
-   3 personen : 44
+   3 personen : 46
    4 personen : 105
-   5 personen : 780
-   6 personen : 263
-   7 personen : 1095
-   8 personen : 411
-   9 personen : 491
+   5 personen : 781
+   6 personen : 261
+   7 personen : 1090
+   8 personen : 420
+   9 personen : 486
   10 personen : 5
   11 personen : 1
 
@@ -41,23 +41,6 @@
 ------------------------------------------------------------------------------------------
   Roepnummer   | Kenteken   | Bezetting |           RDW
   -----------------------------------------------------
-  01-1003      | ZB-105-K   |         9 |             8
-  01-1031      | BV-FL-78   |         9 |             7
-  01-1101      | 33-BDS-5   |         6 |             3
-  01-1302      | 7-VTR-76   |         7 |             6
-  01-1601      | HFR-02-G   |         7 |             5
-  01-1731      | BD-959-S   |         8 |             7
-  01-1804      | V-39-DST   |         7 |             5
-  01-1808      | J-466-JD   |         5 |             4
-  01-2233      | BV-HD-83   |         9 |             8
-  01-2402      | VTT-69-K   |         7 |             5
-  01-0134      | 28-BTD-8   |         7 |             2
-  01-2603      | 78-TGL-6   |         9 |             8
-  01-2905      | N-386-ZZ   |         9 |             8
-  01-2904      | VTT-70-K   |         6 |             5
-  01-2903      | N-385-ZZ   |         9 |             8
-  01-2933      | BV-FV-70   |         8 |             7
-  01-2901      | X-337-RN   |         9 |             8
   02-4231      | BB-459-P   |         8 |             7
   02-4202      | HFR-69-T   |         9 |             8
   02-5301      | ZB-195-G   |         9 |             8
@@ -394,20 +377,7 @@
 ------------------------------------------------------------------------------------------
   Roepnummer   | Kenteken   | Bezetting |           RDW
   -----------------------------------------------------
-  01-1032      | BT-VS-39   |         6 |             7
-  01-1131      | BV-VF-11   |         7 |             8
-  01-1401      | GJN-66-B   |         5 |             8
-  01-1502      | GFP-79-J   |         7 |             8
-  01-1603      | HFR-03-G   |         7 |             8
-  01-1604      | 5-SPX-72   |         7 |             9
-  01-1701      | J-193-DZ   |         7 |             8
-  01-1802      | J-181-DZ   |         7 |             9
-  01-2031      | BD-786-S   |         6 |             7
-  01-2701      | 5-VTD-66   |         5 |             6
-  01-3131      | BD-792-J   |         6 |             7
-  GEEN         | VL-868-F   |         2 |             3
-  01-3903      | 13-RP-RJ   |         7 |             9
-  01-39Engine~ | 68-BNZ-1   |         4 |             6
+  01-1802      | J-181-DZ   |         8 |             9
   02-4001      | VXT-89-X   |         6 |             7
   02-4204      | N-694-RX   |         5 |             8
   02-0233      | 46-BDK-1   |         7 |             8
