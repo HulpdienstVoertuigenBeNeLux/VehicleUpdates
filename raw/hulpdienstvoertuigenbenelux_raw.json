@@ -62763,7 +62763,7 @@
     "Adres": "Logistiek/Driemanssteeweg",
     "Roepnummer": "17-9076",
     "Afkorting": "BM-VTHS",
-    "TypeVoertuig": "Personeel/materieelvoertuig",
+    "TypeVoertuig": "Bijzonder materieel veiligheidstester hoogspanning",
     "Kenteken": "V-17-NTL",
     "Bijzonderheden": "Reservevoertuig.",
     "Extra Afkortingen": "BU-RK",
@@ -65138,11 +65138,11 @@
   {
     "Adres": "Chemours Dordrecht",
     "Roepnummer": "18-6539",
-    "Afkorting": "AS-IB",
+    "Afkorting": "AS-BB",
     "TypeVoertuig": "Autospuit industrie brandbestrijding",
     "Kenteken": "BT-DJ-17",
     "Bijzonderheden": "",
-    "Extra Afkortingen": "",
+    "Extra Afkortingen": "AS-IB",
     "Hulpdienst": "Brandweer",
     "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
     "Interne opmerking": ""
@@ -65222,7 +65222,7 @@
   {
     "Adres": "Chemours Dordrecht",
     "Roepnummer": "HAB-03",
-    "Afkorting": "SVH",
+    "Afkorting": "SVH-BB",
     "TypeVoertuig": "Schuimvormend middel haakarmbak",
     "Kenteken": "GEEN",
     "Bijzonderheden": "",
@@ -65930,8 +65930,8 @@
   {
     "Adres": "Bleskensgraaf",
     "Roepnummer": "18-7182",
-    "Afkorting": "VZH",
-    "TypeVoertuig": "Verzorgingshaakarmbak",
+    "Afkorting": "VZH-KA",
+    "TypeVoertuig": "Verzorgingshaakarmbak met kantine",
     "Kenteken": "GEEN",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
@@ -67553,7 +67553,7 @@
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
     "Kenteken": "BV-TS-92",
-    "Bijzonderheden": "Bezetting: 8 personen.",
+    "Bijzonderheden": "Bezetting: 7 personen.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
@@ -127956,6 +127956,30 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "RelyOn Quarantaineweg",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Academies",
+    "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Quarantaineweg 98, Rotterdam",
+    "Kenteken": "",
+    "Bijzonderheden": "Brandweer",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Academies",
+    "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Safety Centre Boxmeer",
     "Roepnummer": "",
     "Afkorting": "",
@@ -128028,7 +128052,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Spinel Veiligheidscentrum",
+    "Adres": "H2K Brandweeropleidingen",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -128043,7 +128067,7 @@
     "Adres": "",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Spinel 100, Dordrecht",
+    "TypeVoertuig": "Olivijn 300, Dordrecht",
     "Kenteken": "",
     "Bijzonderheden": "Brandweer",
     "Extra Afkortingen": "",
@@ -128073,30 +128097,6 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Academies",
     "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "RelyOn Quarantaineweg",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Academies",
-    "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Quarantaineweg 98, Rotterdam",
-    "Kenteken": "",
-    "Bijzonderheden": "Brandweer",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Academies",
-    "Regio": "17 - Rotterdam-Rijnmond (VRR)",
     "Interne opmerking": ""
   },
   {
