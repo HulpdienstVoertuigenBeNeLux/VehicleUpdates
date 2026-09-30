@@ -1,8 +1,220 @@
 [
   {
     "date": "2026-09-30",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": " CCFM toegevoegd aan Beaumont",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - Hemeco",
+        "Description": " CCFM toegevoegd aan Hamoir",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z133 ZW toegevoegd aan Blankenberge",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z144 ZW toegevoegd aan Blankenberge",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z140 ZW toegevoegd aan Brugge",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z129 ZW toegevoegd aan Brugge",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z139 ZW toegevoegd aan Brugge",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z122 ZW toegevoegd aan Gistel",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z132 ZW toegevoegd aan Gistel",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z128 ZW toegevoegd aan Knokke-Heist",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z136 ZW toegevoegd aan Knokke-Heist",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z141 ZW toegevoegd aan Oostende",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z142 ZW toegevoegd aan Oostende",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z143 ZW toegevoegd aan Oostende",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z134 ZW toegevoegd aan Oostkamp",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z120 ZW toegevoegd aan Torhout",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "Z135 ZW toegevoegd aan Torhout",
+        "Time": "30-09-2026 20:00:32"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "BLANKENBERGE 1 ZW verwijderd van Blankenberge",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "BRUGGE HP 1 ZW verwijderd van Brugge",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "BRUGGE VP 4 ZW verwijderd van Brugge",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "BRUGGE VP 5 ZW verwijderd van Brugge",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "GISTEL 1 ZW verwijderd van Gistel",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "KNOKKE 1 ZW verwijderd van Knokke-Heist",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "KNOKKE 2 ZW verwijderd van Knokke-Heist",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "OOSTENDE 2 ZW verwijderd van Oostende",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "OOSTENDE 3 ZW verwijderd van Oostende",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "OOSTENDE 4 ZW verwijderd van Oostende",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "OOSTKAMP ZW verwijderd van Oostkamp",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "TORHOUT 1 ZW verwijderd van Torhout",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "TORHOUT 2 ZW verwijderd van Torhout",
+        "Time": "30-09-2026 20:00:32"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -45,6 +257,62 @@
         "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
         "Description": "18-7182: TypeVoertuig van 'Verzorgingshaakarmbak' naar 'Verzorgingshaakarmbak met kantine' aangepast",
         "Time": "30-09-2026 10:00:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "23-3231: Kenteken van '24-BBF-5' naar 'BD-943-T' aangepast",
+        "Time": "30-09-2026 20:00:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "23-3232: Kenteken van 'BX-XR-37' naar 'BD-405-X' aangepast",
+        "Time": "30-09-2026 20:00:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "B561: Kenteken van '' naar '1-JSF-837' aangepast",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "P95: Kenteken van '' naar '1-WXG-018' aangepast",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "C34: Kenteken van '' naar '1-CYG-149' aangepast",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - Warche-Amblève-Lienne",
+        "Description": "PF503: Kenteken van '' naar '1-LNG-889' aangepast",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "'MIDDELKERKE' omgenummerd naar 'Z137'",
+        "Time": "30-09-2026 20:00:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "'OOSTENDE 1' omgenummerd naar 'Z130'",
+        "Time": "30-09-2026 20:00:32"
       }
     ]
   },
