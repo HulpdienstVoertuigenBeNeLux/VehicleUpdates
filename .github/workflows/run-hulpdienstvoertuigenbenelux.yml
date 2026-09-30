@@ -54,6 +54,7 @@ jobs:
           python extra_scripts/combine_rdw_subdata.py
           python extra_scripts/rdw_push.py
           python validate_regions.py
+          python extra_scripts/check_bezetting.py
 
       - name: Commit and push changes
         run: |
