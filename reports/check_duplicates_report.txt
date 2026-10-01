@@ -76,10 +76,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,789  (of 10,141 total)
+  Records checked : 6,825  (of 10,177 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  538 value(s) affected
+  Duplicate Roepnummer  --  542 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -724,6 +724,16 @@
       Roepnummer  : A112
       Kenteken    : 1-BYZ-607
 
+  >> 'A115'  (2x)
+      Adres       : Lillo
+      Hulpdienst  : Brandweer
+      Roepnummer  : A115
+      Kenteken    : 
+      Adres       : Gistel
+      Hulpdienst  : Brandweer
+      Roepnummer  : A115
+      Kenteken    : 
+
   >> 'A116'  (2x)
       Adres       : Linkeroever
       Hulpdienst  : Brandweer
@@ -1080,6 +1090,16 @@
       Roepnummer  : A301
       Kenteken    : 1-JKU-456
 
+  >> 'A302'  (2x)
+      Adres       : Oostende
+      Hulpdienst  : Brandweer
+      Roepnummer  : A302
+      Kenteken    : 
+      Adres       : Zwevegem
+      Hulpdienst  : Brandweer
+      Roepnummer  : A302
+      Kenteken    : 1-JKR-828
+
   >> 'A303'  (2x)
       Adres       : Oostende
       Hulpdienst  : Brandweer
@@ -1090,12 +1110,16 @@
       Roepnummer  : A303
       Kenteken    : 
 
-  >> 'A304'  (2x)
+  >> 'A304'  (3x)
       Adres       : Oostende
       Hulpdienst  : Brandweer
       Roepnummer  : A304
       Kenteken    : 
       Adres       : Kortrijk
+      Hulpdienst  : Brandweer
+      Roepnummer  : A304
+      Kenteken    : 
+      Adres       : Menen
       Hulpdienst  : Brandweer
       Roepnummer  : A304
       Kenteken    : 
@@ -1334,7 +1358,7 @@
       Roepnummer  : ANTW ZUID
       Kenteken    : 
 
-  >> 'AP1'  (19x)
+  >> 'AP1'  (20x)
       Adres       : Zottegem
       Hulpdienst  : Brandweer
       Roepnummer  : AP1
@@ -1355,6 +1379,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : AP1
       Kenteken    : 1-AAZ-063
+      Adres       : Ingelmunster
+      Hulpdienst  : Brandweer
+      Roepnummer  : AP1
+      Kenteken    : 1-DYE-672
       Adres       : Ingelmunster
       Hulpdienst  : Brandweer
       Roepnummer  : AP1
@@ -1904,7 +1932,15 @@
       Roepnummer  : BE2
       Kenteken    : 
 
-  >> 'BE3'  (2x)
+  >> 'BE3'  (4x)
+      Adres       : Ingelmunster
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE3
+      Kenteken    : 
+      Adres       : Izegem
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE3
+      Kenteken    : 1-TQR-864
       Adres       : Roeselare
       Hulpdienst  : Brandweer
       Roepnummer  : BE3
@@ -3778,6 +3814,16 @@
       Roepnummer  : HA1
       Kenteken    : 1-TJA-698
 
+  >> 'HA2'  (2x)
+      Adres       : Roeselare
+      Hulpdienst  : Brandweer
+      Roepnummer  : HA2
+      Kenteken    : 2-JJS-305
+      Adres       : Tielt
+      Hulpdienst  : Brandweer
+      Roepnummer  : HA2
+      Kenteken    : 1-JTA-646
+
   >> 'HASSELT 1'  (2x)
       Adres       : Hasselt
       Hulpdienst  : Ambulance
@@ -4334,7 +4380,7 @@
       Roepnummer  : LIER
       Kenteken    : 
 
-  >> 'LW1'  (4x)
+  >> 'LW1'  (5x)
       Adres       : Ardooie
       Hulpdienst  : Brandweer
       Roepnummer  : LW1
@@ -4347,6 +4393,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : LW1
       Kenteken    : 
+      Adres       : Roeselare
+      Hulpdienst  : Brandweer
+      Roepnummer  : LW1
+      Kenteken    : 2-GED-429
       Adres       : Wingene
       Hulpdienst  : Brandweer
       Roepnummer  : LW1
@@ -4360,6 +4410,16 @@
       Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : M1
+      Kenteken    : 
+
+  >> 'M101'  (2x)
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : M101
+      Kenteken    : 
+      Adres       : Knokke-Heist
+      Hulpdienst  : Brandweer
+      Roepnummer  : M101
       Kenteken    : 
 
   >> 'M102'  (2x)
@@ -7242,7 +7302,11 @@
       Roepnummer  : V401
       Kenteken    : 
 
-  >> 'V402'  (2x)
+  >> 'V402'  (3x)
+      Adres       : Zonnebeke
+      Hulpdienst  : Brandweer
+      Roepnummer  : V402
+      Kenteken    : 
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : V402
