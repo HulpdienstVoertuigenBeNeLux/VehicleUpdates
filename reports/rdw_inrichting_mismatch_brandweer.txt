@@ -5,9 +5,9 @@
 ----------------------------------------------------------------------------------------
   Brandweer
 ----------------------------------------------------------------------------------------
-  HulpdienstvoertuigenBenelux : 5719
+  HulpdienstvoertuigenBenelux : 5717
   RDW inrichting dataset      : 2583
-  Missing in RDW              : 3539
+  Missing in RDW              : 3537
   Extra in RDW                : 403
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
@@ -233,7 +233,6 @@
   - 24BKT2
   - 24BPX2
   - 24SVH3
-  - 24ZDH9
   - 25BPP1
   - 25DMX6
   - 25FVHJ
@@ -268,13 +267,11 @@
   - 2KLB20
   - 2KLB23
   - 2KLB24
-  - 2KSB09
   - 2SBJ87
   - 2TJD30
   - 2TJD32
   - 2VHJ07
   - 2VNH80
-  - 2VRG34
   - 2VZB45
   - 2VZT72
   - 2XST00
@@ -366,7 +363,6 @@
   - 3TKS80
   - 3TKS81
   - 3TKS87
-  - 3VHS61
   - 3VVS23
   - 3XHJ67
   - 3XVF88
@@ -795,7 +791,6 @@
   - 83BZZ4
   - 83TFS6
   - 83WSHD
-  - 83ZDL4
   - 84JDS5
   - 84WGPB
   - 84WVGK
@@ -1356,7 +1351,6 @@
   - GR013P
   - GRB43J
   - GRB44J
-  - GRG88X
   - GRJ15V
   - GRR15N
   - GSL84P
@@ -1595,7 +1589,6 @@
   - HZG88V
   - HZG89V
   - HZL47T
-  - HZP22Z
   - HZP81P
   - HZT01G
   - HZT97F
@@ -1764,12 +1757,12 @@
   - JJN85L
   - JJN86L
   - JJN87L
-  - JJN88L
   - JJN89L
   - JJN90L
   - JJN91L
   - JJN92L
   - JJN93L
+  - JJN94L
   - JJR05S
   - JJT58D
   - JKB02V
@@ -2131,7 +2124,9 @@
   - KN704R
   - KN720R
   - KN9482
+  - KNJ42H
   - KNJ43H
+  - KNJ44H
   - KNP94H
   - KP020Z
   - KP021Z
@@ -2150,6 +2145,7 @@
   - KR982F
   - KR983F
   - KR984F
+  - KRF96K
   - KRL13F
   - KRL14F
   - KS208J
@@ -2169,6 +2165,7 @@
   - KT956G
   - KT957G
   - KT958G
+  - KVN45V
   - KVN46V
   - KZ865K
   - L070FL
@@ -2968,6 +2965,7 @@
   - V865BP
   - V86NTT
   - V87NTT
+  - V87PSH
   - V888RT
   - V88KZJ
   - V89KZJ
@@ -3782,6 +3780,7 @@
   - BRTV08
   - BRVZ27
   - BS52FN
+  - BSBT75
   - BSFH64
   - BSGV38
   - BSHN66
@@ -3803,7 +3802,6 @@
   - BTBZ53
   - BTBZ55
   - BTDH72
-  - BTFS29
   - BTGX59
   - BTHB10
   - BTHD21
@@ -3839,6 +3837,7 @@
   - BVVL66
   - BVVV36
   - BVXN50
+  - BVXS17
   - BVXS38
   - BVXS96
   - BVXZ47
@@ -3910,7 +3909,6 @@
   - BZPG18
   - BZPT63
   - BZPZ80
-  - BZRB99
   - BZRN47
   - BZSN60
   - BZTS23
