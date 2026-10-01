@@ -58122,19 +58122,6 @@
     "last_tenaamstelling_check_date": "2026-09-28",
     "aantal_zitplaatsen": "5"
   },
-  "13-ZDS-6": {
-    "expiry": "2027-01-13",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "22-5102"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2012-11-16",
-    "last_tenaamstelling_check_date": "2026-09-28",
-    "aantal_zitplaatsen": "5"
-  },
   "P-533-SJ": {
     "expiry": "2027-08-31",
     "checked": true,
@@ -58231,7 +58218,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "22-5007"
+      "GEEN"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -58691,19 +58678,6 @@
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2012-09-28",
-    "last_tenaamstelling_check_date": "2026-09-28",
-    "aantal_zitplaatsen": "5"
-  },
-  "08-ZTJ-1": {
-    "expiry": "2027-02-25",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "22-3206"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-02-25",
     "last_tenaamstelling_check_date": "2026-09-28",
     "aantal_zitplaatsen": "5"
   },
@@ -59328,19 +59302,6 @@
     "datum_tenaamstelling_dt": "2022-12-09",
     "last_tenaamstelling_check_date": "2026-09-28",
     "aantal_zitplaatsen": "8"
-  },
-  "3-ZPB-91": {
-    "expiry": "2027-03-24",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "22-4402"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2015-03-24",
-    "last_tenaamstelling_check_date": "2026-09-28",
-    "aantal_zitplaatsen": "5"
   },
   "06-BJT-8": {
     "expiry": "2027-08-14",
@@ -106425,5 +106386,31 @@
     "datum_tenaamstelling_dt": "2026-09-11",
     "last_tenaamstelling_check_date": "2026-09-30",
     "aantal_zitplaatsen": "7"
+  },
+  "HZP-22-Z": {
+    "expiry": "2029-07-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-10-01",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-12-22",
+    "last_tenaamstelling_check_date": "2026-10-01",
+    "aantal_zitplaatsen": "5"
+  },
+  "KNJ-43-H": {
+    "expiry": "2030-07-27",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "22-5106"
+    ],
+    "last_check_date": "2026-10-01",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-27",
+    "last_tenaamstelling_check_date": "2026-10-01",
+    "aantal_zitplaatsen": "5"
   }
 }

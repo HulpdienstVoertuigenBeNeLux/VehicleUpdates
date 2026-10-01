@@ -1,9 +1,68 @@
 [
   {
     "date": "2026-10-01",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN DA toegevoegd aan Frobenstraat",
+        "Time": "01-10-2026 15:00:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5106 DA toegevoegd aan Helmond",
+        "Time": "01-10-2026 15:00:24"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5102 DA verwijderd van Eindhoven Centrum",
+        "Time": "01-10-2026 15:00:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-3206 DA verwijderd van Helmond",
+        "Time": "01-10-2026 15:00:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5091 COH-MU verwijderd van Helmond",
+        "Time": "01-10-2026 15:00:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-4402 DA verwijderd van Valkenswaard",
+        "Time": "01-10-2026 15:00:24"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5007: Adres van 'Eindhoven Woensel' naar 'ROC Waalre' aangepast",
+        "Time": "01-10-2026 15:00:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "'22-5007' omgenummerd naar 'GEEN'",
+        "Time": "01-10-2026 15:00:24"
+      }
+    ]
   },
   {
     "date": "2026-09-30",
