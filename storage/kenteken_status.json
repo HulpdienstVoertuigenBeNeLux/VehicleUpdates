@@ -8894,7 +8894,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "04-1232"
+      "04-1031"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -9251,19 +9251,6 @@
     "datum_tenaamstelling_dt": "2013-12-15",
     "last_tenaamstelling_check_date": "2026-09-27",
     "aantal_zitplaatsen": null
-  },
-  "BR-ZJ-82": {
-    "expiry": "2027-05-02",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-1031"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-06-26",
-    "last_tenaamstelling_check_date": "2026-09-27",
-    "aantal_zitplaatsen": "9"
   },
   "80-BPS-7": {
     "expiry": "2027-06-24",
@@ -10615,19 +10602,6 @@
     "last_tenaamstelling_check_date": "2026-09-27",
     "aantal_zitplaatsen": null
   },
-  "84-BDL-8": {
-    "expiry": "2026-12-23",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-2530"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2014-01-30",
-    "last_tenaamstelling_check_date": "2026-09-27",
-    "aantal_zitplaatsen": "7"
-  },
   "5-SLF-47": {
     "expiry": "2026-10-24",
     "checked": true,
@@ -11186,19 +11160,6 @@
     "datum_tenaamstelling_dt": "2024-03-29",
     "last_tenaamstelling_check_date": "2026-09-27",
     "aantal_zitplaatsen": "2"
-  },
-  "18-BFX-3": {
-    "expiry": "2027-04-21",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-2882"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2015-04-24",
-    "last_tenaamstelling_check_date": "2026-09-27",
-    "aantal_zitplaatsen": "7"
   },
   "81-BJD-9": {
     "expiry": "2027-02-06",
@@ -106389,5 +106350,44 @@
     "datum_tenaamstelling_dt": "2026-07-16",
     "last_tenaamstelling_check_date": "2026-10-02",
     "aantal_zitplaatsen": "4"
+  },
+  "KPG-04-V": {
+    "expiry": "2030-07-06",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "DA0001"
+    ],
+    "last_check_date": "2026-10-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-06",
+    "last_tenaamstelling_check_date": "2026-10-02",
+    "aantal_zitplaatsen": "5"
+  },
+  "KLS-62-V": {
+    "expiry": "2030-05-19",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "DA0002"
+    ],
+    "last_check_date": "2026-10-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-09-11",
+    "last_tenaamstelling_check_date": "2026-10-02",
+    "aantal_zitplaatsen": "5"
+  },
+  "BD-446-K": {
+    "expiry": "2027-05-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-2530"
+    ],
+    "last_check_date": "2026-10-02",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-05-05",
+    "last_tenaamstelling_check_date": "2026-10-02",
+    "aantal_zitplaatsen": "7"
   }
 }

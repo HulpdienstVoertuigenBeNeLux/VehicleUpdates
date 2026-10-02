@@ -162,6 +162,20 @@
         "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
         "Description": "400010 SIG toegevoegd aan Lede",
         "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "DA0001 DA toegevoegd aan Zwolle (Hoofdpost)",
+        "Time": "02-10-2026 21:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "DA0002 DA toegevoegd aan Zwolle (Hoofdpost)",
+        "Time": "02-10-2026 21:00:21"
       }
     ],
     "removed": [
@@ -220,6 +234,13 @@
         "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
         "Description": "463601 SIG verwijderd van Lede",
         "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-2882 ON-GW verwijderd van Deventer",
+        "Time": "02-10-2026 21:00:21"
       }
     ],
     "changed": [
@@ -453,6 +474,41 @@
         "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
         "Description": "AALST 4: Kenteken van '' naar '1-XGG-698' aangepast",
         "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-1031: Kenteken van 'BR-ZJ-82' naar 'BX-JD-76' aangepast",
+        "Time": "02-10-2026 21:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-2530: Kenteken van '84-BDL-8' naar 'BD-446-K' aangepast",
+        "Time": "02-10-2026 21:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-1232: Adres van 'Steenwijk' naar 'Zwolle (Hoofdpost)' aangepast",
+        "Time": "02-10-2026 21:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "'04-1232' omgenummerd naar '04-1031'",
+        "Time": "02-10-2026 21:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-1232: Bijzonderheden van 'Bezetting: 8 personen.' naar 'Reservevoertuig. Bezetting: 9 personen.' aangepast",
+        "Time": "02-10-2026 21:00:21"
       }
     ]
   },

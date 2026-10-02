@@ -4682,17 +4682,6 @@
     "actieradius": "0"
   },
   {
-    "kenteken": "18BFX3",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "emissiecode_omschrijving": "5",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*143/2013M",
-    "uitstoot_deeltjes_licht": "0.00200",
-    "nettomaximumvermogen": "125.00",
-    "uitlaatemissieniveau": "EURO 5 M",
-    "co2_emissieklasse": "1"
-  },
-  {
     "kenteken": "18BKN5",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -24565,18 +24554,6 @@
     "uitlaatemissieniveau": "EURO 5"
   },
   {
-    "kenteken": "84BDL8",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "emissiecode_omschrijving": "5",
-    "milieuklasse_eg_goedkeuring_zwaar": "2005/55*2008/74G",
-    "uitstoot_deeltjes_zwaar": "0.00700",
-    "nettomaximumvermogen": "182.00",
-    "uitlaatemissieniveau": "EURO V",
-    "actieradius_extern_oplaadbaar": "0",
-    "actieradius": "0"
-  },
-  {
     "kenteken": "84BDP4",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -31964,15 +31941,16 @@
     "uitlaatemissieniveau": "EURO 1"
   },
   {
-    "kenteken": "BD695P",
+    "kenteken": "BD446K",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
-    "geluidsniveau_stationair": "85",
-    "emissiecode_omschrijving": "4",
-    "milieuklasse_eg_goedkeuring_zwaar": "2005/55*2005/78B",
-    "nettomaximumvermogen": "302.00",
-    "toerental_geluidsniveau": "1425",
-    "uitlaatemissieniveau": "EURO IV"
+    "geluidsniveau_rijdend": "78",
+    "geluidsniveau_stationair": "90",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2019/1939E",
+    "nettomaximumvermogen": "213.00",
+    "toerental_geluidsniveau": "1650",
+    "uitlaatemissieniveau": "EURO VI E"
   },
   {
     "kenteken": "BD004T",
@@ -32889,6 +32867,17 @@
     "toerental_geluidsniveau": "2625",
     "uitlaatemissieniveau": "EURO VI E",
     "co2_emissieklasse": "1"
+  },
+  {
+    "kenteken": "BD695P",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_stationair": "85",
+    "emissiecode_omschrijving": "4",
+    "milieuklasse_eg_goedkeuring_zwaar": "2005/55*2005/78B",
+    "nettomaximumvermogen": "302.00",
+    "toerental_geluidsniveau": "1425",
+    "uitlaatemissieniveau": "EURO IV"
   },
   {
     "kenteken": "BD722P",
@@ -34325,14 +34314,6 @@
     "brandstof_omschrijving": "Diesel",
     "emissiecode_omschrijving": "3",
     "nettomaximumvermogen": "180.00",
-    "uitlaatemissieniveau": "EURO 3"
-  },
-  {
-    "kenteken": "BRZJ82",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "emissiecode_omschrijving": "3",
-    "nettomaximumvermogen": "191.00",
     "uitlaatemissieniveau": "EURO 3"
   },
   {
@@ -63334,6 +63315,30 @@
     "uitlaatemissieniveau": "EURO VI E"
   },
   {
+    "kenteken": "KLS62V",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_stationair": "72",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EB",
+    "nettomaximumvermogen": "186.00",
+    "toerental_geluidsniveau": "3750",
+    "emis_co2_gewogen_gecombineerd_wltp": "71",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EB"
+  },
+  {
+    "kenteken": "KLS62V",
+    "brandstof_volgnummer": "2",
+    "brandstof_omschrijving": "Elektriciteit",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EB",
+    "nominaal_continu_maximumvermogen": "99.00",
+    "netto_max_vermogen_elektrisch": "107.00",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EB"
+  },
+  {
     "kenteken": "KLT09Z",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Elektriciteit",
@@ -63799,6 +63804,19 @@
     "nettomaximumvermogen": "140.00",
     "toerental_geluidsniveau": "2850",
     "uitlaatemissieniveau": "EURO VI E"
+  },
+  {
+    "kenteken": "KPG04V",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "64",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443AX",
+    "nominaal_continu_maximumvermogen": "70.00",
+    "elektrisch_verbruik_enkel_elektrisch_wltp": "155.00",
+    "actie_radius_enkel_elektrisch_wltp": "429",
+    "netto_max_vermogen_elektrisch": "170.00",
+    "uitlaatemissieniveau": "AX"
   },
   {
     "kenteken": "KPG77G",
