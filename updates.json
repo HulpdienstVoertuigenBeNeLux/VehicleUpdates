@@ -1,5 +1,210 @@
 [
   {
+    "date": "2026-10-03",
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-7231 TS toegevoegd aan Hilversum",
+        "Time": "03-10-2026 00:00:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "MMS-106 AMBU-EH toegevoegd aan Zelhem",
+        "Time": "03-10-2026 00:00:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "GEEN RRM-EH toegevoegd aan Houten",
+        "Time": "03-10-2026 00:00:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "GEEN RRM-EH toegevoegd aan Houten",
+        "Time": "03-10-2026 00:00:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "GEEN DA toegevoegd aan Lijnden",
+        "Time": "03-10-2026 00:00:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": " CO toegevoegd aan Aalst",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Midwest",
+        "Description": " DMA toegevoegd aan Aarsele",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "PX611 HZA toegevoegd aan Amel",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "CX611 TW toegevoegd aan Amel",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "E611 ELV toegevoegd aan Amel",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": " PM toegevoegd aan Amel",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": " PM toegevoegd aan Amel",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "B611 SIG toegevoegd aan Amel",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "P621 HZA toegevoegd aan Büllingen",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "B651 SIG toegevoegd aan La Calamine",
+        "Time": "03-10-2026 00:00:51"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-7301 GM verwijderd van Hilversum",
+        "Time": "03-10-2026 00:00:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "GEEN DA verwijderd van Lijnden",
+        "Time": "03-10-2026 00:00:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "S521 HV verwijderd van Aarschot",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": " SIG verwijderd van Aalst",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Midwest",
+        "Description": " LBA verwijderd van Aarsele",
+        "Time": "03-10-2026 00:00:51"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "M2: Kenteken van '' naar '1-LRS-419' aangepast",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "T56: Kenteken van '' naar '2-ATK-470' aangepast",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "AW15: Kenteken van '' naar '1-LTG-361' aangepast",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "P27: Kenteken van '' naar '1-LBG-212' aangepast",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I61: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Dienstbus' aangepast",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I61: Kenteken van '' naar '1-XSS-790' aangepast",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I33: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Dienstbus' aangepast",
+        "Time": "03-10-2026 00:00:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I33: Kenteken van '' naar '1-LTG-395' aangepast",
+        "Time": "03-10-2026 00:00:51"
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "added": [
       {
@@ -11030,11 +11235,5 @@
         "Time": "02-09-2026 15:00:19"
       }
     ]
-  },
-  {
-    "date": "2026-09-01",
-    "added": [],
-    "removed": [],
-    "changed": []
   }
 ]
