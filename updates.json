@@ -57,6 +57,111 @@
         "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
         "Description": "06-143 AMBU-HC toegevoegd aan Borculo",
         "Time": "02-10-2026 14:00:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": " DB toegevoegd aan Aalter",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460107 HZA toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460109 HZA toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": " ZA toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466402 TW toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": " SH toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": " HV toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466604 PM toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460610 LO toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460611 LO toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460603 SIG toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466603 DW toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": " CO toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": " HA-KR toegevoegd aan Aalst",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "400010 SIG toegevoegd aan Lede",
+        "Time": "02-10-2026 19:00:27"
       }
     ],
     "removed": [
@@ -108,6 +213,13 @@
         "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
         "Description": "06-160 AMBU-HC verwijderd van Borculo",
         "Time": "02-10-2026 14:00:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "463601 SIG verwijderd van Lede",
+        "Time": "02-10-2026 19:00:27"
       }
     ],
     "changed": [
@@ -138,6 +250,209 @@
         "Regio": "Antwerpen Zone - Rand",
         "Description": "105000: Kenteken van '' naar '1-FML-345' aangepast",
         "Time": "02-10-2026 01:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-3942: Afkorting van 'SB' naar 'TST-NB' aangepast",
+        "Time": "02-10-2026 19:00:23"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-3942: TypeVoertuig van 'Schuimblusvoertuig' naar 'Tankautospuit terreinvaardig natuurbrandbestrijding' aangepast",
+        "Time": "02-10-2026 19:00:23"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-3942: Kenteken van 'VV-53-DH' naar 'BD-695-P' aangepast",
+        "Time": "02-10-2026 19:00:23"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-3942: Bijzonderheden van '' naar 'NBT-M. CCFM voertuig. Bezetting: 4 personen.' aangepast",
+        "Time": "02-10-2026 19:00:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "A43: Kenteken van '1-KHS-521' naar '1-WAA-949' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "A44: Adres van 'Aalter' naar 'Antwerpen-Zuid' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "A44: Afkorting van 'DB' naar 'SH' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "A44: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Snelle Hulpwagen' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "A52: Afkorting van 'DB' naar 'DA' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "A52: TypeVoertuig van 'Dienstbus' naar 'Dienstauto' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "A52: Kenteken van '1-UPE-743' naar '2-EFY-196' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460101: Kenteken van '' naar '1-DYT-915' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466401: Kenteken van '' naar '1-JUT-046' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466301: Afkorting van 'LW 30' naar 'LW' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466301: Kenteken van '' naar '2-HKD-998' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466301: Bijzonderheden van '' naar 'Lengte: 32 meter.' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466302: Afkorting van 'HW 32' naar 'ELV' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466302: TypeVoertuig van 'Hoogwerker' naar 'Elevator' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466302: Kenteken van '' naar '1-JUT-546' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466302: Bijzonderheden van '' naar 'Lengte: 32 meter.' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460003: Kenteken van '' naar '1-WXX-116' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460002: Kenteken van '' naar '1-WXX-126' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460802: Kenteken van '' naar '1-XKJ-143' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460701: Kenteken van '' naar '1-WBP-552' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466702: Afkorting van 'HA' naar 'HA-KR' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466702: TypeVoertuig van 'Haakarmvoertuig' naar 'Haakarmvoertuig (Met kraan)' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "466702: Kenteken van '' naar '2-GCF-748' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "AALST 1: Kenteken van '' naar '2-FJX-723' aangepast",
+        "Time": "02-10-2026 19:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "AALST 4: Kenteken van '' naar '1-XGG-698' aangepast",
+        "Time": "02-10-2026 19:00:27"
       }
     ]
   },

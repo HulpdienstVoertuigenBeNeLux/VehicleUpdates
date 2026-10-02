@@ -76,7 +76,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,826  (of 10,178 total)
+  Records checked : 6,813  (of 10,165 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  543 value(s) affected
@@ -342,7 +342,21 @@
       Roepnummer  : 4
       Kenteken    : 
 
-  >> '460102'  (2x)
+  >> '460003'  (2x)
+      Adres       : Aalst
+      Hulpdienst  : Brandweer
+      Roepnummer  : 460003
+      Kenteken    : 1-WXX-116
+      Adres       : Aalst
+      Hulpdienst  : Brandweer
+      Roepnummer  : 460003
+      Kenteken    : 1-WXX-116
+
+  >> '460102'  (3x)
+      Adres       : Aalst
+      Hulpdienst  : Brandweer
+      Roepnummer  : 460102
+      Kenteken    : 1-CYJ-255
       Adres       : Wetteren
       Hulpdienst  : Brandweer
       Roepnummer  : 460102
@@ -1238,17 +1252,7 @@
       Adres       : Aalter
       Hulpdienst  : Brandweer
       Roepnummer  : A43
-      Kenteken    : 1-KHS-521
-
-  >> 'A44'  (2x)
-      Adres       : Antwerpen-Zuid
-      Hulpdienst  : Brandweer
-      Roepnummer  : A44
-      Kenteken    : 
-      Adres       : Aalter
-      Hulpdienst  : Brandweer
-      Roepnummer  : A44
-      Kenteken    : 
+      Kenteken    : 1-WAA-949
 
   >> 'A5'  (2x)
       Adres       : Antwerpen-Zuid
@@ -1278,7 +1282,7 @@
       Adres       : Aalter
       Hulpdienst  : Brandweer
       Roepnummer  : A52
-      Kenteken    : 1-UPE-743
+      Kenteken    : 2-EFY-196
 
   >> 'A541'  (2x)
       Adres       : Herentals
@@ -7529,7 +7533,7 @@
       Kenteken    : 
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  2 value(s) affected
+  Duplicate Kenteken  --  3 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1-NPS-154'  (2x)
@@ -7541,6 +7545,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : M404
       Kenteken    : 1-NPS-154
+
+  >> '1-WXX-116'  (2x)
+      Adres       : Aalst
+      Hulpdienst  : Brandweer
+      Roepnummer  : 460003
+      Kenteken    : 1-WXX-116
+      Adres       : Aalst
+      Hulpdienst  : Brandweer
+      Roepnummer  : 460003
+      Kenteken    : 1-WXX-116
 
   >> 'RIB'  (91x)
       Adres       : R1 Leopold

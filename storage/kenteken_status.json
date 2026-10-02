@@ -2348,19 +2348,6 @@
     "last_tenaamstelling_check_date": "2026-09-27",
     "aantal_zitplaatsen": null
   },
-  "VV-53-DH": {
-    "expiry": "2027-01-29",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "01-3942"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2025-01-30",
-    "last_tenaamstelling_check_date": "2026-09-27",
-    "aantal_zitplaatsen": null
-  },
   "BG-RH-64": {
     "expiry": "2026-11-11",
     "checked": true,
@@ -106387,6 +106374,19 @@
     "last_check_date": "2026-10-02",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2022-12-29",
+    "last_tenaamstelling_check_date": "2026-10-02",
+    "aantal_zitplaatsen": "4"
+  },
+  "BD-695-P": {
+    "expiry": "2009-11-26",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "01-3942"
+    ],
+    "last_check_date": "2026-10-02",
+    "last_expired_notification_date": "2026-10-02",
+    "datum_tenaamstelling_dt": "2026-07-16",
     "last_tenaamstelling_check_date": "2026-10-02",
     "aantal_zitplaatsen": "4"
   }
