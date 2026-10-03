@@ -76,10 +76,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,817  (of 10,169 total)
+  Records checked : 6,812  (of 10,164 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  545 value(s) affected
+  Duplicate Roepnummer  --  544 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -1803,16 +1803,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : B61
       Kenteken    : 
-
-  >> 'B611'  (2x)
-      Adres       : Amel
-      Hulpdienst  : Brandweer
-      Roepnummer  : B611
-      Kenteken    : 2-DAE-161
-      Adres       : Amel
-      Hulpdienst  : Brandweer
-      Roepnummer  : B611
-      Kenteken    : 1-KCR-551
 
   >> 'B62'  (2x)
       Adres       : Bilzen-Hoeselt
@@ -7553,8 +7543,18 @@
       Kenteken    : 
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  3 value(s) affected
+  Duplicate Kenteken  --  4 value(s) affected
 --------------------------------------------------------------------------------
+
+  >> '1-NLX-139'  (2x)
+      Adres       : Aalter
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : 1-NLX-139
+      Adres       : Aalter
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : 1-NLX-139
 
   >> '1-NPS-154'  (2x)
       Adres       : Kortemark
