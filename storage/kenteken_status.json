@@ -106338,19 +106338,6 @@
     "last_tenaamstelling_check_date": "2026-10-02",
     "aantal_zitplaatsen": "5"
   },
-  "KLS-62-V": {
-    "expiry": "2030-05-19",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "DA0002"
-    ],
-    "last_check_date": "2026-10-02",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-09-11",
-    "last_tenaamstelling_check_date": "2026-10-02",
-    "aantal_zitplaatsen": "5"
-  },
   "BD-446-K": {
     "expiry": "2027-05-05",
     "checked": true,
@@ -106441,5 +106428,18 @@
     "datum_tenaamstelling_dt": "2025-07-25",
     "last_tenaamstelling_check_date": "2026-10-03",
     "aantal_zitplaatsen": "2"
+  },
+  "KLS-62-F": {
+    "expiry": "2030-06-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "DA0002"
+    ],
+    "last_check_date": "2026-10-03",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-06-30",
+    "last_tenaamstelling_check_date": "2026-10-03",
+    "aantal_zitplaatsen": "5"
   }
 }

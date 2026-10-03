@@ -22304,27 +22304,6 @@
     "technisch_toegestane_maximum_aslast": "770"
   },
   {
-    "kenteken": "42BNT9",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "wettelijk_toegestane_maximum_aslast": "4000",
-    "technisch_toegestane_maximum_aslast": "4000"
-  },
-  {
-    "kenteken": "42BNT9",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "weggedrag_code": "G",
-    "wettelijk_toegestane_maximum_aslast": "6800",
-    "technisch_toegestane_maximum_aslast": "6800"
-  },
-  {
     "kenteken": "42BBH7",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -22455,6 +22434,27 @@
     "weggedrag_code": "A",
     "wettelijk_toegestane_maximum_aslast": "11500",
     "technisch_toegestane_maximum_aslast": "13000"
+  },
+  {
+    "kenteken": "42BNT9",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "4000",
+    "technisch_toegestane_maximum_aslast": "4000"
+  },
+  {
+    "kenteken": "42BNT9",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "6800",
+    "technisch_toegestane_maximum_aslast": "6800"
   },
   {
     "kenteken": "42BPL4",
@@ -107675,25 +107675,25 @@
     "technisch_toegestane_maximum_aslast": "2430"
   },
   {
-    "kenteken": "KLS62V",
+    "kenteken": "KLS62F",
     "as_nummer": "1",
     "aantal_assen": "2",
-    "aangedreven_as": "J",
+    "aangedreven_as": "N",
     "plaatscode_as": "V",
-    "spoorbreedte": "168",
-    "wettelijk_toegestane_maximum_aslast": "1320",
-    "technisch_toegestane_maximum_aslast": "1320",
-    "afstand_tot_volgende_as_voertuig": "287"
+    "spoorbreedte": "154",
+    "wettelijk_toegestane_maximum_aslast": "1070",
+    "technisch_toegestane_maximum_aslast": "1070",
+    "afstand_tot_volgende_as_voertuig": "277"
   },
   {
-    "kenteken": "KLS62V",
+    "kenteken": "KLS62F",
     "as_nummer": "2",
     "aantal_assen": "2",
     "aangedreven_as": "J",
     "plaatscode_as": "A",
-    "spoorbreedte": "168",
-    "wettelijk_toegestane_maximum_aslast": "1420",
-    "technisch_toegestane_maximum_aslast": "1420"
+    "spoorbreedte": "151",
+    "wettelijk_toegestane_maximum_aslast": "1260",
+    "technisch_toegestane_maximum_aslast": "1260"
   },
   {
     "kenteken": "KLT09Z",

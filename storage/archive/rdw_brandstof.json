@@ -2571,5 +2571,29 @@
     "emissie_co2_gecombineerd_wltp": "136",
     "brandstof_verbruik_gecombineerd_wltp": "6.000",
     "uitlaatemissieniveau": "EURO 6 AP"
+  },
+  {
+    "kenteken": "KLS62V",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_stationair": "72",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EB",
+    "nettomaximumvermogen": "186.00",
+    "toerental_geluidsniveau": "3750",
+    "emis_co2_gewogen_gecombineerd_wltp": "71",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EB"
+  },
+  {
+    "kenteken": "KLS62V",
+    "brandstof_volgnummer": "2",
+    "brandstof_omschrijving": "Elektriciteit",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EB",
+    "nominaal_continu_maximumvermogen": "99.00",
+    "netto_max_vermogen_elektrisch": "107.00",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EB"
   }
 ]
