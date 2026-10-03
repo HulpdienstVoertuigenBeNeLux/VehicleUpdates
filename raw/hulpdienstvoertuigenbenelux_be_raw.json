@@ -19969,18 +19969,6 @@
   },
   {
     "Adres": "Asse",
-    "Roepnummer": "L16",
-    "Afkorting": "LW 32",
-    "TypeVoertuig": "Ladderwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Vlaams-Brabant Zone - West",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Asse",
     "Roepnummer": "L1",
     "Afkorting": "LW",
     "TypeVoertuig": "Ladderwagen",
@@ -19993,46 +19981,22 @@
   },
   {
     "Adres": "Asse",
+    "Roepnummer": "L16",
+    "Afkorting": "ELV",
+    "TypeVoertuig": "Elevator",
+    "Kenteken": "1-JRP-581",
+    "Bijzonderheden": "Lengte: 30 meter.",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Asse",
     "Roepnummer": "M3",
     "Afkorting": "HV",
     "TypeVoertuig": "Hulpverleningsvoertuig",
     "Kenteken": "1-JRP-537",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Vlaams-Brabant Zone - West",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Asse",
-    "Roepnummer": "M9",
-    "Afkorting": "HV",
-    "TypeVoertuig": "Hulpverleningsvoertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Vlaams-Brabant Zone - West",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Asse",
-    "Roepnummer": "M10",
-    "Afkorting": "HV",
-    "TypeVoertuig": "Hulpverleningsvoertuig",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Vlaams-Brabant Zone - West",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Asse",
-    "Roepnummer": "I20",
-    "Afkorting": "PM",
-    "TypeVoertuig": "Personeel / Materiaal Voertuig",
-    "Kenteken": "",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
@@ -20065,6 +20029,18 @@
   },
   {
     "Adres": "Asse",
+    "Roepnummer": "I20",
+    "Afkorting": "PM",
+    "TypeVoertuig": "Personeel / Materiaal Voertuig",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Asse",
     "Roepnummer": "S7",
     "Afkorting": "SIG",
     "TypeVoertuig": "Signalisatievoertuig",
@@ -20077,10 +20053,10 @@
   },
   {
     "Adres": "Asse",
-    "Roepnummer": "C21",
-    "Afkorting": "CP-OPS",
-    "TypeVoertuig": "Commandowagen",
-    "Kenteken": "1-JPC-461",
+    "Roepnummer": "C4",
+    "Afkorting": "CO",
+    "TypeVoertuig": "Commandovoertuig",
+    "Kenteken": "2-BON-119",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
@@ -20089,10 +20065,10 @@
   },
   {
     "Adres": "Asse",
-    "Roepnummer": "C35",
-    "Afkorting": "CO",
-    "TypeVoertuig": "Commandovoertuig",
-    "Kenteken": "",
+    "Roepnummer": "C21",
+    "Afkorting": "CP-OPS",
+    "TypeVoertuig": "Commandowagen",
+    "Kenteken": "1-JPC-461",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
@@ -20125,18 +20101,6 @@
   },
   {
     "Adres": "Asse",
-    "Roepnummer": "C4",
-    "Afkorting": "CO",
-    "TypeVoertuig": "Commandovoertuig",
-    "Kenteken": "2-BON-119",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "Vlaams-Brabant Zone - West",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Asse",
     "Roepnummer": "AW3",
     "Afkorting": "IGS-CMIA",
     "TypeVoertuig": "IGS -CMIC / Milieu Aanhanger",
@@ -20157,6 +20121,18 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "EGA",
+    "TypeVoertuig": "Elektrogeengroep Aanhanger",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "",
+    "Regio": "",
     "Interne opmerking": ""
   },
   {
@@ -70944,30 +70920,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ziekenwagen Brakel",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Brakel",
-    "Roepnummer": "BRAKEL",
-    "Afkorting": "ZW",
-    "TypeVoertuig": "Ziekenwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "(Team: AOBRAK01A)",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Ziekenwagen Maas en Kempen Maaseik",
     "Roepnummer": "",
     "Afkorting": "",
@@ -70992,6 +70944,30 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Ziekenwagen Brakel",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Brakel",
+    "Roepnummer": "BRAKEL",
+    "Afkorting": "ZW",
+    "TypeVoertuig": "Ziekenwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "(Team: AOBRAK01A)",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Ziekenwagen Peer",
     "Roepnummer": "",
     "Afkorting": "",
@@ -71013,30 +70989,6 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "Limburg Zone - Noord",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Ziekenwagen Hamme",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "Oost-Vlaanderen Zone - Oost",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Hamme",
-    "Roepnummer": "HAMME",
-    "Afkorting": "ZW",
-    "TypeVoertuig": "Ziekenwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "(Team: AOHAMM01A)",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "Oost-Vlaanderen Zone - Oost",
     "Interne opmerking": ""
   },
   {
@@ -71073,6 +71025,30 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "Limburg Zone - Noord",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Ziekenwagen Hamme",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "Oost-Vlaanderen Zone - Oost",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Hamme",
+    "Roepnummer": "HAMME",
+    "Afkorting": "ZW",
+    "TypeVoertuig": "Ziekenwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "(Team: AOHAMM01A)",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "Oost-Vlaanderen Zone - Oost",
     "Interne opmerking": ""
   },
   {
@@ -71508,30 +71484,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ziekenwagen St Vincentius Deinze",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "Oost-Vlaanderen Zone - Centrum",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Deinze",
-    "Roepnummer": "DEINZE",
-    "Afkorting": "PIT",
-    "TypeVoertuig": "Paramedisch Interventie Team",
-    "Kenteken": "",
-    "Bijzonderheden": "(Team: PODEIN01A)",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "Oost-Vlaanderen Zone - Centrum",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Ziekenwagen Lochristi",
     "Roepnummer": "",
     "Afkorting": "",
@@ -71550,6 +71502,30 @@
     "TypeVoertuig": "Ziekenwagen",
     "Kenteken": "",
     "Bijzonderheden": "(Team: AOLOCH03A)",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "Oost-Vlaanderen Zone - Centrum",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Ziekenwagen St Vincentius Deinze",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "Oost-Vlaanderen Zone - Centrum",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Deinze",
+    "Roepnummer": "DEINZE",
+    "Afkorting": "PIT",
+    "TypeVoertuig": "Paramedisch Interventie Team",
+    "Kenteken": "",
+    "Bijzonderheden": "(Team: PODEIN01A)",
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "Oost-Vlaanderen Zone - Centrum",
@@ -71892,30 +71868,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ziekenwagen Stekene",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "Oost-Vlaanderen Zone - Waasland",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Stekene",
-    "Roepnummer": "STEKENE",
-    "Afkorting": "ZW",
-    "TypeVoertuig": "Ziekenwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "(Team: AOSTEK01A)",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "Oost-Vlaanderen Zone - Waasland",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Ziekenwagen Vitaz Campus Lokeren",
     "Roepnummer": "",
     "Afkorting": "",
@@ -71949,6 +71901,30 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "Oost-Vlaanderen Zone - Oost",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Ziekenwagen Stekene",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "Oost-Vlaanderen Zone - Waasland",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Stekene",
+    "Roepnummer": "STEKENE",
+    "Afkorting": "ZW",
+    "TypeVoertuig": "Ziekenwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "(Team: AOSTEK01A)",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "Oost-Vlaanderen Zone - Waasland",
     "Interne opmerking": ""
   },
   {
@@ -72036,42 +72012,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ziekenwagen Sint-Lucas Gent",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "Oost-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Gent",
-    "Roepnummer": "GENT 2 SL",
-    "Afkorting": "PIT",
-    "TypeVoertuig": "Paramedisch Interventie Team",
-    "Kenteken": "",
-    "Bijzonderheden": "(Team: POGENT02B)",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "Oost-Vlaanderen Zone - Centrum",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Gent",
-    "Roepnummer": "202000",
-    "Afkorting": "MUG",
-    "TypeVoertuig": "Mobiele Urgentie Groep",
-    "Kenteken": "",
-    "Bijzonderheden": "Wisselende dienst met de andere 202000",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "Oost-Vlaanderen Zone - Centrum",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Ziekenwagen Wichelen",
     "Roepnummer": "",
     "Afkorting": "",
@@ -72096,7 +72036,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Ziekenwagen Jan Palfijn Gent",
+    "Adres": "Ziekenwagen Sint-Lucas Gent",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -72109,11 +72049,11 @@
   },
   {
     "Adres": "Gent",
-    "Roepnummer": "GENT 2  JP",
+    "Roepnummer": "GENT 2 SL",
     "Afkorting": "PIT",
     "TypeVoertuig": "Paramedisch Interventie Team",
     "Kenteken": "",
-    "Bijzonderheden": "(Team: POGENT02C)",
+    "Bijzonderheden": "(Team: POGENT02B)",
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "Oost-Vlaanderen Zone - Centrum",
@@ -72165,6 +72105,42 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Ziekenwagen Jan Palfijn Gent",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "Oost-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Gent",
+    "Roepnummer": "GENT 2  JP",
+    "Afkorting": "PIT",
+    "TypeVoertuig": "Paramedisch Interventie Team",
+    "Kenteken": "",
+    "Bijzonderheden": "(Team: POGENT02C)",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "Oost-Vlaanderen Zone - Centrum",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Gent",
+    "Roepnummer": "202000",
+    "Afkorting": "MUG",
+    "TypeVoertuig": "Mobiele Urgentie Groep",
+    "Kenteken": "",
+    "Bijzonderheden": "Wisselende dienst met de andere 202000",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "Oost-Vlaanderen Zone - Centrum",
     "Interne opmerking": ""
   },
   {
@@ -82200,42 +82176,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "5416 PZ Regio Puyenbroeck",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Politie",
-    "Regio": "Oost-Vlaanderen Zone - Centrum",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Lochristi",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Politie",
-    "Regio": "Oost-Vlaanderen Zone - Centrum",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Zelzate",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Politie",
-    "Regio": "Oost-Vlaanderen Zone - Centrum",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "5412 PZ KASTZE",
     "Roepnummer": "",
     "Afkorting": "",
@@ -82272,7 +82212,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "5417 PZ Meetjesland-Centrum",
+    "Adres": "5416 PZ Regio Puyenbroeck",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -82280,43 +82220,31 @@
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Politie",
-    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+    "Regio": "Oost-Vlaanderen Zone - Centrum",
     "Interne opmerking": ""
   },
   {
     "Adres": "",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Eeklo",
+    "TypeVoertuig": "Lochristi",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Politie",
-    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+    "Regio": "Oost-Vlaanderen Zone - Centrum",
     "Interne opmerking": ""
   },
   {
     "Adres": "",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Kaprijke",
+    "TypeVoertuig": "Zelzate",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Politie",
-    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Sint-Laureins",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Politie",
-    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+    "Regio": "Oost-Vlaanderen Zone - Centrum",
     "Interne opmerking": ""
   },
   {
@@ -82377,6 +82305,54 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Politie",
     "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "5417 PZ Meetjesland-Centrum",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Eeklo",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Kaprijke",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Sint-Laureins",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
     "Interne opmerking": ""
   },
   {
@@ -92316,6 +92292,30 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Sint-Andriesziekenhuis",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "West-Vlaanderen Zone - Midwest",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Sint-Andriesziekenhuis",
+    "Kenteken": "Bruggestraat 84, 8700 Tielt, België",
+    "Bijzonderheden": "287 Bedden",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "West-Vlaanderen Zone - Midwest",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Algemeen Ziekenhuis Sint-Blasius",
     "Roepnummer": "",
     "Afkorting": "",
@@ -92352,7 +92352,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Sint-Andriesziekenhuis",
+    "Adres": "Kliniek Sint-Jozef",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -92367,9 +92367,9 @@
     "Adres": "",
     "Roepnummer": "",
     "Afkorting": "",
-    "TypeVoertuig": "Sint-Andriesziekenhuis",
-    "Kenteken": "Bruggestraat 84, 8700 Tielt, België",
-    "Bijzonderheden": "287 Bedden",
+    "TypeVoertuig": "Kliniek Sint-Jozef",
+    "Kenteken": "Boterstraat 6, 8740 Pittem, België",
+    "Bijzonderheden": "197 Bedden",
     "Extra Afkortingen": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "West-Vlaanderen Zone - Midwest",
@@ -92424,30 +92424,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Kliniek Sint-Jozef",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "West-Vlaanderen Zone - Midwest",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Kliniek Sint-Jozef",
-    "Kenteken": "Boterstraat 6, 8740 Pittem, België",
-    "Bijzonderheden": "197 Bedden",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "West-Vlaanderen Zone - Midwest",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Algemeen Ziekenhuis Delta",
     "Roepnummer": "",
     "Afkorting": "",
@@ -92490,6 +92466,42 @@
     "TypeVoertuig": "Sint-Jozefskliniek",
     "Kenteken": "Ommegangstraat 7, 8870 Izegem, België",
     "Bijzonderheden": "271 Bedden",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "West-Vlaanderen Zone - Fluvia",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Algemeen Ziekenhuis Groeninge",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "West-Vlaanderen Zone - Fluvia",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Campus Reepkaai",
+    "Kenteken": "Reepkaai 4, 8500 Kortrijk, België",
+    "Bijzonderheden": "100 Bedden",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "West-Vlaanderen Zone - Fluvia",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Campus Kennedylaan",
+    "Kenteken": "President Kennedylaan 4, 8500 Kortrijk, België",
+    "Bijzonderheden": "946 Bedden",
     "Extra Afkortingen": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "West-Vlaanderen Zone - Fluvia",
@@ -92565,42 +92577,6 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Algemeen Ziekenhuis Groeninge",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "West-Vlaanderen Zone - Fluvia",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Campus Reepkaai",
-    "Kenteken": "Reepkaai 4, 8500 Kortrijk, België",
-    "Bijzonderheden": "100 Bedden",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "West-Vlaanderen Zone - Fluvia",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Campus Kennedylaan",
-    "Kenteken": "President Kennedylaan 4, 8500 Kortrijk, België",
-    "Bijzonderheden": "946 Bedden",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "West-Vlaanderen Zone - Fluvia",
     "Interne opmerking": ""
   },
   {
@@ -95364,30 +95340,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Centre Hospitalier Chrétien",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "Luik Zone - IILE-SRI",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Clinique MontLégia",
-    "Kenteken": "Boulevard Patience et Beaujonc 2, 4000 Liège, Belg",
-    "Bijzonderheden": "694 Bedden",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "Luik Zone - IILE-SRI",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "CHU UCLouvain Namur",
     "Roepnummer": "",
     "Afkorting": "",
@@ -95409,6 +95361,30 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "Namen Zone - Dinaphi",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Centre Hospitalier Chrétien",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "Luik Zone - IILE-SRI",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Clinique MontLégia",
+    "Kenteken": "Boulevard Patience et Beaujonc 2, 4000 Liège, Belg",
+    "Bijzonderheden": "694 Bedden",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "Luik Zone - IILE-SRI",
     "Interne opmerking": ""
   },
   {
@@ -95652,30 +95628,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Centre Hospitalier Universitaire de Liège",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Centre Neurologique et de Réadaptation Fonctionnelle",
-    "Kenteken": "Rue Chp des Alouettes 30, 4557 Tinlot, België",
-    "Bijzonderheden": "120 Bedden",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ziekenhuizen",
-    "Regio": "Luik",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Centre Hospitalier Chrétien",
     "Roepnummer": "",
     "Afkorting": "",
@@ -95697,6 +95649,30 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ziekenhuizen",
     "Regio": "Luik Zone - Vesdre-Hoëgne & Plateau",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Centre Hospitalier Universitaire de Liège",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Centre Neurologique et de Réadaptation Fonctionnelle",
+    "Kenteken": "Rue Chp des Alouettes 30, 4557 Tinlot, België",
+    "Bijzonderheden": "120 Bedden",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ziekenhuizen",
+    "Regio": "Luik",
     "Interne opmerking": ""
   },
   {
@@ -97416,30 +97392,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Provincial House De La Formation",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Academies",
-    "Regio": "Luik Zone - IILE-SRI",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "Rue Cockerill 101, 4100 Seraing, België",
-    "Kenteken": "",
-    "Bijzonderheden": "Politie",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Academies",
-    "Regio": "Luik Zone - IILE-SRI",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "WOBRA",
     "Roepnummer": "",
     "Afkorting": "",
@@ -97461,6 +97413,30 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Academies",
     "Regio": "West-Vlaanderen Zone - 1",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Provincial House De La Formation",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Academies",
+    "Regio": "Luik Zone - IILE-SRI",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "Rue Cockerill 101, 4100 Seraing, België",
+    "Kenteken": "",
+    "Bijzonderheden": "Politie",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Academies",
+    "Regio": "Luik Zone - IILE-SRI",
     "Interne opmerking": ""
   },
   {
@@ -101712,42 +101688,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "EIFEL - Abschleppdienst LEYENS WILLY, Bahnhofstraße 61, 4750 Bütgenbach",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Luik Zone - DG",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Bütgenbach",
-    "Roepnummer": "",
-    "Afkorting": "IM Berger",
-    "TypeVoertuig": "Plateauwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Luik Zone - DG",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Bütgenbach",
-    "Roepnummer": "",
-    "Afkorting": "IM Berger",
-    "TypeVoertuig": "Plateauwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "met kraan",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Luik Zone - DG",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "DA.CAR, Rue du Rupel 1, 1000 Bruxelles",
     "Roepnummer": "",
     "Afkorting": "",
@@ -102009,6 +101949,42 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Bergingsbedrijf",
     "Regio": "Brussel Zone - Brussel",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "EIFEL - Abschleppdienst LEYENS WILLY, Bahnhofstraße 61, 4750 Bütgenbach",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Luik Zone - DG",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Bütgenbach",
+    "Roepnummer": "",
+    "Afkorting": "IM Berger",
+    "TypeVoertuig": "Plateauwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Luik Zone - DG",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Bütgenbach",
+    "Roepnummer": "",
+    "Afkorting": "IM Berger",
+    "TypeVoertuig": "Plateauwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "met kraan",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Luik Zone - DG",
     "Interne opmerking": ""
   },
   {
@@ -102432,6 +102408,42 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Garage - DEPANNAGE E42 GILS LUDWIG, Luxemburger Strasse 85A 4780 Sankt Vith",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Luik Zone - DG",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sankt Vith",
+    "Roepnummer": "",
+    "Afkorting": "IM Berger",
+    "TypeVoertuig": "Plateauwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Luik Zone - DG",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Sankt Vith",
+    "Roepnummer": "",
+    "Afkorting": "IM Berger",
+    "TypeVoertuig": "Plateauwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "met kraan",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Luik Zone - DG",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "DEPANN'ANS,  rue Général Leman, 71B 4430 Ans",
     "Roepnummer": "",
     "Afkorting": "",
@@ -102513,42 +102525,6 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Bergingsbedrijf",
     "Regio": "Luik Zone - IILE-SRI",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Garage - DEPANNAGE E42 GILS LUDWIG, Luxemburger Strasse 85A 4780 Sankt Vith",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Luik Zone - DG",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Sankt Vith",
-    "Roepnummer": "",
-    "Afkorting": "IM Berger",
-    "TypeVoertuig": "Plateauwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Luik Zone - DG",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Sankt Vith",
-    "Roepnummer": "",
-    "Afkorting": "IM Berger",
-    "TypeVoertuig": "Plateauwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "met kraan",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Luik Zone - DG",
     "Interne opmerking": ""
   },
   {
@@ -111072,30 +111048,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "CARROSSERIE DE SLOOVER Nevelestraat 71 9880 Aalter (Lotenhulle)",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Aalter",
-    "Roepnummer": "",
-    "Afkorting": "IM Berger",
-    "TypeVoertuig": "Plateauwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "met kraan",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "SPRL FLASH SERVICE, Chau. de Namur 97, 1400 Nivelles",
     "Roepnummer": "",
     "Afkorting": "",
@@ -111153,6 +111105,30 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Bergingsbedrijf",
     "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "CARROSSERIE DE SLOOVER Nevelestraat 71 9880 Aalter (Lotenhulle)",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Aalter",
+    "Roepnummer": "",
+    "Afkorting": "IM Berger",
+    "TypeVoertuig": "Plateauwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "met kraan",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
     "Interne opmerking": ""
   },
   {
@@ -111324,42 +111300,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "VAN DE VOORDE MARC, Rijkestraat 50 A 9968 Oost-Eeklo",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Oost-Eeklo",
-    "Roepnummer": "",
-    "Afkorting": "IM Berger",
-    "TypeVoertuig": "Plateauwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Oost-Eeklo",
-    "Roepnummer": "",
-    "Afkorting": "IM Berger",
-    "TypeVoertuig": "Plateauwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "met kraan",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "VERCAUTEREN Etienne en zonen, Vossekotstraat 1 9100 Sint-Niklaas",
     "Roepnummer": "",
     "Afkorting": "",
@@ -111453,6 +111393,42 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Bergingsbedrijf",
     "Regio": "Oost-Vlaanderen Zone - Waasland",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "VAN DE VOORDE MARC, Rijkestraat 50 A 9968 Oost-Eeklo",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Oost-Eeklo",
+    "Roepnummer": "",
+    "Afkorting": "IM Berger",
+    "TypeVoertuig": "Plateauwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Oost-Eeklo",
+    "Roepnummer": "",
+    "Afkorting": "IM Berger",
+    "TypeVoertuig": "Plateauwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "met kraan",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Oost-Vlaanderen Zone - Meetjesland",
     "Interne opmerking": ""
   },
   {
@@ -112260,30 +112236,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "BVBA Van Der Eecken, Brusselbaan 200 9320 Erembodegem",
-    "Roepnummer": "",
-    "Afkorting": "",
-    "TypeVoertuig": "",
-    "Kenteken": "",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Erembodegem",
-    "Roepnummer": "",
-    "Afkorting": "IM Berger",
-    "TypeVoertuig": "Plateauwagen",
-    "Kenteken": "",
-    "Bijzonderheden": "met kraan",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Bergingsbedrijf",
-    "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "Garage Ben De Zutter, Hospitaalstraat 87 9940 Ertvelde",
     "Roepnummer": "",
     "Afkorting": "",
@@ -112305,6 +112257,30 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Bergingsbedrijf",
     "Regio": "Oost-Vlaanderen Zone - Centrum",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "BVBA Van Der Eecken, Brusselbaan 200 9320 Erembodegem",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Erembodegem",
+    "Roepnummer": "",
+    "Afkorting": "IM Berger",
+    "TypeVoertuig": "Plateauwagen",
+    "Kenteken": "",
+    "Bijzonderheden": "met kraan",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Bergingsbedrijf",
+    "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
     "Interne opmerking": ""
   },
   {

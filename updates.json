@@ -451,6 +451,20 @@
         "Regio": "West-Vlaanderen Zone - Fluvia",
         "Description": "A301 HZA verwijderd van Belgiek",
         "Time": "03-10-2026 20:00:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "M9 HV verwijderd van Asse",
+        "Time": "03-10-2026 21:00:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "M10 HV verwijderd van Asse",
+        "Time": "03-10-2026 21:00:24"
       }
     ],
     "changed": [
@@ -1111,6 +1125,41 @@
         "Regio": "Luik Zone - DG",
         "Description": "'VP622' omgenummerd naar ''",
         "Time": "03-10-2026 20:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "36-0389: Kenteken van '8-YB-822' naar '9-YH-542' aangepast",
+        "Time": "03-10-2026 21:00:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "L16: Afkorting van 'LW 32' naar 'ELV' aangepast",
+        "Time": "03-10-2026 21:00:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "L16: TypeVoertuig van 'Ladderwagen' naar 'Elevator' aangepast",
+        "Time": "03-10-2026 21:00:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "L16: Kenteken van '' naar '1-JRP-581' aangepast",
+        "Time": "03-10-2026 21:00:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "L16: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "03-10-2026 21:00:24"
       }
     ]
   },
