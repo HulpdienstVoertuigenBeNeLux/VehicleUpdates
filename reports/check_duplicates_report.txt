@@ -76,10 +76,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,817  (of 10,169 total)
+  Records checked : 6,814  (of 10,166 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  543 value(s) affected
+  Duplicate Roepnummer  --  549 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -958,6 +958,16 @@
       Roepnummer  : A2
       Kenteken    : 
 
+  >> 'A201'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A201
+      Kenteken    : 
+      Adres       : Arlon
+      Hulpdienst  : Ambulance
+      Roepnummer  : A201
+      Kenteken    : 1-SDS-390
+
   >> 'A21'  (4x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
@@ -1094,7 +1104,7 @@
       Roepnummer  : A30
       Kenteken    : 
 
-  >> 'A301'  (2x)
+  >> 'A301'  (3x)
       Adres       : Oostende
       Hulpdienst  : Brandweer
       Roepnummer  : A301
@@ -1103,6 +1113,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A301
       Kenteken    : 1-JKU-456
+      Adres       : Arlon
+      Hulpdienst  : Ambulance
+      Roepnummer  : A301
+      Kenteken    : 1-YKT-964
 
   >> 'A302'  (2x)
       Adres       : Oostende
@@ -1572,6 +1586,16 @@
       Roepnummer  : B10
       Kenteken    : 
 
+  >> 'B101'  (2x)
+      Adres       : Hannut
+      Hulpdienst  : Brandweer
+      Roepnummer  : B101
+      Kenteken    : 
+      Adres       : Arlon
+      Hulpdienst  : Brandweer
+      Roepnummer  : B101
+      Kenteken    : 1-KNZ-232
+
   >> 'B102'  (2x)
       Adres       : Waremme
       Hulpdienst  : Brandweer
@@ -1808,6 +1832,16 @@
       Roepnummer  : B61
       Kenteken    : 
 
+  >> 'B611'  (2x)
+      Adres       : Amel
+      Hulpdienst  : Brandweer
+      Roepnummer  : B611
+      Kenteken    : 2-DAE-161
+      Adres       : Amel
+      Hulpdienst  : Brandweer
+      Roepnummer  : B611
+      Kenteken    : 1-KCR-551
+
   >> 'B62'  (2x)
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
@@ -1878,7 +1912,7 @@
       Adres       : Ardooie
       Hulpdienst  : Brandweer
       Roepnummer  : BE1
-      Kenteken    : 
+      Kenteken    : 1-JXD-033
       Adres       : Gits
       Hulpdienst  : Brandweer
       Roepnummer  : BE1
@@ -2156,16 +2190,12 @@
       Roepnummer  : C10
       Kenteken    : 
 
-  >> 'C101'  (3x)
+  >> 'C101'  (2x)
       Adres       : Oostende
       Hulpdienst  : Brandweer
       Roepnummer  : C101
       Kenteken    : 1-KAR-902
       Adres       : Hannut
-      Hulpdienst  : Brandweer
-      Roepnummer  : C101
-      Kenteken    : 
-      Adres       : Arlon
       Hulpdienst  : Brandweer
       Roepnummer  : C101
       Kenteken    : 
@@ -2424,6 +2454,16 @@
       Roepnummer  : C2
       Kenteken    : 
 
+  >> 'C201'  (2x)
+      Adres       : Liège
+      Hulpdienst  : Brandweer
+      Roepnummer  : C201
+      Kenteken    : 
+      Adres       : Arlon
+      Hulpdienst  : Brandweer
+      Roepnummer  : C201
+      Kenteken    : 1-KGF-071
+
   >> 'C21'  (8x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
@@ -2433,10 +2473,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C21
       Kenteken    : 
-      Adres       : Zaventem
+      Adres       : Asse
       Hulpdienst  : Brandweer
       Roepnummer  : C21
-      Kenteken    : 
+      Kenteken    : 1-JPC-461
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C21
@@ -2551,6 +2591,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C30
       Kenteken    : 
+
+  >> 'C301'  (2x)
+      Adres       : Hamoir
+      Hulpdienst  : Brandweer
+      Roepnummer  : C301
+      Kenteken    : 
+      Adres       : Arlon
+      Hulpdienst  : Brandweer
+      Roepnummer  : C301
+      Kenteken    : 2-FEZ-745
 
   >> 'C302'  (3x)
       Adres       : Kortrijk
@@ -2668,7 +2718,7 @@
       Adres       : Asse
       Hulpdienst  : Brandweer
       Roepnummer  : C4
-      Kenteken    : 
+      Kenteken    : 2-BON-119
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C4
@@ -2766,7 +2816,7 @@
       Adres       : Asse
       Hulpdienst  : Brandweer
       Roepnummer  : C45
-      Kenteken    : 
+      Kenteken    : 1-SPY-554
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C45
@@ -2776,7 +2826,7 @@
       Adres       : Asse
       Hulpdienst  : Brandweer
       Roepnummer  : C46
-      Kenteken    : 
+      Kenteken    : 1-SPY-627
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C46
@@ -3050,7 +3100,7 @@
       Adres       : Ardooie
       Hulpdienst  : Brandweer
       Roepnummer  : CW1
-      Kenteken    : 
+      Kenteken    : 1-JTA-813
       Adres       : Hooglede
       Hulpdienst  : Brandweer
       Roepnummer  : CW1
@@ -3132,16 +3182,12 @@
       Roepnummer  : D1
       Kenteken    : 
 
-  >> 'D101'  (3x)
+  >> 'D101'  (2x)
       Adres       : Brugge
       Hulpdienst  : Brandweer
       Roepnummer  : D101
       Kenteken    : 
       Adres       : Hannut
-      Hulpdienst  : Brandweer
-      Roepnummer  : D101
-      Kenteken    : 
-      Adres       : Arlon
       Hulpdienst  : Brandweer
       Roepnummer  : D101
       Kenteken    : 
@@ -3172,6 +3218,16 @@
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : D11
+      Kenteken    : 
+
+  >> 'D121'  (2x)
+      Adres       : Arlon
+      Hulpdienst  : Brandweer
+      Roepnummer  : D121
+      Kenteken    : 2-GXM-950
+      Adres       : Etalle
+      Hulpdienst  : Brandweer
+      Roepnummer  : D121
       Kenteken    : 
 
   >> 'D2'  (2x)
@@ -3526,7 +3582,7 @@
       Adres       : Arlon
       Hulpdienst  : Brandweer
       Roepnummer  : E301
-      Kenteken    : 
+      Kenteken    : 1-SSF-887
 
   >> 'E302'  (2x)
       Adres       : Menen
@@ -3826,7 +3882,7 @@
       Adres       : Ardooie
       Hulpdienst  : Brandweer
       Roepnummer  : HA1
-      Kenteken    : 
+      Kenteken    : 1-JTH-811
       Adres       : Roeselare
       Hulpdienst  : Brandweer
       Roepnummer  : HA1
@@ -4010,7 +4066,7 @@
       Adres       : Arlon
       Hulpdienst  : Brandweer
       Roepnummer  : L101
-      Kenteken    : 
+      Kenteken    : 1-KKR-701
 
   >> 'L102'  (3x)
       Adres       : Knokke-Heist
@@ -5120,6 +5176,16 @@
       Roepnummer  : P206
       Kenteken    : 
 
+  >> 'P207'  (2x)
+      Adres       : Liège
+      Hulpdienst  : Brandweer
+      Roepnummer  : P207
+      Kenteken    : 1-FYP-496
+      Adres       : Etalle
+      Hulpdienst  : Brandweer
+      Roepnummer  : P207
+      Kenteken    : 
+
   >> 'P209'  (2x)
       Adres       : Grivegnée
       Hulpdienst  : Brandweer
@@ -5280,11 +5346,21 @@
       Roepnummer  : P36
       Kenteken    : 
 
+  >> 'P37'  (2x)
+      Adres       : Asse
+      Hulpdienst  : Brandweer
+      Roepnummer  : P37
+      Kenteken    : 2-DTD-143
+      Adres       : UCL
+      Hulpdienst  : Brandweer
+      Roepnummer  : P37
+      Kenteken    : 
+
   >> 'P4'  (3x)
       Adres       : Asse
       Hulpdienst  : Brandweer
       Roepnummer  : P4
-      Kenteken    : 
+      Kenteken    : 1-JRP-595
       Adres       : VUB
       Hulpdienst  : Brandweer
       Roepnummer  : P4
@@ -5432,11 +5508,7 @@
       Roepnummer  : P7
       Kenteken    : 
 
-  >> 'P8'  (3x)
-      Adres       : Asse
-      Hulpdienst  : Brandweer
-      Roepnummer  : P8
-      Kenteken    : 
+  >> 'P8'  (2x)
       Adres       : Anderlecht
       Hulpdienst  : Brandweer
       Roepnummer  : P8
@@ -5752,11 +5824,15 @@
       Roepnummer  : R52
       Kenteken    : 
 
-  >> 'R521'  (2x)
+  >> 'R521'  (3x)
       Adres       : Geel
       Hulpdienst  : Brandweer
       Roepnummer  : R521
       Kenteken    : 
+      Adres       : Arlon
+      Hulpdienst  : Brandweer
+      Roepnummer  : R521
+      Kenteken    : 1-LST-543
       Adres       : Erezée
       Hulpdienst  : Brandweer
       Roepnummer  : R521
@@ -5962,16 +6038,6 @@
       Adres       : Heule
       Hulpdienst  : Brandweer
       Roepnummer  : S17
-      Kenteken    : 
-
-  >> 'S18'  (2x)
-      Adres       : Hasselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : S18
-      Kenteken    : 
-      Adres       : Dilbeek
-      Hulpdienst  : Brandweer
-      Roepnummer  : S18
       Kenteken    : 
 
   >> 'S19'  (2x)
@@ -6264,17 +6330,21 @@
       Adres       : Asse
       Hulpdienst  : Brandweer
       Roepnummer  : S7
-      Kenteken    : 
+      Kenteken    : 1-KEF-485
       Adres       : Stekene
       Hulpdienst  : Brandweer
       Roepnummer  : S7
       Kenteken    : 
 
-  >> 'S8'  (3x)
+  >> 'S8'  (4x)
       Adres       : Haacht
       Hulpdienst  : Brandweer
       Roepnummer  : S8
       Kenteken    : 
+      Adres       : Dilbeek
+      Hulpdienst  : Brandweer
+      Roepnummer  : S8
+      Kenteken    : 1-KEF-428
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : S8
@@ -6294,7 +6364,11 @@
       Roepnummer  : S9
       Kenteken    : 
 
-  >> 'SH1'  (2x)
+  >> 'SH1'  (3x)
+      Adres       : Ardooie
+      Hulpdienst  : Brandweer
+      Roepnummer  : SH1
+      Kenteken    : 1-JUE-992
       Adres       : Meulebeke
       Hulpdienst  : Brandweer
       Roepnummer  : SH1
@@ -6466,12 +6540,8 @@
       Roepnummer  : T12
       Kenteken    : 
 
-  >> 'T13'  (6x)
+  >> 'T13'  (5x)
       Adres       : Hasselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : T13
-      Kenteken    : 
-      Adres       : Asse
       Hulpdienst  : Brandweer
       Roepnummer  : T13
       Kenteken    : 
@@ -6892,7 +6962,7 @@
       Adres       : Asse
       Hulpdienst  : Brandweer
       Roepnummer  : T51
-      Kenteken    : 
+      Kenteken    : 1-JRP-611
       Adres       : Lebbeke
       Hulpdienst  : Brandweer
       Roepnummer  : T51
@@ -7004,7 +7074,11 @@
       Roepnummer  : T731
       Kenteken    : 
 
-  >> 'T8'  (2x)
+  >> 'T8'  (3x)
+      Adres       : Asse
+      Hulpdienst  : Brandweer
+      Roepnummer  : T8
+      Kenteken    : 1-WUP-950
       Adres       : Temse
       Hulpdienst  : Brandweer
       Roepnummer  : T8
@@ -7106,7 +7180,7 @@
       Adres       : Ardooie
       Hulpdienst  : Brandweer
       Roepnummer  : TW1
-      Kenteken    : 
+      Kenteken    : 1-JTH-792
       Adres       : Hooglede
       Hulpdienst  : Brandweer
       Roepnummer  : TW1
@@ -7160,7 +7234,7 @@
       Roepnummer  : TW1
       Kenteken    : 1-JTG-362
 
-  >> 'V101'  (4x)
+  >> 'V101'  (3x)
       Adres       : Knokke-Heist
       Hulpdienst  : Brandweer
       Roepnummer  : V101
@@ -7172,11 +7246,7 @@
       Adres       : Arlon
       Hulpdienst  : Brandweer
       Roepnummer  : V101
-      Kenteken    : 
-      Adres       : Arlon
-      Hulpdienst  : Brandweer
-      Roepnummer  : V101
-      Kenteken    : 
+      Kenteken    : 1-VBY-201
 
   >> 'V102'  (3x)
       Adres       : Brugge
@@ -7312,16 +7382,6 @@
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : V19
-      Kenteken    : 
-
-  >> 'V401'  (2x)
-      Adres       : Veurne
-      Hulpdienst  : Brandweer
-      Roepnummer  : V401
-      Kenteken    : 1-RCD-794
-      Adres       : Arlon
-      Hulpdienst  : Brandweer
-      Roepnummer  : V401
       Kenteken    : 
 
   >> 'V402'  (3x)
