@@ -169,6 +169,34 @@
         "Regio": "Brussel Zone - Brussel",
         "Description": "A71 ZW toegevoegd aan Anderlecht",
         "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5263 DPH-GW toegevoegd aan Eindhoven Woensel",
+        "Time": "03-10-2026 16:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "GEEN IM Berger toegevoegd aan Bunnik",
+        "Time": "03-10-2026 16:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "GEEN IM Berger toegevoegd aan Utrecht",
+        "Time": "03-10-2026 16:00:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rijkswaterstaat",
+        "Regio": "MN-RWS",
+        "Description": "GEEN (DAT) WIS toegevoegd aan Amersfoort",
+        "Time": "03-10-2026 16:00:18"
       }
     ],
     "removed": [
@@ -241,6 +269,13 @@
         "Regio": "Limburg Zone - Oost",
         "Description": "A71 HZA verwijderd van Voeren",
         "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5262 SBT verwijderd van Eindhoven Woensel",
+        "Time": "03-10-2026 16:00:18"
       }
     ],
     "changed": [
