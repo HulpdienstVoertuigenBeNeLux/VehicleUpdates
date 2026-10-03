@@ -76,10 +76,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,812  (of 10,164 total)
+  Records checked : 6,817  (of 10,169 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  544 value(s) affected
+  Duplicate Roepnummer  --  543 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -1318,7 +1318,7 @@
       Roepnummer  : A61
       Kenteken    : 1-JUD-396
 
-  >> 'A62'  (2x)
+  >> 'A62'  (3x)
       Adres       : Linkeroever
       Hulpdienst  : Brandweer
       Roepnummer  : A62
@@ -1327,16 +1327,20 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A62
       Kenteken    : 
+      Adres       : Anderlecht
+      Hulpdienst  : Ambulance
+      Roepnummer  : A62
+      Kenteken    : 2-ATC-268
 
-  >> 'AND 1'  (2x)
-      Adres       : Anderlecht
-      Hulpdienst  : Ambulance
-      Roepnummer  : AND 1
+  >> 'A71'  (2x)
+      Adres       : Voeren
+      Hulpdienst  : Brandweer
+      Roepnummer  : A71
       Kenteken    : 
       Adres       : Anderlecht
       Hulpdienst  : Ambulance
-      Roepnummer  : AND 1
-      Kenteken    : 
+      Roepnummer  : A71
+      Kenteken    : 2-BKN-237
 
   >> 'ANTW CADIX'  (2x)
       Adres       : Antwerpen
@@ -1710,7 +1714,7 @@
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : B21
-      Kenteken    : 
+      Kenteken    : 1-PCB-505
 
   >> 'B22'  (3x)
       Adres       : Leopoldsburg
@@ -2452,7 +2456,7 @@
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : C21
-      Kenteken    : 
+      Kenteken    : 1-NXB-933
 
   >> 'C22'  (3x)
       Adres       : Leopoldsburg
@@ -3465,10 +3469,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : E2
       Kenteken    : 
-      Adres       : Héliport
+      Adres       : Anderlecht
       Hulpdienst  : Brandweer
       Roepnummer  : E2
-      Kenteken    : 
+      Kenteken    : TNQ-103
       Adres       : Sambreville
       Hulpdienst  : Brandweer
       Roepnummer  : E2
@@ -3496,7 +3500,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : E21
-      Kenteken    : 
+      Kenteken    : 281-BYI
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E21
@@ -3695,7 +3699,7 @@
       Hulpdienst  : Brandweer
       Roepnummer  : E6
       Kenteken    : 
-      Adres       : Anderlecht
+      Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : E6
       Kenteken    : 
@@ -5068,7 +5072,7 @@
       Adres       : Anderlecht
       Hulpdienst  : Brandweer
       Roepnummer  : P2
-      Kenteken    : 
+      Kenteken    : 180-BYB
       Adres       : Braine-le-Comte
       Hulpdienst  : Brandweer
       Roepnummer  : P2
@@ -5138,7 +5142,7 @@
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : P21
-      Kenteken    : 
+      Kenteken    : 1-CYC-893
 
   >> 'P23'  (2x)
       Adres       : Diest
@@ -5150,17 +5154,7 @@
       Roepnummer  : P23
       Kenteken    : 
 
-  >> 'P24'  (2x)
-      Adres       : Lennik
-      Hulpdienst  : Brandweer
-      Roepnummer  : P24
-      Kenteken    : 
-      Adres       : Andenne
-      Hulpdienst  : Brandweer
-      Roepnummer  : P24
-      Kenteken    : 
-
-  >> 'P29'  (2x)
+  >> 'P29'  (3x)
       Adres       : Tienen
       Hulpdienst  : Brandweer
       Roepnummer  : P29
@@ -5169,6 +5163,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : P29
       Kenteken    : 
+      Adres       : Andenne
+      Hulpdienst  : Brandweer
+      Roepnummer  : P29
+      Kenteken    : 1-NXB-949
 
   >> 'P3'  (5x)
       Adres       : Dilbeek
@@ -5442,7 +5440,7 @@
       Adres       : Anderlecht
       Hulpdienst  : Brandweer
       Roepnummer  : P8
-      Kenteken    : 
+      Kenteken    : 1-CYX-076
       Adres       : Sambreville
       Hulpdienst  : Brandweer
       Roepnummer  : P8
@@ -5640,7 +5638,7 @@
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : R21
-      Kenteken    : 
+      Kenteken    : 1-PCB-488
 
   >> 'R22'  (2x)
       Adres       : Beringen
@@ -6160,7 +6158,7 @@
       Adres       : Anderlecht
       Hulpdienst  : Brandweer
       Roepnummer  : S5
-      Kenteken    : 
+      Kenteken    : 1-XJE-785
       Adres       : Stekene
       Hulpdienst  : Brandweer
       Roepnummer  : S5
@@ -6652,7 +6650,7 @@
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : T21
-      Kenteken    : 
+      Kenteken    : 1-PCB-214
 
   >> 'T22'  (6x)
       Adres       : Leopoldsburg
@@ -6678,7 +6676,7 @@
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : T22
-      Kenteken    : 
+      Kenteken    : 1-PCB-541
 
   >> 'T23'  (2x)
       Adres       : Mouscron
@@ -7543,18 +7541,8 @@
       Kenteken    : 
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  4 value(s) affected
+  Duplicate Kenteken  --  3 value(s) affected
 --------------------------------------------------------------------------------
-
-  >> '1-NLX-139'  (2x)
-      Adres       : Aalter
-      Hulpdienst  : Brandweer
-      Roepnummer  : 
-      Kenteken    : 1-NLX-139
-      Adres       : Aalter
-      Hulpdienst  : Brandweer
-      Roepnummer  : 
-      Kenteken    : 1-NLX-139
 
   >> '1-NPS-154'  (2x)
       Adres       : Kortemark

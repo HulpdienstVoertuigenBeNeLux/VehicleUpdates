@@ -113,6 +113,62 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "GEEN IM Berger toegevoegd aan Rhoon",
         "Time": "03-10-2026 13:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T29 PM toegevoegd aan Andenne",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP622 PM toegevoegd aan Amel",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": " PM toegevoegd aan Amel",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "TG611 HA-KR toegevoegd aan Amel",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "CTRC604 WTC toegevoegd aan Amel",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "CTR605 LBC toegevoegd aan Amel",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "A62 ZW toegevoegd aan Anderlecht",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "A71 ZW toegevoegd aan Anderlecht",
+        "Time": "03-10-2026 15:00:21"
       }
     ],
     "removed": [
@@ -164,6 +220,27 @@
         "Regio": "Luik Zone - DG",
         "Description": " PM verwijderd van Amel",
         "Time": "03-10-2026 06:00:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "AND 2 ZW verwijderd van Anderlecht",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "A62 HZA verwijderd van Maasmechelen",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "A71 HZA verwijderd van Voeren",
+        "Time": "03-10-2026 15:00:21"
       }
     ],
     "changed": [
@@ -285,6 +362,146 @@
         "Regio": "Namen Zone - Nage",
         "Description": "E21: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
         "Time": "03-10-2026 14:00:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T22: Kenteken van '' naar '1-PCB-541' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T21: Kenteken van '' naar '1-PCB-214' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "B21: Kenteken van '' naar '1-PCB-505' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "C21: Kenteken van '' naar '1-NXB-933' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "R21: Kenteken van '' naar '1-PCB-488' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P21: Kenteken van '' naar '1-CYC-893' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P29: Adres van 'Héliport' naar 'Andenne' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P29: Afkorting van 'HZA' naar 'CCFM' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P29: TypeVoertuig van 'Halfzware Autopomp' naar 'Bosbrand Autopomp Terreinvaardig' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P29: Kenteken van '' naar '1-NXB-949' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P24: Adres van 'Andenne' naar 'Lennik' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P24: Afkorting van 'CCFM' naar 'HZA' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P24: TypeVoertuig van 'Bosbrand Autopomp Terreinvaardig' naar 'Halfzware Autopomp' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P40: Kenteken van '' naar '1-CAY-912' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P38: Kenteken van '' naar '1-BJW-509' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V10: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Dienstbus' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V10: Kenteken van '' naar '1-BWX-421' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "D21: Kenteken van '' naar '1-NXB-916' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "AALST 1: Kenteken van '' naar '2-FJX-723' aangepast",
+        "Time": "03-10-2026 15:00:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "AALST 4: Kenteken van '' naar '1-XGG-698' aangepast",
+        "Time": "03-10-2026 15:00:21"
       }
     ]
   },
