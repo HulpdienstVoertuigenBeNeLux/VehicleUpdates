@@ -281,6 +281,34 @@
         "Regio": "Luxemburg Zone - Luxemburg",
         "Description": "A301 ZW toegevoegd aan Arlon",
         "Time": "03-10-2026 20:00:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5262 SBT toegevoegd aan Eindhoven Woensel",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5091 COH-MU toegevoegd aan Helmond",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-4481 DB toegevoegd aan Valkenswaard",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-160 AMBU-HC toegevoegd aan Zutphen",
+        "Time": "03-10-2026 22:00:16"
       }
     ],
     "removed": [
@@ -465,6 +493,643 @@
         "Regio": "Vlaams-Brabant Zone - West",
         "Description": "M10 HV verwijderd van Asse",
         "Time": "03-10-2026 21:00:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "DA0001 DA verwijderd van Zwolle (Hoofdpost)",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "DA0002 DA verwijderd van Zwolle (Hoofdpost)",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "10-5933 TS-BB verwijderd van Cocksdorp",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "10-5961 SB-BB verwijderd van Cocksdorp",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "ONBEKEND HW verwijderd van Kenbri Verhuur",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5263 DPH-GW verwijderd van Eindhoven Woensel",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5106 DA verwijderd van Helmond",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5001 DA verwijderd van Valkenswaard",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": "24-2662 SVH-BB verwijderd van Bedrijfsbrandweer Chemelot",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": "24-2663 SVH-BB verwijderd van Bedrijfsbrandweer Chemelot",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-143 AMBU-HC verwijderd van Borculo",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "MMS-106 AMBU-EH verwijderd van Zelhem",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "GEEN EH verwijderd van Houten",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "GEEN RRM-EH verwijderd van Houten",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "GEEN RRM-EH verwijderd van Houten",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "GEEN (DA) OVD-Rail verwijderd van ProRail ICB Zwolle",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-7919 RBV verwijderd van Petten",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-8029 RBV verwijderd van Sint-Maartenszee",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-7518 RBV verwijderd van Callantsoog/Groote Keeten",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-7719 RBV verwijderd van Dijk en Waard, Heerhugowaard",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-7710 DAT verwijderd van Dijk en Waard, Heerhugowaard",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "11 - Zaanstreek-Waterland (VRZW)",
+        "Description": "36-0239 NRV verwijderd van Koog aan de Zaan ( RB Zaanstad )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "36-8518 RBV verwijderd van Heemstede",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "36-0269 NRV verwijderd van Haarlem",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "36-2928 RBV verwijderd van Zandvoort",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "36-2959 RBV verwijderd van Zandvoort",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "36-2820 RBT verwijderd van Overeen ( RB Bloemendaal )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "36-2730 RBT verwijderd van IJmuiden",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "36-8619 RBV verwijderd van Wijk aan Zee",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "36-0070 RBT verwijderd van IJmuiden (RB Landelijk)",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "36-0810 CI-RB verwijderd van IJmuiden (RB Landelijk)",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "36-3028 RBV verwijderd van Amsterdam",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "36-3010 RB verwijderd van Amsterdam",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "36-0158 NRV verwijderd van Blaricum",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "36-3317 RBV-WSC verwijderd van s-Gravenzande",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-8613 BT-RB verwijderd van Ter Heijde ( RB Monster )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-8614 MFT-RB verwijderd van Ter Heijde ( RB Monster )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-8616 BUL-BUD verwijderd van Ter Heijde ( RB Monster )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-8619 RBV verwijderd van Ter Heijde ( RB Monster )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-8628 RBV verwijderd van Ter Heijde ( RB Monster )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-8631 COP-RB verwijderd van Ter Heijde ( RB Monster )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "36-3119 RBV verwijderd van Den Haag",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "36-3139 RBV verwijderd van Den Haag",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "36-0339 NRV verwijderd van Leidschendam",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "36-9218 RBV verwijderd van Leidschendam",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "36-9410 RB verwijderd van Alphen aan den Rijn",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "36-3617 RBV-WSC verwijderd van Noordwijk",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "36-3639 RBV verwijderd van Noordwijk",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "36-3518 RBV verwijderd van Katwijk aan Zee",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "36-3527 RBV-WSC verwijderd van Katwijk aan Zee",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "36-3529 RBV verwijderd van Katwijk aan Zee",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "36-6460 RBT verwijderd van Ouddorp",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "Neptunes RBV verwijderd van Strandwacht Hoek van Holland",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "36-0399 NRV verwijderd van Hellevoetsluis",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "36-5567 RBV-WSC verwijderd van Rockanje",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "36-3728 RBV verwijderd van Maasvlakte Rotterdam",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "36-3720 RBT verwijderd van Maasvlakte Rotterdam",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "36-3740 RBT verwijderd van Maasvlakte Rotterdam",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "36-0349 NRV verwijderd van Hardinxveld-Giessendam",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "36-0388 NRV verwijderd van Hendrik-Ido-Ambacht",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "36-0378 NRV verwijderd van Dordrecht",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "36-3219 RBV verwijderd van Dordrecht",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "36-6779 RBV verwijderd van Ouwerkerk ( RB Zierikzee-Duiveland )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "36-3910 RBT verwijderd van Renesse (RB Westerschouwen )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "36-3929 RBV verwijderd van Renesse (RB Westerschouwen )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "36-6179 RBV verwijderd van Kamperland ( RB Domburg )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "36-0559 NRV verwijderd van Middelburg",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "36-3818 RBV verwijderd van Breskens ( RB WZV )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "36-6569 RBV verwijderd van Vlissingen",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "KDK 1 RBV-WSC verwijderd van Koudekerke",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "ZTL 1 RBV-WSC verwijderd van Zoutelande",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "WKP RBT verwijderd van Westkapelle",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "OKP 1 RBV-WSC verwijderd van Oostkapelle",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "VRP 1 RBV-WSC verwijderd van Vrouwenpolder",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "36-4119 RBV verwijderd van Breda",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "36-7159 RBV verwijderd van Willemstad ( RB Moerdijk )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "36-7469 RBV verwijderd van Oss",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "36-4010 RBT verwijderd van Den Bosch",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "36-1539 NRV verwijderd van Veghel",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "36-7619 RBV verwijderd van Veghel",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "36-8059 RBV verwijderd van Helmond (Watervrienden)",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "36-8569 RBV verwijderd van Venlo",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "36-8379 RBV verwijderd van Roermond",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": "36-8769 RBV verwijderd van Maastricht",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": "36-8789 RBV verwijderd van Maastricht",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "36-8859 RBV verwijderd van Almere",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "36-0189 NRV verwijderd van Lelystad",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "36-6418 RBV verwijderd van Biddinghuizen ( RB Veluwemeer )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "36-6428 RBV verwijderd van Biddinghuizen ( RB Veluwemeer )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "36-6438 RBV verwijderd van Biddinghuizen ( RB Veluwemeer )",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "36-6410 RBT verwijderd van Biddinghuizen ( RB Veluwemeer )",
+        "Time": "03-10-2026 22:00:16"
       }
     ],
     "changed": [
@@ -1160,6 +1825,76 @@
         "Regio": "Vlaams-Brabant Zone - West",
         "Description": "L16: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
         "Time": "03-10-2026 21:00:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "'GEEN' omgenummerd naar 'DBG'",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "GEEN: Afkorting van 'RBV' naar 'RBT' aangepast",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "GEEN: TypeVoertuig van 'Reddingsbrigade vaartuig' naar 'Reddingsbrigade voertuig terreinvaardig' aangepast",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "GEEN: Kenteken van '06-02-YS' naar '78-VLG-7' aangepast",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "GEEN: Bijzonderheden van 'RIB ( Zomerdag strandbewaking te Domburg )' naar '( Zomerdag strandbewaking te Domburg )' aangepast",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KMAR",
+        "Regio": "LTC",
+        "Description": "KM06.00: Adres van 'Soesterberg' naar 'Maastricht' aangepast",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KMAR",
+        "Regio": "LTC",
+        "Description": "'KM06.00' omgenummerd naar 'KM43.00'",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KMAR",
+        "Regio": "LTC",
+        "Description": "KM06.00: Afkorting van 'Ondersteuning' naar 'Limburg' aangepast",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KMAR",
+        "Regio": "LTC",
+        "Description": "KM06.00: TypeVoertuig van 'Camp New Amsterdam - Huis Ter Heide, Dolderseweg 34 - A45' naar 'Maastricht Airport, Vliegveldweg 52' aangepast",
+        "Time": "03-10-2026 22:00:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KMAR",
+        "Regio": "LTC",
+        "Description": "KM06.00: Bijzonderheden van 'Operationeel Ondersteunend' naar 'Hoofdbureau en Opkomstlocatie' aangepast",
+        "Time": "03-10-2026 22:00:16"
       }
     ]
   },
