@@ -722,6 +722,34 @@
         "Regio": "Central Rescue Zone",
         "Description": " L-Ambulance toegevoegd aan Luxembourg",
         "Time": "04-10-2026 13:07:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "R27 DW toegevoegd aan Beringen",
+        "Time": "04-10-2026 23:00:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": " RBA toegevoegd aan Beringen",
+        "Time": "04-10-2026 23:00:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": " BMA toegevoegd aan Beringen",
+        "Time": "04-10-2026 23:00:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": " LBA toegevoegd aan Beringen",
+        "Time": "04-10-2026 23:00:23"
       }
     ],
     "removed": [
@@ -836,6 +864,13 @@
         "Regio": "Eastern Rescue Zone",
         "Description": " HC-Ambu verwijderd van Remich",
         "Time": "04-10-2026 13:07:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": " COA verwijderd van Beringen",
+        "Time": "04-10-2026 23:00:23"
       }
     ],
     "changed": [
@@ -1510,6 +1545,13 @@
         "Regio": "Luxemburg Zone - Luxemburg",
         "Description": "?: TypeVoertuig van 'Commandovoertuig' naar 'Diensauto Terreinvaardig' aangepast",
         "Time": "04-10-2026 13:03:34"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "R05: Kenteken van '' naar '1-JSA-677' aangepast",
+        "Time": "04-10-2026 23:00:23"
       }
     ]
   },

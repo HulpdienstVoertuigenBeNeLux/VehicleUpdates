@@ -19505,7 +19505,7 @@
       "A11",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-BYZ-936",
       "",
       "",
       "Brandweer",
@@ -19520,7 +19520,7 @@
       "A25",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-DYG-183",
       "",
       "",
       "Brandweer",
@@ -19550,7 +19550,7 @@
       "T12",
       "TW",
       "Tankwagen",
-      "",
+      "1-JPP-761",
       "",
       "",
       "Brandweer",
@@ -19563,10 +19563,10 @@
     [
       "Beringen",
       "E13",
-      "LW 30",
+      "LW",
       "Ladderwagen",
-      "",
-      "",
+      "1-PNE-090",
+      "Lengte: 30 meter.",
       "",
       "Brandweer",
       "Limburg Zone - Zuid-West",
@@ -19580,7 +19580,7 @@
       "R05",
       "SH",
       "Snelle Hulpwagen",
-      "",
+      "1-JSA-677",
       "",
       "",
       "Brandweer",
@@ -19610,7 +19610,7 @@
       "S16",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-JSA-666",
       "",
       "",
       "Brandweer",
@@ -19622,10 +19622,10 @@
     ],
     [
       "Beringen",
-      "R22",
+      "R27",
       "DW",
       "Duikerswagen",
-      "",
+      "2-OOL-518",
       "",
       "",
       "Brandweer",
@@ -19639,7 +19639,7 @@
       "Beringen",
       "S12",
       "DB",
-      "Dienstbus Personeel / Materiaal",
+      "Dienstbus",
       "",
       "",
       "",
@@ -19649,6 +19649,21 @@
       "",
       "",
       "VEH-010-POST-083"
+    ],
+    [
+      "Beringen",
+      "L31",
+      "DB",
+      "Dienstbus",
+      "2-DXT-448",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Zuid-West",
+      "",
+      "",
+      "",
+      "VEH-011-POST-083"
     ],
     [
       "Beringen",
@@ -19663,7 +19678,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-083"
+      "VEH-012-POST-083"
     ],
     [
       "Beringen",
@@ -19678,7 +19693,7 @@
       "",
       "",
       "",
-      "VEH-012-POST-083"
+      "VEH-013-POST-083"
     ],
     [
       "Beringen",
@@ -19693,29 +19708,14 @@
       "",
       "",
       "",
-      "VEH-013-POST-083"
+      "VEH-014-POST-083"
     ],
     [
       "Beringen",
       "",
       "RBA",
       "Reddings Boot Aanhanger",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Zuid-West",
-      "",
-      "",
-      "",
-      "VEH-014-POST-083"
-    ],
-    [
-      "Beringen",
-      "",
-      "DMA",
-      "Draagbare Motorpomp Aanhanger",
-      "",
+      "EPT-551",
       "",
       "",
       "Brandweer",
@@ -19730,7 +19730,7 @@
       "",
       "BMA",
       "Bijzondere Materialen Aanhanger",
-      "",
+      "UJJ-266",
       "Eisele Pomp Aanhanger",
       "",
       "Brandweer",
@@ -19745,7 +19745,7 @@
       "",
       "LBA",
       "Laadbak Aanhanger",
-      "",
+      "UGH-659",
       "",
       "",
       "Brandweer",
@@ -19754,21 +19754,6 @@
       "",
       "",
       "VEH-017-POST-083"
-    ],
-    [
-      "Beringen",
-      "",
-      "COA",
-      "Commando Aanhanger",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Zuid-West",
-      "",
-      "",
-      "",
-      "VEH-018-POST-083"
     ],
     [
       "Borgloon - Ervaert 4",
@@ -21871,6 +21856,21 @@
       "VEH-005-POST-089"
     ],
     [
+      "",
+      "L32",
+      "DB",
+      "Dienstbus",
+      "2-DXT-447",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "VEH-006-POST-089"
+    ],
+    [
       "Tessenderlo",
       "M07",
       "HV",
@@ -21883,7 +21883,7 @@
       "",
       "",
       "",
-      "VEH-006-POST-089"
+      "VEH-007-POST-089"
     ],
     [
       "Tessenderlo",
@@ -21898,7 +21898,7 @@
       "",
       "",
       "",
-      "VEH-007-POST-089"
+      "VEH-008-POST-089"
     ],
     [
       "Tessenderlo",
@@ -21913,7 +21913,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-089"
+      "VEH-009-POST-089"
     ],
     [
       "Tessenderlo",
@@ -21928,7 +21928,7 @@
       "",
       "",
       "",
-      "VEH-009-POST-089"
+      "VEH-010-POST-089"
     ],
     [
       "Tessenderlo",
@@ -21943,7 +21943,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-089"
+      "VEH-011-POST-089"
     ],
     [
       "Tessenderlo",
@@ -21958,7 +21958,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-089"
+      "VEH-012-POST-089"
     ],
     [
       "Tongeren - St.-Maternuswal 10",
