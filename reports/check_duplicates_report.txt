@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,020  (of 17,177 total)
+  Records checked : 11,064  (of 17,226 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  8 value(s) affected
+  Duplicate Roepnummer  --  5 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -58,59 +58,19 @@
       Roepnummer  : 1
       Kenteken    : ONBEKEND
 
-  >> '22-5101'  (2x)
-      Adres       : Oirschot
+  >> '17-9383'  (2x)
+      Adres       : Vakbekwaamheid/Breevaartstraat
       Hulpdienst  : Brandweer
-      Roepnummer  : 22-5101
-      Kenteken    : KRF-96-K
-      Adres       : Oirschot
+      Roepnummer  : 17-9383
+      Kenteken    : BD-165-V
+      Adres       : Vakbekwaamheid/Breevaartstraat
       Hulpdienst  : Brandweer
-      Roepnummer  : 22-5101
-      Kenteken    : KRF-96-K
-
-  >> '22-5104'  (2x)
-      Adres       : Eindhoven Woensel
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5104
-      Kenteken    : 16-ZDS-6
-      Adres       : Eindhoven Woensel
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5104
-      Kenteken    : 16-ZDS-6
-
-  >> '22-5202'  (2x)
-      Adres       : Oirschot
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5202
-      Kenteken    : S-886-VN
-      Adres       : Oirschot
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5202
-      Kenteken    : S-886-VN
-
-  >> '22-5205'  (2x)
-      Adres       : ROC Waalre
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5205
-      Kenteken    : S-889-VN
-      Adres       : ROC Waalre
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5205
-      Kenteken    : S-889-VN
+      Roepnummer  : 17-9383
+      Kenteken    : GEEN
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  5 value(s) affected
+  Duplicate Kenteken  --  1 value(s) affected
 --------------------------------------------------------------------------------
-
-  >> '16-ZDS-6'  (2x)
-      Adres       : Eindhoven Woensel
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5104
-      Kenteken    : 16-ZDS-6
-      Adres       : Eindhoven Woensel
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5104
-      Kenteken    : 16-ZDS-6
 
   >> 'BT-TR-70'  (2x)
       Adres       : Nijmegen Centrum
@@ -122,44 +82,14 @@
       Roepnummer  : KENBRI HW-626
       Kenteken    : BT-TR-70
 
-  >> 'KRF-96-K'  (2x)
-      Adres       : Oirschot
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5101
-      Kenteken    : KRF-96-K
-      Adres       : Oirschot
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5101
-      Kenteken    : KRF-96-K
-
-  >> 'S-886-VN'  (2x)
-      Adres       : Oirschot
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5202
-      Kenteken    : S-886-VN
-      Adres       : Oirschot
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5202
-      Kenteken    : S-886-VN
-
-  >> 'S-889-VN'  (2x)
-      Adres       : ROC Waalre
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5205
-      Kenteken    : S-889-VN
-      Adres       : ROC Waalre
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22-5205
-      Kenteken    : S-889-VN
-
 ================================================================================
   Region: BE
 ================================================================================
 
-  Records checked : 6,815  (of 10,168 total)
+  Records checked : 6,808  (of 10,160 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  550 value(s) affected
+  Duplicate Roepnummer  --  547 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -677,23 +607,23 @@
       Kenteken    : 
 
   >> '?'  (5x)
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : ?
-      Kenteken    : 
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : ?
-      Kenteken    : 
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : ?
-      Kenteken    : 
       Adres       : Bouillon
       Hulpdienst  : Brandweer
       Roepnummer  : ?
       Kenteken    : 
       Adres       : Bouillon
+      Hulpdienst  : Brandweer
+      Roepnummer  : ?
+      Kenteken    : 
+      Adres       : Bertrix
+      Hulpdienst  : Brandweer
+      Roepnummer  : ?
+      Kenteken    : 
+      Adres       : Bertrix
+      Hulpdienst  : Brandweer
+      Roepnummer  : ?
+      Kenteken    : 
+      Adres       : Bertrix
       Hulpdienst  : Brandweer
       Roepnummer  : ?
       Kenteken    : 
@@ -1686,7 +1616,11 @@
       Roepnummer  : B102
       Kenteken    : 1-PSX-396
 
-  >> 'B103'  (2x)
+  >> 'B103'  (3x)
+      Adres       : Bastogne
+      Hulpdienst  : Brandweer
+      Roepnummer  : B103
+      Kenteken    : 1-KNY-723
       Adres       : Bastogne
       Hulpdienst  : Brandweer
       Roepnummer  : B103
@@ -1916,11 +1850,11 @@
       Adres       : Amel
       Hulpdienst  : Brandweer
       Roepnummer  : B611
-      Kenteken    : 1-KCR-551
+      Kenteken    : 2-DAE-161
       Adres       : Amel
       Hulpdienst  : Brandweer
       Roepnummer  : B611
-      Kenteken    : 2-DAE-161
+      Kenteken    : 1-KCR-551
 
   >> 'B62'  (2x)
       Adres       : Bilzen-Hoeselt
@@ -2290,7 +2224,7 @@
       Roepnummer  : C102
       Kenteken    : 
 
-  >> 'C103'  (2x)
+  >> 'C103'  (3x)
       Adres       : Oostende
       Hulpdienst  : Brandweer
       Roepnummer  : C103
@@ -2299,6 +2233,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C103
       Kenteken    : 
+      Adres       : Bastogne
+      Hulpdienst  : Brandweer
+      Roepnummer  : C103
+      Kenteken    : 1-KGH-816
 
   >> 'C105'  (2x)
       Adres       : Brugge
@@ -2700,16 +2638,6 @@
       Adres       : Huy
       Hulpdienst  : Brandweer
       Roepnummer  : C302
-      Kenteken    : 
-
-  >> 'C304'  (2x)
-      Adres       : Huy
-      Hulpdienst  : Brandweer
-      Roepnummer  : C304
-      Kenteken    : 
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : C304
       Kenteken    : 
 
   >> 'C31'  (3x)
@@ -3306,6 +3234,20 @@
       Roepnummer  : D121
       Kenteken    : 
 
+  >> 'D123'  (3x)
+      Adres       : Bastogne
+      Hulpdienst  : Brandweer
+      Roepnummer  : D123
+      Kenteken    : 1-KGF-587
+      Adres       : Bastogne
+      Hulpdienst  : Brandweer
+      Roepnummer  : D123
+      Kenteken    : 
+      Adres       : Bastogne
+      Hulpdienst  : Brandweer
+      Roepnummer  : D123
+      Kenteken    : 
+
   >> 'D2'  (2x)
       Adres       : Enghien
       Hulpdienst  : Brandweer
@@ -3682,7 +3624,7 @@
       Adres       : Bastogne
       Hulpdienst  : Brandweer
       Roepnummer  : E303
-      Kenteken    : 
+      Kenteken    : 1-KGH-888
 
   >> 'E31'  (4x)
       Adres       : Eeklo
@@ -4158,16 +4100,6 @@
       Roepnummer  : L102
       Kenteken    : 1-YNW-759
 
-  >> 'L103'  (2x)
-      Adres       : Knokke-Heist
-      Hulpdienst  : Brandweer
-      Roepnummer  : L103
-      Kenteken    : 
-      Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : L103
-      Kenteken    : 
-
   >> 'L106'  (2x)
       Adres       : Oostende
       Hulpdienst  : Brandweer
@@ -4422,6 +4354,16 @@
       Adres       : Zwevegem
       Hulpdienst  : Brandweer
       Roepnummer  : L31
+      Kenteken    : 
+
+  >> 'L311'  (2x)
+      Adres       : Avelgem
+      Hulpdienst  : Brandweer
+      Roepnummer  : L311
+      Kenteken    : 2-EJA-143
+      Adres       : Waregem
+      Hulpdienst  : Brandweer
+      Roepnummer  : L311
       Kenteken    : 
 
   >> 'L312'  (2x)
@@ -5080,17 +5022,7 @@
       Adres       : Bastogne
       Hulpdienst  : Brandweer
       Roepnummer  : P103
-      Kenteken    : 
-
-  >> 'P104'  (2x)
-      Adres       : Hannut
-      Hulpdienst  : Brandweer
-      Roepnummer  : P104
-      Kenteken    : 
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : P104
-      Kenteken    : 
+      Kenteken    : 1-KGH-818
 
   >> 'P11'  (4x)
       Adres       : Scherpenheuvel-Zichem
@@ -5534,21 +5466,11 @@
       Adres       : Aywaille
       Hulpdienst  : Brandweer
       Roepnummer  : P502
-      Kenteken    : 
+      Kenteken    : 1-LHC-033
       Adres       : Aubange
       Hulpdienst  : Brandweer
       Roepnummer  : P502
       Kenteken    : 1-DYR-789
-
-  >> 'P504'  (2x)
-      Adres       : Lierneux
-      Hulpdienst  : Brandweer
-      Roepnummer  : P504
-      Kenteken    : 
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : P504
-      Kenteken    : 
 
   >> 'P51'  (2x)
       Adres       : Lebbeke
@@ -5682,16 +5604,6 @@
       Adres       : Zwevezele
       Hulpdienst  : Brandweer
       Roepnummer  : PV1
-      Kenteken    : 
-
-  >> 'Pf903'  (2x)
-      Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : Pf903
-      Kenteken    : 
-      Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : Pf903
       Kenteken    : 
 
   >> 'R01'  (2x)
@@ -7334,7 +7246,7 @@
       Roepnummer  : V101
       Kenteken    : 1-VBY-201
 
-  >> 'V102'  (2x)
+  >> 'V102'  (3x)
       Adres       : Brugge
       Hulpdienst  : Brandweer
       Roepnummer  : V102
@@ -7343,6 +7255,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : V102
       Kenteken    : 
+      Adres       : Aubange
+      Hulpdienst  : Brandweer
+      Roepnummer  : V102
+      Kenteken    : 1-WQX-289
 
   >> 'V103'  (2x)
       Adres       : Centrum-Brugge
@@ -7496,7 +7412,7 @@
       Adres       : Bastogne
       Hulpdienst  : Brandweer
       Roepnummer  : V403
-      Kenteken    : 
+      Kenteken    : 1-KNY-798
 
   >> 'V404'  (2x)
       Adres       : Nieuwpoort
@@ -8080,7 +7996,7 @@
   Region: LUX
 ================================================================================
 
-  Records checked : 0  (of 1,448 total)
+  Records checked : 0  (of 1,451 total)
   Roepnummer     : no duplicates
   Kenteken       : no duplicates
 
