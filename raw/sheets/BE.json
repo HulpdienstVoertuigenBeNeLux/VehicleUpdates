@@ -2313,24 +2313,9 @@
     [
       "Berlaar",
       "",
-      "LA",
-      "Lichte Autopomp",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Antwerpen Zone - Rivierenland",
-      "",
-      "",
-      "",
-      "VEH-001-POST-012"
-    ],
-    [
-      "Berlaar",
-      "",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-JLB-969",
       "",
       "",
       "Brandweer",
@@ -2345,7 +2330,7 @@
       "",
       "ZA",
       "Zware Autopomp",
-      "",
+      "1-FYY-082",
       "",
       "",
       "Brandweer",
@@ -2358,10 +2343,10 @@
     [
       "Berlaar",
       "",
-      "LW 30",
+      "LW",
       "Ladderwagen",
-      "",
-      "",
+      "1-JLA-433",
+      "Lengte: 30 meter.",
       "",
       "Brandweer",
       "Antwerpen Zone - Rivierenland",
@@ -2375,7 +2360,7 @@
       "",
       "SH",
       "Snelle Hulpwagen",
-      "",
+      "1-JLA-468",
       "",
       "",
       "Brandweer",
@@ -2390,7 +2375,7 @@
       "",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-JKV-630",
       "",
       "",
       "Brandweer",
@@ -2405,7 +2390,7 @@
       "",
       "DB",
       "Dienstbus Personeel / Materiaal",
-      "",
+      "1-RNK-505",
       "",
       "",
       "Brandweer",
@@ -2414,6 +2399,21 @@
       "",
       "",
       "VEH-007-POST-012"
+    ],
+    [
+      "Berlaar",
+      "",
+      "CO",
+      "Commandovoertuig",
+      "2-AMS-393",
+      "",
+      "",
+      "Brandweer",
+      "Antwerpen Zone - Rivierenland",
+      "",
+      "",
+      "",
+      "VEH-008-POST-012"
     ],
     [
       "Berlaar",
@@ -2428,7 +2428,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-012"
+      "VEH-009-POST-012"
     ],
     [
       "Boom, Dijleweg 5",
@@ -13055,7 +13055,7 @@
       "T636",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-GYP-996",
       "",
       "",
       "Brandweer",
@@ -13070,7 +13070,7 @@
       "T536",
       "IZA",
       "Industriële Zware Autopomp",
-      "",
+      "1-KRP-903",
       "",
       "",
       "Brandweer",
@@ -19535,7 +19535,7 @@
       "T09",
       "TW",
       "Tankwagen",
-      "",
+      "1-BYZ-941",
       "",
       "",
       "Brandweer",
@@ -19592,21 +19592,6 @@
     ],
     [
       "Beringen",
-      "L08",
-      "HV",
-      "Hulpverleningsvoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Zuid-West",
-      "",
-      "",
-      "",
-      "VEH-007-POST-083"
-    ],
-    [
-      "Beringen",
       "S16",
       "PM",
       "Personeel / Materiaal Voertuig",
@@ -19618,7 +19603,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-083"
+      "VEH-007-POST-083"
     ],
     [
       "Beringen",
@@ -19633,14 +19618,14 @@
       "",
       "",
       "",
-      "VEH-009-POST-083"
+      "VEH-008-POST-083"
     ],
     [
       "Beringen",
       "S12",
       "DB",
       "Dienstbus",
-      "",
+      "1-JSC-423",
       "",
       "",
       "Brandweer",
@@ -19648,7 +19633,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-083"
+      "VEH-009-POST-083"
     ],
     [
       "Beringen",
@@ -19663,14 +19648,29 @@
       "",
       "",
       "",
-      "VEH-011-POST-083"
+      "VEH-010-POST-083"
     ],
     [
       "Beringen",
       "L20",
       "SIG",
       "Signalisatievoertuig",
+      "1-PYG-406",
       "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Zuid-West",
+      "",
+      "",
+      "",
+      "VEH-011-POST-083"
+    ],
+    [
+      "Beringen",
+      "C14",
+      "CO",
+      "Commandovoertuig",
+      "2-CNO-154",
       "",
       "",
       "Brandweer",
@@ -19679,36 +19679,6 @@
       "",
       "",
       "VEH-012-POST-083"
-    ],
-    [
-      "Beringen",
-      "L93",
-      "SIG",
-      "Signalisatievoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Zuid-West",
-      "",
-      "",
-      "",
-      "VEH-013-POST-083"
-    ],
-    [
-      "Beringen",
-      "C06",
-      "DA",
-      "Dienstauto",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Zuid-West",
-      "",
-      "",
-      "",
-      "VEH-014-POST-083"
     ],
     [
       "Beringen",
@@ -19723,7 +19693,7 @@
       "",
       "",
       "",
-      "VEH-015-POST-083"
+      "VEH-013-POST-083"
     ],
     [
       "Beringen",
@@ -19738,7 +19708,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-083"
+      "VEH-014-POST-083"
     ],
     [
       "Beringen",
@@ -19753,7 +19723,7 @@
       "",
       "",
       "",
-      "VEH-017-POST-083"
+      "VEH-015-POST-083"
     ],
     [
       "Borgloon - Ervaert 4",
@@ -19768,7 +19738,7 @@
       "",
       "",
       "50.8093946968123, 5.344460880159461",
-      "POST-084"
+      "POST-1959"
     ],
     [
       "Borgloon",
@@ -19783,7 +19753,7 @@
       "",
       "",
       "",
-      "VEH-001-POST-084"
+      "VEH-001-POST-1959"
     ],
     [
       "Borgloon",
@@ -19798,7 +19768,7 @@
       "",
       "",
       "",
-      "VEH-002-POST-084"
+      "VEH-002-POST-1959"
     ],
     [
       "Borgloon",
@@ -19813,7 +19783,7 @@
       "",
       "",
       "",
-      "VEH-003-POST-084"
+      "VEH-003-POST-1959"
     ],
     [
       "Borgloon",
@@ -19828,7 +19798,7 @@
       "",
       "",
       "",
-      "VEH-004-POST-084"
+      "VEH-004-POST-1959"
     ],
     [
       "Borgloon",
@@ -19843,7 +19813,7 @@
       "",
       "",
       "",
-      "VEH-005-POST-084"
+      "VEH-005-POST-1959"
     ],
     [
       "Borgloon",
@@ -19858,7 +19828,7 @@
       "",
       "",
       "",
-      "VEH-006-POST-084"
+      "VEH-006-POST-1959"
     ],
     [
       "Hasselt - Zwarte-Brugstraat 1",
@@ -20087,10 +20057,10 @@
     ],
     [
       "Hasselt",
-      "",
+      "S16",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-JSA-927",
       "",
       "",
       "Brandweer",
@@ -20900,7 +20870,7 @@
       "A24",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-DYG-185",
       "",
       "",
       "Brandweer",
@@ -20999,6 +20969,21 @@
       "",
       "",
       "VEH-007-POST-086"
+    ],
+    [
+      "Herd-de-Stad",
+      "C01",
+      "CO",
+      "Commandovoertuig",
+      "1-JSA-924",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Zuid-West",
+      "",
+      "",
+      "",
+      "VEH-008-POST-086"
     ],
     [
       "Heusden-Zolder - Koerselsebaan 59",
@@ -21182,10 +21167,10 @@
     ],
     [
       "Heusden-Zolder",
-      "",
+      "C15",
       "CO",
       "Commandovoertuig",
-      "",
+      "2-CNO-306",
       "",
       "",
       "Brandweer",
@@ -21605,7 +21590,7 @@
       "S20",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-JSA-676",
       "",
       "",
       "Brandweer",
@@ -21871,6 +21856,21 @@
       "VEH-006-POST-089"
     ],
     [
+      "",
+      "B09",
+      "CCFM",
+      "Bosbrand Autopomp Terreinvaardig",
+      "2-CHE-807",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "VEH-007-POST-089"
+    ],
+    [
       "Tessenderlo",
       "M07",
       "HV",
@@ -21883,7 +21883,7 @@
       "",
       "",
       "",
-      "VEH-007-POST-089"
+      "VEH-008-POST-089"
     ],
     [
       "Tessenderlo",
@@ -21898,7 +21898,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-089"
+      "VEH-009-POST-089"
     ],
     [
       "Tessenderlo",
@@ -21913,7 +21913,7 @@
       "",
       "",
       "",
-      "VEH-009-POST-089"
+      "VEH-010-POST-089"
     ],
     [
       "Tessenderlo",
@@ -21928,7 +21928,22 @@
       "",
       "",
       "",
-      "VEH-010-POST-089"
+      "VEH-011-POST-089"
+    ],
+    [
+      "",
+      "S32",
+      "DA",
+      "Dienstauto",
+      "2-BUY-642",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "VEH-012-POST-089"
     ],
     [
       "Tessenderlo",
@@ -21943,7 +21958,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-089"
+      "VEH-013-POST-089"
     ],
     [
       "Tessenderlo",
@@ -21958,7 +21973,7 @@
       "",
       "",
       "",
-      "VEH-012-POST-089"
+      "VEH-014-POST-089"
     ],
     [
       "Tongeren - St.-Maternuswal 10",
@@ -22190,7 +22205,7 @@
       "L30",
       "DAT",
       "Diensauto Terreinvaardig",
-      "",
+      "2-CES-909",
       "",
       "",
       "Brandweer",
@@ -22232,7 +22247,7 @@
     ],
     [
       "Tongeren",
-      "C01",
+      "C02",
       "CO",
       "Commandovoertuig",
       "",
@@ -22247,21 +22262,6 @@
     ],
     [
       "Tongeren",
-      "C02",
-      "CO",
-      "Commandovoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Zuid-West",
-      "",
-      "",
-      "",
-      "VEH-019-POST-090"
-    ],
-    [
-      "Tongeren",
       "",
       "DMA",
       "Draagbare Motorpomp Aanhanger",
@@ -22273,7 +22273,7 @@
       "",
       "",
       "",
-      "VEH-020-POST-090"
+      "VEH-019-POST-090"
     ],
     [
       "Vlaams-Brabant Zone 1 ( Oost )",
@@ -43712,10 +43712,10 @@
     ],
     [
       "Lede",
-      "",
+      "463401",
       "TW",
       "Tankwagen",
-      "",
+      "1-JUT-479",
       "",
       "",
       "Brandweer",
@@ -87977,10 +87977,10 @@
     ],
     [
       "Herk de Stad",
-      "HERK-DE-STAD",
+      "Z19",
       "ZW",
       "Ziekenwagen",
-      "",
+      "2-BXM-428",
       "(Team: ALHERK01A)",
       "",
       "Ambulance",
@@ -88007,10 +88007,10 @@
     ],
     [
       "Heusden-Zolder",
-      "HEUSDEN-ZOLDER 1",
+      "Z18",
       "ZW",
       "Ziekenwagen",
-      "",
+      "1-YXK-001",
       "(Team: ALHEUS01A)",
       "",
       "Ambulance",

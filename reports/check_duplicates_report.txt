@@ -86,7 +86,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,801  (of 10,154 total)
+  Records checked : 6,799  (of 10,154 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  544 value(s) affected
@@ -1032,7 +1032,7 @@
       Adres       : Herd-de-Stad
       Hulpdienst  : Brandweer
       Roepnummer  : A24
-      Kenteken    : 
+      Kenteken    : 1-DYG-185
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : A24
@@ -2037,10 +2037,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C01
       Kenteken    : 
-      Adres       : Tongeren
+      Adres       : Herd-de-Stad
       Hulpdienst  : Brandweer
       Roepnummer  : C01
-      Kenteken    : 
+      Kenteken    : 1-JSA-924
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : C01
@@ -2330,7 +2330,11 @@
       Roepnummer  : C13
       Kenteken    : 
 
-  >> 'C14'  (3x)
+  >> 'C14'  (4x)
+      Adres       : Beringen
+      Hulpdienst  : Brandweer
+      Roepnummer  : C14
+      Kenteken    : 2-CNO-154
       Adres       : Leuven
       Hulpdienst  : Brandweer
       Roepnummer  : C14
@@ -2344,7 +2348,11 @@
       Roepnummer  : C14
       Kenteken    : 
 
-  >> 'C15'  (2x)
+  >> 'C15'  (3x)
+      Adres       : Heusden-Zolder
+      Hulpdienst  : Brandweer
+      Roepnummer  : C15
+      Kenteken    : 2-CNO-306
       Adres       : Overijse
       Hulpdienst  : Brandweer
       Roepnummer  : C15
@@ -4236,7 +4244,7 @@
       Adres       : Beringen
       Hulpdienst  : Brandweer
       Roepnummer  : L20
-      Kenteken    : 
+      Kenteken    : 1-PYG-406
       Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : L20
@@ -4290,7 +4298,7 @@
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : L30
-      Kenteken    : 
+      Kenteken    : 2-CES-909
       Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : L30
@@ -5932,7 +5940,7 @@
       Adres       : Beringen
       Hulpdienst  : Brandweer
       Roepnummer  : S12
-      Kenteken    : 
+      Kenteken    : 1-JSC-423
       Adres       : Diest
       Hulpdienst  : Brandweer
       Roepnummer  : S12
@@ -5980,11 +5988,15 @@
       Roepnummer  : S14
       Kenteken    : 
 
-  >> 'S16'  (2x)
+  >> 'S16'  (3x)
       Adres       : Beringen
       Hulpdienst  : Brandweer
       Roepnummer  : S16
       Kenteken    : 1-JSA-666
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : S16
+      Kenteken    : 1-JSA-927
       Adres       : Landen
       Hulpdienst  : Brandweer
       Roepnummer  : S16
