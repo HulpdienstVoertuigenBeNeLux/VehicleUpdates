@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,064  (of 17,226 total)
+  Records checked : 11,060  (of 17,242 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  5 value(s) affected
@@ -86,10 +86,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,808  (of 10,160 total)
+  Records checked : 6,802  (of 10,154 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  547 value(s) affected
+  Duplicate Roepnummer  --  545 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -607,23 +607,23 @@
       Kenteken    : 
 
   >> '?'  (5x)
+      Adres       : Bertrix
+      Hulpdienst  : Brandweer
+      Roepnummer  : ?
+      Kenteken    : 
+      Adres       : Bertrix
+      Hulpdienst  : Brandweer
+      Roepnummer  : ?
+      Kenteken    : 
+      Adres       : Bertrix
+      Hulpdienst  : Brandweer
+      Roepnummer  : ?
+      Kenteken    : 
       Adres       : Bouillon
       Hulpdienst  : Brandweer
       Roepnummer  : ?
       Kenteken    : 
       Adres       : Bouillon
-      Hulpdienst  : Brandweer
-      Roepnummer  : ?
-      Kenteken    : 
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : ?
-      Kenteken    : 
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : ?
-      Kenteken    : 
-      Adres       : Bertrix
       Hulpdienst  : Brandweer
       Roepnummer  : ?
       Kenteken    : 
@@ -696,7 +696,7 @@
       Adres       : Berendrecht
       Hulpdienst  : Brandweer
       Roepnummer  : A11
-      Kenteken    : 
+      Kenteken    : 1-CYD-013
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : A11
@@ -1070,7 +1070,7 @@
       Adres       : Berendrecht
       Hulpdienst  : Brandweer
       Roepnummer  : A27
-      Kenteken    : 
+      Kenteken    : 1-JLJ-092
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : A27
@@ -1616,20 +1616,6 @@
       Roepnummer  : B102
       Kenteken    : 1-PSX-396
 
-  >> 'B103'  (3x)
-      Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : B103
-      Kenteken    : 1-KNY-723
-      Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : B103
-      Kenteken    : 
-      Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : B103
-      Kenteken    : 
-
   >> 'B108'  (2x)
       Adres       : Houffalize
       Hulpdienst  : Brandweer
@@ -1845,16 +1831,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : B61
       Kenteken    : 
-
-  >> 'B611'  (2x)
-      Adres       : Amel
-      Hulpdienst  : Brandweer
-      Roepnummer  : B611
-      Kenteken    : 2-DAE-161
-      Adres       : Amel
-      Hulpdienst  : Brandweer
-      Roepnummer  : B611
-      Kenteken    : 1-KCR-551
 
   >> 'B62'  (2x)
       Adres       : Bilzen-Hoeselt
@@ -2640,6 +2616,16 @@
       Roepnummer  : C302
       Kenteken    : 
 
+  >> 'C304'  (2x)
+      Adres       : Huy
+      Hulpdienst  : Brandweer
+      Roepnummer  : C304
+      Kenteken    : 
+      Adres       : Bertrix
+      Hulpdienst  : Brandweer
+      Roepnummer  : C304
+      Kenteken    : 
+
   >> 'C31'  (3x)
       Adres       : Vilvoorde
       Hulpdienst  : Brandweer
@@ -3232,20 +3218,6 @@
       Adres       : Etalle
       Hulpdienst  : Brandweer
       Roepnummer  : D121
-      Kenteken    : 
-
-  >> 'D123'  (3x)
-      Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : D123
-      Kenteken    : 1-KGF-587
-      Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : D123
-      Kenteken    : 
-      Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : D123
       Kenteken    : 
 
   >> 'D2'  (2x)
@@ -3974,16 +3946,6 @@
       Adres       : Kruibeke
       Hulpdienst  : Brandweer
       Roepnummer  : K10
-      Kenteken    : 
-
-  >> 'K106'  (2x)
-      Adres       : Brugge
-      Hulpdienst  : Brandweer
-      Roepnummer  : K106
-      Kenteken    : 
-      Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : K106
       Kenteken    : 
 
   >> 'K109'  (2x)
@@ -5024,6 +4986,16 @@
       Roepnummer  : P103
       Kenteken    : 1-KGH-818
 
+  >> 'P104'  (2x)
+      Adres       : Hannut
+      Hulpdienst  : Brandweer
+      Roepnummer  : P104
+      Kenteken    : 
+      Adres       : Bertrix
+      Hulpdienst  : Brandweer
+      Roepnummer  : P104
+      Kenteken    : 
+
   >> 'P11'  (4x)
       Adres       : Scherpenheuvel-Zichem
       Hulpdienst  : Brandweer
@@ -5472,6 +5444,16 @@
       Roepnummer  : P502
       Kenteken    : 1-DYR-789
 
+  >> 'P504'  (2x)
+      Adres       : Lierneux
+      Hulpdienst  : Brandweer
+      Roepnummer  : P504
+      Kenteken    : 
+      Adres       : Bertrix
+      Hulpdienst  : Brandweer
+      Roepnummer  : P504
+      Kenteken    : 
+
   >> 'P51'  (2x)
       Adres       : Lebbeke
       Hulpdienst  : Brandweer
@@ -5824,16 +5806,6 @@
       Adres       : Erezée
       Hulpdienst  : Brandweer
       Roepnummer  : R521
-      Kenteken    : 
-
-  >> 'R721'  (2x)
-      Adres       : Aubange
-      Hulpdienst  : Brandweer
-      Roepnummer  : R721
-      Kenteken    : 1-UNG-051
-      Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : R721
       Kenteken    : 
 
   >> 'S01'  (2x)
@@ -7066,7 +7038,7 @@
       Adres       : Beerse
       Hulpdienst  : Brandweer
       Roepnummer  : T731
-      Kenteken    : 
+      Kenteken    : 2-FPR-032
       Adres       : Merksplas
       Hulpdienst  : Brandweer
       Roepnummer  : T731
@@ -7100,7 +7072,7 @@
       Adres       : Beerse
       Hulpdienst  : Brandweer
       Roepnummer  : T832
-      Kenteken    : 
+      Kenteken    : 1-KRS-347
       Adres       : Turnhout
       Hulpdienst  : Brandweer
       Roepnummer  : T832
@@ -7268,7 +7240,7 @@
       Adres       : Bastogne
       Hulpdienst  : Brandweer
       Roepnummer  : V103
-      Kenteken    : 
+      Kenteken    : 1-XWX-108
 
   >> 'V104'  (2x)
       Adres       : Oostende
@@ -7996,7 +7968,7 @@
   Region: LUX
 ================================================================================
 
-  Records checked : 0  (of 1,451 total)
+  Records checked : 0  (of 1,453 total)
   Roepnummer     : no duplicates
   Kenteken       : no duplicates
 
