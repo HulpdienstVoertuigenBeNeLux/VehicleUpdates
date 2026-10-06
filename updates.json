@@ -1,9 +1,67 @@
 [
   {
     "date": "2026-10-06",
-    "added": [],
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "L492 PM toegevoegd aan Nieuwpoort",
+        "Time": "06-10-2026 23:00:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "L493 PM toegevoegd aan Veurne",
+        "Time": "06-10-2026 23:00:48"
+      }
+    ],
     "removed": [],
-    "changed": []
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-1101: Afkorting van 'PM' naar 'GM' aangepast",
+        "Time": "06-10-2026 23:00:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-9104: Afkorting van 'DA' naar 'DAT' aangepast",
+        "Time": "06-10-2026 23:00:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-DB0014: Afkorting van 'GM' naar 'PM' aangepast",
+        "Time": "06-10-2026 23:00:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-DB0015: Afkorting van 'GM' naar 'DB' aangepast",
+        "Time": "06-10-2026 23:00:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-DB0016: Afkorting van 'GM' naar 'DB' aangepast",
+        "Time": "06-10-2026 23:00:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-DB0019: Afkorting van 'GM' naar 'DB' aangepast",
+        "Time": "06-10-2026 23:00:26"
+      }
+    ]
   },
   {
     "date": "2026-10-05",
