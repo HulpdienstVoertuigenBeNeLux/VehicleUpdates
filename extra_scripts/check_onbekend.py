@@ -1,6 +1,9 @@
 import csv
 import json
 import os
+from collections import Counter
+from datetime import datetime, timezone
+
 import requests
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -36,7 +39,7 @@ def fetch_and_check():
 
     if onbekend_entries:
         # Sla op als CSV
-        csv_filename = "onbekend_entries.csv"
+        csv_filename = f"onbekend_{datetime.now(timezone.utc):%Y-%m-%d}.csv"
         save_to_csv(onbekend_entries, headers_row, csv_filename)
 
         # Verstuur naar Discord als bestand
@@ -63,6 +66,40 @@ def save_to_csv(entries, headers, filename):
             writer.writerow(row_data)
 
 
+def _format_counts(counter, limit=None):
+    items = counter.most_common(limit)
+    lines = [f"`{count:>4}`  {name or '(leeg)'}" for name, count in items]
+    rest = sum(counter.values()) - sum(count for _, count in items)
+    if rest:
+        lines.append(f"`{rest:>4}`  overig")
+    return "\n".join(lines) or "-"
+
+
+def build_embed(entries):
+    per_veld = Counter(
+        key for entry in entries for key, value in entry.items()
+        if "ONBEKEND" in str(value).upper()
+    )
+    per_hulpdienst = Counter(entry.get("Hulpdienst", "") for entry in entries)
+    per_regio = Counter(entry.get("Regio", "") for entry in entries)
+
+    return {
+        "title": "⚠️ Wekelijkse check: ONBEKEND-waarden",
+        "description": (
+            f"Er zijn **{len(entries)} rijen** gevonden met `ONBEKEND` in één of meer velden.\n"
+            "Het volledige overzicht staat in de bijgevoegde CSV."
+        ),
+        "color": 0xF0A020,
+        "fields": [
+            {"name": "Per veld", "value": _format_counts(per_veld), "inline": True},
+            {"name": "Per hulpdienst", "value": _format_counts(per_hulpdienst), "inline": True},
+            {"name": "Top 5 regio's", "value": _format_counts(per_regio, 5), "inline": False},
+        ],
+        "footer": {"text": "Bron: raw/hulpdienstvoertuigenbenelux_raw.json"},
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+    }
+
+
 def send_discord_alert_with_file(entries, filename):
     if not DISCORD_WEBHOOK_URL:
         print(f"Discord Webhook URL not set. CSV is saved locally as {filename}.")
@@ -70,16 +107,18 @@ def send_discord_alert_with_file(entries, filename):
 
     print("Sending CSV file to Discord...")
 
-    payload = {
-        "content": f"⚠️ **'ONBEKEND' values detected!** Totaal {len(entries)} rijen gevonden. Zie bijgevoegde CSV."
-    }
+    payload = {"embeds": [build_embed(entries)]}
 
     try:
         with open(filename, "rb") as f:
             files = {
                 "file": (filename, f, "text/csv")
             }
-            response = requests.post(DISCORD_WEBHOOK_URL, data=payload, files=files)
+            response = requests.post(
+                DISCORD_WEBHOOK_URL,
+                data={"payload_json": json.dumps(payload)},
+                files=files,
+            )
             response.raise_for_status()
             print("Successfully sent alert and CSV to Discord.")
     except Exception as e:
