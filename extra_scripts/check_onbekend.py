@@ -1,17 +1,18 @@
-import csv
 import json
 import os
 from collections import Counter
 from datetime import datetime, timezone
 
 import requests
+from openpyxl import Workbook
+from openpyxl.styles import Font
+from openpyxl.utils import get_column_letter
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_FILE = os.path.join(BASE_DIR, "raw", "hulpdienstvoertuigenbenelux_raw.json")
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")  # Loaded from GitHub Secrets
 
-# Roepnummers zoals '01-81' worden door Excel ten onrechte als datum gezien (Jan-81).
-TEXT_COLUMNS = ["Roepnummer"]
+XLSX_MIME = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
 
 
 def fetch_and_check():
@@ -38,89 +39,94 @@ def fetch_and_check():
     print(f"Found {len(onbekend_entries)} rows containing 'ONBEKEND'.")
 
     if onbekend_entries:
-        # Sla op als CSV
-        csv_filename = f"onbekend_{datetime.now(timezone.utc):%Y-%m-%d}.csv"
-        save_to_csv(onbekend_entries, headers_row, csv_filename)
+        # Sla op als Excel-bestand: blad 1 overzicht, blad 2 de rijen zelf
+        filename = f"onbekend_{datetime.now(timezone.utc):%Y-%m-%d}.xlsx"
+        save_to_xlsx(onbekend_entries, headers_row, filename)
 
         # Verstuur naar Discord als bestand
-        send_discord_alert_with_file(onbekend_entries, csv_filename)
+        send_discord_alert_with_file(onbekend_entries, filename)
     else:
         print("No 'ONBEKEND' values found!")
 
 
-def save_to_csv(entries, headers, filename):
+def _autosize(sheet):
+    for column_cells in sheet.columns:
+        width = max(len(str(cell.value or "")) for cell in column_cells)
+        sheet.column_dimensions[get_column_letter(column_cells[0].column)].width = min(width + 2, 60)
+
+
+def _write_counts(sheet, title, counter):
+    sheet.append([title, "Aantal"])
+    for cell in sheet[sheet.max_row]:
+        cell.font = Font(bold=True)
+    for name, count in counter.most_common():
+        sheet.append([name or "(leeg)", count])
+    sheet.append([])
+
+
+def save_to_xlsx(entries, headers, filename):
     print(f"Saving results to {filename}...")
-    with open(filename, mode="w", newline="", encoding="utf-8-sig") as csv_file:
-        writer = csv.writer(csv_file)
-        writer.writerow(headers)
+    workbook = Workbook()
 
-        for entry in entries:
-            row_data = []
-            for column in headers:
-                val = str(entry.get(column, "") or "")
-                # De apostrof (') werkt in Excel als tekst-indicator.
-                if column in TEXT_COLUMNS and val and not val.startswith("'"):
-                    val = f"'{val}"
-                row_data.append(val)
+    # Blad 1: overzicht
+    overzicht = workbook.active
+    overzicht.title = "Overzicht"
+    overzicht.append(["Controle ONBEKEND-waarden"])
+    overzicht["A1"].font = Font(bold=True, size=14)
+    overzicht.append(["Datum", datetime.now(timezone.utc).strftime("%Y-%m-%d")])
+    overzicht.append(["Totaal rijen met ONBEKEND", len(entries)])
+    overzicht.append([])
 
-            writer.writerow(row_data)
-
-
-def _format_counts(counter, limit=None):
-    items = counter.most_common(limit)
-    lines = [f"`{count:>4}`  {name or '(leeg)'}" for name, count in items]
-    rest = sum(counter.values()) - sum(count for _, count in items)
-    if rest:
-        lines.append(f"`{rest:>4}`  overig")
-    return "\n".join(lines) or "-"
-
-
-def build_embed(entries):
     per_veld = Counter(
         key for entry in entries for key, value in entry.items()
         if "ONBEKEND" in str(value).upper()
     )
-    per_hulpdienst = Counter(entry.get("Hulpdienst", "") for entry in entries)
-    per_regio = Counter(entry.get("Regio", "") for entry in entries)
+    _write_counts(overzicht, "Per veld", per_veld)
+    _write_counts(overzicht, "Per hulpdienst", Counter(entry.get("Hulpdienst", "") for entry in entries))
+    _write_counts(overzicht, "Per regio", Counter(entry.get("Regio", "") for entry in entries))
+    _autosize(overzicht)
 
-    return {
-        "title": "⚠️ Wekelijkse check: ONBEKEND-waarden",
-        "description": (
-            f"Er zijn **{len(entries)} rijen** gevonden met `ONBEKEND` in één of meer velden.\n"
-            "Het volledige overzicht staat in de bijgevoegde CSV."
-        ),
-        "color": 0xF0A020,
-        "fields": [
-            {"name": "Per veld", "value": _format_counts(per_veld), "inline": True},
-            {"name": "Per hulpdienst", "value": _format_counts(per_hulpdienst), "inline": True},
-            {"name": "Top 5 regio's", "value": _format_counts(per_regio, 5), "inline": False},
-        ],
-        "footer": {"text": "Bron: raw/hulpdienstvoertuigenbenelux_raw.json"},
-        "timestamp": datetime.now(timezone.utc).isoformat(),
-    }
+    # Blad 2: alle rijen met ONBEKEND. Alles als tekst, zodat Excel
+    # roepnummers zoals '01-81' niet als datum (Jan-81) leest.
+    data = workbook.create_sheet("Onbekend")
+    data.append(headers)
+    for cell in data[1]:
+        cell.font = Font(bold=True)
+    for entry in entries:
+        data.append([str(entry.get(column, "") or "") for column in headers])
+    for row in data.iter_rows(min_row=2):
+        for cell in row:
+            cell.number_format = "@"
+    data.freeze_panes = "A2"
+    data.auto_filter.ref = data.dimensions
+    _autosize(data)
+
+    workbook.save(filename)
 
 
 def send_discord_alert_with_file(entries, filename):
     if not DISCORD_WEBHOOK_URL:
-        print(f"Discord Webhook URL not set. CSV is saved locally as {filename}.")
+        print(f"Discord Webhook URL not set. File is saved locally as {filename}.")
         return
 
-    print("Sending CSV file to Discord...")
+    print("Sending file to Discord...")
 
-    payload = {"embeds": [build_embed(entries)]}
+    payload = {
+        "content": (
+            "🔎 **Wekelijkse controle: ontbrekende gegevens**\n"
+            f"Bij **{len(entries)} rijen** staat nog `ONBEKEND` ingevuld. "
+            "In de bijlage vind je een overzicht en de volledige lijst."
+        )
+    }
 
     try:
         with open(filename, "rb") as f:
             files = {
-                "file": (filename, f, "text/csv")
+                "file": (filename, f, XLSX_MIME)
             }
-            response = requests.post(
-                DISCORD_WEBHOOK_URL,
-                data={"payload_json": json.dumps(payload)},
-                files=files,
-            )
+            response = requests.post(DISCORD_WEBHOOK_URL, data=payload, files=files)
             response.raise_for_status()
-            print("Successfully sent alert and CSV to Discord.")
+            print("Successfully sent alert and file to Discord.")
     except Exception as e:
         print(f"Failed to send Discord alert with file: {e}")
 
