@@ -15,6 +15,76 @@
         "Regio": "DH-POL",
         "Description": "DH42 Teambureau Leiden Noord  toegevoegd aan Leiden",
         "Time": "08-10-2026 18:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-7101 TBO toegevoegd aan Blaricum",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-9602 VK-TDV toegevoegd aan Rijswijk",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-9784 GM toegevoegd aan Haaglanden Regionaal",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN DA toegevoegd aan Regionaal/Wilhelminakade",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-09 DA toegevoegd aan Regionaal/Dordrecht Leerpark",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-8082 LO toegevoegd aan Lelystad",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-717 ARTS-HP toegevoegd aan HAP Assen",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "7 - Gelderland-Midden (VGGM)",
+        "Description": "12-951 RKH-MP toegevoegd aan Nationaal Logistiek Centrum",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A46 SH toegevoegd aan Antwerpen-Zuid",
+        "Time": "08-10-2026 19:01:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "K401 DPA toegevoegd aan Diksmuide",
+        "Time": "08-10-2026 19:01:22"
       }
     ],
     "removed": [
@@ -38,6 +108,27 @@
         "Regio": "DH-POL",
         "Description": "DH42 Teambureau Leiden Noord, Leiderdorp, Oegstgeest  verwijderd van Leiden",
         "Time": "08-10-2026 18:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-2106 DA verwijderd van Hilversum",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-2109 DB verwijderd van Hilversum",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-6006 TBO verwijderd van Hilversum",
+        "Time": "08-10-2026 19:00:22"
       }
     ],
     "changed": [
@@ -68,6 +159,55 @@
         "Regio": "West-Vlaanderen Zone - Westhoek",
         "Description": "S402: Kenteken van '' naar '1-PTP-337' aangepast",
         "Time": "08-10-2026 18:00:50"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9023: Kenteken van 'NN-969-G' naar 'V-90-PBR' aangepast",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-140: Kenteken van 'ONBEKEND' naar 'KXL-57-X' aangepast",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-139: Bijzonderheden van 'T.b.v Reserve' naar 'T.b.v Reserve. Kapot na ongeval' aangepast",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-143: Kenteken van 'J-360-HR' naar 'KRN-97-G' aangepast",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "'17-9390' omgenummerd naar '17-9381'",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "'20-1109' omgenummerd naar '20-1105'",
+        "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "R403: Kenteken van '' naar '1-NSB-693' aangepast",
+        "Time": "08-10-2026 19:01:22"
       }
     ]
   },
