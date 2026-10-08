@@ -1,49 +1,36 @@
 import csv
+import json
 import os
 import requests
 
-# URL of the JSON endpoint
-JSON_URL = "https://hulpdienstvoertuigenbenelux.nl/fetch-sheet?region=NL"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_FILE = os.path.join(BASE_DIR, "raw", "hulpdienstvoertuigenbenelux_raw.json")
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")  # Loaded from GitHub Secrets
+
+# Roepnummers zoals '01-81' worden door Excel ten onrechte als datum gezien (Jan-81).
+TEXT_COLUMNS = ["Roepnummer"]
 
 
 def fetch_and_check():
-    print("Fetching JSON data...")
-
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept": "application/json, text/plain, */*",
-        "Referer": "https://hulpdienstvoertuigenbenelux.nl/",
-    }
+    print(f"Loading raw data from {RAW_FILE}...")
 
     try:
-        response = requests.get(JSON_URL, headers=headers, timeout=15)
-        response.raise_for_status()
-    except requests.exceptions.RequestException as e:
-        print(f"Failed to fetch URL: {e}")
+        with open(RAW_FILE, encoding="utf-8") as f:
+            records = json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"Failed to load raw data: {e}")
         return
 
-    if not response.text.strip():
-        print("Error: Received an empty response from server.")
-        return
+    headers_row = []
+    for record in records:
+        for key in record:
+            if key not in headers_row:
+                headers_row.append(key)
 
-    try:
-        data = response.json()
-    except requests.exceptions.JSONDecodeError:
-        print("Error: Response was not valid JSON.")
-        print(f"First 200 characters of response content:\n{response.text[:200]}")
-        return
-
-    values = data.get("values", [])
-
-    # Headers zijn meestal rond rij-index 2
-    headers_row = values[2] if len(values) > 2 else []
-    onbekend_entries = []
-
-    for index, row in enumerate(values):
-        row_str_repr = [str(item) for item in row]
-        if any("ONBEKEND" in item.upper() for item in row_str_repr):
-            onbekend_entries.append({"row_number": index + 1, "row_data": row})
+    onbekend_entries = [
+        record for record in records
+        if any("ONBEKEND" in str(value).upper() for value in record.values())
+    ]
 
     print(f"Found {len(onbekend_entries)} rows containing 'ONBEKEND'.")
 
@@ -62,26 +49,18 @@ def save_to_csv(entries, headers, filename):
     print(f"Saving results to {filename}...")
     with open(filename, mode="w", newline="", encoding="utf-8-sig") as csv_file:
         writer = csv.writer(csv_file)
-
-        if headers:
-            writer.writerow(["Row Number"] + headers)
-        else:
-            writer.writerow(["Row Number", "Row Data"])
+        writer.writerow(headers)
 
         for entry in entries:
-            row_num = entry["row_number"]
-            row_data = list(entry["row_data"])
+            row_data = []
+            for column in headers:
+                val = str(entry.get(column, "") or "")
+                # De apostrof (') werkt in Excel als tekst-indicator.
+                if column in TEXT_COLUMNS and val and not val.startswith("'"):
+                    val = f"'{val}"
+                row_data.append(val)
 
-            # Kolom C is index 2.
-            # Waarden zoals 'Jan-81', 'Mar-94' worden door Excel ten onrechte als datum gezien.
-            # De apostrof (') werkt in Excel als tekst-indicator.
-            if len(row_data) > 2:
-                val = str(row_data[2])
-                if val:
-                    if not val.startswith("'"):
-                        row_data[2] = f"'{val}"
-
-            writer.writerow([row_num] + row_data)
+            writer.writerow(row_data)
 
 
 def send_discord_alert_with_file(entries, filename):
