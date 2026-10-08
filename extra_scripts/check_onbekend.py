@@ -55,35 +55,48 @@ def _autosize(sheet):
         sheet.column_dimensions[get_column_letter(column_cells[0].column)].width = min(width + 2, 60)
 
 
-def _write_counts(sheet, title, counter):
-    sheet.append([title, "Aantal"])
-    for cell in sheet[sheet.max_row]:
-        cell.font = Font(bold=True)
-    for name, count in counter.most_common():
-        sheet.append([name or "(leeg)", count])
-    sheet.append([])
+def _regio_sort_key(regio):
+    if regio == "(geen regio)":
+        return (2, 0, regio)
+    nummer, _, naam = regio.partition(" - ")
+    if nummer.isdigit():
+        return (0, int(nummer), naam)
+    return (1, 0, regio)
 
 
 def save_to_xlsx(entries, headers, filename):
     print(f"Saving results to {filename}...")
     workbook = Workbook()
 
-    # Blad 1: overzicht
-    overzicht = workbook.active
-    overzicht.title = "Overzicht"
-    overzicht.append(["Controle ONBEKEND-waarden"])
-    overzicht["A1"].font = Font(bold=True, size=14)
-    overzicht.append(["Datum", datetime.now(timezone.utc).strftime("%Y-%m-%d")])
-    overzicht.append(["Totaal rijen met ONBEKEND", len(entries)])
-    overzicht.append([])
-
+    # Blad 1: overzicht per regio, met per veld hoe vaak ONBEKEND voorkomt
     per_veld = Counter(
         key for entry in entries for key, value in entry.items()
         if "ONBEKEND" in str(value).upper()
     )
-    _write_counts(overzicht, "Per veld", per_veld)
-    _write_counts(overzicht, "Per hulpdienst", Counter(entry.get("Hulpdienst", "") for entry in entries))
-    _write_counts(overzicht, "Per regio", Counter(entry.get("Regio", "") for entry in entries))
+    velden = [veld for veld, _ in per_veld.most_common()]
+
+    per_regio = {}
+    for entry in entries:
+        regio = entry.get("Regio", "") or "(geen regio)"
+        counts = per_regio.setdefault(regio, Counter())
+        counts["Totaal"] += 1
+        for key, value in entry.items():
+            if "ONBEKEND" in str(value).upper():
+                counts[key] += 1
+
+    overzicht = workbook.active
+    overzicht.title = "Overzicht"
+    overzicht.append(["Regio", "Totaal rijen"] + velden)
+    for cell in overzicht[1]:
+        cell.font = Font(bold=True)
+    for regio in sorted(per_regio, key=_regio_sort_key):
+        counts = per_regio[regio]
+        overzicht.append([regio, counts["Totaal"]] + [counts[veld] or None for veld in velden])
+    overzicht.auto_filter.ref = overzicht.dimensions
+    overzicht.append(["Totaal", len(entries)] + [per_veld[veld] for veld in velden])
+    for cell in overzicht[overzicht.max_row]:
+        cell.font = Font(bold=True)
+    overzicht.freeze_panes = "B2"
     _autosize(overzicht)
 
     # Blad 2: alle rijen met ONBEKEND. Alles als tekst, zodat Excel
