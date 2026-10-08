@@ -86,10 +86,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,806  (of 10,161 total)
+  Records checked : 6,803  (of 10,159 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  544 value(s) affected
+  Duplicate Roepnummer  --  540 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -606,19 +606,7 @@
       Roepnummer  : 99
       Kenteken    : 
 
-  >> '?'  (5x)
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : ?
-      Kenteken    : 
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : ?
-      Kenteken    : 
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : ?
-      Kenteken    : 
+  >> '?'  (2x)
       Adres       : Bouillon
       Hulpdienst  : Brandweer
       Roepnummer  : ?
@@ -1568,28 +1556,14 @@
       Roepnummer  : B08
       Kenteken    : 
 
-  >> 'B1'  (3x)
+  >> 'B1'  (2x)
       Adres       : Brecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : B1
-      Kenteken    : 
-      Adres       : Beveren
       Hulpdienst  : Brandweer
       Roepnummer  : B1
       Kenteken    : 
       Adres       : Sambreville
       Hulpdienst  : Brandweer
       Roepnummer  : B1
-      Kenteken    : 
-
-  >> 'B10'  (2x)
-      Adres       : Beveren
-      Hulpdienst  : Brandweer
-      Roepnummer  : B10
-      Kenteken    : 
-      Adres       : Warneton
-      Hulpdienst  : Brandweer
-      Roepnummer  : B10
       Kenteken    : 
 
   >> 'B101'  (2x)
@@ -1702,16 +1676,6 @@
       Roepnummer  : B15
       Kenteken    : 
 
-  >> 'B16'  (2x)
-      Adres       : Brasschaat
-      Hulpdienst  : Brandweer
-      Roepnummer  : B16
-      Kenteken    : 
-      Adres       : Beveren
-      Hulpdienst  : Brandweer
-      Roepnummer  : B16
-      Kenteken    : 
-
   >> 'B2'  (2x)
       Adres       : Pelt
       Hulpdienst  : Brandweer
@@ -1736,12 +1700,8 @@
       Roepnummer  : B21
       Kenteken    : 1-PCB-505
 
-  >> 'B22'  (3x)
+  >> 'B22'  (2x)
       Adres       : Leopoldsburg
-      Hulpdienst  : Brandweer
-      Roepnummer  : B22
-      Kenteken    : 
-      Adres       : Beveren
       Hulpdienst  : Brandweer
       Roepnummer  : B22
       Kenteken    : 
@@ -1786,16 +1746,6 @@
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : B41
-      Kenteken    : 
-
-  >> 'B5'  (2x)
-      Adres       : Sint-Job-in-'t-Goor
-      Hulpdienst  : Brandweer
-      Roepnummer  : B5
-      Kenteken    : 
-      Adres       : Beveren
-      Hulpdienst  : Brandweer
-      Roepnummer  : B5
       Kenteken    : 
 
   >> 'B51'  (2x)
@@ -1848,16 +1798,12 @@
       Roepnummer  : B63
       Kenteken    : 
 
-  >> 'B7'  (5x)
+  >> 'B7'  (4x)
       Adres       : Sint-Job-in-'t-Goor
       Hulpdienst  : Brandweer
       Roepnummer  : B7
       Kenteken    : 
       Adres       : Lommel
-      Hulpdienst  : Brandweer
-      Roepnummer  : B7
-      Kenteken    : 
-      Adres       : Beveren
       Hulpdienst  : Brandweer
       Roepnummer  : B7
       Kenteken    : 
@@ -2628,7 +2574,7 @@
       Adres       : Bertrix
       Hulpdienst  : Brandweer
       Roepnummer  : C304
-      Kenteken    : 
+      Kenteken    : 1-KHN-656
 
   >> 'C31'  (3x)
       Adres       : Vilvoorde
@@ -4066,6 +4012,16 @@
       Roepnummer  : L102
       Kenteken    : 1-YNW-759
 
+  >> 'L104'  (2x)
+      Adres       : Brugge
+      Hulpdienst  : Brandweer
+      Roepnummer  : L104
+      Kenteken    : 
+      Adres       : Bertrix
+      Hulpdienst  : Brandweer
+      Roepnummer  : L104
+      Kenteken    : 2-GRV-396
+
   >> 'L106'  (2x)
       Adres       : Oostende
       Hulpdienst  : Brandweer
@@ -4990,16 +4946,6 @@
       Roepnummer  : P103
       Kenteken    : 1-KGH-818
 
-  >> 'P104'  (2x)
-      Adres       : Hannut
-      Hulpdienst  : Brandweer
-      Roepnummer  : P104
-      Kenteken    : 
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : P104
-      Kenteken    : 
-
   >> 'P11'  (4x)
       Adres       : Scherpenheuvel-Zichem
       Hulpdienst  : Brandweer
@@ -5456,7 +5402,7 @@
       Adres       : Bertrix
       Hulpdienst  : Brandweer
       Roepnummer  : P504
-      Kenteken    : 
+      Kenteken    : 1-KGF-601
 
   >> 'P51'  (2x)
       Adres       : Lebbeke
@@ -7240,7 +7186,7 @@
       Roepnummer  : V103
       Kenteken    : 1-XWX-108
 
-  >> 'V104'  (2x)
+  >> 'V104'  (3x)
       Adres       : Oostende
       Hulpdienst  : Brandweer
       Roepnummer  : V104
@@ -7249,6 +7195,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : V104
       Kenteken    : 
+      Adres       : Bertrix
+      Hulpdienst  : Brandweer
+      Roepnummer  : V104
+      Kenteken    : 1-XWX-109
 
   >> 'V106'  (5x)
       Adres       : De Haan-Wenduine
@@ -7383,16 +7333,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : V403
       Kenteken    : 1-KNY-798
-
-  >> 'V404'  (2x)
-      Adres       : Nieuwpoort
-      Hulpdienst  : Brandweer
-      Roepnummer  : V404
-      Kenteken    : 1-PTP-300
-      Adres       : Bertrix
-      Hulpdienst  : Brandweer
-      Roepnummer  : V404
-      Kenteken    : 
 
   >> 'V405'  (2x)
       Adres       : Ieper
