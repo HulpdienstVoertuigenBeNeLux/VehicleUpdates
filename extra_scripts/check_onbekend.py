@@ -1,14 +1,18 @@
-import csv
 import json
 import os
+from collections import Counter
+from datetime import datetime, timezone
+
 import requests
+from openpyxl import Workbook
+from openpyxl.styles import Font
+from openpyxl.utils import get_column_letter
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_FILE = os.path.join(BASE_DIR, "raw", "hulpdienstvoertuigenbenelux_raw.json")
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")  # Loaded from GitHub Secrets
 
-# Roepnummers zoals '01-81' worden door Excel ten onrechte als datum gezien (Jan-81).
-TEXT_COLUMNS = ["Roepnummer"]
+XLSX_MIME = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
 
 
 def fetch_and_check():
@@ -35,53 +39,107 @@ def fetch_and_check():
     print(f"Found {len(onbekend_entries)} rows containing 'ONBEKEND'.")
 
     if onbekend_entries:
-        # Sla op als CSV
-        csv_filename = "onbekend_entries.csv"
-        save_to_csv(onbekend_entries, headers_row, csv_filename)
+        # Sla op als Excel-bestand: blad 1 overzicht, blad 2 de rijen zelf
+        filename = f"onbekend_{datetime.now(timezone.utc):%Y-%m-%d}.xlsx"
+        save_to_xlsx(onbekend_entries, headers_row, filename)
 
         # Verstuur naar Discord als bestand
-        send_discord_alert_with_file(onbekend_entries, csv_filename)
+        send_discord_alert_with_file(onbekend_entries, filename)
     else:
         print("No 'ONBEKEND' values found!")
 
 
-def save_to_csv(entries, headers, filename):
+def _autosize(sheet):
+    for column_cells in sheet.columns:
+        width = max(len(str(cell.value or "")) for cell in column_cells)
+        sheet.column_dimensions[get_column_letter(column_cells[0].column)].width = min(width + 2, 60)
+
+
+def _regio_sort_key(regio):
+    if regio == "(geen regio)":
+        return (2, 0, regio)
+    nummer, _, naam = regio.partition(" - ")
+    if nummer.isdigit():
+        return (0, int(nummer), naam)
+    return (1, 0, regio)
+
+
+def save_to_xlsx(entries, headers, filename):
     print(f"Saving results to {filename}...")
-    with open(filename, mode="w", newline="", encoding="utf-8-sig") as csv_file:
-        writer = csv.writer(csv_file)
-        writer.writerow(headers)
+    workbook = Workbook()
 
-        for entry in entries:
-            row_data = []
-            for column in headers:
-                val = str(entry.get(column, "") or "")
-                # De apostrof (') werkt in Excel als tekst-indicator.
-                if column in TEXT_COLUMNS and val and not val.startswith("'"):
-                    val = f"'{val}"
-                row_data.append(val)
+    # Blad 1: overzicht per regio, met per veld hoe vaak ONBEKEND voorkomt
+    per_veld = Counter(
+        key for entry in entries for key, value in entry.items()
+        if "ONBEKEND" in str(value).upper()
+    )
+    velden = [veld for veld, _ in per_veld.most_common()]
 
-            writer.writerow(row_data)
+    per_regio = {}
+    for entry in entries:
+        regio = entry.get("Regio", "") or "(geen regio)"
+        counts = per_regio.setdefault(regio, Counter())
+        counts["Totaal"] += 1
+        for key, value in entry.items():
+            if "ONBEKEND" in str(value).upper():
+                counts[key] += 1
+
+    overzicht = workbook.active
+    overzicht.title = "Overzicht"
+    overzicht.append(["Regio", "Totaal rijen"] + velden)
+    for cell in overzicht[1]:
+        cell.font = Font(bold=True)
+    for regio in sorted(per_regio, key=_regio_sort_key):
+        counts = per_regio[regio]
+        overzicht.append([regio, counts["Totaal"]] + [counts[veld] or None for veld in velden])
+    overzicht.auto_filter.ref = overzicht.dimensions
+    overzicht.append(["Totaal", len(entries)] + [per_veld[veld] for veld in velden])
+    for cell in overzicht[overzicht.max_row]:
+        cell.font = Font(bold=True)
+    overzicht.freeze_panes = "B2"
+    _autosize(overzicht)
+
+    # Blad 2: alle rijen met ONBEKEND. Alles als tekst, zodat Excel
+    # roepnummers zoals '01-81' niet als datum (Jan-81) leest.
+    data = workbook.create_sheet("Onbekend")
+    data.append(headers)
+    for cell in data[1]:
+        cell.font = Font(bold=True)
+    for entry in entries:
+        data.append([str(entry.get(column, "") or "") for column in headers])
+    for row in data.iter_rows(min_row=2):
+        for cell in row:
+            cell.number_format = "@"
+    data.freeze_panes = "A2"
+    data.auto_filter.ref = data.dimensions
+    _autosize(data)
+
+    workbook.save(filename)
 
 
 def send_discord_alert_with_file(entries, filename):
     if not DISCORD_WEBHOOK_URL:
-        print(f"Discord Webhook URL not set. CSV is saved locally as {filename}.")
+        print(f"Discord Webhook URL not set. File is saved locally as {filename}.")
         return
 
-    print("Sending CSV file to Discord...")
+    print("Sending file to Discord...")
 
     payload = {
-        "content": f"⚠️ **'ONBEKEND' values detected!** Totaal {len(entries)} rijen gevonden. Zie bijgevoegde CSV."
+        "content": (
+            "🔎 **Wekelijkse controle: ontbrekende gegevens**\n"
+            f"Bij **{len(entries)} rijen** staat nog `ONBEKEND` ingevuld. "
+            "In de bijlage vind je een overzicht en de volledige lijst."
+        )
     }
 
     try:
         with open(filename, "rb") as f:
             files = {
-                "file": (filename, f, "text/csv")
+                "file": (filename, f, XLSX_MIME)
             }
             response = requests.post(DISCORD_WEBHOOK_URL, data=payload, files=files)
             response.raise_for_status()
-            print("Successfully sent alert and CSV to Discord.")
+            print("Successfully sent alert and file to Discord.")
     except Exception as e:
         print(f"Failed to send Discord alert with file: {e}")
 
