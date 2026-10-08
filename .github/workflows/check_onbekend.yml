@@ -1,7 +1,7 @@
 name: Check Onbekend
 
 on:
-  workflow_dispatch: # Wordt elke zondag 06:00 gestart door extra_scripts/trigger_check_onbekend.py
+  workflow_dispatch: # Wordt elke zondag 06:00 gestart vanaf de thuisserver
 
 jobs:
   check-onbekend:
