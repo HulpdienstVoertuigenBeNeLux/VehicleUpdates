@@ -1,0 +1,26 @@
+name: Check Onbekend
+
+on:
+  workflow_dispatch: # Wordt elke zondag 06:00 gestart door extra_scripts/trigger_check_onbekend.py
+
+jobs:
+  check-onbekend:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run check onbekend
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_ONBEKEND }}
+        run: python extra_scripts/check_onbekend.py
