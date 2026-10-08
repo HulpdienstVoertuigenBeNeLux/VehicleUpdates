@@ -1,7 +1,9 @@
 name: Check Onbekend
 
 on:
-  workflow_dispatch: # Wordt elke zondag 06:00 gestart vanaf de thuisserver
+  schedule:
+    - cron: '0 0 * * 0' # Elke zondag 00:00 UTC (= 01:00 wintertijd / 02:00 zomertijd NL)
+  workflow_dispatch: # Hiermee kun je het script handmatig starten
 
 jobs:
   check-onbekend:
