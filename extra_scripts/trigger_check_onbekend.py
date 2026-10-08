@@ -4,10 +4,7 @@ import requests
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "")
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "")
 REPO = "HulpdienstVoertuigenBeNeLux/VehicleUpdates"
-WORKFLOW_FILES = [
-    "run-hulpdienstvoertuigenbenelux.yml",
-    "check_onbekend.yml",
-]
+WORKFLOW_FILE = "check_onbekend.yml"
 BRANCH = "master"
 SEND_SUCCESS_MESSAGES = False
 
@@ -23,26 +20,20 @@ def send_discord_message(message):
     except Exception as e:
         print(f"Exception sending Discord message: {e}")
 
-def trigger_github_workflow(workflow_file):
-    url = f"https://api.github.com/repos/{REPO}/actions/workflows/{workflow_file}/dispatches"
+def trigger_github_workflow():
+    url = f"https://api.github.com/repos/{REPO}/actions/workflows/{WORKFLOW_FILE}/dispatches"
     headers = {
         "Authorization": f"Bearer {GITHUB_TOKEN}",
         "Accept": "application/vnd.github+json"
     }
     data = {"ref": BRANCH}
-    try:
-        response = requests.post(url, headers=headers, json=data)
-    except Exception as e:
-        msg = f"Exception triggering workflow {workflow_file}: {e}"
-        print(msg)
-        send_discord_message(f":x: {msg}")
-        return
+    response = requests.post(url, headers=headers, json=data)
     if response.status_code == 204:
-        print(f"Workflow {workflow_file} triggered successfully.")
+        print(f"Workflow {WORKFLOW_FILE} triggered successfully.")
         if SEND_SUCCESS_MESSAGES:
-            send_discord_message(f":white_check_mark: GitHub workflow {workflow_file} triggered.")
+            send_discord_message(f":white_check_mark: GitHub workflow {WORKFLOW_FILE} triggered.")
     else:
-        msg = f"Failed to trigger workflow {workflow_file}: {response.status_code} {response.text}"
+        msg = f"Failed to trigger workflow {WORKFLOW_FILE}: {response.status_code} {response.text}"
         print(msg)
         send_discord_message(f":x: {msg}")
 
@@ -52,8 +43,7 @@ def main():
         print(msg)
         send_discord_message(f":x: {msg}")
         return
-    for workflow_file in WORKFLOW_FILES:
-        trigger_github_workflow(workflow_file)
+    trigger_github_workflow()
 
 if __name__ == "__main__":
     main()
