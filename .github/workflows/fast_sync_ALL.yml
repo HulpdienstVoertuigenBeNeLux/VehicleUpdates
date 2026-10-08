@@ -1,4 +1,4 @@
-name: Fast Sync BE
+name: Fast Sync ALL
 
 on:
   workflow_dispatch:
@@ -40,12 +40,12 @@ jobs:
       - name: Commit and push changes
         run: |
           git add .
-          git reset updates.json
+          git reset updates.json updates_DE.json
           git diff --cached --quiet || (git commit -m "Automated update from GitHub Actions" && git push)
 
       - name: Send Discord notification
         run: |
           curl -H "Content-Type: application/json" \
                -H "User-Agent: DiscordBot (https://github.com, 1.0)" \
-               -d '{"content": "Fast sync BE has been performed."}' \
+               -d '{"content": "Fast sync ALL has been performed."}' \
                "${{ secrets.DISCORD_WEBHOOK_URL_ICT }}"

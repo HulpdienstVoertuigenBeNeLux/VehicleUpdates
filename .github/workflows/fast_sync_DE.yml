@@ -40,7 +40,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git add .
-          git reset updates.json
+          git reset updates.json updates_DE.json
           git diff --cached --quiet || (git commit -m "Automated update from GitHub Actions" && git push)
 
       - name: Send Discord notification

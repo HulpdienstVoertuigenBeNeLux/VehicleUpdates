@@ -160,6 +160,18 @@ def download_json(url: str, region: Optional[str] = None) -> list:
         "hulpdienst": "Hulpdienst",
         "regio": "Regio",
         "interne opmerking": "Interne opmerking",
+        # Engelstalige kolommen (DE-sheet; LUX later ook)
+        "location": "Adres",
+        "callsign": "Roepnummer",
+        "vehicle type code": "Afkorting",
+        "vehicle type": "TypeVoertuig",
+        "licence plate": "Kenteken",
+        "license plate": "Kenteken",
+        "notes": "Bijzonderheden",
+        "extra vehicle type code": "Extra Afkortingen",
+        "emergency service": "Hulpdienst",
+        "region": "Regio",
+        "internal notes": "Interne opmerking",
     }
 
     # Find the header row by looking for known column names.
@@ -485,7 +497,7 @@ def run_region(region: str) -> None:
         return
     print(f"Loaded {len(new_json)} records from online.")
     # Filter out unwanted Hulpdienst categories
-    exclude_hulpdiensten = {"hulpdienst", "alle hulpdiensten"}
+    exclude_hulpdiensten = {"hulpdienst", "alle hulpdiensten", "emergency service"}
     compare_new_json = [item for item in new_json if item.get('Hulpdienst', '').strip().lower() not in exclude_hulpdiensten]
 
     print("Loading local JSON...")
@@ -504,6 +516,19 @@ def run_region(region: str) -> None:
 
     def log(msg):
         print(msg)
+
+    # Kolommen gewijzigd (bijv. andere kolomnamen in de sheet)? Dan is vergelijken zinloos:
+    # alleen de nieuwe stand opslaan, zonder meldingen of updates.
+    old_keys = set().union(*(item.keys() for item in compare_old_json)) if compare_old_json else set()
+    new_keys = set().union(*(item.keys() for item in compare_new_json)) if compare_new_json else set()
+    if old_keys and new_keys and old_keys != new_keys:
+        log(
+            f"Column layout changed for {region} (old: {sorted(old_keys)}, new: {sorted(new_keys)}); "
+            "saving new snapshot as baseline without notifications."
+        )
+        with open(local_file, 'w', encoding='utf-8') as f:
+            json.dump(new_json, f, ensure_ascii=False, indent=2)
+        return
 
     log("Comparing...")
     result = compare_json(compare_old_json, compare_new_json, region)
