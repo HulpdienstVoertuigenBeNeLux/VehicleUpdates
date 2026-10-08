@@ -120,6 +120,13 @@
         "Regio": "Luxemburg Zone - Luxemburg",
         "Description": " CO toegevoegd aan Bertrix",
         "Time": "09-10-2026 00:01:54"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "BE-HA-2 HA toegevoegd aan Beveren",
+        "Time": "09-10-2026 01:02:17"
       }
     ],
     "removed": [
@@ -171,6 +178,13 @@
         "Regio": "Luxemburg Zone - Luxemburg",
         "Description": "V504 CO verwijderd van Bertrix",
         "Time": "09-10-2026 00:01:54"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "  verwijderd van ",
+        "Time": "09-10-2026 01:02:17"
       }
     ],
     "changed": [
@@ -362,6 +376,27 @@
         "Regio": "Luxemburg Zone - Luxemburg",
         "Description": "Pf804: Kenteken van '' naar '1-KGH-594' aangepast",
         "Time": "09-10-2026 00:01:54"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "B15: Adres van 'Beveren' naar 'Brasschaat' aangepast",
+        "Time": "09-10-2026 01:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "B15: Afkorting van 'PM' naar 'DMA' aangepast",
+        "Time": "09-10-2026 01:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "B15: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Draagbare Motorpomp Aanhanger' aangepast",
+        "Time": "09-10-2026 01:02:17"
       }
     ]
   },
