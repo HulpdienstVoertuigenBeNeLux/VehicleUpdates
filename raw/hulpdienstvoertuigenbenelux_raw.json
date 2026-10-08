@@ -1972,7 +1972,7 @@
     "Roepnummer": "01-2032",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
-    "Kenteken": "BZ-RB-99",
+    "Kenteken": "ONBEKEND",
     "Bijzonderheden": "Bezetting: 7 personen.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
@@ -117026,18 +117026,6 @@
   {
     "Adres": "Medical Events, Oss",
     "Roepnummer": "GEEN",
-    "Afkorting": "EHH-MP",
-    "TypeVoertuig": "Evenementenhulpverlening haakarmbak mobiele post",
-    "Kenteken": "45-WE-44",
-    "Bijzonderheden": "T.b.v. EHBO post.",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Ambulance",
-    "Regio": "21 - Brabant-Noord (VRBN)",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Medical Events, Oss",
-    "Roepnummer": "GEEN",
     "Afkorting": "BT-EH",
     "TypeVoertuig": "Biketeam evenementenhulpverlening",
     "Kenteken": "GEEN",
@@ -121897,18 +121885,6 @@
   },
   {
     "Adres": "Nationaal Logistiek Centrum",
-    "Roepnummer": "12-951",
-    "Afkorting": "RKH-MP",
-    "TypeVoertuig": "Rode Kruis haakarmbak mobiele post",
-    "Kenteken": "GEEN",
-    "Bijzonderheden": "Mobiele EHBO post t.b.v. evenementenhulp.",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Rode Kruis",
-    "Regio": "7 - Gelderland-Midden (VGGM)",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Nationaal Logistiek Centrum",
     "Roepnummer": "30-501",
     "Afkorting": "HA",
     "TypeVoertuig": "Haakarmvoertuig",
@@ -121950,6 +121926,18 @@
     "TypeVoertuig": "Trekker Rode Kruis",
     "Kenteken": "64-BVL-5",
     "Bijzonderheden": "TK-G.",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Rode Kruis",
+    "Regio": "7 - Gelderland-Midden (VGGM)",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nationaal Logistiek Centrum",
+    "Roepnummer": "30-720",
+    "Afkorting": "RKH-MP",
+    "TypeVoertuig": "Rode Kruis haakarmbak mobiele post",
+    "Kenteken": "GEEN",
+    "Bijzonderheden": "Mobiele EHBO post t.b.v. evenementenhulp.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Rode Kruis",
     "Regio": "7 - Gelderland-Midden (VGGM)",
@@ -201060,7 +201048,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Den Haag",
+    "Adres": "Wassenaar",
     "Roepnummer": "DH12 Teambureau Overbosch - Wassenaar",
     "Afkorting": "",
     "TypeVoertuig": "Hofcampweg 102, Wassenaar",
@@ -201084,7 +201072,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "District: I DH13",
+    "Adres": "District: I Haaglanden West DH13",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -201264,7 +201252,7 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Den Haag",
+    "Adres": "Zoetermeer",
     "Roepnummer": "DH31 Teambureau Zoetermeer",
     "Afkorting": "",
     "TypeVoertuig": "Burgemeester Wegstapelplein 1, Zoetermeer",
@@ -201469,7 +201457,7 @@
   },
   {
     "Adres": "Leiden",
-    "Roepnummer": "DH42 Teambureau Leiden Noord, Leiderdorp, Oegstgeest",
+    "Roepnummer": "DH42 Teambureau Leiden Noord",
     "Afkorting": "",
     "TypeVoertuig": "Kooilaan 96, Leiden",
     "Kenteken": "",

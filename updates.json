@@ -1,9 +1,75 @@
 [
   {
     "date": "2026-10-08",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "7 - Gelderland-Midden (VGGM)",
+        "Description": "30-720 RKH-MP toegevoegd aan Nationaal Logistiek Centrum",
+        "Time": "08-10-2026 18:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH42 Teambureau Leiden Noord  toegevoegd aan Leiden",
+        "Time": "08-10-2026 18:00:19"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "GEEN EHH-MP verwijderd van Medical Events, Oss",
+        "Time": "08-10-2026 18:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "7 - Gelderland-Midden (VGGM)",
+        "Description": "12-951 RKH-MP verwijderd van Nationaal Logistiek Centrum",
+        "Time": "08-10-2026 18:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH42 Teambureau Leiden Noord, Leiderdorp, Oegstgeest  verwijderd van Leiden",
+        "Time": "08-10-2026 18:00:19"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-2032: Kenteken van 'BZ-RB-99' naar 'ONBEKEND' aangepast",
+        "Time": "08-10-2026 18:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH12 Teambureau Overbosch - Wassenaar: Adres van 'Den Haag' naar 'Wassenaar' aangepast",
+        "Time": "08-10-2026 18:00:19"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH31 Teambureau Zoetermeer: Adres van 'Den Haag' naar 'Zoetermeer' aangepast",
+        "Time": "08-10-2026 18:00:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "S402: Kenteken van '' naar '1-PTP-337' aangepast",
+        "Time": "08-10-2026 18:00:50"
+      }
+    ]
   },
   {
     "date": "2026-10-07",
