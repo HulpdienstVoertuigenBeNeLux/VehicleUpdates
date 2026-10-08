@@ -85,6 +85,27 @@
         "Regio": "West-Vlaanderen Zone - Westhoek",
         "Description": "K401 DPA toegevoegd aan Diksmuide",
         "Time": "08-10-2026 19:01:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "ONBEKEND TS-OTO toegevoegd aan BOGO",
+        "Time": "08-10-2026 20:01:59"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "22-5301 DA toegevoegd aan ROC Waalre",
+        "Time": "08-10-2026 20:01:59"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-4502 DB toegevoegd aan Zeewolde",
+        "Time": "08-10-2026 20:01:59"
       }
     ],
     "removed": [
@@ -129,6 +150,27 @@
         "Regio": "14 - Gooi en Vechtstreek (VRGV)",
         "Description": "14-6006 TBO verwijderd van Hilversum",
         "Time": "08-10-2026 19:00:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5101 DA verwijderd van Oirschot",
+        "Time": "08-10-2026 20:01:59"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-4002 DB verwijderd van Almere Buiten",
+        "Time": "08-10-2026 20:01:59"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-5001 DB verwijderd van Lelystad",
+        "Time": "08-10-2026 20:01:59"
       }
     ],
     "changed": [
@@ -208,6 +250,20 @@
         "Regio": "West-Vlaanderen Zone - Westhoek",
         "Description": "R403: Kenteken van '' naar '1-NSB-693' aangepast",
         "Time": "08-10-2026 19:01:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "23-6137: Kenteken van 'BP-BN-60' naar 'BV-GT-91' aangepast",
+        "Time": "08-10-2026 20:01:59"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": "24-2922: Kenteken van '1-KLH-02' naar 'V-88-PSH' aangepast",
+        "Time": "08-10-2026 20:01:59"
       }
     ]
   },

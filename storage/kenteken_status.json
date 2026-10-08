@@ -61588,19 +61588,6 @@
     "last_tenaamstelling_check_date": "2026-10-03",
     "aantal_zitplaatsen": null
   },
-  "BP-BN-60": {
-    "expiry": "2027-09-07",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "23-6137"
-    ],
-    "last_check_date": "2026-09-09",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2014-08-25",
-    "last_tenaamstelling_check_date": "2026-10-07",
-    "aantal_zitplaatsen": null
-  },
   "BN-GB-56": {
     "expiry": "2027-03-09",
     "checked": true,
@@ -63102,19 +63089,6 @@
     "datum_tenaamstelling_dt": "2015-01-05",
     "last_tenaamstelling_check_date": "2026-10-05",
     "aantal_zitplaatsen": "9"
-  },
-  "1-KLH-02": {
-    "expiry": "2027-07-15",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-2922"
-    ],
-    "last_check_date": "2026-07-16",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-07-15",
-    "last_tenaamstelling_check_date": "2026-10-05",
-    "aantal_zitplaatsen": "5"
   },
   "BB-905-S": {
     "expiry": "2026-10-27",
@@ -105598,7 +105572,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "22-5101"
+      "22-5301"
     ],
     "last_check_date": "2026-10-01",
     "last_expired_notification_date": null,
@@ -106909,5 +106883,57 @@
     "datum_tenaamstelling_dt": "2026-07-22",
     "last_tenaamstelling_check_date": "2026-10-08",
     "aantal_zitplaatsen": "4"
+  },
+  "48-BRV-1": {
+    "expiry": "2027-05-15",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "ONBEKEND"
+    ],
+    "last_check_date": "2026-10-08",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2021-07-20",
+    "last_tenaamstelling_check_date": "2026-10-08",
+    "aantal_zitplaatsen": "7"
+  },
+  "BV-GT-91": {
+    "expiry": "2027-03-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "23-6137"
+    ],
+    "last_check_date": "2026-10-08",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2012-01-03",
+    "last_tenaamstelling_check_date": "2026-10-08",
+    "aantal_zitplaatsen": "3"
+  },
+  "V-88-PSH": {
+    "expiry": "2029-07-07",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-2922"
+    ],
+    "last_check_date": "2026-10-08",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-07",
+    "last_tenaamstelling_check_date": "2026-10-08",
+    "aantal_zitplaatsen": "5"
+  },
+  "KGV-82-P": {
+    "expiry": "2030-06-02",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "25-4502"
+    ],
+    "last_check_date": "2026-10-08",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-06-02",
+    "last_tenaamstelling_check_date": "2026-10-08",
+    "aantal_zitplaatsen": "8"
   }
 }
