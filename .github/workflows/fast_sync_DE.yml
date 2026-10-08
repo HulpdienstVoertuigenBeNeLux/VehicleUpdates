@@ -47,5 +47,5 @@ jobs:
         run: |
           curl -H "Content-Type: application/json" \
                -H "User-Agent: DiscordBot (https://github.com, 1.0)" \
-               -d '{"content": "Fast sync BE has been performed."}' \
+               -d '{"content": "Fast sync DE has been performed."}' \
                "${{ secrets.DISCORD_WEBHOOK_URL_ICT }}"
