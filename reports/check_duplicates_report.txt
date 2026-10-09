@@ -86,10 +86,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,804  (of 10,160 total)
+  Records checked : 6,797  (of 10,152 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  539 value(s) affected
+  Duplicate Roepnummer  --  541 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -106,16 +106,12 @@
       Roepnummer  : 1
       Kenteken    : 
 
-  >> '10'  (3x)
+  >> '10'  (2x)
       Adres       : Oostmalle
       Hulpdienst  : Brandweer
       Roepnummer  : 10
       Kenteken    : 
       Adres       : Wetteren
-      Hulpdienst  : Brandweer
-      Roepnummer  : 10
-      Kenteken    : 
-      Adres       : Binche
       Hulpdienst  : Brandweer
       Roepnummer  : 10
       Kenteken    : 
@@ -152,16 +148,6 @@
       Adres       : Brasschaat
       Hulpdienst  : Ambulance
       Roepnummer  : 104000
-      Kenteken    : 
-
-  >> '11'  (2x)
-      Adres       : Wetteren
-      Hulpdienst  : Brandweer
-      Roepnummer  : 11
-      Kenteken    : 
-      Adres       : Binche
-      Hulpdienst  : Brandweer
-      Roepnummer  : 11
       Kenteken    : 
 
   >> '14'  (2x)
@@ -1722,7 +1708,7 @@
       Adres       : Houthalen
       Hulpdienst  : Brandweer
       Roepnummer  : B31
-      Kenteken    : 
+      Kenteken    : 2-FPS-209
       Adres       : Gembloux
       Hulpdienst  : Brandweer
       Roepnummer  : B31
@@ -2262,7 +2248,7 @@
       Roepnummer  : C13
       Kenteken    : 
 
-  >> 'C14'  (4x)
+  >> 'C14'  (3x)
       Adres       : Beringen
       Hulpdienst  : Brandweer
       Roepnummer  : C14
@@ -2272,10 +2258,6 @@
       Roepnummer  : C14
       Kenteken    : 
       Adres       : Leuze-en-Hainaut
-      Hulpdienst  : Brandweer
-      Roepnummer  : C14
-      Kenteken    : 
-      Adres       : Binche
       Hulpdienst  : Brandweer
       Roepnummer  : C14
       Kenteken    : 
@@ -3938,6 +3920,16 @@
       Roepnummer  : K6
       Kenteken    : 
 
+  >> 'L02'  (2x)
+      Adres       : Bilzen-Hoeselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : L02
+      Kenteken    : 1-JXT-038
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : L02
+      Kenteken    : 
+
   >> 'L05'  (2x)
       Adres       : Herd-de-Stad
       Hulpdienst  : Brandweer
@@ -4206,11 +4198,7 @@
       Roepnummer  : L21
       Kenteken    : 
 
-  >> 'L22'  (3x)
-      Adres       : Bilzen-Hoeselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : L22
-      Kenteken    : 
+  >> 'L22'  (2x)
       Adres       : Borgloon
       Hulpdienst  : Brandweer
       Roepnummer  : L22
@@ -4608,16 +4596,12 @@
       Roepnummer  : M21
       Kenteken    : 
 
-  >> 'M22'  (5x)
+  >> 'M22'  (4x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : M22
       Kenteken    : 
       Adres       : Lommel
-      Hulpdienst  : Brandweer
-      Roepnummer  : M22
-      Kenteken    : 
-      Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
       Roepnummer  : M22
       Kenteken    : 
@@ -4628,6 +4612,16 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : M22
+      Kenteken    : 
+
+  >> 'M29'  (2x)
+      Adres       : Bilzen-Hoeselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : M29
+      Kenteken    : 1-KHP-945
+      Adres       : Scherpenheuvel-Zichem
+      Hulpdienst  : Brandweer
+      Roepnummer  : M29
       Kenteken    : 
 
   >> 'M31'  (4x)
@@ -4806,16 +4800,6 @@
       Adres       : Mons
       Hulpdienst  : Ambulance
       Roepnummer  : MONS 1
-      Kenteken    : 
-
-  >> 'MP2'  (2x)
-      Adres       : Leuze-en-Hainaut
-      Hulpdienst  : Brandweer
-      Roepnummer  : MP2
-      Kenteken    : 
-      Adres       : Binche
-      Hulpdienst  : Brandweer
-      Roepnummer  : MP2
       Kenteken    : 
 
   >> 'MW1'  (5x)
@@ -5602,11 +5586,7 @@
       Roepnummer  : R2
       Kenteken    : 
 
-  >> 'R21'  (4x)
-      Adres       : Bilzen-Hoeselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : R21
-      Kenteken    : 
+  >> 'R21'  (3x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : R21
@@ -5966,11 +5946,7 @@
       Roepnummer  : S2
       Kenteken    : 
 
-  >> 'S21'  (4x)
-      Adres       : Bilzen-Hoeselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : S21
-      Kenteken    : 
+  >> 'S21'  (3x)
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
       Roepnummer  : S21
@@ -7424,6 +7400,16 @@
       Roepnummer  : V505
       Kenteken    : 
 
+  >> 'VC20'  (2x)
+      Adres       : Estaimpuis
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC20
+      Kenteken    : 
+      Adres       : Binche
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC20
+      Kenteken    : 1-JUC-992
+
   >> 'VC3'  (2x)
       Adres       : Ath
       Hulpdienst  : Brandweer
@@ -7433,6 +7419,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : VC3
       Kenteken    : 
+
+  >> 'VCx23'  (2x)
+      Adres       : Binche
+      Hulpdienst  : Brandweer
+      Roepnummer  : VCx23
+      Kenteken    : 1-JUB-476
+      Adres       : La Louvière
+      Hulpdienst  : Brandweer
+      Roepnummer  : VCx23
+      Kenteken    : 1-JUB-774
 
   >> 'VEURNE'  (2x)
       Adres       : Veurne
