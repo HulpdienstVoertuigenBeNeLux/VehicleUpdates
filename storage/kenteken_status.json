@@ -1387,19 +1387,6 @@
     "last_tenaamstelling_check_date": "2026-10-04",
     "aantal_zitplaatsen": null
   },
-  "15-LHF-6": {
-    "expiry": "2027-06-28",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "01-2301"
-    ],
-    "last_check_date": "2026-06-29",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-12-24",
-    "last_tenaamstelling_check_date": "2026-10-04",
-    "aantal_zitplaatsen": "9"
-  },
   "GJN-65-B": {
     "expiry": "2027-09-06",
     "checked": true,
@@ -106948,5 +106935,18 @@
     "datum_tenaamstelling_dt": "2024-12-06",
     "last_tenaamstelling_check_date": "2026-10-09",
     "aantal_zitplaatsen": "5"
+  },
+  "KXK-14-N": {
+    "expiry": "2029-09-28",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "01-2301"
+    ],
+    "last_check_date": "2026-10-09",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-09-28",
+    "last_tenaamstelling_check_date": "2026-10-09",
+    "aantal_zitplaatsen": "8"
   }
 }

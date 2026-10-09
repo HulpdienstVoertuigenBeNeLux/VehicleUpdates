@@ -7906,22 +7906,6 @@
     "technisch_toegestane_maximum_aslast": "10500"
   },
   {
-    "kenteken": "15LHF6",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "spoorbreedte": "163",
-    "wettelijk_toegestane_maximum_aslast": "1680",
-    "technisch_toegestane_maximum_aslast": "1680"
-  },
-  {
-    "kenteken": "15LHF6",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "spoorbreedte": "163",
-    "wettelijk_toegestane_maximum_aslast": "1600",
-    "technisch_toegestane_maximum_aslast": "1600"
-  },
-  {
     "kenteken": "15ZDH9",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -82236,26 +82220,6 @@
     "technisch_toegestane_maximum_aslast": "2430"
   },
   {
-    "kenteken": "GVR69R",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "plaatscode_as": "V",
-    "spoorbreedte": "160",
-    "wettelijk_toegestane_maximum_aslast": "1180",
-    "technisch_toegestane_maximum_aslast": "1180"
-  },
-  {
-    "kenteken": "GVR69R",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "plaatscode_as": "A",
-    "spoorbreedte": "161",
-    "wettelijk_toegestane_maximum_aslast": "1430",
-    "technisch_toegestane_maximum_aslast": "1430"
-  },
-  {
     "kenteken": "GVR06X",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -82288,6 +82252,26 @@
   },
   {
     "kenteken": "GVR68R",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "A",
+    "spoorbreedte": "161",
+    "wettelijk_toegestane_maximum_aslast": "1430",
+    "technisch_toegestane_maximum_aslast": "1430"
+  },
+  {
+    "kenteken": "GVR69R",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "V",
+    "spoorbreedte": "160",
+    "wettelijk_toegestane_maximum_aslast": "1180",
+    "technisch_toegestane_maximum_aslast": "1180"
+  },
+  {
+    "kenteken": "GVR69R",
     "as_nummer": "2",
     "aantal_assen": "2",
     "aangedreven_as": "J",
@@ -109861,6 +109845,27 @@
   },
   {
     "kenteken": "KVN46V",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "162",
+    "wettelijk_toegestane_maximum_aslast": "1500",
+    "technisch_toegestane_maximum_aslast": "1500"
+  },
+  {
+    "kenteken": "KXK14N",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "163",
+    "wettelijk_toegestane_maximum_aslast": "1530",
+    "technisch_toegestane_maximum_aslast": "1530",
+    "afstand_tot_volgende_as_voertuig": "328"
+  },
+  {
+    "kenteken": "KXK14N",
     "as_nummer": "2",
     "aantal_assen": "2",
     "aangedreven_as": "N",
