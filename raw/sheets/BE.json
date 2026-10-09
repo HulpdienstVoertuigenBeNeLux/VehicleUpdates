@@ -17285,7 +17285,7 @@
       "A01",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-JVZ-742",
       "",
       "",
       "Brandweer",
@@ -17300,7 +17300,7 @@
       "A21",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-DYU-039",
       "",
       "",
       "Brandweer",
@@ -17315,7 +17315,7 @@
       "A22",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-JVP-546",
       "",
       "",
       "Brandweer",
@@ -17328,9 +17328,9 @@
     [
       "Bilzen-Hoeselt",
       "A02",
-      "ZA 6",
+      "ZA",
       "Zware Autopomp",
-      "",
+      "1-CYB-037",
       "",
       "",
       "Brandweer",
@@ -17342,10 +17342,10 @@
     ],
     [
       "Bilzen-Hoeselt",
-      "T02",
+      "T09",
       "TW",
       "Tankwagen",
-      "",
+      "1-JVZ-749",
       "",
       "",
       "Brandweer",
@@ -17360,7 +17360,7 @@
       "T21",
       "TW",
       "Tankwagen",
-      "",
+      "1-JVR-013",
       "",
       "",
       "Brandweer",
@@ -17373,10 +17373,10 @@
     [
       "Bilzen-Hoeselt",
       "E01",
-      "HW 27",
-      "Hoogwerker",
-      "",
-      "",
+      "ELV",
+      "Elevator",
+      "2-CAB-622",
+      "Lengte: 27 meter.",
       "",
       "Brandweer",
       "Limburg Zone - Oost",
@@ -17388,10 +17388,10 @@
     [
       "Bilzen-Hoeselt",
       "E21",
-      "LW 24",
+      "LW",
       "Ladderwagen",
-      "",
-      "",
+      "1-JVP-621",
+      "Lengte: 24 meter.",
       "",
       "Brandweer",
       "Limburg Zone - Oost",
@@ -17399,21 +17399,6 @@
       "",
       "",
       "VEH-008-POST-075"
-    ],
-    [
-      "Bilzen-Hoeselt",
-      "R01",
-      "SH",
-      "Snelle Hulpwagen",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Oost",
-      "",
-      "",
-      "",
-      "VEH-009-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17428,14 +17413,14 @@
       "",
       "",
       "",
-      "VEH-010-POST-075"
+      "VEH-009-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
-      "M01",
-      "PM",
-      "Personeel / Materiaal Voertuig",
-      "",
+      "R09",
+      "DW",
+      "Duikerswagen",
+      "1-PNV-619",
       "",
       "",
       "Brandweer",
@@ -17443,7 +17428,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-075"
+      "VEH-010-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17458,14 +17443,29 @@
       "",
       "",
       "",
+      "VEH-011-POST-075"
+    ],
+    [
+      "Bilzen-Hoeselt",
+      "L21",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "1-KVY-152",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Oost",
+      "",
+      "",
+      "",
       "VEH-012-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
-      "L01",
+      "L51",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-KVY-142",
       "",
       "",
       "Brandweer",
@@ -17507,10 +17507,10 @@
     ],
     [
       "Bilzen-Hoeselt",
-      "M21",
-      "SIG",
-      "Signalisatievoertuig",
-      "",
+      "S09",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "2-BUV-023",
       "",
       "",
       "Brandweer",
@@ -17519,6 +17519,66 @@
       "",
       "",
       "VEH-016-POST-075"
+    ],
+    [
+      "Bilzen-Hoeselt",
+      "S29",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "1-SRS-092",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-017-POST-075"
+    ],
+    [
+      "Bilzen-Hoeselt",
+      "M01",
+      "SIG",
+      "Signalisatievoertuig",
+      "1-JXT-043",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-018-POST-075"
+    ],
+    [
+      "Bilzen-Hoeselt",
+      "M21",
+      "SIG",
+      "Signalisatievoertuig",
+      "1-JXY-887",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-019-POST-075"
+    ],
+    [
+      "",
+      "M29",
+      "SIG",
+      "Signalisatievoertuig",
+      "1-KHP-945",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "VEH-020-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17533,14 +17593,14 @@
       "",
       "",
       "",
-      "VEH-017-POST-075"
+      "VEH-021-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
-      "B62",
+      "B01",
       "CCFM",
       "Bosbrand Autopomp Terreinvaardig",
-      "",
+      "1-CYB-029",
       "",
       "",
       "Brandweer",
@@ -17548,7 +17608,7 @@
       "",
       "",
       "",
-      "VEH-018-POST-075"
+      "VEH-022-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17563,74 +17623,14 @@
       "",
       "",
       "",
-      "VEH-019-POST-075"
-    ],
-    [
-      "Bilzen-Hoeselt",
-      "S01",
-      "DAT",
-      "Diensauto Terreinvaardig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Oost",
-      "",
-      "",
-      "",
-      "VEH-020-POST-075"
-    ],
-    [
-      "Bilzen-Hoeselt",
-      "S22",
-      "DAT",
-      "Diensauto Terreinvaardig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Oost",
-      "",
-      "",
-      "",
-      "VEH-021-POST-075"
-    ],
-    [
-      "Bilzen-Hoeselt",
-      "C21",
-      "CO",
-      "Commandovoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Oost",
-      "",
-      "",
-      "",
-      "VEH-022-POST-075"
-    ],
-    [
-      "Bilzen-Hoeselt",
-      "S02",
-      "CO",
-      "Commandovoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Oost",
-      "",
-      "",
-      "",
       "VEH-023-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
-      "C01",
-      "CO",
-      "Commandovoertuig",
-      "",
+      "S21",
+      "DAT",
+      "Diensauto Terreinvaardig",
+      "1-RKG-731",
       "",
       "",
       "Brandweer",
@@ -17642,10 +17642,10 @@
     ],
     [
       "Bilzen-Hoeselt",
-      "C02",
+      "C21",
       "CO",
       "Commandovoertuig",
-      "",
+      "1-KAR-414",
       "",
       "",
       "Brandweer",
@@ -17657,10 +17657,10 @@
     ],
     [
       "Bilzen-Hoeselt",
-      "L02",
-      "HA",
-      "Haakarmvoertuig",
-      "",
+      "S02",
+      "DA",
+      "Dienstauto",
+      "2-GNK-896",
       "",
       "",
       "Brandweer",
@@ -17672,10 +17672,10 @@
     ],
     [
       "Bilzen-Hoeselt",
-      "",
-      "WTC",
-      "Watertank container",
-      "",
+      "C01",
+      "CO",
+      "Commandovoertuig",
+      "1-LBY-575",
       "",
       "",
       "Brandweer",
@@ -17684,6 +17684,36 @@
       "",
       "",
       "VEH-027-POST-075"
+    ],
+    [
+      "Bilzen-Hoeselt",
+      "C02",
+      "CO",
+      "Commandovoertuig",
+      "2-FUA-231",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-028-POST-075"
+    ],
+    [
+      "Bilzen-Hoeselt",
+      "L09",
+      "HA-KR",
+      "Haakarmvoertuig (Met kraan)",
+      "1-KAR-420",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-029-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17698,7 +17728,22 @@
       "",
       "",
       "",
-      "VEH-028-POST-075"
+      "VEH-030-POST-075"
+    ],
+    [
+      "Bilzen-Hoeselt",
+      "CON.02",
+      "ZZC",
+      "Zandzakken Container",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-031-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17713,14 +17758,14 @@
       "",
       "",
       "",
-      "VEH-029-POST-075"
+      "VEH-032-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
       "",
       "RBA",
       "Reddings Boot Aanhanger",
-      "",
+      "XWT-167",
       "",
       "",
       "Brandweer",
@@ -17728,7 +17773,7 @@
       "",
       "",
       "",
-      "VEH-030-POST-075"
+      "VEH-033-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17743,22 +17788,7 @@
       "",
       "",
       "",
-      "VEH-031-POST-075"
-    ],
-    [
-      "Bilzen-Hoeselt",
-      "",
-      "DMA",
-      "Draagbare Motorpomp Aanhanger",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Oost",
-      "",
-      "",
-      "",
-      "VEH-032-POST-075"
+      "VEH-034-POST-075"
     ],
     [
       "Genk - H. Esserslaan 1",
@@ -17898,9 +17928,9 @@
     [
       "Genk",
       "R11",
-      "SH",
-      "Snelle Hulpwagen",
-      "",
+      "HV",
+      "Hulpverleningsvoertuig",
+      "1-GYU-319",
       "",
       "",
       "Brandweer",
@@ -18063,9 +18093,9 @@
     [
       "Genk",
       "R19",
-      "DW",
-      "Duikerswagen",
-      "",
+      "OR",
+      "Oppervlakte reddingsteam voertuig",
+      "2-JDP-228",
       "",
       "",
       "Brandweer",
@@ -39793,7 +39823,7 @@
       "",
       "",
       "",
-      "VEH-007-POST-159"
+      "VEH-006-POST-159"
     ],
     [
       "Beveren",
@@ -39808,7 +39838,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-159"
+      "VEH-007-POST-159"
     ],
     [
       "Beveren",
@@ -39823,7 +39853,7 @@
       "",
       "",
       "",
-      "VEH-009-POST-159"
+      "VEH-008-POST-159"
     ],
     [
       "Beveren",
@@ -39838,7 +39868,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-159"
+      "VEH-009-POST-159"
     ],
     [
       "Beveren",
@@ -39853,7 +39883,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-159"
+      "VEH-010-POST-159"
     ],
     [
       "Beveren",
@@ -39868,7 +39898,7 @@
       "",
       "",
       "",
-      "VEH-012-POST-159"
+      "VEH-011-POST-159"
     ],
     [
       "Beveren",
@@ -39883,7 +39913,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-159"
+      "VEH-012-POST-159"
     ],
     [
       "Beveren",
@@ -39898,7 +39928,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-159"
+      "VEH-013-POST-159"
     ],
     [
       "Beveren",
@@ -39913,7 +39943,7 @@
       "",
       "",
       "",
-      "VEH-015-POST-159"
+      "VEH-014-POST-159"
     ],
     [
       "Beveren",
@@ -39928,7 +39958,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-159"
+      "VEH-015-POST-159"
     ],
     [
       "Beveren",
@@ -39943,7 +39973,7 @@
       "",
       "",
       "",
-      "VEH-017-POST-159"
+      "VEH-016-POST-159"
     ],
     [
       "Beveren",
@@ -39958,7 +39988,7 @@
       "",
       "",
       "",
-      "VEH-018-POST-159"
+      "VEH-017-POST-159"
     ],
     [
       "Beveren",
@@ -39973,7 +40003,7 @@
       "",
       "",
       "",
-      "VEH-019-POST-159"
+      "VEH-018-POST-159"
     ],
     [
       "Beveren",
@@ -39988,7 +40018,7 @@
       "",
       "",
       "",
-      "VEH-020-POST-159"
+      "VEH-019-POST-159"
     ],
     [
       "Beveren",
@@ -40003,7 +40033,7 @@
       "",
       "",
       "",
-      "VEH-021-POST-159"
+      "VEH-020-POST-159"
     ],
     [
       "Beveren",
@@ -40018,7 +40048,7 @@
       "",
       "",
       "",
-      "VEH-022-POST-159"
+      "VEH-021-POST-159"
     ],
     [
       "Beveren",
@@ -40033,7 +40063,7 @@
       "",
       "",
       "",
-      "VEH-023-POST-159"
+      "VEH-022-POST-159"
     ],
     [
       "Beveren",
@@ -40048,7 +40078,7 @@
       "",
       "",
       "",
-      "VEH-024-POST-159"
+      "VEH-023-POST-159"
     ],
     [
       "Beveren",
@@ -40063,7 +40093,7 @@
       "",
       "",
       "",
-      "VEH-025-POST-159"
+      "VEH-024-POST-159"
     ],
     [
       "Beveren",
@@ -40078,7 +40108,7 @@
       "",
       "",
       "",
-      "VEH-026-POST-159"
+      "VEH-025-POST-159"
     ],
     [
       "Kieldrecht - Kouterstraat 245",
@@ -88310,7 +88340,7 @@
       "406000",
       "MUG",
       "Mobiele Urgentie Groep",
-      "",
+      "2-HBG-505",
       "",
       "",
       "Ambulance",
@@ -88367,10 +88397,10 @@
     ],
     [
       "Bilzen",
-      "BILZEN",
+      "Z93",
       "ZW",
       "Ziekenwagen",
-      "",
+      "1-JXT-035",
       "(Team: ALBILZ01A)",
       "",
       "Ambulance",

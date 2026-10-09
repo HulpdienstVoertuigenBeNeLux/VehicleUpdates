@@ -134,6 +134,34 @@
         "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
         "Description": "06-2841 TST-NB toegevoegd aan Hoog Soeren",
         "Time": "09-10-2026 10:01:51"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-788 ARTS-HP toegevoegd aan Spoed HAP Nieuwegein",
+        "Time": "09-10-2026 11:01:28"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "CON.02 ZZC toegevoegd aan Bilzen-Hoeselt",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": " RBA toegevoegd aan Bilzen-Hoeselt",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "Z93 ZW toegevoegd aan Bilzen",
+        "Time": "09-10-2026 11:01:32"
       }
     ],
     "removed": [
@@ -199,6 +227,20 @@
         "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
         "Description": "06-2843 TST-NB verwijderd van Hoog Soeren",
         "Time": "09-10-2026 10:01:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "T02 TW verwijderd van Bilzen-Hoeselt",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "BILZEN ZW verwijderd van Bilzen",
+        "Time": "09-10-2026 11:01:32"
       }
     ],
     "changed": [
@@ -425,6 +467,160 @@
         "Regio": "1 - Groningen (VRG)",
         "Description": "01-3231: Bijzonderheden van 'Bezetting: 8 personen.' naar 'Bezetting: 7 personen.' aangepast",
         "Time": "09-10-2026 10:01:51"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "B01: Adres van 'Brasschaat' naar 'Bilzen-Hoeselt' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "B01: Afkorting van 'DAT' naar 'CCFM' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "B01: TypeVoertuig van 'Diensauto Terreinvaardig' naar 'Bosbrand Autopomp Terreinvaardig' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "B01: Kenteken van '' naar '1-CYB-029' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "S02: Afkorting van 'CO' naar 'DA' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "S02: TypeVoertuig van 'Commandovoertuig' naar 'Dienstauto' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "S02: Kenteken van '' naar '2-GNK-896' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Noord",
+        "Description": "L51: Adres van 'Lommel' naar 'Bilzen-Hoeselt' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Noord",
+        "Description": "L51: Afkorting van 'VW' naar 'PM' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Noord",
+        "Description": "L51: TypeVoertuig van 'Vrachtwagen' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Noord",
+        "Description": "L51: Kenteken van '' naar '1-KVY-142' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "E01: Afkorting van 'HW 27' naar 'ELV' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "E01: TypeVoertuig van 'Hoogwerker' naar 'Elevator' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "E01: Kenteken van '' naar '2-CAB-622' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "E01: Bijzonderheden van '' naar 'Lengte: 27 meter.' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "M01: Afkorting van 'PM' naar 'SIG' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "M01: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Signalisatievoertuig' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "M01: Kenteken van '' naar '1-JXT-043' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "R19: Afkorting van 'DW' naar 'OR' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "R19: TypeVoertuig van 'Duikerswagen' naar 'Oppervlakte reddingsteam voertuig' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "R19: Kenteken van '' naar '2-JDP-228' aangepast",
+        "Time": "09-10-2026 11:01:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "406000: Kenteken van '' naar '2-HBG-505' aangepast",
+        "Time": "09-10-2026 11:01:32"
       }
     ]
   },
