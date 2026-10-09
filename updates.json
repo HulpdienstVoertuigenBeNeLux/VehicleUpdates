@@ -127,6 +127,13 @@
         "Regio": "Oost-Vlaanderen Zone - Waasland",
         "Description": "BE-HA-2 HA toegevoegd aan Beveren",
         "Time": "09-10-2026 01:02:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-2841 TST-NB toegevoegd aan Hoog Soeren",
+        "Time": "09-10-2026 10:01:51"
       }
     ],
     "removed": [
@@ -185,6 +192,13 @@
         "Regio": "",
         "Description": "  verwijderd van ",
         "Time": "09-10-2026 01:02:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-2843 TST-NB verwijderd van Hoog Soeren",
+        "Time": "09-10-2026 10:01:51"
       }
     ],
     "changed": [
@@ -397,6 +411,20 @@
         "Regio": "Oost-Vlaanderen Zone - Waasland",
         "Description": "B15: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Draagbare Motorpomp Aanhanger' aangepast",
         "Time": "09-10-2026 01:02:17"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-3231: Kenteken van 'BV-DH-91' naar 'BD-821-X' aangepast",
+        "Time": "09-10-2026 10:01:51"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-3231: Bijzonderheden van 'Bezetting: 8 personen.' naar 'Bezetting: 7 personen.' aangepast",
+        "Time": "09-10-2026 10:01:51"
       }
     ]
   },
