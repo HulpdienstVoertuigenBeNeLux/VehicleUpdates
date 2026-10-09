@@ -414,6 +414,111 @@
         "Regio": "Henegouwen Zone - Hainaut-Centre",
         "Description": " DA toegevoegd aan Binche",
         "Time": "09-10-2026 12:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": "BMP01 HZA toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " HZA toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " TW toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " ELV toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " HV toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": "BMM01 PM toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": "BMM02 PM toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " SIG toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " DAT toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " CO toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " EGA toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " SLA toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " DPA toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " RBA toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " ABA toegevoegd aan Bornem",
+        "Time": "09-10-2026 19:02:21"
       }
     ],
     "removed": [
@@ -528,6 +633,34 @@
         "Regio": "Henegouwen Zone - Hainaut-Centre",
         "Description": "VO6 DA verwijderd van Binche",
         "Time": "09-10-2026 12:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": "BMP04 HZA verwijderd van Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": "BMP03 HZA verwijderd van Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " ABA verwijderd van Bornem",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "A08 HZA verwijderd van Borgloon",
+        "Time": "09-10-2026 19:02:21"
       }
     ],
     "changed": [
@@ -1055,6 +1188,20 @@
         "Regio": "4 - IJsselland (VRIJ)",
         "Description": "04-1031: Bijzonderheden van 'Reservevoertuig. Bezetting: 9 personen.' naar 'Reservevoertuig. Bezetting: 8 personen.' aangepast",
         "Time": "09-10-2026 15:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "T07: Kenteken van '' naar '1-JSB-202' aangepast",
+        "Time": "09-10-2026 19:02:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M06: Kenteken van '' naar '1-TCF-858' aangepast",
+        "Time": "09-10-2026 19:02:21"
       }
     ]
   },

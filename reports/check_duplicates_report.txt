@@ -86,10 +86,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,797  (of 10,152 total)
+  Records checked : 6,794  (of 10,149 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  541 value(s) affected
+  Duplicate Roepnummer  --  542 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -996,7 +996,7 @@
       Adres       : Borgloon
       Hulpdienst  : Brandweer
       Roepnummer  : A23
-      Kenteken    : 
+      Kenteken    : 1-CYX-873
       Adres       : Leuze-en-Hainaut
       Hulpdienst  : Brandweer
       Roepnummer  : A23
@@ -4202,7 +4202,7 @@
       Adres       : Borgloon
       Hulpdienst  : Brandweer
       Roepnummer  : L22
-      Kenteken    : 
+      Kenteken    : 1-VGS-583
       Adres       : Opwijk
       Hulpdienst  : Brandweer
       Roepnummer  : L22
@@ -5736,6 +5736,16 @@
       Roepnummer  : S06
       Kenteken    : 
 
+  >> 'S08'  (2x)
+      Adres       : Borgloon
+      Hulpdienst  : Brandweer
+      Roepnummer  : S08
+      Kenteken    : 1-JSA-886
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : S08
+      Kenteken    : 
+
   >> 'S09'  (2x)
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
@@ -5908,11 +5918,7 @@
       Roepnummer  : S16
       Kenteken    : 
 
-  >> 'S17'  (3x)
-      Adres       : Borgloon
-      Hulpdienst  : Brandweer
-      Roepnummer  : S17
-      Kenteken    : 
+  >> 'S17'  (2x)
       Adres       : Scherpenheuvel-Zichem
       Hulpdienst  : Brandweer
       Roepnummer  : S17
