@@ -343,13 +343,6 @@
     "no_data": true
   },
   {
-    "kenteken": "02WHDX",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "02BBX5",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -439,6 +432,13 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "31",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+  },
+  {
+    "kenteken": "02WHDX",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "03BBB7",
@@ -723,20 +723,6 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
-    "kenteken": "05WJFB",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "05WNRR",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
-  },
-  {
     "kenteken": "05BDD3",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -855,6 +841,20 @@
   {
     "kenteken": "05NXJ4",
     "no_data": true
+  },
+  {
+    "kenteken": "05WJFB",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "05WNRR",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "05ZDS6",
@@ -1047,13 +1047,6 @@
     "no_data": true
   },
   {
-    "kenteken": "07WKLH",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "07BBD3",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -1145,15 +1138,15 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
-    "kenteken": "07ZSP5",
-    "no_data": true
-  },
-  {
-    "kenteken": "08WNRR",
+    "kenteken": "07WKLH",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "07ZSP5",
+    "no_data": true
   },
   {
     "kenteken": "08BDB2",
@@ -1293,6 +1286,13 @@
   {
     "kenteken": "08WDSJ",
     "no_data": true
+  },
+  {
+    "kenteken": "08WNRR",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "09BDJ3",
@@ -1447,20 +1447,6 @@
     "no_data": true
   },
   {
-    "kenteken": "10WLFX",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
-  },
-  {
-    "kenteken": "10WNRR",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
-  },
-  {
     "kenteken": "10BBD1",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -1595,18 +1581,25 @@
     "no_data": true
   },
   {
+    "kenteken": "10WLFX",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
+    "kenteken": "10WNRR",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
     "kenteken": "10WXFH",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "31",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
-  },
-  {
-    "kenteken": "11WNRR",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "11BBJ3",
@@ -1729,6 +1722,13 @@
     "no_data": true
   },
   {
+    "kenteken": "11WNRR",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
     "kenteken": "11WVJL",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -1738,20 +1738,6 @@
   {
     "kenteken": "11ZDH9",
     "no_data": true
-  },
-  {
-    "kenteken": "12WNRR",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
-  },
-  {
-    "kenteken": "12WTXR",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "21",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer boten"
   },
   {
     "kenteken": "12BDJ3",
@@ -1957,33 +1943,26 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer voertuigen"
   },
   {
+    "kenteken": "12WNRR",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
+    "kenteken": "12WTXR",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "21",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer boten"
+  },
+  {
     "kenteken": "12ZDH9",
     "no_data": true
   },
   {
     "kenteken": "12ZKT2",
     "no_data": true
-  },
-  {
-    "kenteken": "13WFXF",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "13WHVH",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "13WNRR",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "13BBZ9",
@@ -2162,6 +2141,20 @@
     "no_data": true
   },
   {
+    "kenteken": "13WFXF",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "13WHVH",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
     "kenteken": "13WKSV",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -2173,15 +2166,15 @@
     "no_data": true
   },
   {
-    "kenteken": "13ZDH9",
-    "no_data": true
-  },
-  {
-    "kenteken": "14WJXP",
+    "kenteken": "13WNRR",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
+    "kenteken": "13ZDH9",
+    "no_data": true
   },
   {
     "kenteken": "14BBJ3",
@@ -2330,6 +2323,13 @@
   {
     "kenteken": "14FXHB",
     "no_data": true
+  },
+  {
+    "kenteken": "14WJXP",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "14ZDH9",
@@ -2732,13 +2732,6 @@
     "no_data": true
   },
   {
-    "kenteken": "18WNLS",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "99",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Niet in deze lijst opgenomen carrosserie"
-  },
-  {
     "kenteken": "18BBN4",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -2892,6 +2885,13 @@
   {
     "kenteken": "18WHSK",
     "no_data": true
+  },
+  {
+    "kenteken": "18WNLS",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "99",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Niet in deze lijst opgenomen carrosserie"
   },
   {
     "kenteken": "18WXLX",
@@ -3328,13 +3328,6 @@
     "no_data": true
   },
   {
-    "kenteken": "21WPPG",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "02",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Neerklapbare zijschotten"
-  },
-  {
     "kenteken": "21BBS2",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -3482,6 +3475,13 @@
   {
     "kenteken": "21VVP8",
     "no_data": true
+  },
+  {
+    "kenteken": "21WPPG",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "02",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Neerklapbare zijschotten"
   },
   {
     "kenteken": "21ZKN5",
@@ -3652,13 +3652,6 @@
   {
     "kenteken": "22VVP8",
     "no_data": true
-  },
-  {
-    "kenteken": "23WFLG",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "07",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Afneembare bovenbouw"
   },
   {
     "kenteken": "23BBG1",
@@ -3839,6 +3832,13 @@
   {
     "kenteken": "23TPP2",
     "no_data": true
+  },
+  {
+    "kenteken": "23WFLG",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "07",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Afneembare bovenbouw"
   },
   {
     "kenteken": "24BBV8",
@@ -4168,20 +4168,6 @@
     "no_data": true
   },
   {
-    "kenteken": "27WNNS",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
-  },
-  {
-    "kenteken": "27WPBJ",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "02",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Neerklapbare zijschotten"
-  },
-  {
     "kenteken": "27BBZ3",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -4347,18 +4333,25 @@
     "no_data": true
   },
   {
+    "kenteken": "27WNNS",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
+    "kenteken": "27WPBJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "02",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Neerklapbare zijschotten"
+  },
+  {
     "kenteken": "27WZDK",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "31",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
-  },
-  {
-    "kenteken": "28WNNS",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "28BBZ3",
@@ -4545,18 +4538,18 @@
     "no_data": true
   },
   {
+    "kenteken": "28WNNS",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
     "kenteken": "28WZDK",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "31",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
-  },
-  {
-    "kenteken": "29WPTX",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "29BBZ3",
@@ -4731,6 +4724,13 @@
     "no_data": true
   },
   {
+    "kenteken": "29WPTX",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
     "kenteken": "2KLB16",
     "no_data": true
   },
@@ -4847,13 +4847,6 @@
   {
     "kenteken": "2ZTF30",
     "no_data": true
-  },
-  {
-    "kenteken": "30WDVH",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "30BBH9",
@@ -5000,7 +4993,7 @@
     "no_data": true
   },
   {
-    "kenteken": "31WDVZ",
+    "kenteken": "30WDVH",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "03",
@@ -5139,6 +5132,13 @@
   {
     "kenteken": "31STX2",
     "no_data": true
+  },
+  {
+    "kenteken": "31WDVZ",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "31WTBG",
@@ -5423,13 +5423,6 @@
     "no_data": true
   },
   {
-    "kenteken": "34WGP8",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
-  },
-  {
     "kenteken": "34BBJ8",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -5598,19 +5591,19 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
+    "kenteken": "34WGP8",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
     "kenteken": "34WT54",
     "no_data": true
   },
   {
     "kenteken": "34ZKH9",
     "no_data": true
-  },
-  {
-    "kenteken": "35WVSZ",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "35BFP5",
@@ -5711,6 +5704,13 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
+    "kenteken": "35WVSZ",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
     "kenteken": "35XKF1",
     "no_data": true
   },
@@ -5721,13 +5721,6 @@
   {
     "kenteken": "35ZNRZ",
     "no_data": true
-  },
-  {
-    "kenteken": "36WSHP",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "36BDJ2",
@@ -5836,6 +5829,13 @@
     "no_data": true
   },
   {
+    "kenteken": "36WSHP",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
     "kenteken": "36WSZH",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -5849,27 +5849,6 @@
   {
     "kenteken": "36ZKH9",
     "no_data": true
-  },
-  {
-    "kenteken": "37WJR2",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "37WSHP",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "37WSXF",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "37BBN2",
@@ -5943,7 +5922,28 @@
     "no_data": true
   },
   {
+    "kenteken": "37WJR2",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
     "kenteken": "37WRH8",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
+    "kenteken": "37WSHP",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "37WSXF",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "01",
@@ -5952,20 +5952,6 @@
   {
     "kenteken": "37ZKH9",
     "no_data": true
-  },
-  {
-    "kenteken": "38WGJR",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "38WSHP",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "38BBG6",
@@ -6077,6 +6063,13 @@
     "no_data": true
   },
   {
+    "kenteken": "38WGJR",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
     "kenteken": "38WHXH",
     "no_data": true
   },
@@ -6085,15 +6078,15 @@
     "no_data": true
   },
   {
-    "kenteken": "38ZKH9",
-    "no_data": true
-  },
-  {
-    "kenteken": "39WSHP",
+    "kenteken": "38WSHP",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "03",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "38ZKH9",
+    "no_data": true
   },
   {
     "kenteken": "39BBB6",
@@ -6224,6 +6217,13 @@
   {
     "kenteken": "39NSV4",
     "no_data": true
+  },
+  {
+    "kenteken": "39WSHP",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "39ZDH9",
@@ -6994,20 +6994,6 @@
     "no_data": true
   },
   {
-    "kenteken": "44WGSZ",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "21",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer boten"
-  },
-  {
-    "kenteken": "44WVDR",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "99",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Niet in deze lijst opgenomen carrosserie"
-  },
-  {
     "kenteken": "44BBB2",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -7163,6 +7149,20 @@
     "no_data": true
   },
   {
+    "kenteken": "44WGSZ",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "21",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer boten"
+  },
+  {
+    "kenteken": "44WVDR",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "99",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Niet in deze lijst opgenomen carrosserie"
+  },
+  {
     "kenteken": "44WXRK",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -7281,20 +7281,6 @@
     "no_data": true
   },
   {
-    "kenteken": "46WDGT",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "46WPLF",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "46BDK1",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -7396,6 +7382,20 @@
   {
     "kenteken": "46RDPK",
     "no_data": true
+  },
+  {
+    "kenteken": "46WDGT",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "46WPLF",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "46ZFT5",
@@ -7541,13 +7541,6 @@
   {
     "kenteken": "47ZFT5",
     "no_data": true
-  },
-  {
-    "kenteken": "48WKH6",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "48BHF5",
@@ -7720,6 +7713,13 @@
   {
     "kenteken": "48WFHL",
     "no_data": true
+  },
+  {
+    "kenteken": "48WKH6",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "48WPFV",
@@ -7986,13 +7986,6 @@
     "no_data": true
   },
   {
-    "kenteken": "50WSKT",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
-  },
-  {
     "kenteken": "50BBX1",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -8185,6 +8178,13 @@
   {
     "kenteken": "50WPFV",
     "no_data": true
+  },
+  {
+    "kenteken": "50WSKT",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "51BGN7",
@@ -8633,13 +8633,6 @@
     "no_data": true
   },
   {
-    "kenteken": "54WZ13",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "54BBV4",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -8769,6 +8762,13 @@
   {
     "kenteken": "54WDBN",
     "no_data": true
+  },
+  {
+    "kenteken": "54WZ13",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "54XPJB",
@@ -9204,13 +9204,6 @@
     "no_data": true
   },
   {
-    "kenteken": "58WLJS",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "58BBF4",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -9378,6 +9371,13 @@
   {
     "kenteken": "58HDZ8",
     "no_data": true
+  },
+  {
+    "kenteken": "58WLJS",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "58XBL3",
@@ -9766,13 +9766,6 @@
     "no_data": true
   },
   {
-    "kenteken": "61WRTR",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "61BDD9",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -9946,11 +9939,11 @@
     "no_data": true
   },
   {
-    "kenteken": "62WDTT",
+    "kenteken": "61WRTR",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "31",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "62BDD9",
@@ -10076,6 +10069,13 @@
     "no_data": true
   },
   {
+    "kenteken": "62WDTT",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "31",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+  },
+  {
     "kenteken": "62WNHP",
     "no_data": true
   },
@@ -10086,13 +10086,6 @@
   {
     "kenteken": "62ZLV2",
     "no_data": true
-  },
-  {
-    "kenteken": "63WTXL",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "99",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Niet in deze lijst opgenomen carrosserie"
   },
   {
     "kenteken": "63BBK3",
@@ -10240,6 +10233,13 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "03",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "63WTXL",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "99",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Niet in deze lijst opgenomen carrosserie"
   },
   {
     "kenteken": "63ZFD7",
@@ -10416,20 +10416,6 @@
     "no_data": true
   },
   {
-    "kenteken": "65WJNJ",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "14",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer voertuigen"
-  },
-  {
-    "kenteken": "65WLND",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "65BBJ5",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -10552,6 +10538,20 @@
   {
     "kenteken": "65SXX1",
     "no_data": true
+  },
+  {
+    "kenteken": "65WJNJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "14",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer voertuigen"
+  },
+  {
+    "kenteken": "65WLND",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "66BBF9",
@@ -10678,34 +10678,6 @@
     "no_data": true
   },
   {
-    "kenteken": "67WHSG",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "31",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
-  },
-  {
-    "kenteken": "67WJVL",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "67WLND",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "67WNRP",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "02",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Neerklapbare zijschotten"
-  },
-  {
     "kenteken": "67BBV4",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -10801,8 +10773,36 @@
     "no_data": true
   },
   {
+    "kenteken": "67WHSG",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "31",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+  },
+  {
+    "kenteken": "67WJVL",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "67WLND",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
     "kenteken": "67WNHV",
     "no_data": true
+  },
+  {
+    "kenteken": "67WNRP",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "02",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Neerklapbare zijschotten"
   },
   {
     "kenteken": "67WRNG",
@@ -10912,13 +10912,6 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "2",
     "carrosseriecode": "31",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
-  },
-  {
-    "kenteken": "69WFLJ",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "07",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Afneembare bovenbouw"
   },
   {
     "kenteken": "69BDL5",
@@ -11033,6 +11026,13 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
+    "kenteken": "69WFLJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "07",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Afneembare bovenbouw"
+  },
+  {
     "kenteken": "69WJVL",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -11142,20 +11142,6 @@
   {
     "kenteken": "6XPD34",
     "no_data": true
-  },
-  {
-    "kenteken": "70WKZJ",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
-  },
-  {
-    "kenteken": "70WVHX",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "70BBK4",
@@ -11313,22 +11299,22 @@
     "no_data": true
   },
   {
-    "kenteken": "70ZST8",
-    "no_data": true
-  },
-  {
-    "kenteken": "71WGSG",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "21",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer boten"
-  },
-  {
-    "kenteken": "71WVHX",
+    "kenteken": "70WKZJ",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "01",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
+    "kenteken": "70WVHX",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
+    "kenteken": "70ZST8",
+    "no_data": true
   },
   {
     "kenteken": "71BBK4",
@@ -11406,6 +11392,20 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "14",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer voertuigen"
+  },
+  {
+    "kenteken": "71WGSG",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "21",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer boten"
+  },
+  {
+    "kenteken": "71WVHX",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "71XVD4",
@@ -11947,13 +11947,6 @@
     "no_data": true
   },
   {
-    "kenteken": "76WKRR",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "76BBHG",
     "no_data": true
   },
@@ -12079,6 +12072,13 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "31",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+  },
+  {
+    "kenteken": "76WKRR",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "76WXLR",
@@ -12772,13 +12772,6 @@
     "no_data": true
   },
   {
-    "kenteken": "80WJSJ",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "80BDB9",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -12914,15 +12907,15 @@
     "no_data": true
   },
   {
-    "kenteken": "80ZPTV",
-    "no_data": true
-  },
-  {
-    "kenteken": "81WNZR",
+    "kenteken": "80WJSJ",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "99",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Niet in deze lijst opgenomen carrosserie"
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "80ZPTV",
+    "no_data": true
   },
   {
     "kenteken": "81BBD5",
@@ -13112,6 +13105,13 @@
     "no_data": true
   },
   {
+    "kenteken": "81WNZR",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "99",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Niet in deze lijst opgenomen carrosserie"
+  },
+  {
     "kenteken": "82BDH3",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -13248,13 +13248,6 @@
   {
     "kenteken": "82MBVJ",
     "no_data": true
-  },
-  {
-    "kenteken": "83WSHD",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "83BBZ7",
@@ -13444,18 +13437,11 @@
     "no_data": true
   },
   {
-    "kenteken": "84WGPB",
+    "kenteken": "83WSHD",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "03",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "84WVGK",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "99",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Niet in deze lijst opgenomen carrosserie"
   },
   {
     "kenteken": "84BBD2",
@@ -13645,6 +13631,13 @@
     "no_data": true
   },
   {
+    "kenteken": "84WGPB",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
     "kenteken": "84WTGG",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -13652,11 +13645,11 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
-    "kenteken": "85WKV4",
+    "kenteken": "84WVGK",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+    "carrosseriecode": "99",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Niet in deze lijst opgenomen carrosserie"
   },
   {
     "kenteken": "85BBR4",
@@ -13835,6 +13828,13 @@
     "no_data": true
   },
   {
+    "kenteken": "85WKV4",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
     "kenteken": "85WLSK",
     "no_data": true
   },
@@ -13845,13 +13845,6 @@
   {
     "kenteken": "85XZFD",
     "no_data": true
-  },
-  {
-    "kenteken": "86WSPK",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "21",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer boten"
   },
   {
     "kenteken": "86BBN1",
@@ -14012,6 +14005,13 @@
     "no_data": true
   },
   {
+    "kenteken": "86WSPK",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "21",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer boten"
+  },
+  {
     "kenteken": "87BDF9",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -14122,13 +14122,6 @@
     "no_data": true
   },
   {
-    "kenteken": "88WZBJ",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "02",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Neerklapbare zijschotten"
-  },
-  {
     "kenteken": "88BFJ4",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -14194,6 +14187,13 @@
   {
     "kenteken": "88TPH7",
     "no_data": true
+  },
+  {
+    "kenteken": "88WZBJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "02",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Neerklapbare zijschotten"
   },
   {
     "kenteken": "89BBD2",
@@ -14719,20 +14719,6 @@
     "no_data": true
   },
   {
-    "kenteken": "91WHKP",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "91WZBF",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
-  },
-  {
     "kenteken": "91BDK3",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -14836,11 +14822,25 @@
     "no_data": true
   },
   {
+    "kenteken": "91WHKP",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
     "kenteken": "91WPL3",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "03",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "91WZBF",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "92BFV5",
@@ -14998,13 +14998,6 @@
     "no_data": true
   },
   {
-    "kenteken": "93WSVK",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "93BBS6",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -15136,6 +15129,13 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "31",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+  },
+  {
+    "kenteken": "93WSVK",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "94BBP8",
@@ -15320,13 +15320,6 @@
     "no_data": true
   },
   {
-    "kenteken": "95WPTP",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "21",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer boten"
-  },
-  {
     "kenteken": "95BDK3",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -15454,6 +15447,13 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
+    "kenteken": "95WPTP",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "21",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer boten"
+  },
+  {
     "kenteken": "95WXPT",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -15467,13 +15467,6 @@
   {
     "kenteken": "95ZTH9",
     "no_data": true
-  },
-  {
-    "kenteken": "96WTPJ",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "96BBF6",
@@ -15587,6 +15580,13 @@
   {
     "kenteken": "96MHSX",
     "no_data": true
+  },
+  {
+    "kenteken": "96WTPJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "96ZTH9",
@@ -15926,27 +15926,6 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
-    "kenteken": "99WHLK",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "31",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
-  },
-  {
-    "kenteken": "99WNRP",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
-  },
-  {
-    "kenteken": "99WVDX",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "01",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
-  },
-  {
     "kenteken": "99BDD4",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -16033,6 +16012,27 @@
   {
     "kenteken": "99HTR2",
     "no_data": true
+  },
+  {
+    "kenteken": "99WHLK",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "31",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+  },
+  {
+    "kenteken": "99WNRP",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
+  },
+  {
+    "kenteken": "99WVDX",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "01",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Open laadvloer"
   },
   {
     "kenteken": "99XGL2",
@@ -16219,13 +16219,6 @@
   {
     "kenteken": "9ZRV15",
     "no_data": true
-  },
-  {
-    "kenteken": "BB69GP",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "31",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
     "kenteken": "BB002S",
@@ -17130,6 +17123,13 @@
   },
   {
     "kenteken": "BB683B",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "31",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+  },
+  {
+    "kenteken": "BB69GP",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "31",
@@ -38270,6 +38270,10 @@
     "no_data": true
   },
   {
+    "kenteken": "VZ189X",
+    "no_data": true
+  },
+  {
     "kenteken": "VZ237P",
     "no_data": true
   },
@@ -38527,19 +38531,19 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
-    "kenteken": "WHGL77",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "WH74JS",
     "no_data": true
   },
   {
     "kenteken": "WHBN14",
     "no_data": true
+  },
+  {
+    "kenteken": "WHGL77",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "WJ78LN",
@@ -38592,13 +38596,6 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
-    "kenteken": "WNXB01",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "WNLX08",
     "no_data": true
   },
@@ -38614,14 +38611,7 @@
     "no_data": true
   },
   {
-    "kenteken": "WP55HB",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "WPJZ37",
+    "kenteken": "WNXB01",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "03",
@@ -38632,12 +38622,26 @@
     "no_data": true
   },
   {
+    "kenteken": "WP55HB",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
     "kenteken": "WP70JK",
     "no_data": true
   },
   {
     "kenteken": "WPGB58",
     "no_data": true
+  },
+  {
+    "kenteken": "WPJZ37",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "WPPX33",
@@ -38650,13 +38654,6 @@
   {
     "kenteken": "WRFZ35",
     "no_data": true
-  },
-  {
-    "kenteken": "WS69GP",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "WS29LV",
@@ -38684,6 +38681,13 @@
   },
   {
     "kenteken": "WS68GP",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
+  },
+  {
+    "kenteken": "WS69GP",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "03",
@@ -38726,15 +38730,15 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
+    "kenteken": "WTDL39",
+    "no_data": true
+  },
+  {
     "kenteken": "WTRN46",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "21",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer boten"
-  },
-  {
-    "kenteken": "WTDL39",
-    "no_data": true
   },
   {
     "kenteken": "WV38RR",
@@ -38793,6 +38797,14 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
+    "kenteken": "WVLZ48",
+    "no_data": true
+  },
+  {
+    "kenteken": "WVRR09",
+    "no_data": true
+  },
+  {
     "kenteken": "WVTH02",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -38814,14 +38826,6 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
-    "kenteken": "WVLZ48",
-    "no_data": true
-  },
-  {
-    "kenteken": "WVRR09",
-    "no_data": true
-  },
-  {
     "kenteken": "WX14DZ",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -38836,18 +38840,18 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
-    "kenteken": "WXTH15",
+    "kenteken": "WXPV78",
+    "no_data": true
+  },
+  {
+    "kenteken": "WXRD82",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "03",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
-    "kenteken": "WXPV78",
-    "no_data": true
-  },
-  {
-    "kenteken": "WXRD82",
+    "kenteken": "WXTH15",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "03",
@@ -38866,6 +38870,14 @@
   },
   {
     "kenteken": "WY83NB",
+    "no_data": true
+  },
+  {
+    "kenteken": "WZ07RS",
+    "no_data": true
+  },
+  {
+    "kenteken": "WZ82JZ",
     "no_data": true
   },
   {
@@ -38888,14 +38900,6 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "03",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
-    "kenteken": "WZ07RS",
-    "no_data": true
-  },
-  {
-    "kenteken": "WZ82JZ",
-    "no_data": true
   },
   {
     "kenteken": "WZRT04",
