@@ -6605,7 +6605,7 @@
       "BA-1H",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-CYG-798",
       "",
       "",
       "Brandweer",
@@ -6620,7 +6620,7 @@
       "BA-2H",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-LJL-055",
       "",
       "",
       "Brandweer",
@@ -6635,7 +6635,7 @@
       "BA-TW",
       "TW",
       "Tankwagen",
-      "",
+      "2-AFE-911",
       "",
       "",
       "Brandweer",
@@ -6648,10 +6648,10 @@
     [
       "Brasschaat",
       "BA-AL",
-      "LW 30",
+      "LW",
       "Ladderwagen",
-      "",
-      "",
+      "2-HWV-161",
+      "Lengte: 30 meter.",
       "",
       "Brandweer",
       "Antwerpen Zone - Rand",
@@ -6662,10 +6662,10 @@
     ],
     [
       "Brasschaat",
-      "B08",
+      "BA-DW",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-NHE-185",
       "",
       "",
       "Brandweer",
@@ -6677,25 +6677,10 @@
     ],
     [
       "Brasschaat",
-      "B03",
-      "PM",
-      "Personeel / Materiaal Voertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Antwerpen Zone - Rand",
-      "",
-      "",
-      "",
-      "VEH-006-POST-029"
-    ],
-    [
-      "Brasschaat",
       "BA-BW1",
       "CCFM",
       "Bosbrand Autopomp Terreinvaardig",
-      "",
+      "1-LHV-783",
       "",
       "",
       "Brandweer",
@@ -6710,7 +6695,7 @@
       "BA-BW2",
       "CCFM",
       "Bosbrand Autopomp Terreinvaardig",
-      "",
+      "1-LHT-251",
       "",
       "",
       "Brandweer",
@@ -6722,10 +6707,10 @@
     ],
     [
       "Brasschaat",
-      "B16",
+      "BA-SW",
       "SIG",
       "Signalisatievoertuig",
-      "",
+      "1-KCA-283",
       "",
       "",
       "Brandweer",
@@ -6737,10 +6722,10 @@
     ],
     [
       "Brasschaat",
-      "B01",
+      "BA-AT",
       "DAT",
       "Diensauto Terreinvaardig",
-      "",
+      "1-YFF-784",
       "",
       "",
       "Brandweer",
@@ -6752,10 +6737,10 @@
     ],
     [
       "Brasschaat",
-      "B02",
+      "",
       "DA",
       "Dienstauto",
-      "",
+      "2-CUG-821",
       "",
       "",
       "Brandweer",
@@ -6767,10 +6752,10 @@
     ],
     [
       "Brasschaat",
-      "B11",
+      "BA-CW",
       "CO",
       "Commandovoertuig",
-      "",
+      "2-EKA-101",
       "",
       "",
       "Brandweer",
@@ -6785,7 +6770,7 @@
       "BA-HA1",
       "HA",
       "Haakarmvoertuig",
-      "",
+      "1-LHT-239",
       "",
       "",
       "Brandweer",
@@ -6797,10 +6782,10 @@
     ],
     [
       "Brasschaat",
-      "",
-      "LBC",
-      "Laadbak Container (met kraan)",
-      "",
+      "BA-HA2",
+      "HA",
+      "Haakarmvoertuig",
+      "1-LHY-093",
       "",
       "",
       "Brandweer",
@@ -6813,8 +6798,8 @@
     [
       "Brasschaat",
       "",
-      "WTC",
-      "Watertank container",
+      "LBC",
+      "Laadbak Container",
       "",
       "",
       "",
@@ -6828,10 +6813,10 @@
     [
       "Brasschaat",
       "",
-      "BMC",
-      "Bijzondere Materialen Container",
+      "COC",
+      "Commando Container",
       "",
-      "Ventilatoren Container",
+      "",
       "",
       "Brandweer",
       "Antwerpen Zone - Rand",
@@ -6841,8 +6826,38 @@
       "VEH-016-POST-029"
     ],
     [
+      "",
+      "",
+      "COC",
+      "Commando Container",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "VEH-017-POST-029"
+    ],
+    [
       "Brasschaat",
-      "B15",
+      "",
+      "BU-VN",
+      "Bijzondere uitrusting ventilator",
+      "",
+      "Ventilatoren Container",
+      "",
+      "Brandweer",
+      "Antwerpen Zone - Rand",
+      "",
+      "",
+      "",
+      "VEH-018-POST-029"
+    ],
+    [
+      "Brasschaat",
+      "",
       "DMA",
       "Draagbare Motorpomp Aanhanger",
       "",
@@ -6853,7 +6868,7 @@
       "",
       "",
       "",
-      "VEH-017-POST-029"
+      "VEH-019-POST-029"
     ],
     [
       "Brasschaat",
@@ -6868,7 +6883,7 @@
       "",
       "",
       "",
-      "VEH-018-POST-029"
+      "VEH-020-POST-029"
     ],
     [
       "Brecht - Ambachtslaan 10",
@@ -37832,10 +37847,10 @@
     ],
     [
       "Brakel",
-      "",
+      "BR-AP-1",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-CYR-832",
       "",
       "",
       "Brandweer",
@@ -37847,10 +37862,10 @@
     ],
     [
       "Brakel",
-      "",
+      "BR-AP-2",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-JPF-003",
       "",
       "",
       "Brandweer",
@@ -37862,10 +37877,10 @@
     ],
     [
       "Brakel",
-      "",
+      "BR-TW-1",
       "TW",
       "Tankwagen",
-      "",
+      "1-JPG-158",
       "",
       "",
       "Brandweer",
@@ -37877,11 +37892,11 @@
     ],
     [
       "Brakel",
-      "39",
-      "LW 30",
+      "BR-AL-1",
+      "LW",
       "Ladderwagen",
-      "",
-      "",
+      "1-JVC-367",
+      "Lengte: 30 meter.",
       "",
       "Brandweer",
       "Oost-Vlaanderen Zone - Vlaamse Ardennen",
@@ -37892,10 +37907,10 @@
     ],
     [
       "Brakel",
-      "",
+      "BR-PW-1",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-JSB-477",
       "",
       "",
       "Brandweer",
@@ -37907,10 +37922,10 @@
     ],
     [
       "Brakel",
-      "",
+      "BR-LV-1",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-LHB-680",
       "",
       "",
       "Brandweer",
@@ -37922,10 +37937,10 @@
     ],
     [
       "Brakel",
-      "",
-      "CO",
-      "Commandovoertuig",
-      "",
+      "BR-ML-1",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "1-YXD-985",
       "",
       "",
       "Brandweer",
@@ -37934,6 +37949,21 @@
       "",
       "",
       "VEH-007-POST-150"
+    ],
+    [
+      "Brakel",
+      "BR-CW-1",
+      "CO",
+      "Commandovoertuig",
+      "2-DDB-186",
+      "",
+      "",
+      "Brandweer",
+      "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+      "",
+      "",
+      "",
+      "VEH-008-POST-150"
     ],
     [
       "Brakel",
@@ -37948,14 +37978,14 @@
       "",
       "",
       "",
-      "VEH-008-POST-150"
+      "VEH-009-POST-150"
     ],
     [
       "Brakel",
       "",
       "BMA",
       "Bijzondere Materialen Aanhanger",
-      "",
+      "UTR-258",
       "",
       "",
       "Brandweer",
@@ -37963,7 +37993,7 @@
       "",
       "",
       "",
-      "VEH-009-POST-150"
+      "VEH-010-POST-150"
     ],
     [
       "Brakel",
@@ -37978,7 +38008,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-150"
+      "VEH-011-POST-150"
     ],
     [
       "Brakel",
@@ -37993,7 +38023,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-150"
+      "VEH-012-POST-150"
     ],
     [
       "Brakel",
@@ -38008,7 +38038,7 @@
       "",
       "",
       "",
-      "VEH-012-POST-150"
+      "VEH-013-POST-150"
     ],
     [
       "Herzele - Mergellaan 75",
@@ -62225,7 +62255,7 @@
       "P1",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-JSS-435",
       "",
       "",
       "Brandweer",
@@ -62240,7 +62270,7 @@
       "P2",
       "ZA",
       "Zware Autopomp",
-      "",
+      "1-JUB-705",
       "",
       "",
       "Brandweer",
@@ -62253,10 +62283,10 @@
     [
       "Braine-le-Comte",
       "E1",
-      "LW 24",
+      "LW",
       "Ladderwagen",
-      "",
-      "",
+      "1-JSS-485",
+      "Lengte: 24 meter.",
       "",
       "Brandweer",
       "Henegouwen Zone - Hainaut-Centre",
@@ -62300,7 +62330,7 @@
       "",
       "SIG",
       "Signalisatievoertuig",
-      "",
+      "1-LKZ-953",
       "",
       "",
       "Brandweer",
@@ -62312,9 +62342,9 @@
     ],
     [
       "Braine-le-Comte",
-      "T3",
+      "T2",
       "DB",
-      "Dienstbus Personeel / Materiaal",
+      "Dienstbus",
       "",
       "",
       "",
@@ -62327,9 +62357,9 @@
     ],
     [
       "Braine-le-Comte",
-      "T2",
+      "T3",
       "DB",
-      "Dienstbus Personeel / Materiaal",
+      "Dienstbus",
       "",
       "",
       "",
@@ -62342,10 +62372,10 @@
     ],
     [
       "Braine-le-Comte",
-      "O2",
+      "O1",
       "CO",
       "Commandovoertuig",
-      "",
+      "1-JUB-682",
       "",
       "",
       "Brandweer",
@@ -62357,10 +62387,10 @@
     ],
     [
       "Braine-le-Comte",
-      "O1",
+      "O2",
       "CO",
       "Commandovoertuig",
-      "",
+      "1-JUB-669",
       "",
       "",
       "Brandweer",
@@ -62405,7 +62435,7 @@
       "",
       "DMA",
       "Draagbare Motorpomp Aanhanger",
-      "",
+      "API-239",
       "",
       "",
       "Brandweer",
@@ -62433,21 +62463,6 @@
     [
       "Braine-le-Comte",
       "",
-      "SIGA",
-      "Signalisatie Aanhanger",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Henegouwen Zone - Hainaut-Centre",
-      "",
-      "",
-      "",
-      "VEH-015-POST-1298"
-    ],
-    [
-      "Braine-le-Comte",
-      "",
       "BMA",
       "Bijzondere Materialen Aanhanger",
       "",
@@ -62458,7 +62473,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-1298"
+      "VEH-015-POST-1298"
     ],
     [
       "Chièvres - Greu de la Croix 112",
@@ -65702,21 +65717,6 @@
     ],
     [
       "Braine-L'Alleud",
-      "T21",
-      "PM",
-      "Personeel / Materiaal Voertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-009-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
       "T22",
       "PM",
       "Personeel / Materiaal Voertuig",
@@ -65728,22 +65728,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "T23",
-      "PM",
-      "Personeel / Materiaal Voertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-011-POST-279"
+      "VEH-008-POST-279"
     ],
     [
       "Braine-L'Alleud",
@@ -65758,37 +65743,7 @@
       "",
       "",
       "",
-      "VEH-012-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "",
-      "LBC",
-      "Laadbak Container (met kraan)",
-      "",
-      "Voor de T22",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-013-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "S21",
-      "SIG",
-      "Signalisatievoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-015-POST-279"
+      "VEH-009-POST-279"
     ],
     [
       "Braine-L'Alleud",
@@ -65803,7 +65758,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-279"
+      "VEH-010-POST-279"
     ],
     [
       "Braine-L'Alleud",
@@ -65818,29 +65773,14 @@
       "",
       "",
       "",
-      "VEH-008-POST-279"
+      "VEH-011-POST-279"
     ],
     [
       "Braine-L'Alleud",
       "S24",
       "(VW) IGS",
       "Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-016-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "R22",
-      "DA",
-      "Dienstauto",
-      "",
+      "1-NAX-778",
       "",
       "",
       "Brandweer",
@@ -65848,157 +65788,7 @@
       "",
       "",
       "",
-      "VEH-017-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "",
-      "DB",
-      "Dienstbus Personeel / Materiaal",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-018-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "R21",
-      "CO",
-      "Commandovoertuig",
-      "2-EEX-022",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-019-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "R23",
-      "CO",
-      "Commandovoertuig",
-      "1-RFU-384",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-020-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "T25",
-      "HA-KR",
-      "Haakarmvoertuig (Met kraan)",
-      "1-LEU-170",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-021-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "",
-      "BMC",
-      "Bijzondere Materialen Container",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-022-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "",
-      "BU-VN",
-      "Bijzondere uitrusting ventilator",
-      "URN-024",
-      "Schuimventilator",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-023-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "",
-      "SVA",
-      "Salvage Aanhanger",
-      "URN-026",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-024-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "",
-      "IGS-CMIA",
-      "IGS -CMIC / Milieu Aanhanger",
-      "UPU-783",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-025-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "",
-      "BM",
-      "Bijzonder Materiaal",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-026-POST-279"
-    ],
-    [
-      "Braine-L'Alleud",
-      "",
-      "BMC",
-      "Bijzondere Materialen Container",
-      "",
-      "Oefen Container",
-      "",
-      "Brandweer",
-      "Waals-Brabant Zone - Brabant-Wallon",
-      "",
-      "",
-      "",
-      "VEH-027-POST-279"
+      "VEH-012-POST-279"
     ],
     [
       "Braine-L'Alleud",
@@ -66013,7 +65803,7 @@
       "",
       "",
       "",
-      "VEH-028-POST-279"
+      "VEH-013-POST-279"
     ],
     [
       "Braine-L'Alleud",
@@ -66028,13 +65818,88 @@
       "",
       "",
       "",
-      "VEH-029-POST-279"
+      "VEH-014-POST-279"
+    ],
+    [
+      "Braine-L'Alleud",
+      "V25",
+      "DB",
+      "Dienstbus",
+      "1-RUG-921",
+      "",
+      "",
+      "Brandweer",
+      "Waals-Brabant Zone - Brabant-Wallon",
+      "",
+      "",
+      "",
+      "VEH-015-POST-279"
+    ],
+    [
+      "Braine-L'Alleud",
+      "R21",
+      "CO",
+      "Commandovoertuig",
+      "2-EEX-022",
+      "",
+      "",
+      "Brandweer",
+      "Waals-Brabant Zone - Brabant-Wallon",
+      "",
+      "",
+      "",
+      "VEH-016-POST-279"
+    ],
+    [
+      "Braine-L'Alleud",
+      "R23",
+      "CO",
+      "Commandovoertuig",
+      "1-RFU-384",
+      "",
+      "",
+      "Brandweer",
+      "Waals-Brabant Zone - Brabant-Wallon",
+      "",
+      "",
+      "",
+      "VEH-017-POST-279"
+    ],
+    [
+      "Braine-L'Alleud",
+      "G21",
+      "MFT-VER",
+      "Multifunctioneel voertuig terreinvaardig verreiker",
+      "1-LEP-061",
+      "",
+      "",
+      "Brandweer",
+      "Waals-Brabant Zone - Brabant-Wallon",
+      "",
+      "",
+      "",
+      "VEH-018-POST-279"
+    ],
+    [
+      "Braine-L'Alleud",
+      "T25",
+      "HA-KR",
+      "Haakarmvoertuig (Met kraan)",
+      "1-LEU-170",
+      "",
+      "",
+      "Brandweer",
+      "Waals-Brabant Zone - Brabant-Wallon",
+      "",
+      "",
+      "",
+      "VEH-019-POST-279"
     ],
     [
       "Braine-L'Alleud",
       "",
-      "DB",
-      "Dienstbus Personeel / Materiaal",
+      "BMC",
+      "Bijzondere Materialen Container",
       "",
       "",
       "",
@@ -66043,14 +65908,29 @@
       "",
       "",
       "",
-      "VEH-030-POST-279"
+      "VEH-020-POST-279"
     ],
     [
       "Braine-L'Alleud",
       "",
-      "DB",
-      "Dienstbus Personeel / Materiaal",
+      "BU-VN",
+      "Bijzondere uitrusting ventilator",
+      "URN-024",
+      "Schuimventilator",
       "",
+      "Brandweer",
+      "Waals-Brabant Zone - Brabant-Wallon",
+      "",
+      "",
+      "",
+      "VEH-021-POST-279"
+    ],
+    [
+      "Braine-L'Alleud",
+      "",
+      "SVA",
+      "Salvage Aanhanger",
+      "URN-026",
       "",
       "",
       "Brandweer",
@@ -66058,7 +65938,22 @@
       "",
       "",
       "",
-      "VEH-031-POST-279"
+      "VEH-022-POST-279"
+    ],
+    [
+      "Braine-L'Alleud",
+      "",
+      "IGS-CMIA",
+      "IGS -CMIC / Milieu Aanhanger",
+      "UPU-783",
+      "",
+      "",
+      "Brandweer",
+      "Waals-Brabant Zone - Brabant-Wallon",
+      "",
+      "",
+      "",
+      "VEH-023-POST-279"
     ],
     [
       "Jodoigne - Rue des Trois Fontaines 12",
@@ -66073,7 +65968,7 @@
       "",
       "",
       "50.710740792133066, 4.854655380125733",
-      "POST-280"
+      "POST-1962"
     ],
     [
       "Jodoigne",
@@ -66088,7 +65983,7 @@
       "",
       "",
       "",
-      "VEH-001-POST-280"
+      "VEH-001-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66103,7 +65998,7 @@
       "",
       "",
       "",
-      "VEH-002-POST-280"
+      "VEH-002-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66118,7 +66013,7 @@
       "",
       "",
       "",
-      "VEH-003-POST-280"
+      "VEH-003-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66133,7 +66028,7 @@
       "",
       "",
       "",
-      "VEH-004-POST-280"
+      "VEH-004-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66148,7 +66043,7 @@
       "",
       "",
       "",
-      "VEH-005-POST-280"
+      "VEH-005-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66163,7 +66058,7 @@
       "",
       "",
       "",
-      "VEH-006-POST-280"
+      "VEH-006-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66178,7 +66073,7 @@
       "",
       "",
       "",
-      "VEH-007-POST-280"
+      "VEH-007-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66193,7 +66088,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-280"
+      "VEH-008-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66208,7 +66103,7 @@
       "",
       "",
       "",
-      "VEH-009-POST-280"
+      "VEH-009-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66223,7 +66118,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-280"
+      "VEH-010-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66238,7 +66133,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-280"
+      "VEH-011-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66253,7 +66148,7 @@
       "",
       "",
       "",
-      "VEH-012-POST-280"
+      "VEH-012-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66268,7 +66163,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-280"
+      "VEH-013-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66283,7 +66178,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-280"
+      "VEH-014-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66298,7 +66193,7 @@
       "",
       "",
       "",
-      "VEH-015-POST-280"
+      "VEH-015-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66313,7 +66208,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-280"
+      "VEH-016-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66328,7 +66223,7 @@
       "",
       "",
       "",
-      "VEH-017-POST-280"
+      "VEH-017-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66343,7 +66238,7 @@
       "",
       "",
       "",
-      "VEH-018-POST-280"
+      "VEH-018-POST-1962"
     ],
     [
       "Jodoigne",
@@ -66358,7 +66253,7 @@
       "",
       "",
       "",
-      "VEH-019-POST-280"
+      "VEH-019-POST-1962"
     ],
     [
       "Nivelles - Chaussée de Charleroi 46c",
@@ -66373,7 +66268,7 @@
       "",
       "",
       "50.58151401769298, 4.338634791435574",
-      "POST-281"
+      "POST-1963"
     ],
     [
       "Nivelles",
@@ -66388,7 +66283,7 @@
       "",
       "",
       "",
-      "VEH-001-POST-281"
+      "VEH-001-POST-1963"
     ],
     [
       "Nivelles",
@@ -66403,7 +66298,7 @@
       "",
       "",
       "",
-      "VEH-002-POST-281"
+      "VEH-002-POST-1963"
     ],
     [
       "Nivelles",
@@ -66418,7 +66313,7 @@
       "",
       "",
       "",
-      "VEH-003-POST-281"
+      "VEH-003-POST-1963"
     ],
     [
       "Nivelles",
@@ -66433,7 +66328,7 @@
       "",
       "",
       "",
-      "VEH-004-POST-281"
+      "VEH-004-POST-1963"
     ],
     [
       "Nivelles",
@@ -66448,7 +66343,7 @@
       "",
       "",
       "",
-      "VEH-005-POST-281"
+      "VEH-005-POST-1963"
     ],
     [
       "Nivelles",
@@ -66463,7 +66358,7 @@
       "",
       "",
       "",
-      "VEH-006-POST-281"
+      "VEH-006-POST-1963"
     ],
     [
       "Nivelles",
@@ -66478,7 +66373,7 @@
       "",
       "",
       "",
-      "VEH-007-POST-281"
+      "VEH-007-POST-1963"
     ],
     [
       "Nivelles",
@@ -66493,7 +66388,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-281"
+      "VEH-008-POST-1963"
     ],
     [
       "Nivelles",
@@ -66508,7 +66403,7 @@
       "",
       "",
       "",
-      "VEH-009-POST-281"
+      "VEH-009-POST-1963"
     ],
     [
       "Nivelles",
@@ -66523,7 +66418,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-281"
+      "VEH-010-POST-1963"
     ],
     [
       "Nivelles",
@@ -66538,7 +66433,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-281"
+      "VEH-011-POST-1963"
     ],
     [
       "Nivelles",
@@ -66553,7 +66448,7 @@
       "",
       "",
       "",
-      "VEH-012-POST-281"
+      "VEH-012-POST-1963"
     ],
     [
       "Nivelles",
@@ -66568,7 +66463,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-281"
+      "VEH-013-POST-1963"
     ],
     [
       "Nivelles",
@@ -66583,7 +66478,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-281"
+      "VEH-014-POST-1963"
     ],
     [
       "Nivelles",
@@ -66598,7 +66493,7 @@
       "",
       "",
       "",
-      "VEH-015-POST-281"
+      "VEH-015-POST-1963"
     ],
     [
       "Nivelles",
@@ -66613,7 +66508,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-281"
+      "VEH-016-POST-1963"
     ],
     [
       "Nivelles",
@@ -66628,14 +66523,14 @@
       "",
       "",
       "",
-      "VEH-017-POST-281"
+      "VEH-017-POST-1963"
     ],
     [
       "Nivelles",
       "R41",
       "CO",
       "Commandovoertuig",
-      "",
+      "2-BCG-506",
       "",
       "",
       "Brandweer",
@@ -66643,7 +66538,7 @@
       "",
       "",
       "",
-      "VEH-018-POST-281"
+      "VEH-018-POST-1963"
     ],
     [
       "Nivelles",
@@ -66658,7 +66553,7 @@
       "",
       "",
       "",
-      "VEH-019-POST-281"
+      "VEH-019-POST-1963"
     ],
     [
       "Nivelles",
@@ -66673,7 +66568,7 @@
       "",
       "",
       "",
-      "VEH-020-POST-281"
+      "VEH-020-POST-1963"
     ],
     [
       "Nivelles",
@@ -66688,7 +66583,7 @@
       "",
       "",
       "",
-      "VEH-021-POST-281"
+      "VEH-021-POST-1963"
     ],
     [
       "Nivelles",
@@ -66703,7 +66598,7 @@
       "",
       "",
       "",
-      "VEH-022-POST-281"
+      "VEH-022-POST-1963"
     ],
     [
       "Nivelles",
@@ -66718,7 +66613,7 @@
       "",
       "",
       "",
-      "VEH-023-POST-281"
+      "VEH-023-POST-1963"
     ],
     [
       "Nivelles",
@@ -66733,7 +66628,7 @@
       "",
       "",
       "",
-      "VEH-024-POST-281"
+      "VEH-024-POST-1963"
     ],
     [
       "Nivelles",
@@ -66748,7 +66643,7 @@
       "",
       "",
       "",
-      "VEH-025-POST-281"
+      "VEH-025-POST-1963"
     ],
     [
       "Nivelles",
@@ -66763,7 +66658,7 @@
       "",
       "",
       "",
-      "VEH-026-POST-281"
+      "VEH-026-POST-1963"
     ],
     [
       "Nivelles",
@@ -66778,7 +66673,7 @@
       "",
       "",
       "",
-      "VEH-027-POST-281"
+      "VEH-027-POST-1963"
     ],
     [
       "Nivelles",
@@ -66793,7 +66688,7 @@
       "",
       "",
       "",
-      "VEH-028-POST-281"
+      "VEH-028-POST-1963"
     ],
     [
       "Nivelles",
@@ -66808,7 +66703,7 @@
       "",
       "",
       "",
-      "VEH-029-POST-281"
+      "VEH-029-POST-1963"
     ],
     [
       "Tubize - Rue Ferrer 91",

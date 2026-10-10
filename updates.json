@@ -1,5 +1,329 @@
 [
   {
+    "date": "2026-10-11",
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN OVD-BZ toegevoegd aan Spijkenisse",
+        "Time": "11-10-2026 00:02:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-DW PM toegevoegd aan Brasschaat",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-SW SIG toegevoegd aan Brasschaat",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-AT DAT toegevoegd aan Brasschaat",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": " DA toegevoegd aan Brasschaat",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-CW CO toegevoegd aan Brasschaat",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-HA2 HA toegevoegd aan Brasschaat",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "BR-AP-1 HZA toegevoegd aan Brakel",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "BR-AP-2 HZA toegevoegd aan Brakel",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "BR-TW-1 TW toegevoegd aan Brakel",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "BR-AL-1 LW toegevoegd aan Brakel",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "BR-PW-1 PM toegevoegd aan Brakel",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "BR-LV-1 PM toegevoegd aan Brakel",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "BR-ML-1 PM toegevoegd aan Brakel",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "BR-CW-1 CO toegevoegd aan Brakel",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": " BMA toegevoegd aan Brakel",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": " SIG toegevoegd aan Braine-le-Comte",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": " DMA toegevoegd aan Braine-le-Comte",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "G21 MFT-VER toegevoegd aan Braine-L'Alleud",
+        "Time": "11-10-2026 00:02:23"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "B16 SIG verwijderd van Brasschaat",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "B02 DA verwijderd van Brasschaat",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "B15 DMA verwijderd van Brasschaat",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "39 LW 30 verwijderd van Brakel",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "R22 DA verwijderd van Braine-L'Alleud",
+        "Time": "11-10-2026 00:02:23"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-1H: Kenteken van '' naar '1-CYG-798' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-2H: Kenteken van '' naar '1-LJL-055' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-TW: Kenteken van '' naar '2-AFE-911' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-AL: Afkorting van 'LW 30' naar 'LW' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-AL: Kenteken van '' naar '2-HWV-161' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-AL: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-BW1: Kenteken van '' naar '1-LHV-783' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-BW2: Kenteken van '' naar '1-LHT-251' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "BA-HA1: Kenteken van '' naar '1-LHT-239' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "S21: Adres van 'Braine-L'Alleud' naar 'Tongeren' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "S21: Afkorting van 'SIG' naar 'PM' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "S21: TypeVoertuig van 'Signalisatievoertuig' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "S24: Kenteken van '' naar '1-NAX-778' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V25: Adres van 'Héliport' naar 'Braine-L'Alleud' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V25: Afkorting van 'DA' naar 'DB' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V25: TypeVoertuig van 'Dienstauto' naar 'Dienstbus' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V25: Kenteken van '' naar '1-RUG-921' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T23: Adres van 'Braine-L'Alleud' naar 'Mouscron' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "O1: Kenteken van '' naar '1-JUB-682' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": ": Afkorting van 'DB' naar 'BMC' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": ": TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Bijzondere Materialen Container' aangepast",
+        "Time": "11-10-2026 00:02:23"
+      }
+    ]
+  },
+  {
     "date": "2026-10-10",
     "added": [
       {
@@ -13290,42 +13614,6 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "17-3151: Kenteken van 'BX-LP-54' naar 'BD-676-T' aangepast",
         "Time": "10-09-2026 10:00:20"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "5 - Twente (VRT)",
-        "Description": "GEEN AMBU-LC toegevoegd aan Hengelo",
-        "Time": "09-09-2026 17:00:21"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Rode Kruis",
-        "Regio": "",
-        "Description": "06-9-54 DB-RK toegevoegd aan ONBEKEND",
-        "Time": "09-09-2026 17:00:21"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Weginspecteurs",
-        "Regio": "MN-RWS",
-        "Description": "GEEN (DB) WIS toegevoegd aan Huis Ter Heide",
-        "Time": "09-09-2026 17:00:21"
-      }
-    ],
-    "removed": [],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Politie",
-        "Regio": "DH-POL",
-        "Description": "DH41 Politiepost Klein Noordwijk: Adres van 'Den Haag' naar 'Noordwijk' aangepast",
-        "Time": "09-09-2026 17:00:21"
       }
     ]
   }

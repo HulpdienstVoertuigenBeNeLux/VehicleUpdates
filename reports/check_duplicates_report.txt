@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,066  (of 17,251 total)
+  Records checked : 11,069  (of 17,254 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  5 value(s) affected
@@ -86,10 +86,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,790  (of 10,145 total)
+  Records checked : 6,782  (of 10,138 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  542 value(s) affected
+  Duplicate Roepnummer  --  540 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -1508,21 +1508,7 @@
       Roepnummer  : AT1
       Kenteken    : 
 
-  >> 'B01'  (2x)
-      Adres       : Brasschaat
-      Hulpdienst  : Brandweer
-      Roepnummer  : B01
-      Kenteken    : 
-      Adres       : Bilzen-Hoeselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : B01
-      Kenteken    : 1-CYB-029
-
-  >> 'B03'  (3x)
-      Adres       : Brasschaat
-      Hulpdienst  : Brandweer
-      Roepnummer  : B03
-      Kenteken    : 
+  >> 'B03'  (2x)
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : B03
@@ -1530,16 +1516,6 @@
       Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
       Roepnummer  : B03
-      Kenteken    : 
-
-  >> 'B08'  (2x)
-      Adres       : Brasschaat
-      Hulpdienst  : Brandweer
-      Roepnummer  : B08
-      Kenteken    : 
-      Adres       : Hasselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : B08
       Kenteken    : 
 
   >> 'B1'  (2x)
@@ -1582,11 +1558,7 @@
       Roepnummer  : B108
       Kenteken    : 
 
-  >> 'B11'  (7x)
-      Adres       : Brasschaat
-      Hulpdienst  : Brandweer
-      Roepnummer  : B11
-      Kenteken    : 
+  >> 'B11'  (6x)
       Adres       : Sint-Job-in-'t-Goor
       Hulpdienst  : Brandweer
       Roepnummer  : B11
@@ -3236,7 +3208,7 @@
       Adres       : Braine-le-Comte
       Hulpdienst  : Brandweer
       Roepnummer  : E1
-      Kenteken    : 
+      Kenteken    : 1-JSS-485
       Adres       : Chièvres
       Hulpdienst  : Brandweer
       Roepnummer  : E1
@@ -4848,7 +4820,7 @@
       Adres       : Braine-le-Comte
       Hulpdienst  : Brandweer
       Roepnummer  : O2
-      Kenteken    : 
+      Kenteken    : 1-JUB-669
       Adres       : Quiévrain
       Hulpdienst  : Brandweer
       Roepnummer  : O2
@@ -4870,7 +4842,7 @@
       Adres       : Braine-le-Comte
       Hulpdienst  : Brandweer
       Roepnummer  : P1
-      Kenteken    : 
+      Kenteken    : 1-JSS-435
       Adres       : Chièvres
       Hulpdienst  : Brandweer
       Roepnummer  : P1
@@ -5030,7 +5002,7 @@
       Adres       : Braine-le-Comte
       Hulpdienst  : Brandweer
       Roepnummer  : P2
-      Kenteken    : 
+      Kenteken    : 1-JUB-705
       Adres       : Chièvres
       Hulpdienst  : Brandweer
       Roepnummer  : P2
@@ -5662,7 +5634,7 @@
       Adres       : Nivelles
       Hulpdienst  : Brandweer
       Roepnummer  : R41
-      Kenteken    : 
+      Kenteken    : 2-BCG-506
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : R41
@@ -5952,16 +5924,12 @@
       Roepnummer  : S2
       Kenteken    : 
 
-  >> 'S21'  (3x)
+  >> 'S21'  (2x)
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
       Roepnummer  : S21
       Kenteken    : 1-RKG-731
       Adres       : Tongeren
-      Hulpdienst  : Brandweer
-      Roepnummer  : S21
-      Kenteken    : 
-      Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : S21
       Kenteken    : 
@@ -5992,7 +5960,7 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : S24
-      Kenteken    : 
+      Kenteken    : 1-NAX-778
 
   >> 'S25'  (2x)
       Adres       : Heusden-Zolder
@@ -6594,7 +6562,7 @@
       Roepnummer  : T20
       Kenteken    : 
 
-  >> 'T21'  (6x)
+  >> 'T21'  (5x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : T21
@@ -6608,10 +6576,6 @@
       Roepnummer  : T21
       Kenteken    : 
       Adres       : Estaimpuis
-      Hulpdienst  : Brandweer
-      Roepnummer  : T21
-      Kenteken    : 
-      Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : T21
       Kenteken    : 
@@ -6645,16 +6609,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : T22
       Kenteken    : 1-PCB-541
-
-  >> 'T23'  (2x)
-      Adres       : Mouscron
-      Hulpdienst  : Brandweer
-      Roepnummer  : T23
-      Kenteken    : 
-      Adres       : Braine-L'Alleud
-      Hulpdienst  : Brandweer
-      Roepnummer  : T23
-      Kenteken    : 
 
   >> 'T24'  (2x)
       Adres       : Warneton
@@ -7285,6 +7239,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : V19
       Kenteken    : 
+
+  >> 'V25'  (2x)
+      Adres       : Héliport
+      Hulpdienst  : Brandweer
+      Roepnummer  : V25
+      Kenteken    : 
+      Adres       : Braine-L'Alleud
+      Hulpdienst  : Brandweer
+      Roepnummer  : V25
+      Kenteken    : 1-RUG-921
 
   >> 'V402'  (4x)
       Adres       : Zonnebeke
