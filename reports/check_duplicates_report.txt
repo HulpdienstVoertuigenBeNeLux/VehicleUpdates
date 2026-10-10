@@ -86,7 +86,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,794  (of 10,149 total)
+  Records checked : 6,790  (of 10,145 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  542 value(s) affected
@@ -590,16 +590,6 @@
       Adres       : Thuin
       Hulpdienst  : Brandweer
       Roepnummer  : 99
-      Kenteken    : 
-
-  >> '?'  (2x)
-      Adres       : Bouillon
-      Hulpdienst  : Brandweer
-      Roepnummer  : ?
-      Kenteken    : 
-      Adres       : Bouillon
-      Hulpdienst  : Brandweer
-      Roepnummer  : ?
       Kenteken    : 
 
   >> 'A01'  (3x)
@@ -2408,7 +2398,7 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : C21
-      Kenteken    : 
+      Kenteken    : 1-CYK-153
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : C21
@@ -2454,7 +2444,7 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : C23
-      Kenteken    : 
+      Kenteken    : 1-CYK-154
 
   >> 'C24'  (2x)
       Adres       : Scherpenheuvel-Zichem
@@ -2894,7 +2884,7 @@
       Adres       : Wavre
       Hulpdienst  : Brandweer
       Roepnummer  : C63
-      Kenteken    : 
+      Kenteken    : 2-AVN-338
 
   >> 'C65'  (2x)
       Adres       : Aarschot
@@ -3480,7 +3470,7 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : E21
-      Kenteken    : 
+      Kenteken    : 1-NAU-429
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : E21
@@ -4174,16 +4164,6 @@
       Roepnummer  : L20
       Kenteken    : 
 
-  >> 'L205'  (2x)
-      Adres       : Bouillon
-      Hulpdienst  : Brandweer
-      Roepnummer  : L205
-      Kenteken    : 
-      Adres       : Bouillon
-      Hulpdienst  : Brandweer
-      Roepnummer  : L205
-      Kenteken    : 
-
   >> 'L21'  (3x)
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
@@ -4196,6 +4176,16 @@
       Adres       : Londerzeel
       Hulpdienst  : Brandweer
       Roepnummer  : L21
+      Kenteken    : 
+
+  >> 'L212'  (2x)
+      Adres       : Bouillon
+      Hulpdienst  : Brandweer
+      Roepnummer  : L212
+      Kenteken    : 1-KNZ-144
+      Adres       : Saint-Hubert
+      Hulpdienst  : Brandweer
+      Roepnummer  : L212
       Kenteken    : 
 
   >> 'L22'  (2x)
@@ -5112,11 +5102,21 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : P21
-      Kenteken    : 
+      Kenteken    : 1-CYG-174
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : P21
       Kenteken    : 1-CYC-893
+
+  >> 'P22'  (2x)
+      Adres       : Diest
+      Hulpdienst  : Brandweer
+      Roepnummer  : P22
+      Kenteken    : 
+      Adres       : Braine-L'Alleud
+      Hulpdienst  : Brandweer
+      Roepnummer  : P22
+      Kenteken    : 1-FYE-568
 
   >> 'P23'  (2x)
       Adres       : Diest
@@ -5126,7 +5126,7 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : P23
-      Kenteken    : 
+      Kenteken    : 1-CYG-175
 
   >> 'P29'  (3x)
       Adres       : Tienen
@@ -5594,7 +5594,7 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : R21
-      Kenteken    : 
+      Kenteken    : 2-EEX-022
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : R21
@@ -5608,7 +5608,7 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : R23
-      Kenteken    : 
+      Kenteken    : 1-RFU-384
 
   >> 'R25'  (2x)
       Adres       : Heusden-Zolder
@@ -5978,7 +5978,7 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : S23
-      Kenteken    : 
+      Kenteken    : 1-LES-263
 
   >> 'S24'  (3x)
       Adres       : Herd-de-Stad
@@ -6636,7 +6636,7 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : T22
-      Kenteken    : 
+      Kenteken    : 1-NAY-644
       Adres       : Couvin
       Hulpdienst  : Brandweer
       Roepnummer  : T22
@@ -6664,7 +6664,7 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : T24
-      Kenteken    : 
+      Kenteken    : 1-XDE-356
 
   >> 'T25'  (2x)
       Adres       : Leuze-en-Hainaut
@@ -6674,7 +6674,7 @@
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : T25
-      Kenteken    : 
+      Kenteken    : 1-LEU-170
 
   >> 'T26'  (2x)
       Adres       : Temse

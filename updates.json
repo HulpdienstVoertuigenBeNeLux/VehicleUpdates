@@ -50,9 +50,129 @@
         "Regio": "MN-RWS",
         "Description": "GEEN (DAT) WIS toegevoegd aan Baarn",
         "Time": "10-10-2026 19:02:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rijkswaterstaat",
+        "Regio": "MN-RWS",
+        "Description": "GEEN DA-WAIS toegevoegd aan Amersfoort",
+        "Time": "10-10-2026 23:01:54"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": " BU-VN toegevoegd aan Braine-L'Alleud",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": " SVA toegevoegd aan Braine-L'Alleud",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": " IGS-CMIA toegevoegd aan Braine-L'Alleud",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "C805 CCFM toegevoegd aan Bouillon",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": " DMA toegevoegd aan Bouillon",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "BW41 ZW toegevoegd aan Nivelles",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "BW12 ZW toegevoegd aan Braine-L'Alleud",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "BW23 ZW toegevoegd aan Braine-L'Alleud",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "BW25 ZW toegevoegd aan Braine-L'Alleud",
+        "Time": "10-10-2026 23:02:06"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "L105 HV verwijderd van Bouillon",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "Cf805 LAT verwijderd van Bouillon",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "? CO verwijderd van Bouillon",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "NIVELLES 1 ZW verwijderd van Nivelles",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "BRAINE-L'ALLEUD 1 ZW verwijderd van Braine-L'Alleud",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "BRAINE-L'ALLEUD 2 ZW verwijderd van Braine-L'Alleud",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "BRAINE-L'ALLEUD 3 ZW verwijderd van Braine-L'Alleud",
+        "Time": "10-10-2026 23:02:06"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -144,6 +264,230 @@
         "Regio": "MD-POL",
         "Description": "P93: Bijzonderheden van 'Boe' naar '' aangepast",
         "Time": "10-10-2026 14:02:12"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-3172: Bijzonderheden van 'John Deere Gator.' naar 'John Deere Gator. Wordt vervoerd met een aanhanger' aangepast",
+        "Time": "10-10-2026 23:01:54"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-3180: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Bezetting: 5 personen. Trekvoertuig aanhanger voor de 09-3172' aangepast",
+        "Time": "10-10-2026 23:01:54"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "C23: Kenteken van '' naar '1-CYK-154' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "C63: Kenteken van '' naar '2-AVN-338' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "S23: Kenteken van '' naar '1-LES-263' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "R23: Kenteken van '' naar '1-RFU-384' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "P22: Adres van 'Diest' naar 'Braine-L'Alleud' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "P22: Kenteken van '' naar '1-FYE-568' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "P23: Kenteken van '' naar '1-CYG-175' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T25: Kenteken van '' naar '1-LEU-170' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T24: Afkorting van 'HV' naar 'SIG' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T24: TypeVoertuig van 'Hulpverleningsvoertuig' naar 'Signalisatievoertuig' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T24: Kenteken van '' naar '1-XDE-356' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "E23: Afkorting van 'LW 30' naar 'LW' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "E23: Kenteken van '' naar '1-RKP-171' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "E23: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "S22: Kenteken van '' naar '1-WDP-463' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T62: Afkorting van 'HV' naar 'HR' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T62: TypeVoertuig van 'Hulpverleningsvoertuig' naar 'RISC / GRIMP ( Hoogteredding )' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T62: Kenteken van '' naar '1-LEN-936' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "P105: Kenteken van '' naar '1-KGH-765' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "P205: Kenteken van '' naar '1-KGH-746' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "C305: Kenteken van '' naar '1-KGH-664' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "E305: Kenteken van '' naar '1-KGH-735' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "E305: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "B105: Kenteken van '' naar '1-KNY-740' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "V905: Kenteken van '' naar '1-CYD-328' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "S205: Afkorting van 'BM' naar 'MFT' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "S205: TypeVoertuig van 'Bijzonder Materiaal' naar 'Multifunctioneel voertuig terreinvaardig' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "S205: Kenteken van '' naar '1-CYD-575' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "S205: Bijzonderheden van 'Quad' naar '' aangepast",
+        "Time": "10-10-2026 23:02:06"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "543000: Kenteken van '' naar '2-BVV-080' aangepast",
+        "Time": "10-10-2026 23:02:06"
       }
     ]
   },
