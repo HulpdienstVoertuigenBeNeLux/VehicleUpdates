@@ -16091,22 +16091,6 @@
     "technisch_toegestane_maximum_aslast": "1680"
   },
   {
-    "kenteken": "3ZPB91",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "spoorbreedte": "147",
-    "wettelijk_toegestane_maximum_aslast": "920",
-    "technisch_toegestane_maximum_aslast": "920"
-  },
-  {
-    "kenteken": "3ZPB91",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "spoorbreedte": "146",
-    "wettelijk_toegestane_maximum_aslast": "770",
-    "technisch_toegestane_maximum_aslast": "770"
-  },
-  {
     "kenteken": "30BBH9",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -21093,6 +21077,22 @@
   },
   {
     "kenteken": "3ZPB90",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "spoorbreedte": "146",
+    "wettelijk_toegestane_maximum_aslast": "770",
+    "technisch_toegestane_maximum_aslast": "770"
+  },
+  {
+    "kenteken": "3ZPB91",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "spoorbreedte": "147",
+    "wettelijk_toegestane_maximum_aslast": "920",
+    "technisch_toegestane_maximum_aslast": "920"
+  },
+  {
+    "kenteken": "3ZPB91",
     "as_nummer": "2",
     "aantal_assen": "2",
     "spoorbreedte": "146",
@@ -57926,6 +57926,29 @@
     "technisch_toegestane_maximum_aslast": "11500"
   },
   {
+    "kenteken": "BD061N",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "weggedrag_code": "A",
+    "wettelijk_toegestane_maximum_aslast": "9000",
+    "technisch_toegestane_maximum_aslast": "9000",
+    "afstand_tot_volgende_as_voertuig": "430"
+  },
+  {
+    "kenteken": "BD061N",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "A",
+    "wettelijk_toegestane_maximum_aslast": "11500",
+    "technisch_toegestane_maximum_aslast": "13000"
+  },
+  {
     "kenteken": "BD004T",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -70299,26 +70322,6 @@
     "plaatscode_as": "A",
     "wettelijk_toegestane_maximum_aslast": "7500",
     "technisch_toegestane_maximum_aslast": "7500"
-  },
-  {
-    "kenteken": "BXLB50",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "weggedrag_code": "A",
-    "wettelijk_toegestane_maximum_aslast": "8000"
-  },
-  {
-    "kenteken": "BXLB50",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "weggedrag_code": "A",
-    "wettelijk_toegestane_maximum_aslast": "11500"
   },
   {
     "kenteken": "BXLF51",

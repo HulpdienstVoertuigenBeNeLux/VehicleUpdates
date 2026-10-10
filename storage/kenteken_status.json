@@ -14525,19 +14525,6 @@
     "last_tenaamstelling_check_date": "2026-10-04",
     "aantal_zitplaatsen": "9"
   },
-  "BX-LB-50": {
-    "expiry": "2027-03-16",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "06-1841"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-12-27",
-    "last_tenaamstelling_check_date": "2026-10-04",
-    "aantal_zitplaatsen": "7"
-  },
   "00-BRZ-5": {
     "expiry": "2027-09-20",
     "checked": true,
@@ -106974,5 +106961,18 @@
     "datum_tenaamstelling_dt": "2015-03-24",
     "last_tenaamstelling_check_date": "2026-10-10",
     "aantal_zitplaatsen": "5"
+  },
+  "BD-061-N": {
+    "expiry": "2027-06-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "06-1841"
+    ],
+    "last_check_date": "2026-10-10",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-06-03",
+    "last_tenaamstelling_check_date": "2026-10-10",
+    "aantal_zitplaatsen": "7"
   }
 }
