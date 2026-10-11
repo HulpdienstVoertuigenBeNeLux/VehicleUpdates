@@ -86,10 +86,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,785  (of 10,150 total)
+  Records checked : 6,790  (of 10,155 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  540 value(s) affected
+  Duplicate Roepnummer  --  542 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (3x)
@@ -324,7 +324,7 @@
       Roepnummer  : 37
       Kenteken    : 
 
-  >> '4'  (3x)
+  >> '4'  (4x)
       Adres       : Zoersel
       Hulpdienst  : Brandweer
       Roepnummer  : 4
@@ -333,6 +333,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : 4
       Kenteken    : 
+      Adres       : Brugge
+      Hulpdienst  : Brandweer
+      Roepnummer  : 4
+      Kenteken    : 1-TVE-380
       Adres       : Virton
       Hulpdienst  : Brandweer
       Roepnummer  : 4
@@ -664,7 +668,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : A11
-      Kenteken    : 
+      Kenteken    : 1-BYY-918
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : A11
@@ -754,7 +758,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : A12
-      Kenteken    : 
+      Kenteken    : 1-JHJ-654
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : A12
@@ -838,7 +842,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : A13
-      Kenteken    : 
+      Kenteken    : 1-JHJ-780
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : A13
@@ -848,12 +852,8 @@
       Roepnummer  : A13
       Kenteken    : 
 
-  >> 'A14'  (4x)
+  >> 'A14'  (3x)
       Adres       : Antwerpen-Noord
-      Hulpdienst  : Brandweer
-      Roepnummer  : A14
-      Kenteken    : 
-      Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : A14
       Kenteken    : 
@@ -1566,7 +1566,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : B11
-      Kenteken    : 
+      Kenteken    : 1-WKW-405
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : B11
@@ -1592,7 +1592,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : B12
-      Kenteken    : 
+      Kenteken    : 1-UVK-071
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : B12
@@ -1618,7 +1618,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : B13
-      Kenteken    : 
+      Kenteken    : 1-AJH-600
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : B13
@@ -2104,15 +2104,11 @@
       Roepnummer  : C105
       Kenteken    : 
 
-  >> 'C11'  (11x)
+  >> 'C11'  (10x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : C11
-      Kenteken    : 
-      Adres       : Bree
-      Hulpdienst  : Brandweer
-      Roepnummer  : C11
-      Kenteken    : 
+      Kenteken    : 1-UHR-781
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : C11
@@ -2158,7 +2154,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : C12
-      Kenteken    : 
+      Kenteken    : 2-HDL-957
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : C12
@@ -2188,11 +2184,7 @@
       Roepnummer  : C12
       Kenteken    : 
 
-  >> 'C13'  (5x)
-      Adres       : Bree
-      Hulpdienst  : Brandweer
-      Roepnummer  : C13
-      Kenteken    : 
+  >> 'C13'  (4x)
       Adres       : Diest
       Hulpdienst  : Brandweer
       Roepnummer  : C13
@@ -2246,7 +2238,7 @@
       Adres       : Brugge
       Hulpdienst  : Brandweer
       Roepnummer  : C150
-      Kenteken    : 
+      Kenteken    : 2-CDR-864
 
   >> 'C16'  (3x)
       Adres       : Leuven
@@ -3060,7 +3052,7 @@
       Adres       : Brugge
       Hulpdienst  : Brandweer
       Roepnummer  : D101
-      Kenteken    : 
+      Kenteken    : 1-JNP-185
       Adres       : Hannut
       Hulpdienst  : Brandweer
       Roepnummer  : D101
@@ -3080,7 +3072,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : D11
-      Kenteken    : 
+      Kenteken    : 1-JUU-706
       Adres       : Berlare
       Hulpdienst  : Brandweer
       Roepnummer  : D11
@@ -3286,7 +3278,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : E11
-      Kenteken    : 
+      Kenteken    : 1-PLZ-017
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : E11
@@ -3970,7 +3962,7 @@
       Adres       : Brugge
       Hulpdienst  : Brandweer
       Roepnummer  : L107
-      Kenteken    : 
+      Kenteken    : 1-JNN-373
       Adres       : Etalle
       Hulpdienst  : Brandweer
       Roepnummer  : L107
@@ -3980,7 +3972,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : L11
-      Kenteken    : 
+      Kenteken    : 1-NAP-314
       Adres       : Tessenderlo
       Hulpdienst  : Brandweer
       Roepnummer  : L11
@@ -4438,7 +4430,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : M11
-      Kenteken    : 
+      Kenteken    : 1-VEP-636
       Adres       : Sint-Truiden
       Hulpdienst  : Brandweer
       Roepnummer  : M11
@@ -4508,7 +4500,7 @@
       Adres       : Brugge
       Hulpdienst  : Brandweer
       Roepnummer  : M151
-      Kenteken    : 
+      Kenteken    : 1-YUV-802
 
   >> 'M19'  (2x)
       Adres       : Zaventem
@@ -5780,11 +5772,7 @@
       Roepnummer  : S10
       Kenteken    : 
 
-  >> 'S11'  (7x)
-      Adres       : Bree
-      Hulpdienst  : Brandweer
-      Roepnummer  : S11
-      Kenteken    : 
+  >> 'S11'  (6x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : S11
@@ -5824,7 +5812,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : S12
-      Kenteken    : 
+      Kenteken    : 1-VUJ-721
       Adres       : Beringen
       Hulpdienst  : Brandweer
       Roepnummer  : S12
@@ -5898,6 +5886,16 @@
       Adres       : Heule
       Hulpdienst  : Brandweer
       Roepnummer  : S17
+      Kenteken    : 
+
+  >> 'S173'  (2x)
+      Adres       : Brugge
+      Hulpdienst  : Brandweer
+      Roepnummer  : S173
+      Kenteken    : 2-JNX-077
+      Adres       : Brugge
+      Hulpdienst  : Brandweer
+      Roepnummer  : S173
       Kenteken    : 
 
   >> 'S19'  (2x)
@@ -6134,7 +6132,11 @@
       Roepnummer  : S54
       Kenteken    : 
 
-  >> 'S55'  (2x)
+  >> 'S55'  (3x)
+      Adres       : Bree
+      Hulpdienst  : Brandweer
+      Roepnummer  : S55
+      Kenteken    : 1-VTY-901
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : S55
@@ -6158,7 +6160,21 @@
       Roepnummer  : S6
       Kenteken    : 
 
-  >> 'S61'  (3x)
+  >> 'S60'  (2x)
+      Adres       : Bree
+      Hulpdienst  : Brandweer
+      Roepnummer  : S60
+      Kenteken    : 1-WSZ-187
+      Adres       : Lommel
+      Hulpdienst  : Brandweer
+      Roepnummer  : S60
+      Kenteken    : 
+
+  >> 'S61'  (4x)
+      Adres       : Bree
+      Hulpdienst  : Brandweer
+      Roepnummer  : S61
+      Kenteken    : 2-FER-687
       Adres       : Maasmechelen
       Hulpdienst  : Brandweer
       Roepnummer  : S61
@@ -6342,11 +6358,15 @@
       Roepnummer  : T10
       Kenteken    : 
 
-  >> 'T11'  (9x)
+  >> 'T11'  (10x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : T11
-      Kenteken    : 
+      Kenteken    : 1-JUU-722
+      Adres       : Bree
+      Hulpdienst  : Brandweer
+      Roepnummer  : T11
+      Kenteken    : 1-JUU-711
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : T11
@@ -6380,7 +6400,11 @@
       Roepnummer  : T11
       Kenteken    : 
 
-  >> 'T12'  (6x)
+  >> 'T12'  (7x)
+      Adres       : Bree
+      Hulpdienst  : Brandweer
+      Roepnummer  : T12
+      Kenteken    : 1-JUU-719
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : T12
@@ -7138,11 +7162,7 @@
       Roepnummer  : V104
       Kenteken    : 1-XWX-109
 
-  >> 'V106'  (5x)
-      Adres       : De Haan-Wenduine
-      Hulpdienst  : Brandweer
-      Roepnummer  : V106
-      Kenteken    : 
+  >> 'V106'  (4x)
       Adres       : Ruddervoorde
       Hulpdienst  : Brandweer
       Roepnummer  : V106
@@ -7192,7 +7212,7 @@
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : V11
-      Kenteken    : 
+      Kenteken    : 2-FAS-019
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : V11
@@ -7874,7 +7894,7 @@
   Region: LUX
 ================================================================================
 
-  Records checked : 0  (of 1,460 total)
+  Records checked : 0  (of 1,464 total)
   Roepnummer     : no duplicates
   Kenteken       : no duplicates
 
