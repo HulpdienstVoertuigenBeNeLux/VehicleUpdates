@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-12",
+    "added": [],
+    "removed": [],
+    "changed": []
+  },
+  {
     "date": "2026-10-11",
     "added": [
       {
@@ -14341,56 +14347,6 @@
         "Regio": "3 - Drenthe (VRD)",
         "Description": "03-0399: TypeVoertuig van 'Commando haakarmbak multidisciplinair' naar 'Commando voertuig multidisciplinair' aangepast",
         "Time": "11-09-2026 11:00:21"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-10",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "16 - Hollands Midden (VRHM)",
-        "Description": "GEEN GM toegevoegd aan Vakbekwaamheid",
-        "Time": "10-09-2026 10:00:20"
-      },
-      {
-        "Land": "LUX",
-        "Hulpdienst": "Feuerwehr",
-        "Regio": "Central Rescue Zone",
-        "Description": " OO toegevoegd aan Luxembourg",
-        "Time": "10-09-2026 21:00:24"
-      },
-      {
-        "Land": "LUX",
-        "Hulpdienst": "Feuerwehr",
-        "Regio": "Eastern Rescue Zone",
-        "Description": " DA toegevoegd aan Remich",
-        "Time": "10-09-2026 21:00:24"
-      },
-      {
-        "Land": "LUX",
-        "Hulpdienst": "Rettungsdienst",
-        "Regio": "Central Rescue Zone",
-        "Description": " HC-Ambu toegevoegd aan Luxemburg",
-        "Time": "10-09-2026 21:00:24"
-      }
-    ],
-    "removed": [],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "8 - Gelderland-Zuid (VRGZ)",
-        "Description": "08-805: Kenteken van '56-TSB-6' naar 'JDD-55-R' aangepast",
-        "Time": "10-09-2026 04:00:17"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-        "Description": "17-3151: Kenteken van 'BX-LP-54' naar 'BD-676-T' aangepast",
-        "Time": "10-09-2026 10:00:20"
       }
     ]
   }
