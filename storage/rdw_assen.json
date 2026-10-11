@@ -92731,27 +92731,6 @@
     "technisch_toegestane_maximum_aslast": "2430"
   },
   {
-    "kenteken": "J361HR",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "plaatscode_as": "V",
-    "spoorbreedte": "171",
-    "wettelijk_toegestane_maximum_aslast": "2000",
-    "technisch_toegestane_maximum_aslast": "2000",
-    "afstand_tot_volgende_as_voertuig": "367"
-  },
-  {
-    "kenteken": "J361HR",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "plaatscode_as": "A",
-    "spoorbreedte": "172",
-    "wettelijk_toegestane_maximum_aslast": "2430",
-    "technisch_toegestane_maximum_aslast": "2430"
-  },
-  {
     "kenteken": "J362HR",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -108012,6 +107991,27 @@
     "technisch_toegestane_maximum_aslast": "770"
   },
   {
+    "kenteken": "KKN47N",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "167",
+    "wettelijk_toegestane_maximum_aslast": "1800",
+    "technisch_toegestane_maximum_aslast": "1800",
+    "afstand_tot_volgende_as_voertuig": "320"
+  },
+  {
+    "kenteken": "KKN47N",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "165",
+    "wettelijk_toegestane_maximum_aslast": "1800",
+    "technisch_toegestane_maximum_aslast": "1800"
+  },
+  {
     "kenteken": "KKT39X",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -109410,6 +109410,27 @@
     "spoorbreedte": "167",
     "wettelijk_toegestane_maximum_aslast": "1860",
     "technisch_toegestane_maximum_aslast": "1860"
+  },
+  {
+    "kenteken": "KRN98G",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "V",
+    "spoorbreedte": "173",
+    "wettelijk_toegestane_maximum_aslast": "2000",
+    "technisch_toegestane_maximum_aslast": "2000",
+    "afstand_tot_volgende_as_voertuig": "367"
+  },
+  {
+    "kenteken": "KRN98G",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "A",
+    "spoorbreedte": "174",
+    "wettelijk_toegestane_maximum_aslast": "2430",
+    "technisch_toegestane_maximum_aslast": "2430"
   },
   {
     "kenteken": "KRN30J",
@@ -132732,24 +132753,6 @@
     "no_data": true
   },
   {
-    "kenteken": "V717TD",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "plaatscode_as": "V",
-    "spoorbreedte": "154",
-    "wettelijk_toegestane_maximum_aslast": "1050",
-    "technisch_toegestane_maximum_aslast": "1050"
-  },
-  {
-    "kenteken": "V717TD",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "plaatscode_as": "A",
-    "spoorbreedte": "153",
-    "wettelijk_toegestane_maximum_aslast": "1230",
-    "technisch_toegestane_maximum_aslast": "1230"
-  },
-  {
     "kenteken": "V018FN",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -137320,6 +137323,24 @@
     "spoorbreedte": "162",
     "wettelijk_toegestane_maximum_aslast": "1500",
     "technisch_toegestane_maximum_aslast": "1500"
+  },
+  {
+    "kenteken": "V717TD",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "plaatscode_as": "V",
+    "spoorbreedte": "154",
+    "wettelijk_toegestane_maximum_aslast": "1050",
+    "technisch_toegestane_maximum_aslast": "1050"
+  },
+  {
+    "kenteken": "V717TD",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "plaatscode_as": "A",
+    "spoorbreedte": "153",
+    "wettelijk_toegestane_maximum_aslast": "1230",
+    "technisch_toegestane_maximum_aslast": "1230"
   },
   {
     "kenteken": "V72LKD",

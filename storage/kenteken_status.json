@@ -78565,19 +78565,6 @@
     "last_tenaamstelling_check_date": "2026-10-05",
     "aantal_zitplaatsen": "4"
   },
-  "J-361-HR": {
-    "expiry": "2027-05-13",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "17-146"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2020-12-29",
-    "last_tenaamstelling_check_date": "2026-10-05",
-    "aantal_zitplaatsen": "4"
-  },
   "GJR-89-G": {
     "expiry": "2027-08-23",
     "checked": true,
@@ -107047,5 +107034,31 @@
     "datum_tenaamstelling_dt": "2020-09-28",
     "last_tenaamstelling_check_date": "2026-10-11",
     "aantal_zitplaatsen": "5"
+  },
+  "KKN-47-N": {
+    "expiry": "2030-10-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "10-346"
+    ],
+    "last_check_date": "2026-10-11",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-10-05",
+    "last_tenaamstelling_check_date": "2026-10-11",
+    "aantal_zitplaatsen": "8"
+  },
+  "KRN-98-G": {
+    "expiry": "2027-07-22",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "17-146"
+    ],
+    "last_check_date": "2026-10-11",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-22",
+    "last_tenaamstelling_check_date": "2026-10-11",
+    "aantal_zitplaatsen": "4"
   }
 }
