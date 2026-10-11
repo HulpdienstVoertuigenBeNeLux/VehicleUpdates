@@ -23715,20 +23715,6 @@
     "uitlaatemissieniveau": "EURO 4"
   },
   {
-    "kenteken": "81BKF8",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "geluidsniveau_rijdend": "73",
-    "geluidsniveau_stationair": "83",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*627/2014C",
-    "nettomaximumvermogen": "120.00",
-    "toerental_geluidsniveau": "2850",
-    "uitlaatemissieniveau": "EURO VI C",
-    "actieradius_extern_oplaadbaar": "0",
-    "actieradius": "0"
-  },
-  {
     "kenteken": "81BBD5",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -23790,6 +23776,20 @@
     "nettomaximumvermogen": "310.00",
     "toerental_geluidsniveau": "1350",
     "uitlaatemissieniveau": "EURO VI A",
+    "actieradius_extern_oplaadbaar": "0",
+    "actieradius": "0"
+  },
+  {
+    "kenteken": "81BKF8",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_rijdend": "73",
+    "geluidsniveau_stationair": "83",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*627/2014C",
+    "nettomaximumvermogen": "120.00",
+    "toerental_geluidsniveau": "2850",
+    "uitlaatemissieniveau": "EURO VI C",
     "actieradius_extern_oplaadbaar": "0",
     "actieradius": "0"
   },
@@ -62452,6 +62452,34 @@
     "uitlaatemissieniveau": "EURO 6 EB"
   },
   {
+    "kenteken": "KGF36T",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EB",
+    "nominaal_continu_maximumvermogen": "63.50",
+    "elektrisch_verbruik_extern_opladen_wltp": "104.00",
+    "actie_radius_extern_opladen_wltp": "67",
+    "netto_max_vermogen_elektrisch": "111.70",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EB"
+  },
+  {
+    "kenteken": "KGF36T",
+    "brandstof_volgnummer": "2",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_rijdend": "68",
+    "geluidsniveau_stationair": "67",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EB",
+    "nettomaximumvermogen": "111.10",
+    "toerental_geluidsniveau": "2240",
+    "emis_co2_gewogen_gecombineerd_wltp": "58",
+    "brandstof_verbruik_gewogen_gecombineerd_wltp": "2.900",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EB"
+  },
+  {
     "kenteken": "KGG47N",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Elektriciteit",
@@ -83815,6 +83843,21 @@
     "opgegeven_maximum_snelheid": "60.00"
   },
   {
+    "kenteken": "V717TD",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Benzine",
+    "brandstofverbruik_gecombineerd": "5.80",
+    "co2_uitstoot_gecombineerd": "133",
+    "geluidsniveau_rijdend": "73",
+    "geluidsniveau_stationair": "74",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2015/45X",
+    "uitstoot_deeltjes_licht": "0.00012",
+    "nettomaximumvermogen": "92.00",
+    "toerental_geluidsniveau": "3750",
+    "uitlaatemissieniveau": "EURO 6 X"
+  },
+  {
     "kenteken": "V018FN",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -90246,6 +90289,23 @@
     "emissie_co2_gecombineerd_wltp": "231",
     "brandstof_verbruik_gecombineerd_wltp": "8.800",
     "uitlaatemissieniveau": "EURO 6 AF"
+  },
+  {
+    "kenteken": "VGH42G",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "6.90",
+    "co2_uitstoot_gecombineerd": "183",
+    "geluidsniveau_rijdend": "69",
+    "geluidsniveau_stationair": "73",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832CI",
+    "nettomaximumvermogen": "110.00",
+    "toerental_geluidsniveau": "2550",
+    "emis_deeltjes_type1_wltp": "0.75",
+    "emissie_co2_gecombineerd_wltp": "239",
+    "brandstof_verbruik_gecombineerd_wltp": "9.100",
+    "uitlaatemissieniveau": "EURO 6 CI"
   },
   {
     "kenteken": "VGJ20X",
