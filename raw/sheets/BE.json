@@ -6688,7 +6688,7 @@
       "",
       "",
       "",
-      "VEH-007-POST-029"
+      "VEH-006-POST-029"
     ],
     [
       "Brasschaat",
@@ -6703,7 +6703,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-029"
+      "VEH-007-POST-029"
     ],
     [
       "Brasschaat",
@@ -6718,7 +6718,7 @@
       "",
       "",
       "",
-      "VEH-009-POST-029"
+      "VEH-008-POST-029"
     ],
     [
       "Brasschaat",
@@ -6733,7 +6733,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-029"
+      "VEH-009-POST-029"
     ],
     [
       "Brasschaat",
@@ -6748,7 +6748,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-029"
+      "VEH-010-POST-029"
     ],
     [
       "Brasschaat",
@@ -6763,7 +6763,7 @@
       "",
       "",
       "",
-      "VEH-012-POST-029"
+      "VEH-011-POST-029"
     ],
     [
       "Brasschaat",
@@ -6778,7 +6778,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-029"
+      "VEH-012-POST-029"
     ],
     [
       "Brasschaat",
@@ -6793,13 +6793,28 @@
       "",
       "",
       "",
-      "VEH-014-POST-029"
+      "VEH-013-POST-029"
     ],
     [
       "Brasschaat",
       "",
       "LBC",
       "Laadbak Container",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Antwerpen Zone - Rand",
+      "",
+      "",
+      "",
+      "VEH-014-POST-029"
+    ],
+    [
+      "Brasschaat",
+      "",
+      "WTC",
+      "Watertank container",
       "",
       "",
       "",
@@ -6826,21 +6841,6 @@
       "VEH-016-POST-029"
     ],
     [
-      "",
-      "",
-      "COC",
-      "Commando Container",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "VEH-017-POST-029"
-    ],
-    [
       "Brasschaat",
       "",
       "BU-VN",
@@ -6853,7 +6853,7 @@
       "",
       "",
       "",
-      "VEH-018-POST-029"
+      "VEH-017-POST-029"
     ],
     [
       "Brasschaat",
@@ -6868,7 +6868,7 @@
       "",
       "",
       "",
-      "VEH-019-POST-029"
+      "VEH-018-POST-029"
     ],
     [
       "Brasschaat",
@@ -6883,7 +6883,7 @@
       "",
       "",
       "",
-      "VEH-020-POST-029"
+      "VEH-019-POST-029"
     ],
     [
       "Brecht - Ambachtslaan 10",
@@ -92206,6 +92206,36 @@
       "VEH-002-POST-1719"
     ],
     [
+      "MUG Helicopter Sint Jan Brugge",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Ambulance",
+      "West-Vlaanderen Zone - 1",
+      "",
+      "",
+      "51.22005972499482, 3.1959111572256877",
+      "POST-1965"
+    ],
+    [
+      "Brugge",
+      "FHLCA",
+      "MUG-Heli",
+      "Mobiele Urgentie Groep Helikopter",
+      "F-HLCA",
+      "",
+      "",
+      "Ambulance",
+      "West-Vlaanderen Zone - 1",
+      "",
+      "",
+      "",
+      "VEH-001-POST-1965"
+    ],
+    [
       "Ziekenwagen Sint Lucas Brugge",
       "",
       "",
@@ -112649,6 +112679,156 @@
       "",
       "50.642702600020776, 5.459009762206972",
       "VEH-007-POST-1833"
+    ],
+    [
+      "Vliegbasis Melsbroek",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Politie",
+      "Vlaams-Brabant Zone - West",
+      "",
+      "",
+      "50.91209252580217, 4.492322035510277",
+      "POST-1964"
+    ],
+    [
+      "Zaventem",
+      "G10",
+      "POL-Heli",
+      "Politie Helikopter",
+      "G-10",
+      "",
+      "",
+      "Politie",
+      "Vlaams-Brabant Zone - West",
+      "",
+      "",
+      "",
+      "VEH-001-POST-1964"
+    ],
+    [
+      "Zaventem",
+      "G11",
+      "POL-Heli",
+      "Politie Helikopter",
+      "G-11",
+      "",
+      "",
+      "Politie",
+      "Vlaams-Brabant Zone - West",
+      "",
+      "",
+      "",
+      "VEH-002-POST-1964"
+    ],
+    [
+      "Zaventem",
+      "G12",
+      "POL-Heli",
+      "Politie Helikopter",
+      "G-12",
+      "",
+      "",
+      "Politie",
+      "Vlaams-Brabant Zone - West",
+      "",
+      "",
+      "",
+      "VEH-003-POST-1964"
+    ],
+    [
+      "Zaventem",
+      "G14",
+      "POL-Heli",
+      "Politie Helikopter",
+      "G-14",
+      "",
+      "",
+      "Politie",
+      "Vlaams-Brabant Zone - West",
+      "",
+      "",
+      "",
+      "VEH-004-POST-1964"
+    ],
+    [
+      "Zaventem",
+      "G15",
+      "POL-Heli",
+      "Politie Helikopter",
+      "G-15",
+      "",
+      "",
+      "Politie",
+      "Vlaams-Brabant Zone - West",
+      "",
+      "",
+      "",
+      "VEH-005-POST-1964"
+    ],
+    [
+      "Zaventem",
+      "G16",
+      "POL-Heli",
+      "Politie Helikopter",
+      "G-16",
+      "",
+      "",
+      "Politie",
+      "Vlaams-Brabant Zone - West",
+      "",
+      "",
+      "",
+      "VEH-006-POST-1964"
+    ],
+    [
+      "Zaventem",
+      "G17",
+      "POL-Heli",
+      "Politie Helikopter",
+      "G-17",
+      "",
+      "",
+      "Politie",
+      "Vlaams-Brabant Zone - West",
+      "",
+      "",
+      "",
+      "VEH-007-POST-1964"
+    ],
+    [
+      "Zaventem",
+      "G01",
+      "POL-Vlieg",
+      "Politie Vliegtuig",
+      "G-01",
+      "",
+      "",
+      "Politie",
+      "Vlaams-Brabant Zone - West",
+      "",
+      "",
+      "",
+      "VEH-008-POST-1964"
+    ],
+    [
+      "Zaventem",
+      "G04",
+      "POL-Vlieg",
+      "Politie Vliegtuig",
+      "G-04",
+      "",
+      "",
+      "Politie",
+      "Vlaams-Brabant Zone - West",
+      "",
+      "",
+      "",
+      "VEH-009-POST-1964"
     ],
     [
       "Scheepsvaart Politie",

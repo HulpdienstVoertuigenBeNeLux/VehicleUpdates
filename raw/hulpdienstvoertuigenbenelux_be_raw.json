@@ -5438,8 +5438,8 @@
   {
     "Adres": "Brasschaat",
     "Roepnummer": "",
-    "Afkorting": "COC",
-    "TypeVoertuig": "Commando Container",
+    "Afkorting": "WTC",
+    "TypeVoertuig": "Watertank container",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
@@ -5448,15 +5448,15 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "",
+    "Adres": "Brasschaat",
     "Roepnummer": "",
     "Afkorting": "COC",
     "TypeVoertuig": "Commando Container",
     "Kenteken": "",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
-    "Hulpdienst": "",
-    "Regio": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "Antwerpen Zone - Rand",
     "Interne opmerking": ""
   },
   {
@@ -73752,6 +73752,30 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "MUG Helicopter Sint Jan Brugge",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "West-Vlaanderen Zone - 1",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Brugge",
+    "Roepnummer": "FHLCA",
+    "Afkorting": "MUG-Heli",
+    "TypeVoertuig": "Mobiele Urgentie Groep Helikopter",
+    "Kenteken": "F-HLCA",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Ambulance",
+    "Regio": "West-Vlaanderen Zone - 1",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Ziekenwagen Sint Lucas Brugge",
     "Roepnummer": "",
     "Afkorting": "",
@@ -90105,6 +90129,126 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Politie",
     "Regio": "Luik Zone - IILE-SRI",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Vliegbasis Melsbroek",
+    "Roepnummer": "",
+    "Afkorting": "",
+    "TypeVoertuig": "",
+    "Kenteken": "",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Zaventem",
+    "Roepnummer": "G10",
+    "Afkorting": "POL-Heli",
+    "TypeVoertuig": "Politie Helikopter",
+    "Kenteken": "G-10",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Zaventem",
+    "Roepnummer": "G11",
+    "Afkorting": "POL-Heli",
+    "TypeVoertuig": "Politie Helikopter",
+    "Kenteken": "G-11",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Zaventem",
+    "Roepnummer": "G12",
+    "Afkorting": "POL-Heli",
+    "TypeVoertuig": "Politie Helikopter",
+    "Kenteken": "G-12",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Zaventem",
+    "Roepnummer": "G14",
+    "Afkorting": "POL-Heli",
+    "TypeVoertuig": "Politie Helikopter",
+    "Kenteken": "G-14",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Zaventem",
+    "Roepnummer": "G15",
+    "Afkorting": "POL-Heli",
+    "TypeVoertuig": "Politie Helikopter",
+    "Kenteken": "G-15",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Zaventem",
+    "Roepnummer": "G16",
+    "Afkorting": "POL-Heli",
+    "TypeVoertuig": "Politie Helikopter",
+    "Kenteken": "G-16",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Zaventem",
+    "Roepnummer": "G17",
+    "Afkorting": "POL-Heli",
+    "TypeVoertuig": "Politie Helikopter",
+    "Kenteken": "G-17",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Zaventem",
+    "Roepnummer": "G01",
+    "Afkorting": "POL-Vlieg",
+    "TypeVoertuig": "Politie Vliegtuig",
+    "Kenteken": "G-01",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Vlaams-Brabant Zone - West",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Zaventem",
+    "Roepnummer": "G04",
+    "Afkorting": "POL-Vlieg",
+    "TypeVoertuig": "Politie Vliegtuig",
+    "Kenteken": "G-04",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Politie",
+    "Regio": "Vlaams-Brabant Zone - West",
     "Interne opmerking": ""
   },
   {
