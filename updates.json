@@ -323,6 +323,13 @@
         "Regio": "West-Vlaanderen Zone - 1",
         "Description": " MUG toegevoegd aan Brugge",
         "Time": "11-10-2026 13:01:44"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "GEEN IM Berger toegevoegd aan Alkmaar",
+        "Time": "11-10-2026 14:02:12"
       }
     ],
     "removed": [
@@ -381,6 +388,62 @@
         "Regio": "Namen Zone - Nage",
         "Description": "G11 BM verwijderd van Namur",
         "Time": "11-10-2026 11:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "T101 TW verwijderd van Brugge",
+        "Time": "11-10-2026 14:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "T152 TW verwijderd van Brugge",
+        "Time": "11-10-2026 14:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "L149 PM verwijderd van Brugge",
+        "Time": "11-10-2026 14:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "S107 DA verwijderd van Brugge",
+        "Time": "11-10-2026 14:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "S109 DA verwijderd van Brugge",
+        "Time": "11-10-2026 14:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "S110 DA verwijderd van Brugge",
+        "Time": "11-10-2026 14:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "S150 DA verwijderd van Brugge",
+        "Time": "11-10-2026 14:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "L109 HA-KR verwijderd van Brugge",
+        "Time": "11-10-2026 14:02:16"
       }
     ],
     "changed": [
@@ -908,6 +971,27 @@
         "Regio": "West-Vlaanderen Zone - 1",
         "Description": "BRUGGE ST-LUCAS: Kenteken van '' naar '2-DHG-216' aangepast",
         "Time": "11-10-2026 13:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "M103: Kenteken van '' naar '1-JNP-044' aangepast",
+        "Time": "11-10-2026 14:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "M115: Afkorting van 'SH' naar 'SIG' aangepast",
+        "Time": "11-10-2026 14:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "M115: TypeVoertuig van 'Snelle Hulpwagen' naar 'Signalisatievoertuig' aangepast",
+        "Time": "11-10-2026 14:02:16"
       }
     ]
   },
