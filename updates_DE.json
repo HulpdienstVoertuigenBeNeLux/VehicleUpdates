@@ -1,9 +1,68 @@
 [
   {
     "date": "2026-10-11",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "DE",
+        "Hulpdienst": "Feuerwehr",
+        "Regio": "Rotenburg",
+        "Description": "Anhänger AH-WW toegevoegd aan Bremervörde",
+        "Time": "11-10-2026 15:01:39"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "DE",
+        "Hulpdienst": "THW",
+        "Regio": "Hamburg",
+        "Description": "Anhänger Anh-Wks verwijderd van (THW) Hamburg-Harburg",
+        "Time": "11-10-2026 15:01:39"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "DE",
+        "Hulpdienst": "THW",
+        "Regio": "Hamburg",
+        "Description": "Gabelstapler: Adres van '(THW) Hamburg-Nord' naar '(THW) Hamburg-Wandsbek' aangepast",
+        "Time": "11-10-2026 15:01:39"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "THW",
+        "Regio": "Hamburg",
+        "Description": "Gabelstapler: Bijzonderheden van 'FGr OV' naar 'FGr N' aangepast",
+        "Time": "11-10-2026 15:01:39"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "THW",
+        "Regio": "Hamburg",
+        "Description": "Abrollbehälter: Adres van '(THW) Hamburg-Mitte' naar '(THW) Hamburg-Wandsbek' aangepast",
+        "Time": "11-10-2026 15:01:39"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "THW",
+        "Regio": "Hamburg",
+        "Description": "Abrollbehälter: Afkorting van 'AB-ÖL' naar 'AB-WERKS' aangepast",
+        "Time": "11-10-2026 15:01:39"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "THW",
+        "Regio": "Hamburg",
+        "Description": "Abrollbehälter: TypeVoertuig van 'Abrollbehälter Ölschaden' naar 'Abrollbehälter Werkstatt' aangepast",
+        "Time": "11-10-2026 15:01:39"
+      },
+      {
+        "Land": "DE",
+        "Hulpdienst": "THW",
+        "Regio": "Hamburg",
+        "Description": "Abrollbehälter: Bijzonderheden van 'FGr Öl' naar 'FGr Log-MW' aangepast",
+        "Time": "11-10-2026 15:01:39"
+      }
+    ]
   },
   {
     "date": "2026-10-10",
