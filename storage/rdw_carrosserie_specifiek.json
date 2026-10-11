@@ -12956,6 +12956,13 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Voertuig met haakarm"
   },
   {
+    "kenteken": "81BKF8",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "31",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+  },
+  {
     "kenteken": "81BKF9",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -14413,13 +14420,6 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "31",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
-  },
-  {
-    "kenteken": "8VTP70",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "8VTT77",
@@ -17529,13 +17529,6 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
-    "kenteken": "BD204X",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "14",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer voertuigen"
-  },
-  {
     "kenteken": "BD004T",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -17755,6 +17748,13 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "31",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+  },
+  {
+    "kenteken": "BD204X",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "14",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Voor vervoer voertuigen"
   },
   {
     "kenteken": "BD206K",
@@ -32574,6 +32574,10 @@
   },
   {
     "kenteken": "RL989H",
+    "no_data": true
+  },
+  {
+    "kenteken": "RP907P",
     "no_data": true
   },
   {

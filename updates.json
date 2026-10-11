@@ -337,6 +337,20 @@
         "Regio": "24 - Zuid-Limburg (VRZL)",
         "Description": "GEEN IM Berger toegevoegd aan Landgraaf",
         "Time": "11-10-2026 15:01:33"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "7 - Gelderland-Midden (VGGM)",
+        "Description": "07-9681 AH toegevoegd aan Ede Centrum",
+        "Time": "11-10-2026 20:02:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN DA toegevoegd aan Spijkenisse",
+        "Time": "11-10-2026 20:02:13"
       }
     ],
     "removed": [
@@ -451,6 +465,20 @@
         "Regio": "West-Vlaanderen Zone - 1",
         "Description": "L109 HA-KR verwijderd van Brugge",
         "Time": "11-10-2026 14:02:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "7 - Gelderland-Midden (VGGM)",
+        "Description": "07-2703 GM verwijderd van Ede Centrum",
+        "Time": "11-10-2026 20:02:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "7 - Gelderland-Midden (VGGM)",
+        "Description": "07-2706 DA verwijderd van Ede Centrum",
+        "Time": "11-10-2026 20:02:13"
       }
     ],
     "changed": [
@@ -999,6 +1027,41 @@
         "Regio": "West-Vlaanderen Zone - 1",
         "Description": "M115: TypeVoertuig van 'Snelle Hulpwagen' naar 'Signalisatievoertuig' aangepast",
         "Time": "11-10-2026 14:02:16"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN: Adres van 'Regionaal/Wilhelminakade' naar 'Spijkenisse' aangepast",
+        "Time": "11-10-2026 20:02:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN: Adres van 'Regionaal/Wilhelminakade' naar 'Spijkenisse' aangepast",
+        "Time": "11-10-2026 20:02:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN: Adres van 'Regionaal/Wilhelminakade' naar 'Spijkenisse' aangepast",
+        "Time": "11-10-2026 20:02:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9095: Adres van 'Regionaal/Wilhelminakade' naar 'Spijkenisse' aangepast",
+        "Time": "11-10-2026 20:02:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN: Adres van 'Regionaal/Wilhelminakade' naar 'Spijkenisse' aangepast",
+        "Time": "11-10-2026 20:02:13"
       }
     ]
   },

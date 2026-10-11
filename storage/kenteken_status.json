@@ -18432,19 +18432,6 @@
     "last_tenaamstelling_check_date": "2026-10-10",
     "aantal_zitplaatsen": "5"
   },
-  "8-VTP-70": {
-    "expiry": "2027-10-01",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "07-2703"
-    ],
-    "last_check_date": "2026-10-04",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2018-07-10",
-    "last_tenaamstelling_check_date": "2026-10-11",
-    "aantal_zitplaatsen": "2"
-  },
   "06-GTG-8": {
     "expiry": "2027-01-22",
     "checked": true,
@@ -18457,18 +18444,6 @@
     "datum_tenaamstelling_dt": "2013-12-13",
     "last_tenaamstelling_check_date": "2026-10-11",
     "aantal_zitplaatsen": "5"
-  },
-  "23-STH-4": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "07-2706"
-    ],
-    "last_check_date": "2026-10-11",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-10-11"
   },
   "BV-DB-49": {
     "expiry": "2027-07-30",
@@ -107013,5 +106988,31 @@
     "datum_tenaamstelling_dt": "2026-09-08",
     "last_tenaamstelling_check_date": "2026-10-11",
     "aantal_zitplaatsen": "6"
+  },
+  "81-BKF-8": {
+    "expiry": "2026-12-15",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "07-9681"
+    ],
+    "last_check_date": "2026-10-11",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2017-12-15",
+    "last_tenaamstelling_check_date": "2026-10-11",
+    "aantal_zitplaatsen": "3"
+  },
+  "RP-907-P": {
+    "expiry": "2027-01-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-10-11",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2018-01-24",
+    "last_tenaamstelling_check_date": "2026-10-11",
+    "aantal_zitplaatsen": "5"
   }
 }
