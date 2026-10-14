@@ -1,9 +1,159 @@
 [
   {
     "date": "2026-10-14",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-6188 VIA toegevoegd aan Beesd",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-8488 VIA toegevoegd aan Opheusden",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-6882 GM toegevoegd aan Wateringen",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": "24-701 ARTS-HP toegevoegd aan Spoed HAP Geleen",
+        "Time": "14-10-2026 15:01:35"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-7188 VIA verwijderd van Buren",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-870 DA-RA verwijderd van Nijmegen",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "MM01 EH verwijderd van Sportdokters, Maastricht",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": "24-712 ARTS-HP verwijderd van Spoed HAP Geleen",
+        "Time": "14-10-2026 15:01:35"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-7288: Adres van 'Beesd' naar 'Buren' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-7288: Kenteken van 'GEEN' naar '94-WDT-6' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9193: Kenteken van 'V-289-KV' naar 'ONBEKEND' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-2801: Kenteken van '36-ZKH-9' naar 'ONBEKEND' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "10-812: Kenteken van '9-KFK-24' naar 'ONBEKEND' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "AES-13: Kenteken van 'ONBEKEND' naar 'G-873-JD' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "GEEN: Afkorting van 'EH' naar 'RRM-EH' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "GEEN: TypeVoertuig van 'Evenementenhulpverlening voertuig' naar 'Rapid responder motor evenementenhulpverlening' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "GEEN: Kenteken van 'Onbekend' naar 'GEEN' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "GEEN: Bijzonderheden van 'Wit voertuig.' naar 'Terreinvaardig voertuig.' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "23-704: Kenteken van 'GR-598-P' naar 'ONBEKEND' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-215: Kenteken van 'RX-381-B' naar 'JKP-88-L' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "AMN010: Kenteken van '7-VGP-34' naar 'V-75-KZH' aangepast",
+        "Time": "14-10-2026 15:01:35"
+      }
+    ]
   },
   {
     "date": "2026-10-13",
