@@ -29,6 +29,13 @@
         "Regio": "24 - Zuid-Limburg (VRZL)",
         "Description": "24-701 ARTS-HP toegevoegd aan Spoed HAP Geleen",
         "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-749 ARTS-HP toegevoegd aan Spoed HAP Zoetermeer",
+        "Time": "14-10-2026 16:02:21"
       }
     ],
     "removed": [
@@ -59,6 +66,20 @@
         "Regio": "24 - Zuid-Limburg (VRZL)",
         "Description": "24-712 ARTS-HP verwijderd van Spoed HAP Geleen",
         "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-546 OO-RA verwijderd van Drachten",
+        "Time": "14-10-2026 16:02:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-510 LO-RA verwijderd van Middelburg",
+        "Time": "14-10-2026 16:02:21"
       }
     ],
     "changed": [
@@ -152,6 +173,48 @@
         "Regio": "2 - Fryslân (VRF)",
         "Description": "AMN010: Kenteken van '7-VGP-34' naar 'V-75-KZH' aangepast",
         "Time": "14-10-2026 15:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-160: Kenteken van 'ONBEKEND' naar 'L-367-FX' aangepast",
+        "Time": "14-10-2026 16:02:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "20-228: Kenteken van 'K-194-PZ' naar 'ONBEKEND' aangepast",
+        "Time": "14-10-2026 16:02:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "20-235: Kenteken van 'ONBEKEND' naar 'K-194-PZ' aangepast",
+        "Time": "14-10-2026 16:02:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "20-709: Kenteken van 'ONBEKEND' naar 'X-630-SZ' aangepast",
+        "Time": "14-10-2026 16:02:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "MG-351: Afkorting van 'RR-EH' naar 'MFT-EH' aangepast",
+        "Time": "14-10-2026 16:02:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "MG-351: TypeVoertuig van 'Rapid responder evenementenhulpverlening' naar 'Multifunctioneel terreinvoertuig evenementenhulpverlening' aangepast",
+        "Time": "14-10-2026 16:02:21"
       }
     ]
   },
