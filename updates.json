@@ -1,5 +1,364 @@
 [
   {
+    "date": "2026-10-15",
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "419 510 HR toegevoegd aan Melle",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "PF624 CCFM toegevoegd aan Büllingen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "CL622 TW toegevoegd aan Büllingen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "EV621 ELV toegevoegd aan Büllingen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "D621 SH toegevoegd aan Büllingen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP621 PM toegevoegd aan Büllingen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "B621 SIG toegevoegd aan Büllingen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VR620 LO toegevoegd aan Büllingen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "PX632 HZA toegevoegd aan Burg-Reuland",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "CX603 TW toegevoegd aan Burg-Reuland",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "D632 SH toegevoegd aan Burg-Reuland",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP631 PM toegevoegd aan Burg-Reuland",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP643 PM toegevoegd aan Burg-Reuland",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "B631 SIG toegevoegd aan Burg-Reuland",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VS603 HV toegevoegd aan Eupen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "B641 SIG toegevoegd aan Eupen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "PF943 CCFM toegevoegd aan Eupen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VC602 CP-OPS toegevoegd aan Eupen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VS617 BM toegevoegd aan Eupen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": " MUG toegevoegd aan Eeklo",
+        "Time": "15-10-2026 00:01:48"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": " RBA verwijderd van Büllingen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "C622 TW verwijderd van Büllingen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": " PM verwijderd van Burg-Reuland",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "D631 SH verwijderd van Burg-Reuland",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "DL642 HV verwijderd van Eupen",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VC601 CO verwijderd van Eupen",
+        "Time": "15-10-2026 00:01:48"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "PX622: Kenteken van '' naar '1-KEX-582' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VC604: Kenteken van '' naar '1-KFD-630' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "PX631: Kenteken van '' naar '1-KDB-551' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "E641: Afkorting van 'LW 32' naar 'LW' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "E641: Kenteken van '' naar '1-VDF-761' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "E641: Bijzonderheden van '' naar 'Lengte: 32 meter.' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "BEERSE: Kenteken van '' naar '1-YWV-284' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "BRAKEL: Kenteken van '' naar '1-YAW-144' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "DEINZE: Kenteken van '' naar '2-ATR-589' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "202000: Kenteken van '' naar '2-CMN-665' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": "HAMME: Kenteken van '' naar '1-TTT-177' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": "ZELE: Kenteken van '' naar '2-GWH-897' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "WETTEREN 1: Kenteken van '' naar '2-FDY-888' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "209000: Kenteken van '' naar '1-RKP-410' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "305000: Kenteken van '' naar '2-JRE-037' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "304000: Kenteken van '' naar '2-FNE-276' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - Midwest",
+        "Description": "TIELT: Kenteken van '' naar '2-DEQ-139' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - Midwest",
+        "Description": "307000: Kenteken van '' naar '2-GHE-853' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "602000: Kenteken van '' naar '2-DHZ-741' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "607000: Kenteken van '' naar '2-AVT-517' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "BOUILLON 1: Kenteken van '' naar '1-YRU-988' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "903000: Kenteken van '' naar '2-DJT-396' aangepast",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "'VP622' omgenummerd naar 'VP612'",
+        "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "'' omgenummerd naar 'VP611'",
+        "Time": "15-10-2026 00:01:48"
+      }
+    ]
+  },
+  {
     "date": "2026-10-14",
     "added": [
       {
@@ -14425,211 +14784,6 @@
         "Regio": "14 - Gooi en Vechtstreek (VRGV)",
         "Description": "14-2091: Interne opmerking van '' naar 'Combi OvD en AGS' aangepast",
         "Time": "14-09-2026 21:00:21"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-13",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "7 - Gelderland-Midden (VGGM)",
-        "Description": "07-9043 TST-NB toegevoegd aan Ede Centrum",
-        "Time": "13-09-2026 12:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-5002 DA toegevoegd aan Eindhoven Centrum",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1 - Groningen (VRG)",
-        "Description": "01-1001 DA toegevoegd aan Leek",
-        "Time": "13-09-2026 21:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1 - Groningen (VRG)",
-        "Description": "GEEN DA toegevoegd aan Groningen Hoofdpost",
-        "Time": "13-09-2026 21:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1 - Groningen (VRG)",
-        "Description": "01-3101 DB toegevoegd aan Appingedam",
-        "Time": "13-09-2026 21:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "3 - Drenthe (VRD)",
-        "Description": "03-8814 BRV-K toegevoegd aan Coevorden",
-        "Time": "13-09-2026 21:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "4 - IJsselland (VRIJ)",
-        "Description": "04-1501 DA toegevoegd aan Zwolle (Hoofdpost)",
-        "Time": "13-09-2026 21:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "28 - Defensie",
-        "Description": "28-9833 TS-DF toegevoegd aan Vliegbasis Leeuwarden",
-        "Time": "13-09-2026 21:00:16"
-      }
-    ],
-    "removed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "9 - Utrecht (VRU)",
-        "Description": "09-8182 HA verwijderd van Utrecht Leidsche Rijn",
-        "Time": "13-09-2026 09:00:17"
-      }
-    ],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "4 - IJsselland (VRIJ)",
-        "Description": "04-2831: Kenteken van '45-BRV-1' naar 'BD-118-K' aangepast",
-        "Time": "13-09-2026 12:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "7 - Gelderland-Midden (VGGM)",
-        "Description": "07-2771: Interne opmerking van 'Nieuw kenteken 2026' naar '' aangepast",
-        "Time": "13-09-2026 12:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "5 - Twente (VRT)",
-        "Description": "05-9402: Kenteken van '' naar 'WY-23-ZG' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "5 - Twente (VRT)",
-        "Description": "05-5163: Kenteken van 'GEEN' naar '18-WX-LX' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-2332: Interne opmerking van '' naar 'Brandweer' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-2351: Interne opmerking van '' naar 'Brandweer' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-5389: Kenteken van 'GEEN' naar '38-WJ-RK' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-5496: Afkorting van 'HOVD-B' naar 'L-COPI' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-5496: TypeVoertuig van 'Hoofdofficier van dienst Brandweer' naar 'Leider COPI' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-5496: Kenteken van '7-TPK-43' naar 'H-626-BH' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "5 - Twente (VRT)",
-        "Description": "05-102: Kenteken van 'J-805-NB' naar 'KGX-70-G' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-5011: Adres van 'Helmond' naar 'Eindhoven Woensel' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "'22-5011' omgenummerd naar '22-5496'",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-5011: Afkorting van 'DA' naar 'L-COPI' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-5011: TypeVoertuig van 'Dienstauto' naar 'Leider COPI' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-5011: Bijzonderheden van 'Bezetting: 5 personen.' naar '' aangepast",
-        "Time": "13-09-2026 14:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1 - Groningen (VRG)",
-        "Description": "01-3131: Adres van 'Appingendam' naar 'Appingedam' aangepast",
-        "Time": "13-09-2026 21:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1 - Groningen (VRG)",
-        "Description": "01-3173: Adres van 'Appingendam' naar 'Appingedam' aangepast",
-        "Time": "13-09-2026 21:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "4 - IJsselland (VRIJ)",
-        "Description": "04-1198: Kenteken van '' naar 'H-285-ZL' aangepast",
-        "Time": "13-09-2026 21:00:16"
       }
     ]
   }
