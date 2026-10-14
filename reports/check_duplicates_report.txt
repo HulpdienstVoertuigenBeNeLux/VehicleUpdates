@@ -86,7 +86,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,778  (of 10,143 total)
+  Records checked : 6,779  (of 10,144 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  538 value(s) affected
@@ -2328,7 +2328,7 @@
       Roepnummer  : C201
       Kenteken    : 1-KGF-071
 
-  >> 'C21'  (8x)
+  >> 'C21'  (9x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : C21
@@ -2345,6 +2345,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C21
       Kenteken    : 
+      Adres       : Buggenhout
+      Hulpdienst  : Brandweer
+      Roepnummer  : C21
+      Kenteken    : 1-PEJ-395
       Adres       : Buggenhout
       Hulpdienst  : Brandweer
       Roepnummer  : C21
@@ -3100,6 +3104,16 @@
       Roepnummer  : D2
       Kenteken    : 
 
+  >> 'D21'  (2x)
+      Adres       : Buggenhout
+      Hulpdienst  : Brandweer
+      Roepnummer  : D21
+      Kenteken    : 1-JNN-729
+      Adres       : Andenne
+      Hulpdienst  : Brandweer
+      Roepnummer  : D21
+      Kenteken    : 1-NXB-916
+
   >> 'D31'  (2x)
       Adres       : Gembloux
       Hulpdienst  : Brandweer
@@ -3424,7 +3438,7 @@
       Adres       : Buggenhout
       Hulpdienst  : Brandweer
       Roepnummer  : E21
-      Kenteken    : 
+      Kenteken    : 1-JLV-485
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : E21
@@ -4112,7 +4126,7 @@
       Roepnummer  : L20
       Kenteken    : 
 
-  >> 'L21'  (3x)
+  >> 'L21'  (4x)
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
       Roepnummer  : L21
@@ -4125,6 +4139,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : L21
       Kenteken    : 
+      Adres       : Buggenhout
+      Hulpdienst  : Brandweer
+      Roepnummer  : L21
+      Kenteken    : 1-JNN-744
 
   >> 'L212'  (2x)
       Adres       : Bouillon
@@ -4516,7 +4534,7 @@
       Roepnummer  : M2
       Kenteken    : 1-LRS-419
 
-  >> 'M21'  (4x)
+  >> 'M21'  (5x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : M21
@@ -4533,6 +4551,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : M21
       Kenteken    : 
+      Adres       : Buggenhout
+      Hulpdienst  : Brandweer
+      Roepnummer  : M21
+      Kenteken    : 1-DYJ-430
 
   >> 'M22'  (4x)
       Adres       : Leopoldsburg
@@ -4588,16 +4610,6 @@
       Adres       : Saint-Hubert
       Hulpdienst  : Brandweer
       Roepnummer  : M312
-      Kenteken    : 
-
-  >> 'M4'  (2x)
-      Adres       : Opwijk
-      Hulpdienst  : Brandweer
-      Roepnummer  : M4
-      Kenteken    : 
-      Adres       : Buggenhout
-      Hulpdienst  : Brandweer
-      Roepnummer  : M4
       Kenteken    : 
 
   >> 'M40'  (2x)
@@ -5042,11 +5054,15 @@
       Roepnummer  : P209
       Kenteken    : 
 
-  >> 'P21'  (3x)
+  >> 'P21'  (4x)
       Adres       : Aarschot
       Hulpdienst  : Brandweer
       Roepnummer  : P21
       Kenteken    : 1-LRS-431
+      Adres       : Buggenhout
+      Hulpdienst  : Brandweer
+      Roepnummer  : P21
+      Kenteken    : 1-JLV-494
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : P21
@@ -5056,11 +5072,15 @@
       Roepnummer  : P21
       Kenteken    : 1-CYC-893
 
-  >> 'P22'  (2x)
+  >> 'P22'  (3x)
       Adres       : Diest
       Hulpdienst  : Brandweer
       Roepnummer  : P22
       Kenteken    : 
+      Adres       : Buggenhout
+      Hulpdienst  : Brandweer
+      Roepnummer  : P22
+      Kenteken    : 1-JLV-471
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : P22
@@ -6550,7 +6570,7 @@
       Roepnummer  : T20
       Kenteken    : 
 
-  >> 'T21'  (5x)
+  >> 'T21'  (6x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : T21
@@ -6559,6 +6579,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : T21
       Kenteken    : 1-JVR-013
+      Adres       : Buggenhout
+      Hulpdienst  : Brandweer
+      Roepnummer  : T21
+      Kenteken    : 1-FYE-904
       Adres       : Temse
       Hulpdienst  : Brandweer
       Roepnummer  : T21

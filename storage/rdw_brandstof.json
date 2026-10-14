@@ -19861,6 +19861,10 @@
     "uitlaatemissieniveau": "EURO VI E"
   },
   {
+    "kenteken": "68WBN7",
+    "no_data": true
+  },
+  {
     "kenteken": "69BDL5",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -65062,20 +65066,6 @@
     "uitlaatemissieniveau": "EURO 6 W"
   },
   {
-    "kenteken": "L367FX",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "brandstofverbruik_gecombineerd": "9.10",
-    "co2_uitstoot_gecombineerd": "237",
-    "geluidsniveau_rijdend": "71",
-    "geluidsniveau_stationair": "80",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2018/932D",
-    "nettomaximumvermogen": "140.00",
-    "toerental_geluidsniveau": "2850",
-    "uitlaatemissieniveau": "EURO VI D"
-  },
-  {
     "kenteken": "L006ZK",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -65794,6 +65784,20 @@
     "emissie_co2_gecombineerd_wltp": "164",
     "brandstof_verbruik_gecombineerd_wltp": "6.300",
     "uitlaatemissieniveau": "EURO 6 AP"
+  },
+  {
+    "kenteken": "L367FX",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "9.10",
+    "co2_uitstoot_gecombineerd": "237",
+    "geluidsniveau_rijdend": "71",
+    "geluidsniveau_stationair": "80",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2018/932D",
+    "nettomaximumvermogen": "140.00",
+    "toerental_geluidsniveau": "2850",
+    "uitlaatemissieniveau": "EURO VI D"
   },
   {
     "kenteken": "L369FX",
@@ -96081,35 +96085,6 @@
     "no_data": true
   },
   {
-    "kenteken": "X630SZ",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Elektriciteit",
-    "emissiecode_omschrijving": "Z",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AP",
-    "nominaal_continu_maximumvermogen": "30.00",
-    "elektrisch_verbruik_extern_opladen_wltp": "154.00",
-    "actie_radius_extern_opladen_wltp": "46",
-    "netto_max_vermogen_elektrisch": "60.00",
-    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
-    "uitlaatemissieniveau": "EURO 6 AP"
-  },
-  {
-    "kenteken": "X630SZ",
-    "brandstof_volgnummer": "2",
-    "brandstof_omschrijving": "Benzine",
-    "geluidsniveau_rijdend": "68",
-    "geluidsniveau_stationair": "72",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AP",
-    "nettomaximumvermogen": "132.00",
-    "toerental_geluidsniveau": "3750",
-    "emis_deeltjes_type1_wltp": "0.18",
-    "emis_co2_gewogen_gecombineerd_wltp": "47",
-    "brandstof_verbruik_gewogen_gecombineerd_wltp": "2.100",
-    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
-    "uitlaatemissieniveau": "EURO 6 AP"
-  },
-  {
     "kenteken": "X036VZ",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -98055,6 +98030,35 @@
   },
   {
     "kenteken": "X629SZ",
+    "brandstof_volgnummer": "2",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_rijdend": "68",
+    "geluidsniveau_stationair": "72",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AP",
+    "nettomaximumvermogen": "132.00",
+    "toerental_geluidsniveau": "3750",
+    "emis_deeltjes_type1_wltp": "0.18",
+    "emis_co2_gewogen_gecombineerd_wltp": "47",
+    "brandstof_verbruik_gewogen_gecombineerd_wltp": "2.100",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 AP"
+  },
+  {
+    "kenteken": "X630SZ",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832AP",
+    "nominaal_continu_maximumvermogen": "30.00",
+    "elektrisch_verbruik_extern_opladen_wltp": "154.00",
+    "actie_radius_extern_opladen_wltp": "46",
+    "netto_max_vermogen_elektrisch": "60.00",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 AP"
+  },
+  {
+    "kenteken": "X630SZ",
     "brandstof_volgnummer": "2",
     "brandstof_omschrijving": "Benzine",
     "geluidsniveau_rijdend": "68",

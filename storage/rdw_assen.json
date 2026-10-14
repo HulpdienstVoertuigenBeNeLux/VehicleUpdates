@@ -35780,6 +35780,27 @@
     "technisch_toegestane_maximum_aslast": "770"
   },
   {
+    "kenteken": "68WBN7",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "wettelijk_toegestane_maximum_aslast": "1200",
+    "technisch_toegestane_maximum_aslast": "1200",
+    "afstand_tot_volgende_as_voertuig": "70"
+  },
+  {
+    "kenteken": "68WBN7",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "wettelijk_toegestane_maximum_aslast": "1200",
+    "technisch_toegestane_maximum_aslast": "1200"
+  },
+  {
     "kenteken": "68BDL6",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -110180,27 +110201,6 @@
     "technisch_toegestane_maximum_aslast": "1240"
   },
   {
-    "kenteken": "L367FX",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "plaatscode_as": "V",
-    "spoorbreedte": "169",
-    "wettelijk_toegestane_maximum_aslast": "2000",
-    "technisch_toegestane_maximum_aslast": "2000",
-    "afstand_tot_volgende_as_voertuig": "367"
-  },
-  {
-    "kenteken": "L367FX",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "plaatscode_as": "A",
-    "spoorbreedte": "152",
-    "wettelijk_toegestane_maximum_aslast": "3500",
-    "technisch_toegestane_maximum_aslast": "3500"
-  },
-  {
     "kenteken": "L006ZK",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -110974,6 +110974,27 @@
     "spoorbreedte": "157",
     "wettelijk_toegestane_maximum_aslast": "1160",
     "technisch_toegestane_maximum_aslast": "1160"
+  },
+  {
+    "kenteken": "L367FX",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "V",
+    "spoorbreedte": "169",
+    "wettelijk_toegestane_maximum_aslast": "2000",
+    "technisch_toegestane_maximum_aslast": "2000",
+    "afstand_tot_volgende_as_voertuig": "367"
+  },
+  {
+    "kenteken": "L367FX",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "A",
+    "spoorbreedte": "152",
+    "wettelijk_toegestane_maximum_aslast": "3500",
+    "technisch_toegestane_maximum_aslast": "3500"
   },
   {
     "kenteken": "L369FX",
@@ -149585,26 +149606,6 @@
     "technisch_toegestane_maximum_aslast": "1500"
   },
   {
-    "kenteken": "X630SZ",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "plaatscode_as": "V",
-    "spoorbreedte": "160",
-    "wettelijk_toegestane_maximum_aslast": "1200",
-    "technisch_toegestane_maximum_aslast": "1200"
-  },
-  {
-    "kenteken": "X630SZ",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "plaatscode_as": "A",
-    "spoorbreedte": "163",
-    "wettelijk_toegestane_maximum_aslast": "1150",
-    "technisch_toegestane_maximum_aslast": "1150"
-  },
-  {
     "kenteken": "X036VZ",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -151688,6 +151689,26 @@
   },
   {
     "kenteken": "X629SZ",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "163",
+    "wettelijk_toegestane_maximum_aslast": "1150",
+    "technisch_toegestane_maximum_aslast": "1150"
+  },
+  {
+    "kenteken": "X630SZ",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "160",
+    "wettelijk_toegestane_maximum_aslast": "1200",
+    "technisch_toegestane_maximum_aslast": "1200"
+  },
+  {
+    "kenteken": "X630SZ",
     "as_nummer": "2",
     "aantal_assen": "2",
     "aangedreven_as": "N",
