@@ -91244,7 +91244,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "17-992"
+      "03-994"
     ],
     "last_check_date": "2026-10-09",
     "last_expired_notification_date": null,
@@ -91304,7 +91304,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "08-993"
+      "13-991"
     ],
     "last_check_date": "2026-10-09",
     "last_expired_notification_date": null,
@@ -91316,7 +91316,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "GEEN"
+      "17-992"
     ],
     "last_check_date": "2026-10-09",
     "last_expired_notification_date": null,
@@ -91328,7 +91328,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "13-991"
+      "GEEN"
     ],
     "last_check_date": "2026-10-09",
     "last_expired_notification_date": null,
@@ -101072,7 +101072,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "GEEN"
+      "08-993"
     ],
     "last_check_date": "2026-10-13",
     "last_expired_notification_date": null,
@@ -101084,7 +101084,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "03-994"
+      "GEEN"
     ],
     "last_check_date": "2026-10-13",
     "last_expired_notification_date": null,
@@ -107153,5 +107153,31 @@
     "datum_tenaamstelling_dt": "2024-08-01",
     "last_tenaamstelling_check_date": "2026-10-15",
     "aantal_zitplaatsen": "5"
+  },
+  "BD-384-S": {
+    "expiry": "2027-06-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-10-15",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-06-30",
+    "last_tenaamstelling_check_date": "2026-10-15",
+    "aantal_zitplaatsen": "3"
+  },
+  "99-BZT-5": {
+    "expiry": "2027-09-18",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-10-15",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-09-29",
+    "last_tenaamstelling_check_date": "2026-10-15",
+    "aantal_zitplaatsen": "2"
   }
 }
