@@ -16994,6 +16994,17 @@
     "brandstof_omschrijving": null
   },
   {
+    "kenteken": "58MLSF",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_rijdend": "74",
+    "geluidsniveau_stationair": "92",
+    "milieuklasse_eg_goedkeuring_licht": "134/2014*2018/295A1",
+    "nettomaximumvermogen": "100.00",
+    "toerental_geluidsniveau": "3875",
+    "uitlaatemissieniveau": "EURO 4"
+  },
+  {
     "kenteken": "58BBF4",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -27280,6 +27291,14 @@
     "nettomaximumvermogen": "55.00",
     "toerental_geluidsniveau": "2375",
     "uitlaatemissieniveau": "EURO 6 W"
+  },
+  {
+    "kenteken": "90MBFT",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_stationair": "92",
+    "nettomaximumvermogen": "81.00",
+    "toerental_geluidsniveau": "3875"
   },
   {
     "kenteken": "90BBF5",
@@ -84310,19 +84329,6 @@
     "opgegeven_maximum_snelheid": "60.00"
   },
   {
-    "kenteken": "V10PJG",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Elektriciteit",
-    "geluidsniveau_rijdend": "66",
-    "emissiecode_omschrijving": "Z",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443AX",
-    "nominaal_continu_maximumvermogen": "51.00",
-    "elektrisch_verbruik_enkel_elektrisch_wltp": "209.00",
-    "actie_radius_enkel_elektrisch_wltp": "264",
-    "netto_max_vermogen_elektrisch": "90.00",
-    "uitlaatemissieniveau": "AX"
-  },
-  {
     "kenteken": "V018FN",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -84755,6 +84761,19 @@
   },
   {
     "kenteken": "V09PJG",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "66",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443AX",
+    "nominaal_continu_maximumvermogen": "51.00",
+    "elektrisch_verbruik_enkel_elektrisch_wltp": "209.00",
+    "actie_radius_enkel_elektrisch_wltp": "264",
+    "netto_max_vermogen_elektrisch": "90.00",
+    "uitlaatemissieniveau": "AX"
+  },
+  {
+    "kenteken": "V10PJG",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Elektriciteit",
     "geluidsniveau_rijdend": "66",

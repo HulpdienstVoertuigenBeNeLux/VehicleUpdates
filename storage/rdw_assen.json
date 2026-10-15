@@ -31517,6 +31517,10 @@
     "technisch_toegestane_maximum_aslast": "900"
   },
   {
+    "kenteken": "58MLSF",
+    "no_data": true
+  },
+  {
     "kenteken": "58WLJS",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -49495,6 +49499,10 @@
     "weggedrag_code": "A",
     "wettelijk_toegestane_maximum_aslast": "11500",
     "technisch_toegestane_maximum_aslast": "11500"
+  },
+  {
+    "kenteken": "90MBFT",
+    "no_data": true
   },
   {
     "kenteken": "90XPXD",
@@ -133691,26 +133699,6 @@
     "no_data": true
   },
   {
-    "kenteken": "V10PJG",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "plaatscode_as": "V",
-    "spoorbreedte": "159",
-    "wettelijk_toegestane_maximum_aslast": "1230",
-    "technisch_toegestane_maximum_aslast": "1230"
-  },
-  {
-    "kenteken": "V10PJG",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "plaatscode_as": "A",
-    "spoorbreedte": "161",
-    "wettelijk_toegestane_maximum_aslast": "1450",
-    "technisch_toegestane_maximum_aslast": "1450"
-  },
-  {
     "kenteken": "V018FN",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -134246,6 +134234,26 @@
   },
   {
     "kenteken": "V09PJG",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "161",
+    "wettelijk_toegestane_maximum_aslast": "1450",
+    "technisch_toegestane_maximum_aslast": "1450"
+  },
+  {
+    "kenteken": "V10PJG",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "159",
+    "wettelijk_toegestane_maximum_aslast": "1230",
+    "technisch_toegestane_maximum_aslast": "1230"
+  },
+  {
+    "kenteken": "V10PJG",
     "as_nummer": "2",
     "aantal_assen": "2",
     "aangedreven_as": "N",
