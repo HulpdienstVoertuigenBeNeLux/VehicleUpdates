@@ -141,6 +141,48 @@
         "Regio": "Oost-Vlaanderen Zone - Meetjesland",
         "Description": " MUG toegevoegd aan Eeklo",
         "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-4105 DB toegevoegd aan Almere Poort",
+        "Time": "15-10-2026 11:02:03"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-4106 DB toegevoegd aan Almere Poort",
+        "Time": "15-10-2026 11:02:03"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-8202 GM toegevoegd aan Almere Poort",
+        "Time": "15-10-2026 11:02:03"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "22102 LW toegevoegd aan Charleroi",
+        "Time": "15-10-2026 11:02:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": "DC02 TW toegevoegd aan Cerfontaine",
+        "Time": "15-10-2026 11:02:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": "DA14 ZW toegevoegd aan Cerfontaine",
+        "Time": "15-10-2026 11:02:24"
       }
     ],
     "removed": [
@@ -185,6 +227,20 @@
         "Regio": "Luik Zone - DG",
         "Description": "VC601 CO verwijderd van Eupen",
         "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": " WTC verwijderd van Cerfontaine",
+        "Time": "15-10-2026 11:02:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": "CERFONTAINE ZW verwijderd van Cerfontaine",
+        "Time": "15-10-2026 11:02:24"
       }
     ],
     "changed": [
@@ -355,6 +411,83 @@
         "Regio": "Luik Zone - DG",
         "Description": "'' omgenummerd naar 'VP611'",
         "Time": "15-10-2026 00:01:48"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-5482: Afkorting van 'LO' naar 'GM' aangepast",
+        "Time": "15-10-2026 11:02:03"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-5482: TypeVoertuig van 'Logistiek voertuig' naar 'Gereedschap/materieelvoertuig' aangepast",
+        "Time": "15-10-2026 11:02:03"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-6637: Kenteken van 'BN-HV-39' naar 'BD-567-X' aangepast",
+        "Time": "15-10-2026 11:02:03"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "12-521: Kenteken van 'L719-BT' naar 'L-719-BT' aangepast",
+        "Time": "15-10-2026 11:02:03"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "P1: Adres van 'Soignies' naar 'Cerfontaine' aangepast",
+        "Time": "15-10-2026 11:02:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "P1: Kenteken van '' naar '1-KHN-026' aangepast",
+        "Time": "15-10-2026 11:02:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "CHARLEROI 2: Kenteken van '' naar '2-FPM-622' aangepast",
+        "Time": "15-10-2026 11:02:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "CHARLEROI 3: Kenteken van '' naar '1-SZT-567' aangepast",
+        "Time": "15-10-2026 11:02:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "608000: Kenteken van '' naar '2-GNV-974' aangepast",
+        "Time": "15-10-2026 11:02:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": ": Adres van 'Beauraing' naar 'Cerfontaine' aangepast",
+        "Time": "15-10-2026 11:02:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": "'' omgenummerd naar 'DB02'",
+        "Time": "15-10-2026 11:02:24"
       }
     ]
   },

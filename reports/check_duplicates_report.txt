@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,067  (of 17,253 total)
+  Records checked : 11,070  (of 17,256 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  5 value(s) affected
@@ -86,7 +86,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,784  (of 10,149 total)
+  Records checked : 6,780  (of 10,145 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  538 value(s) affected
@@ -160,7 +160,7 @@
       Roepnummer  : 14
       Kenteken    : 
 
-  >> '2'  (5x)
+  >> '2'  (4x)
       Adres       : Oostmalle
       Hulpdienst  : Brandweer
       Roepnummer  : 2
@@ -170,10 +170,6 @@
       Roepnummer  : 2
       Kenteken    : 
       Adres       : Wetteren
-      Hulpdienst  : Brandweer
-      Roepnummer  : 2
-      Kenteken    : 
-      Adres       : Cerfontaine
       Hulpdienst  : Brandweer
       Roepnummer  : 2
       Kenteken    : 
@@ -744,7 +740,7 @@
       Adres       : Antwerpen-Centrum
       Hulpdienst  : Brandweer
       Roepnummer  : A12
-      Kenteken    : 
+      Kenteken    : 1-GYE-750
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : A12
@@ -1038,7 +1034,7 @@
       Adres       : Antwerpen-Centrum
       Hulpdienst  : Brandweer
       Roepnummer  : A28
-      Kenteken    : 
+      Kenteken    : 1-KLU-957
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : A28
@@ -2926,7 +2922,7 @@
       Adres       : Charleroi
       Hulpdienst  : Ambulance
       Roepnummer  : CHARLEROI 1
-      Kenteken    : 
+      Kenteken    : 2-CBM-517
       Adres       : Charleroi
       Hulpdienst  : Ambulance
       Roepnummer  : CHARLEROI 1
@@ -4810,7 +4806,7 @@
       Roepnummer  : O2
       Kenteken    : 
 
-  >> 'P1'  (7x)
+  >> 'P1'  (8x)
       Adres       : Vilvoorde
       Hulpdienst  : Brandweer
       Roepnummer  : P1
@@ -4839,6 +4835,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : P1
       Kenteken    : 
+      Adres       : Cerfontaine
+      Hulpdienst  : Brandweer
+      Roepnummer  : P1
+      Kenteken    : 1-KHN-026
 
   >> 'P10'  (2x)
       Adres       : Tollembeek
