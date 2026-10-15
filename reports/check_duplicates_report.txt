@@ -86,10 +86,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,767  (of 10,132 total)
+  Records checked : 6,753  (of 10,118 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  524 value(s) affected
+  Duplicate Roepnummer  --  523 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -259,6 +259,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : 4
       Kenteken    : 
+
+  >> '419 665'  (2x)
+      Adres       : Deinze
+      Hulpdienst  : Brandweer
+      Roepnummer  : 419 665
+      Kenteken    : 1-UQK-097
+      Adres       : Deinze
+      Hulpdienst  : Brandweer
+      Roepnummer  : 419 665
+      Kenteken    : 1-UQK-097
 
   >> '460003'  (2x)
       Adres       : Aalst
@@ -526,22 +536,8 @@
       Roepnummer  : A11
       Kenteken    : 1-FYL-924
 
-  >> 'A111'  (2x)
+  >> 'A112'  (2x)
       Adres       : Antwerpen-Noord
-      Hulpdienst  : Brandweer
-      Roepnummer  : A111
-      Kenteken    : 
-      Adres       : De Haan-Wenduine
-      Hulpdienst  : Brandweer
-      Roepnummer  : A111
-      Kenteken    : 
-
-  >> 'A112'  (3x)
-      Adres       : Antwerpen-Noord
-      Hulpdienst  : Brandweer
-      Roepnummer  : A112
-      Kenteken    : 
-      Adres       : De Haan-Wenduine
       Hulpdienst  : Brandweer
       Roepnummer  : A112
       Kenteken    : 
@@ -1481,16 +1477,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : B21
       Kenteken    : 1-PCB-505
-
-  >> 'B22'  (2x)
-      Adres       : Leopoldsburg
-      Hulpdienst  : Brandweer
-      Roepnummer  : B22
-      Kenteken    : 
-      Adres       : Couvin
-      Hulpdienst  : Brandweer
-      Roepnummer  : B22
-      Kenteken    : 
 
   >> 'B31'  (4x)
       Adres       : Pelt
@@ -3074,7 +3060,7 @@
       Adres       : Cité
       Hulpdienst  : Brandweer
       Roepnummer  : E10
-      Kenteken    : 
+      Kenteken    : 1-NNT-749
       Adres       : Tournai
       Hulpdienst  : Brandweer
       Roepnummer  : E10
@@ -4732,7 +4718,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P12
-      Kenteken    : 
+      Kenteken    : 1-TVL-796
       Adres       : Berlare
       Hulpdienst  : Brandweer
       Roepnummer  : P12
@@ -6428,7 +6414,7 @@
       Roepnummer  : T21
       Kenteken    : 1-PCB-214
 
-  >> 'T22'  (6x)
+  >> 'T22'  (5x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : T22
@@ -6445,10 +6431,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : T22
       Kenteken    : 1-NAY-644
-      Adres       : Couvin
-      Hulpdienst  : Brandweer
-      Roepnummer  : T22
-      Kenteken    : 
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : T22
@@ -6948,7 +6930,7 @@
       Adres       : De Haan-Wenduine
       Hulpdienst  : Brandweer
       Roepnummer  : V102
-      Kenteken    : 
+      Kenteken    : 1-KAR-865
       Adres       : Waremme
       Hulpdienst  : Brandweer
       Roepnummer  : V102
@@ -7091,10 +7073,10 @@
       Kenteken    : 1-RUG-921
 
   >> 'V402'  (4x)
-      Adres       : Zonnebeke
+      Adres       : De Panne
       Hulpdienst  : Brandweer
       Roepnummer  : V402
-      Kenteken    : 
+      Kenteken    : 1-PTP-634
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : V402
@@ -7321,7 +7303,7 @@
       Kenteken    : 
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  3 value(s) affected
+  Duplicate Kenteken  --  4 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1-NPS-154'  (2x)
@@ -7333,6 +7315,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : M404
       Kenteken    : 1-NPS-154
+
+  >> '1-UQK-097'  (2x)
+      Adres       : Deinze
+      Hulpdienst  : Brandweer
+      Roepnummer  : 419 665
+      Kenteken    : 1-UQK-097
+      Adres       : Deinze
+      Hulpdienst  : Brandweer
+      Roepnummer  : 419 665
+      Kenteken    : 1-UQK-097
 
   >> '1-WXX-116'  (2x)
       Adres       : Aalst
