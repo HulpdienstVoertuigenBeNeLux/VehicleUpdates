@@ -96,10 +96,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,762  (of 10,128 total)
+  Records checked : 6,756  (of 10,122 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  526 value(s) affected
+  Duplicate Roepnummer  --  527 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -3965,7 +3965,7 @@
       Hulpdienst  : Brandweer
       Roepnummer  : L2
       Kenteken    : 
-      Adres       : Dilbeek
+      Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : L2
       Kenteken    : 
@@ -4427,6 +4427,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : M22
       Kenteken    : 
+
+  >> 'M28'  (2x)
+      Adres       : Scherpenheuvel-Zichem
+      Hulpdienst  : Brandweer
+      Roepnummer  : M28
+      Kenteken    : 
+      Adres       : Dilbeek
+      Hulpdienst  : Brandweer
+      Roepnummer  : M28
+      Kenteken    : 2-AGA-543
 
   >> 'M29'  (2x)
       Adres       : Bilzen-Hoeselt
@@ -4992,7 +5002,7 @@
       Adres       : Dilbeek
       Hulpdienst  : Brandweer
       Roepnummer  : P3
-      Kenteken    : 
+      Kenteken    : 2-AHS-350
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P3
@@ -6078,15 +6088,11 @@
       Roepnummer  : S7
       Kenteken    : 
 
-  >> 'S8'  (4x)
+  >> 'S8'  (3x)
       Adres       : Haacht
       Hulpdienst  : Brandweer
       Roepnummer  : S8
       Kenteken    : 
-      Adres       : Dilbeek
-      Hulpdienst  : Brandweer
-      Roepnummer  : S8
-      Kenteken    : 1-KEF-428
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : S8
