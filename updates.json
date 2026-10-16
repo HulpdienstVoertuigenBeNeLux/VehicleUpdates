@@ -484,6 +484,48 @@
         "Regio": "",
         "Description": " PIT toegevoegd aan Lokeren",
         "Time": "16-10-2026 15:02:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-840 OVD-G toegevoegd aan Almere",
+        "Time": "16-10-2026 16:01:56"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I37 PM toegevoegd aan Diest",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "CT07 SLC toegevoegd aan Diest",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "CT09 WTC toegevoegd aan Diest",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "AW12 BMA toegevoegd aan Diest",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "AW14 DMA toegevoegd aan Diest",
+        "Time": "16-10-2026 16:02:01"
       }
     ],
     "removed": [
@@ -577,6 +619,48 @@
         "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
         "Description": "460609 SIG verwijderd van Denderleeuw",
         "Time": "16-10-2026 15:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "M6 HV verwijderd van Diest",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "CT15 WTC verwijderd van Diest",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "CT16 WTC verwijderd van Diest",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "CT61 DPC verwijderd van Diest",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "CT33 LBC verwijderd van Diest",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "CT9 WTC verwijderd van Tienen",
+        "Time": "16-10-2026 16:02:01"
       }
     ],
     "changed": [
@@ -957,6 +1041,104 @@
         "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
         "Description": "'' omgenummerd naar '460602'",
         "Time": "16-10-2026 15:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A7: Kenteken van '' naar '1-JHF-142' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A80: Kenteken van '' naar '1-JHJ-345' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "L12: Afkorting van 'LW 30' naar 'LW' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "L12: Kenteken van '' naar '1-XBA-226' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "L12: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "AW15: Adres van 'Aarschot' naar 'Diest' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "AW15: Kenteken van '1-LTG-361' naar '' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "T57: Kenteken van '' naar '1-LNT-837' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I35: Kenteken van '' naar '1-LPJ-755' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "M47: Kenteken van '' naar '1-BSH-739' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "CT60: Afkorting van 'DPC' naar 'LBC' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "CT60: TypeVoertuig van 'Dompelpomp Conainer' naar 'Laadbak Container' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "CT14: Adres van 'Overijse' naar 'Tienen' aangepast",
+        "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "504000: Kenteken van '' naar '2-KBW-185' aangepast",
+        "Time": "16-10-2026 16:02:01"
       }
     ]
   },

@@ -1805,7 +1805,7 @@
       "A7",
       "ZA",
       "Zware Autopomp",
-      "",
+      "1-JHF-142",
       "",
       "",
       "Brandweer",
@@ -1820,7 +1820,7 @@
       "A26",
       "LW 32",
       "Ladderwagen",
-      "",
+      "1-DYR-044",
       "",
       "",
       "Brandweer",
@@ -1835,7 +1835,7 @@
       "A80",
       "HR",
       "RISC / GRIMP ( Hoogte Redteam )",
-      "",
+      "1-JHJ-345",
       "",
       "",
       "Brandweer",
@@ -22610,7 +22610,7 @@
       "P22",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-LNT-496",
       "",
       "",
       "Brandweer",
@@ -22625,7 +22625,7 @@
       "P23",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-LNT-811",
       "",
       "",
       "Brandweer",
@@ -22640,7 +22640,7 @@
       "T57",
       "TW",
       "Tankwagen",
-      "",
+      "1-LNT-837",
       "",
       "",
       "Brandweer",
@@ -22653,10 +22653,10 @@
     [
       "Diest",
       "L12",
-      "LW 30",
+      "LW",
       "Ladderwagen",
-      "",
-      "",
+      "1-XBA-226",
+      "Lengte: 30 meter.",
       "",
       "Brandweer",
       "Vlaams-Brabant Zone - Oost",
@@ -22670,7 +22670,7 @@
       "M12",
       "HV",
       "Hulpverleningsvoertuig",
-      "",
+      "1-LNT-863",
       "",
       "",
       "Brandweer",
@@ -22682,25 +22682,10 @@
     ],
     [
       "Diest",
-      "M6",
-      "HV",
-      "Hulpverleningsvoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Vlaams-Brabant Zone - Oost",
-      "",
-      "",
-      "",
-      "VEH-006-POST-093"
-    ],
-    [
-      "Diest",
       "I35",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-LPJ-755",
       "",
       "",
       "Brandweer",
@@ -22727,10 +22712,10 @@
     ],
     [
       "Diest",
-      "S12",
-      "SIG",
-      "Signalisatievoertuig",
-      "",
+      "I37",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "1-LPJ-730",
       "",
       "",
       "Brandweer",
@@ -22739,6 +22724,21 @@
       "",
       "",
       "VEH-009-POST-093"
+    ],
+    [
+      "Diest",
+      "S12",
+      "SIG",
+      "Signalisatievoertuig",
+      "2-AJN-822",
+      "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-010-POST-093"
     ],
     [
       "Diest",
@@ -22753,7 +22753,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-093"
+      "VEH-011-POST-093"
     ],
     [
       "Diest",
@@ -22768,7 +22768,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-093"
+      "VEH-012-POST-093"
     ],
     [
       "Diest",
@@ -22783,14 +22783,14 @@
       "",
       "",
       "",
-      "VEH-012-POST-093"
+      "VEH-013-POST-093"
     ],
     [
       "Diest",
       "C12",
       "CO",
       "Commandovoertuig",
-      "",
+      "1-LPJ-741",
       "",
       "",
       "Brandweer",
@@ -22798,7 +22798,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-093"
+      "VEH-014-POST-093"
     ],
     [
       "Diest",
@@ -22813,28 +22813,13 @@
       "",
       "",
       "",
-      "VEH-014-POST-093"
+      "VEH-015-POST-093"
     ],
     [
       "Diest",
       "C54",
       "CO",
       "Commandovoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Vlaams-Brabant Zone - Oost",
-      "",
-      "",
-      "",
-      "VEH-015-POST-093"
-    ],
-    [
-      "Diest",
-      "M48",
-      "HA-KR",
-      "Haakarmvoertuig (Met kraan)",
       "",
       "",
       "",
@@ -22850,7 +22835,7 @@
       "M47",
       "HA-KR",
       "Haakarmvoertuig (Met kraan)",
-      "",
+      "1-BSH-739",
       "",
       "",
       "Brandweer",
@@ -22859,6 +22844,21 @@
       "",
       "",
       "VEH-017-POST-093"
+    ],
+    [
+      "Diest",
+      "M48",
+      "HA-KR",
+      "Haakarmvoertuig (Met kraan)",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-018-POST-093"
     ],
     [
       "Diest",
@@ -22873,28 +22873,13 @@
       "",
       "",
       "",
-      "VEH-018-POST-093"
-    ],
-    [
-      "Diest",
-      "CT50",
-      "BMC",
-      "Bijzondere Materialen Container",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Vlaams-Brabant Zone - Oost",
-      "",
-      "",
-      "",
       "VEH-019-POST-093"
     ],
     [
       "Diest",
-      "CT13",
-      "WTC",
-      "Watertank container",
+      "CT07",
+      "SLC",
+      "Slangen Container",
       "",
       "",
       "",
@@ -22907,7 +22892,7 @@
     ],
     [
       "Diest",
-      "CT15",
+      "CT09",
       "WTC",
       "Watertank container",
       "",
@@ -22922,7 +22907,7 @@
     ],
     [
       "Diest",
-      "CT16",
+      "CT13",
       "WTC",
       "Watertank container",
       "",
@@ -22937,7 +22922,7 @@
     ],
     [
       "Diest",
-      "CT60",
+      "CT10",
       "DPC",
       "Dompelpomp Conainer",
       "",
@@ -22952,7 +22937,7 @@
     ],
     [
       "Diest",
-      "CT61",
+      "CT11",
       "DPC",
       "Dompelpomp Conainer",
       "",
@@ -22994,21 +22979,6 @@
       "",
       "",
       "VEH-026-POST-093"
-    ],
-    [
-      "Diest",
-      "CT33",
-      "LBC",
-      "Laadbak Container (met kraan)",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Vlaams-Brabant Zone - Oost",
-      "",
-      "",
-      "",
-      "VEH-027-POST-093"
     ],
     [
       "Diest",
@@ -23057,6 +23027,36 @@
     ],
     [
       "Diest",
+      "CT50",
+      "BMC",
+      "Bijzondere Materialen Container",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-031-POST-093"
+    ],
+    [
+      "Diest",
+      "CT60",
+      "LBC",
+      "Laadbak Container",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-032-POST-093"
+    ],
+    [
+      "Diest",
       "AW16",
       "RBA",
       "Reddings Boot Aanhanger",
@@ -23068,7 +23068,7 @@
       "",
       "",
       "",
-      "VEH-031-POST-093"
+      "VEH-033-POST-093"
     ],
     [
       "Diest",
@@ -23083,7 +23083,7 @@
       "",
       "",
       "",
-      "VEH-032-POST-093"
+      "VEH-034-POST-093"
     ],
     [
       "Diest",
@@ -23098,7 +23098,52 @@
       "",
       "",
       "",
-      "VEH-033-POST-093"
+      "VEH-035-POST-093"
+    ],
+    [
+      "Diest",
+      "AW12",
+      "BMA",
+      "Bijzondere Materialen Aanhanger",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-036-POST-093"
+    ],
+    [
+      "Diest",
+      "AW14",
+      "DMA",
+      "Draagbare Motorpomp Aanhanger",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-037-POST-093"
+    ],
+    [
+      "Diest",
+      "AW15",
+      "RBA",
+      "Reddings Boot Aanhanger",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-038-POST-093"
     ],
     [
       "Haacht - Provinciesteenweg 34",
@@ -23552,6 +23597,21 @@
     ],
     [
       "Leuven",
+      "M62",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "1-LAZ-792",
+      "T.b.v Opleiding",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-014-POST-096"
+    ],
+    [
+      "Leuven",
       "M68",
       "HR",
       "RISC / GRIMP ( Hoogte Redteam )",
@@ -23563,7 +23623,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-096"
+      "VEH-015-POST-096"
     ],
     [
       "Leuven",
@@ -23578,7 +23638,7 @@
       "",
       "",
       "",
-      "VEH-015-POST-096"
+      "VEH-016-POST-096"
     ],
     [
       "Leuven",
@@ -23593,7 +23653,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-096"
+      "VEH-017-POST-096"
     ],
     [
       "Leuven",
@@ -23608,7 +23668,7 @@
       "",
       "",
       "",
-      "VEH-017-POST-096"
+      "VEH-018-POST-096"
     ],
     [
       "Leuven",
@@ -23623,7 +23683,7 @@
       "",
       "",
       "",
-      "VEH-018-POST-096"
+      "VEH-019-POST-096"
     ],
     [
       "Leuven",
@@ -23638,7 +23698,7 @@
       "",
       "",
       "",
-      "VEH-019-POST-096"
+      "VEH-020-POST-096"
     ],
     [
       "Leuven",
@@ -23653,7 +23713,7 @@
       "",
       "",
       "",
-      "VEH-020-POST-096"
+      "VEH-021-POST-096"
     ],
     [
       "Leuven",
@@ -23668,7 +23728,7 @@
       "",
       "",
       "",
-      "VEH-021-POST-096"
+      "VEH-022-POST-096"
     ],
     [
       "Leuven",
@@ -23683,7 +23743,7 @@
       "",
       "",
       "",
-      "VEH-022-POST-096"
+      "VEH-023-POST-096"
     ],
     [
       "Leuven",
@@ -23698,7 +23758,7 @@
       "",
       "",
       "",
-      "VEH-023-POST-096"
+      "VEH-024-POST-096"
     ],
     [
       "Leuven",
@@ -23713,7 +23773,7 @@
       "",
       "",
       "",
-      "VEH-024-POST-096"
+      "VEH-025-POST-096"
     ],
     [
       "Leuven",
@@ -23728,7 +23788,7 @@
       "",
       "",
       "",
-      "VEH-025-POST-096"
+      "VEH-026-POST-096"
     ],
     [
       "Leuven",
@@ -23743,7 +23803,7 @@
       "",
       "",
       "",
-      "VEH-026-POST-096"
+      "VEH-027-POST-096"
     ],
     [
       "Leuven",
@@ -23758,7 +23818,7 @@
       "",
       "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/C19-unknown.webp",
       "",
-      "VEH-027-POST-096"
+      "VEH-028-POST-096"
     ],
     [
       "Leuven",
@@ -23773,7 +23833,7 @@
       "",
       "",
       "",
-      "VEH-028-POST-096"
+      "VEH-029-POST-096"
     ],
     [
       "Leuven",
@@ -23788,7 +23848,7 @@
       "",
       "",
       "",
-      "VEH-029-POST-096"
+      "VEH-030-POST-096"
     ],
     [
       "Leuven",
@@ -23803,7 +23863,7 @@
       "",
       "",
       "",
-      "VEH-030-POST-096"
+      "VEH-031-POST-096"
     ],
     [
       "Leuven",
@@ -23818,7 +23878,7 @@
       "",
       "",
       "",
-      "VEH-031-POST-096"
+      "VEH-032-POST-096"
     ],
     [
       "Leuven",
@@ -23833,7 +23893,7 @@
       "",
       "",
       "",
-      "VEH-032-POST-096"
+      "VEH-033-POST-096"
     ],
     [
       "Leuven",
@@ -23848,7 +23908,7 @@
       "",
       "",
       "",
-      "VEH-033-POST-096"
+      "VEH-034-POST-096"
     ],
     [
       "Leuven",
@@ -23863,7 +23923,7 @@
       "",
       "",
       "",
-      "VEH-034-POST-096"
+      "VEH-035-POST-096"
     ],
     [
       "Leuven",
@@ -23878,7 +23938,7 @@
       "",
       "",
       "",
-      "VEH-035-POST-096"
+      "VEH-036-POST-096"
     ],
     [
       "Leuven",
@@ -23893,7 +23953,7 @@
       "",
       "",
       "",
-      "VEH-036-POST-096"
+      "VEH-037-POST-096"
     ],
     [
       "Leuven",
@@ -23908,7 +23968,7 @@
       "",
       "",
       "",
-      "VEH-037-POST-096"
+      "VEH-038-POST-096"
     ],
     [
       "Leuven",
@@ -23923,7 +23983,7 @@
       "",
       "",
       "",
-      "VEH-038-POST-096"
+      "VEH-039-POST-096"
     ],
     [
       "Leuven",
@@ -23938,7 +23998,7 @@
       "",
       "",
       "",
-      "VEH-039-POST-096"
+      "VEH-040-POST-096"
     ],
     [
       "Leuven",
@@ -23953,7 +24013,7 @@
       "",
       "",
       "",
-      "VEH-040-POST-096"
+      "VEH-041-POST-096"
     ],
     [
       "Leuven",
@@ -23968,7 +24028,7 @@
       "",
       "",
       "",
-      "VEH-041-POST-096"
+      "VEH-042-POST-096"
     ],
     [
       "Overijse - Schavei 77",
@@ -24707,7 +24767,7 @@
     ],
     [
       "Tienen",
-      "CT9",
+      "CT14",
       "WTC",
       "Watertank container",
       "",
@@ -90320,7 +90380,7 @@
       "504000",
       "MUG",
       "Mobiele Urgentie Groep",
-      "",
+      "2-KBW-185",
       "",
       "",
       "Ambulance",

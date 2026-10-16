@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,074  (of 17,263 total)
+  Records checked : 11,075  (of 17,265 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  5 value(s) affected
@@ -86,10 +86,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,757  (of 10,123 total)
+  Records checked : 6,761  (of 10,127 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  521 value(s) affected
+  Duplicate Roepnummer  --  526 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -830,7 +830,7 @@
       Adres       : Deurne
       Hulpdienst  : Brandweer
       Roepnummer  : A26
-      Kenteken    : 
+      Kenteken    : 1-DYR-044
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : A26
@@ -1320,6 +1320,16 @@
       Adres       : Izegem
       Hulpdienst  : Brandweer
       Roepnummer  : AT1
+      Kenteken    : 
+
+  >> 'AW15'  (2x)
+      Adres       : Aarschot
+      Hulpdienst  : Brandweer
+      Roepnummer  : AW15
+      Kenteken    : 1-LTG-361
+      Adres       : Diest
+      Hulpdienst  : Brandweer
+      Roepnummer  : AW15
       Kenteken    : 
 
   >> 'B03'  (2x)
@@ -1962,7 +1972,7 @@
       Adres       : Diest
       Hulpdienst  : Brandweer
       Roepnummer  : C12
-      Kenteken    : 
+      Kenteken    : 1-LPJ-741
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C12
@@ -2744,6 +2754,36 @@
       Adres       : Charleroi
       Hulpdienst  : Ambulance
       Roepnummer  : CHARLEROI 1
+      Kenteken    : 
+
+  >> 'CT10'  (2x)
+      Adres       : Diest
+      Hulpdienst  : Brandweer
+      Roepnummer  : CT10
+      Kenteken    : 
+      Adres       : Zaventem
+      Hulpdienst  : Brandweer
+      Roepnummer  : CT10
+      Kenteken    : 
+
+  >> 'CT11'  (2x)
+      Adres       : Diest
+      Hulpdienst  : Brandweer
+      Roepnummer  : CT11
+      Kenteken    : 
+      Adres       : Londerzeel
+      Hulpdienst  : Brandweer
+      Roepnummer  : CT11
+      Kenteken    : 
+
+  >> 'CT14'  (2x)
+      Adres       : Overijse
+      Hulpdienst  : Brandweer
+      Roepnummer  : CT14
+      Kenteken    : 
+      Adres       : Tienen
+      Hulpdienst  : Brandweer
+      Roepnummer  : CT14
       Kenteken    : 
 
   >> 'CT92'  (2x)
@@ -3836,7 +3876,7 @@
       Adres       : Diest
       Hulpdienst  : Brandweer
       Roepnummer  : L12
-      Kenteken    : 
+      Kenteken    : 1-XBA-226
 
   >> 'L13'  (2x)
       Adres       : Genk
@@ -4258,7 +4298,7 @@
       Adres       : Diest
       Hulpdienst  : Brandweer
       Roepnummer  : M12
-      Kenteken    : 
+      Kenteken    : 1-LNT-863
       Adres       : Maldegem
       Hulpdienst  : Brandweer
       Roepnummer  : M12
@@ -4486,6 +4526,16 @@
       Adres       : Maldegem
       Hulpdienst  : Brandweer
       Roepnummer  : M61
+      Kenteken    : 
+
+  >> 'M62'  (2x)
+      Adres       : Leuven
+      Hulpdienst  : Brandweer
+      Roepnummer  : M62
+      Kenteken    : 1-LAZ-792
+      Adres       : Londerzeel
+      Hulpdienst  : Brandweer
+      Roepnummer  : M62
       Kenteken    : 
 
   >> 'M65'  (2x)
@@ -4884,7 +4934,7 @@
       Adres       : Diest
       Hulpdienst  : Brandweer
       Roepnummer  : P22
-      Kenteken    : 
+      Kenteken    : 1-LNT-496
       Adres       : Buggenhout
       Hulpdienst  : Brandweer
       Roepnummer  : P22
@@ -4898,7 +4948,7 @@
       Adres       : Diest
       Hulpdienst  : Brandweer
       Roepnummer  : P23
-      Kenteken    : 
+      Kenteken    : 1-LNT-811
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : P23
@@ -5636,7 +5686,7 @@
       Adres       : Diest
       Hulpdienst  : Brandweer
       Roepnummer  : S12
-      Kenteken    : 
+      Kenteken    : 2-AJN-822
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : S12

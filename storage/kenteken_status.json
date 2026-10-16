@@ -107568,5 +107568,18 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-10-15"
+  },
+  "P-720-BP": {
+    "expiry": "2027-02-04",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "25-840"
+    ],
+    "last_check_date": "2026-10-16",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2022-02-04",
+    "last_tenaamstelling_check_date": "2026-10-16",
+    "aantal_zitplaatsen": "5"
   }
 }
