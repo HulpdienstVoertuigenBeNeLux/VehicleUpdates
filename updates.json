@@ -274,6 +274,27 @@
         "Regio": "Namen Zone - Dinaphi",
         "Description": " HRA toegevoegd aan Couvin",
         "Time": "16-10-2026 00:02:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "412 812 DA toegevoegd aan Deinze",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "A63 ZW toegevoegd aan Elsene",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "A36 ZW toegevoegd aan Elsene",
+        "Time": "16-10-2026 13:02:17"
       }
     ],
     "removed": [
@@ -304,6 +325,34 @@
         "Regio": "Namen Zone - Dinaphi",
         "Description": " HV verwijderd van Clermont",
         "Time": "16-10-2026 00:02:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "DELTA 1 ZW verwijderd van Elsene",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "DELTA 2 ZW verwijderd van Elsene",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "DELTA 3 ZW verwijderd van Elsene",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "A36 HZA verwijderd van Mouscron",
+        "Time": "16-10-2026 13:02:17"
       }
     ],
     "changed": [
@@ -411,6 +460,62 @@
         "Regio": "Oost-Vlaanderen Zone - Centrum",
         "Description": "'' omgenummerd naar '412 311'",
         "Time": "16-10-2026 01:01:57"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "A62: Adres van 'Anderlecht' naar 'Elsene' aangepast",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "A62: Bijzonderheden van '(Team: ABANDE01A)' naar '(Team: ABIXEL02A)' aangepast",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "P27: Adres van 'Leuven' naar 'Delta' aangepast",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "P27: Kenteken van '1-LBG-212' naar '1-JYB-407' aangepast",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "C30: Adres van 'Schaarbeek' naar 'Delta' aangepast",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "C30: Kenteken van '' naar '1-FFC-022' aangepast",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P48: Adres van 'Héliport' naar 'Delta' aangepast",
+        "Time": "16-10-2026 13:02:17"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P48: Kenteken van '' naar '1-GSN-533' aangepast",
+        "Time": "16-10-2026 13:02:17"
       }
     ]
   },

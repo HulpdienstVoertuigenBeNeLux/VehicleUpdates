@@ -260,16 +260,6 @@
       Roepnummer  : 4
       Kenteken    : 
 
-  >> '419 665'  (2x)
-      Adres       : Deinze
-      Hulpdienst  : Brandweer
-      Roepnummer  : 419 665
-      Kenteken    : 1-UQK-097
-      Adres       : Deinze
-      Hulpdienst  : Brandweer
-      Roepnummer  : 419 665
-      Kenteken    : 1-UQK-097
-
   >> '460003'  (2x)
       Adres       : Aalst
       Hulpdienst  : Brandweer
@@ -1024,7 +1014,7 @@
       Roepnummer  : A35
       Kenteken    : 
 
-  >> 'A36'  (2x)
+  >> 'A36'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A36
@@ -1033,6 +1023,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A36
       Kenteken    : 
+      Adres       : Elsene
+      Hulpdienst  : Ambulance
+      Roepnummer  : A36
+      Kenteken    : 1-NLR-819
 
   >> 'A41'  (3x)
       Adres       : Peer
@@ -1141,7 +1135,7 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A62
       Kenteken    : 
-      Adres       : Anderlecht
+      Adres       : Elsene
       Hulpdienst  : Ambulance
       Roepnummer  : A62
       Kenteken    : 2-ATC-268
@@ -2154,7 +2148,7 @@
       Roepnummer  : C201
       Kenteken    : 1-KGF-071
 
-  >> 'C21'  (8x)
+  >> 'C21'  (7x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : C21
@@ -2167,10 +2161,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C21
       Kenteken    : 1-JPC-461
-      Adres       : Héliport
-      Hulpdienst  : Brandweer
-      Roepnummer  : C21
-      Kenteken    : 
       Adres       : Buggenhout
       Hulpdienst  : Brandweer
       Roepnummer  : C21
@@ -2198,11 +2188,15 @@
       Roepnummer  : C212
       Kenteken    : 
 
-  >> 'C22'  (3x)
+  >> 'C22'  (4x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : C22
       Kenteken    : 
+      Adres       : Héliport
+      Hulpdienst  : Brandweer
+      Roepnummer  : C22
+      Kenteken    : 2-HGU-529
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C22
@@ -2287,10 +2281,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C30
       Kenteken    : 
-      Adres       : Schaarbeek
+      Adres       : Delta
       Hulpdienst  : Brandweer
       Roepnummer  : C30
-      Kenteken    : 
+      Kenteken    : 1-FFC-022
 
   >> 'C301'  (2x)
       Adres       : Hamoir
@@ -2327,7 +2321,7 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C31
       Kenteken    : 
-      Adres       : Delta
+      Adres       : Schaarbeek
       Hulpdienst  : Brandweer
       Roepnummer  : C31
       Kenteken    : 
@@ -3192,11 +3186,15 @@
       Roepnummer  : E13
       Kenteken    : 
 
-  >> 'E14'  (2x)
+  >> 'E14'  (3x)
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : E14
       Kenteken    : 
+      Adres       : Delta
+      Hulpdienst  : Brandweer
+      Roepnummer  : E14
+      Kenteken    : 1-YUV-785
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : E14
@@ -4918,6 +4916,16 @@
       Roepnummer  : P23
       Kenteken    : 1-CYG-175
 
+  >> 'P27'  (2x)
+      Adres       : Leuven
+      Hulpdienst  : Brandweer
+      Roepnummer  : P27
+      Kenteken    : 1-LBG-212
+      Adres       : Delta
+      Hulpdienst  : Brandweer
+      Roepnummer  : P27
+      Kenteken    : 1-JYB-407
+
   >> 'P29'  (3x)
       Adres       : Tienen
       Hulpdienst  : Brandweer
@@ -5006,16 +5014,12 @@
       Roepnummer  : P32
       Kenteken    : 
 
-  >> 'P33'  (4x)
+  >> 'P33'  (3x)
       Adres       : Lennik
       Hulpdienst  : Brandweer
       Roepnummer  : P33
       Kenteken    : 
       Adres       : Opwijk
-      Hulpdienst  : Brandweer
-      Roepnummer  : P33
-      Kenteken    : 
-      Adres       : Delta
       Hulpdienst  : Brandweer
       Roepnummer  : P33
       Kenteken    : 
@@ -5125,7 +5129,7 @@
       Kenteken    : 
 
   >> 'P45'  (2x)
-      Adres       : Delta
+      Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P45
       Kenteken    : 
@@ -6622,12 +6626,8 @@
       Roepnummer  : T44
       Kenteken    : 
 
-  >> 'T5'  (3x)
+  >> 'T5'  (2x)
       Adres       : Halle
-      Hulpdienst  : Brandweer
-      Roepnummer  : T5
-      Kenteken    : 
-      Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T5
       Kenteken    : 
@@ -7303,7 +7303,7 @@
       Kenteken    : 
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  4 value(s) affected
+  Duplicate Kenteken  --  3 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1-NPS-154'  (2x)
@@ -7315,16 +7315,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : M404
       Kenteken    : 1-NPS-154
-
-  >> '1-UQK-097'  (2x)
-      Adres       : Deinze
-      Hulpdienst  : Brandweer
-      Roepnummer  : 419 665
-      Kenteken    : 1-UQK-097
-      Adres       : Deinze
-      Hulpdienst  : Brandweer
-      Roepnummer  : 419 665
-      Kenteken    : 1-UQK-097
 
   >> '1-WXX-116'  (2x)
       Adres       : Aalst
