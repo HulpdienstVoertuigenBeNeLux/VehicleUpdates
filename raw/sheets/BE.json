@@ -22693,14 +22693,14 @@
       "",
       "",
       "",
-      "VEH-007-POST-093"
+      "VEH-006-POST-093"
     ],
     [
       "Diest",
       "I36",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-LPJ-694",
       "",
       "",
       "Brandweer",
@@ -22708,7 +22708,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-093"
+      "VEH-007-POST-093"
     ],
     [
       "Diest",
@@ -22723,7 +22723,7 @@
       "",
       "",
       "",
-      "VEH-009-POST-093"
+      "VEH-008-POST-093"
     ],
     [
       "Diest",
@@ -22738,14 +22738,29 @@
       "",
       "",
       "",
-      "VEH-010-POST-093"
+      "VEH-009-POST-093"
     ],
     [
       "Diest",
       "P91",
       "CCFM",
       "Bosbrand Autopomp Terreinvaardig",
+      "1-LRS-498",
       "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-010-POST-093"
+    ],
+    [
+      "Diest",
+      "P92",
+      "CCFM",
+      "Bosbrand Autopomp Terreinvaardig",
+      "1-LNT-904",
       "",
       "",
       "Brandweer",
@@ -22757,10 +22772,10 @@
     ],
     [
       "Diest",
-      "P92",
-      "CCFM",
-      "Bosbrand Autopomp Terreinvaardig",
-      "",
+      "I38",
+      "DAT",
+      "Diensauto Terreinvaardig",
+      "1-LPJ-704",
       "",
       "",
       "Brandweer",
@@ -22769,21 +22784,6 @@
       "",
       "",
       "VEH-012-POST-093"
-    ],
-    [
-      "Diest",
-      "I38",
-      "DAT",
-      "Diensauto Terreinvaardig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Vlaams-Brabant Zone - Oost",
-      "",
-      "",
-      "",
-      "VEH-013-POST-093"
     ],
     [
       "Diest",
@@ -22798,14 +22798,29 @@
       "",
       "",
       "",
-      "VEH-014-POST-093"
+      "VEH-013-POST-093"
     ],
     [
       "Diest",
       "C13",
       "CO",
       "Commandovoertuig",
+      "1-LPJ-769",
       "",
+      "",
+      "Brandweer",
+      "Vlaams-Brabant Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-014-POST-093"
+    ],
+    [
+      "Diest",
+      "C54",
+      "CO",
+      "Commandovoertuig",
+      "1-CYH-694",
       "",
       "",
       "Brandweer",
@@ -22817,10 +22832,10 @@
     ],
     [
       "Diest",
-      "C54",
-      "CO",
-      "Commandovoertuig",
       "",
+      "MFT-VER",
+      "Multifunctioneel voertuig terreinvaardig verreiker",
+      "1-LDJ-128",
       "",
       "",
       "Brandweer",
@@ -22865,7 +22880,7 @@
       "M82",
       "HA",
       "Haakarmvoertuig",
-      "",
+      "1-LNT-788",
       "",
       "",
       "Brandweer",
@@ -22993,7 +23008,7 @@
       "",
       "",
       "",
-      "VEH-028-POST-093"
+      "VEH-027-POST-093"
     ],
     [
       "Diest",
@@ -23008,7 +23023,7 @@
       "",
       "",
       "",
-      "VEH-029-POST-093"
+      "VEH-028-POST-093"
     ],
     [
       "Diest",
@@ -23023,7 +23038,7 @@
       "",
       "",
       "",
-      "VEH-030-POST-093"
+      "VEH-029-POST-093"
     ],
     [
       "Diest",
@@ -23038,7 +23053,7 @@
       "",
       "",
       "",
-      "VEH-031-POST-093"
+      "VEH-030-POST-093"
     ],
     [
       "Diest",
@@ -23053,7 +23068,7 @@
       "",
       "",
       "",
-      "VEH-032-POST-093"
+      "VEH-031-POST-093"
     ],
     [
       "Diest",
@@ -23068,7 +23083,7 @@
       "",
       "",
       "",
-      "VEH-033-POST-093"
+      "VEH-032-POST-093"
     ],
     [
       "Diest",
@@ -23083,7 +23098,7 @@
       "",
       "",
       "",
-      "VEH-034-POST-093"
+      "VEH-033-POST-093"
     ],
     [
       "Diest",
@@ -23098,7 +23113,7 @@
       "",
       "",
       "",
-      "VEH-035-POST-093"
+      "VEH-034-POST-093"
     ],
     [
       "Diest",
@@ -23113,7 +23128,7 @@
       "",
       "",
       "",
-      "VEH-036-POST-093"
+      "VEH-035-POST-093"
     ],
     [
       "Diest",
@@ -23128,7 +23143,7 @@
       "",
       "",
       "",
-      "VEH-037-POST-093"
+      "VEH-036-POST-093"
     ],
     [
       "Diest",
@@ -23143,7 +23158,7 @@
       "",
       "",
       "",
-      "VEH-038-POST-093"
+      "VEH-037-POST-093"
     ],
     [
       "Haacht - Provinciesteenweg 34",
@@ -90137,9 +90152,9 @@
     ],
     [
       "Leuven",
-      "LEUVEN 4",
       "ZW",
       "Ziekenwagen",
+      "",
       "",
       "(Team: AVLEUV04A)",
       "",

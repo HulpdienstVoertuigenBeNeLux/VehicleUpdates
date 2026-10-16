@@ -526,6 +526,27 @@
         "Regio": "Vlaams-Brabant Zone - Oost",
         "Description": "AW14 DMA toegevoegd aan Diest",
         "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-7085 LO toegevoegd aan Hilversum",
+        "Time": "16-10-2026 17:02:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": " MFT-VER toegevoegd aan Diest",
+        "Time": "16-10-2026 17:02:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "ZW Ziekenwagen toegevoegd aan Leuven",
+        "Time": "16-10-2026 17:02:30"
       }
     ],
     "removed": [
@@ -661,6 +682,27 @@
         "Regio": "Vlaams-Brabant Zone - Oost",
         "Description": "CT9 WTC verwijderd van Tienen",
         "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-7074 LIH-RTV verwijderd van Hilversum",
+        "Time": "16-10-2026 17:02:18"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-7089 LOH verwijderd van Hilversum",
+        "Time": "16-10-2026 17:02:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "LEUVEN 4 ZW verwijderd van Leuven",
+        "Time": "16-10-2026 17:02:30"
       }
     ],
     "changed": [
@@ -1139,6 +1181,34 @@
         "Regio": "Vlaams-Brabant Zone - Oost",
         "Description": "504000: Kenteken van '' naar '2-KBW-185' aangepast",
         "Time": "16-10-2026 16:02:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I36: Kenteken van '' naar '1-LPJ-694' aangepast",
+        "Time": "16-10-2026 17:02:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "P91: Kenteken van '' naar '1-LRS-498' aangepast",
+        "Time": "16-10-2026 17:02:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "P92: Kenteken van '' naar '1-LNT-904' aangepast",
+        "Time": "16-10-2026 17:02:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I38: Kenteken van '' naar '1-LPJ-704' aangepast",
+        "Time": "16-10-2026 17:02:30"
       }
     ]
   },
