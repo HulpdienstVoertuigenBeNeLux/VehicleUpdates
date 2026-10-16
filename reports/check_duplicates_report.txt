@@ -86,10 +86,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,753  (of 10,118 total)
+  Records checked : 6,754  (of 10,119 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  523 value(s) affected
+  Duplicate Roepnummer  --  521 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -260,16 +260,6 @@
       Roepnummer  : 4
       Kenteken    : 
 
-  >> '460003'  (2x)
-      Adres       : Aalst
-      Hulpdienst  : Brandweer
-      Roepnummer  : 460003
-      Kenteken    : 1-WXX-116
-      Adres       : Aalst
-      Hulpdienst  : Brandweer
-      Roepnummer  : 460003
-      Kenteken    : 1-WXX-116
-
   >> '460102'  (3x)
       Adres       : Aalst
       Hulpdienst  : Brandweer
@@ -282,16 +272,6 @@
       Adres       : Wetteren
       Hulpdienst  : Brandweer
       Roepnummer  : 460102
-      Kenteken    : 
-
-  >> '467801'  (2x)
-      Adres       : Denderleeuw
-      Hulpdienst  : Brandweer
-      Roepnummer  : 467801
-      Kenteken    : 
-      Adres       : Denderleeuw
-      Hulpdienst  : Brandweer
-      Roepnummer  : 467801
       Kenteken    : 
 
   >> '5'  (4x)
@@ -2148,7 +2128,7 @@
       Roepnummer  : C201
       Kenteken    : 1-KGF-071
 
-  >> 'C21'  (7x)
+  >> 'C21'  (8x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : C21
@@ -2161,6 +2141,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C21
       Kenteken    : 1-JPC-461
+      Adres       : Héliport
+      Hulpdienst  : Brandweer
+      Roepnummer  : C21
+      Kenteken    : 
       Adres       : Buggenhout
       Hulpdienst  : Brandweer
       Roepnummer  : C21
@@ -2188,7 +2172,7 @@
       Roepnummer  : C212
       Kenteken    : 
 
-  >> 'C22'  (4x)
+  >> 'C22'  (3x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : C22
@@ -2197,10 +2181,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C22
       Kenteken    : 2-HGU-529
-      Adres       : Héliport
-      Hulpdienst  : Brandweer
-      Roepnummer  : C22
-      Kenteken    : 
       Adres       : La Louvière
       Hulpdienst  : Brandweer
       Roepnummer  : C22
@@ -6626,8 +6606,12 @@
       Roepnummer  : T44
       Kenteken    : 
 
-  >> 'T5'  (2x)
+  >> 'T5'  (3x)
       Adres       : Halle
+      Hulpdienst  : Brandweer
+      Roepnummer  : T5
+      Kenteken    : 
+      Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T5
       Kenteken    : 
@@ -7303,7 +7287,7 @@
       Kenteken    : 
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  3 value(s) affected
+  Duplicate Kenteken  --  2 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1-NPS-154'  (2x)
@@ -7315,16 +7299,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : M404
       Kenteken    : 1-NPS-154
-
-  >> '1-WXX-116'  (2x)
-      Adres       : Aalst
-      Hulpdienst  : Brandweer
-      Roepnummer  : 460003
-      Kenteken    : 1-WXX-116
-      Adres       : Aalst
-      Hulpdienst  : Brandweer
-      Roepnummer  : 460003
-      Kenteken    : 1-WXX-116
 
   >> 'RIB'  (91x)
       Adres       : R1 Leopold
