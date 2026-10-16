@@ -86,7 +86,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,754  (of 10,119 total)
+  Records checked : 6,757  (of 10,123 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  521 value(s) affected
@@ -116,7 +116,7 @@
       Adres       : Deurne
       Hulpdienst  : Ambulance
       Roepnummer  : 102000
-      Kenteken    : 1-PGX-348
+      Kenteken    : 2-HFS-894
       Adres       : Antwerpen
       Hulpdienst  : Ambulance
       Roepnummer  : 102000
@@ -273,6 +273,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : 460102
       Kenteken    : 
+
+  >> '460602'  (2x)
+      Adres       : Denderleeuw
+      Hulpdienst  : Brandweer
+      Roepnummer  : 460602
+      Kenteken    : 1-YQQ-827
+      Adres       : Denderleeuw
+      Hulpdienst  : Brandweer
+      Roepnummer  : 460602
+      Kenteken    : 1-KCV-132
 
   >> '5'  (4x)
       Adres       : Wommelgem
@@ -2296,7 +2306,7 @@
       Roepnummer  : C304
       Kenteken    : 1-KHN-656
 
-  >> 'C31'  (3x)
+  >> 'C31'  (4x)
       Adres       : Vilvoorde
       Hulpdienst  : Brandweer
       Roepnummer  : C31
@@ -2305,6 +2315,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C31
       Kenteken    : 
+      Adres       : Dendermonde
+      Hulpdienst  : Brandweer
+      Roepnummer  : C31
+      Kenteken    : 1-JLH-235
       Adres       : Gembloux
       Hulpdienst  : Brandweer
       Roepnummer  : C31
@@ -2432,7 +2446,7 @@
       Adres       : Hamme
       Hulpdienst  : Brandweer
       Roepnummer  : C41
-      Kenteken    : 
+      Kenteken    : 1-JLF-990
       Adres       : Nivelles
       Hulpdienst  : Brandweer
       Roepnummer  : C41
@@ -2564,7 +2578,7 @@
       Adres       : Lebbeke
       Hulpdienst  : Brandweer
       Roepnummer  : C52
-      Kenteken    : 
+      Kenteken    : 1-JLG-014
       Adres       : Tubize
       Hulpdienst  : Brandweer
       Roepnummer  : C52
@@ -2910,7 +2924,11 @@
       Roepnummer  : D21
       Kenteken    : 1-NXB-916
 
-  >> 'D31'  (2x)
+  >> 'D31'  (3x)
+      Adres       : Dendermonde
+      Hulpdienst  : Brandweer
+      Roepnummer  : D31
+      Kenteken    : 1-GYH-424
       Adres       : Gembloux
       Hulpdienst  : Brandweer
       Roepnummer  : D31
@@ -2962,7 +2980,7 @@
       Adres       : Deurne
       Hulpdienst  : Ambulance
       Roepnummer  : DEURNE
-      Kenteken    : 
+      Kenteken    : 2-JSQ-014
 
   >> 'DW1'  (2x)
       Adres       : Izegem
@@ -3286,7 +3304,7 @@
       Adres       : Dendermonde
       Hulpdienst  : Brandweer
       Roepnummer  : E31
-      Kenteken    : 
+      Kenteken    : 2-FGV-342
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : E31
@@ -3304,16 +3322,6 @@
       Adres       : Virton
       Hulpdienst  : Brandweer
       Roepnummer  : E314
-      Kenteken    : 
-
-  >> 'E32'  (2x)
-      Adres       : Dendermonde
-      Hulpdienst  : Brandweer
-      Roepnummer  : E32
-      Kenteken    : 
-      Adres       : Jodoigne
-      Hulpdienst  : Brandweer
-      Roepnummer  : E32
       Kenteken    : 
 
   >> 'E4'  (3x)
@@ -3418,7 +3426,7 @@
       Adres       : Lebbeke
       Hulpdienst  : Brandweer
       Roepnummer  : E51
-      Kenteken    : 
+      Kenteken    : 1-XWR-981
 
   >> 'E6'  (3x)
       Adres       : Essen
@@ -4000,7 +4008,7 @@
       Adres       : Dendermonde
       Hulpdienst  : Brandweer
       Roepnummer  : L31
-      Kenteken    : 
+      Kenteken    : 1-JLH-275
       Adres       : Zwevegem
       Hulpdienst  : Brandweer
       Roepnummer  : L31
@@ -4396,7 +4404,7 @@
       Adres       : Dendermonde
       Hulpdienst  : Brandweer
       Roepnummer  : M31
-      Kenteken    : 
+      Kenteken    : 1-JLH-652
 
   >> 'M312'  (2x)
       Adres       : Harelbeke
@@ -4974,13 +4982,13 @@
       Adres       : Dendermonde
       Hulpdienst  : Brandweer
       Roepnummer  : P31
-      Kenteken    : 
+      Kenteken    : 1-JLH-616
       Adres       : Gembloux
       Hulpdienst  : Brandweer
       Roepnummer  : P31
       Kenteken    : 
 
-  >> 'P32'  (3x)
+  >> 'P32'  (4x)
       Adres       : Overijse
       Hulpdienst  : Brandweer
       Roepnummer  : P32
@@ -4989,6 +4997,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : P32
       Kenteken    : 
+      Adres       : Dendermonde
+      Hulpdienst  : Brandweer
+      Roepnummer  : P32
+      Kenteken    : 1-JLH-368
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : P32
@@ -5408,7 +5420,11 @@
       Roepnummer  : R3
       Kenteken    : 
 
-  >> 'R31'  (2x)
+  >> 'R31'  (3x)
+      Adres       : Dendermonde
+      Hulpdienst  : Brandweer
+      Roepnummer  : R31
+      Kenteken    : 1-JLH-536
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : R31
@@ -5808,7 +5824,7 @@
       Roepnummer  : S3
       Kenteken    : 
 
-  >> 'S31'  (4x)
+  >> 'S31'  (5x)
       Adres       : Pelt
       Hulpdienst  : Brandweer
       Roepnummer  : S31
@@ -5820,7 +5836,11 @@
       Adres       : Dendermonde
       Hulpdienst  : Brandweer
       Roepnummer  : S31
-      Kenteken    : 
+      Kenteken    : 1-XMX-771
+      Adres       : Dendermonde
+      Hulpdienst  : Brandweer
+      Roepnummer  : S31
+      Kenteken    : 1-JLG-545
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : S31
@@ -6502,7 +6522,7 @@
       Adres       : Dendermonde
       Hulpdienst  : Brandweer
       Roepnummer  : T31
-      Kenteken    : 
+      Kenteken    : 1-JLH-664
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : T31
