@@ -58707,6 +58707,28 @@
     "technisch_toegestane_maximum_aslast": "11500"
   },
   {
+    "kenteken": "BD720X",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "6000",
+    "technisch_toegestane_maximum_aslast": "6000",
+    "afstand_tot_volgende_as_voertuig": "398"
+  },
+  {
+    "kenteken": "BD720X",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "11000",
+    "technisch_toegestane_maximum_aslast": "11000"
+  },
+  {
     "kenteken": "BD004T",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -64418,27 +64440,6 @@
     "weggedrag_code": "A",
     "wettelijk_toegestane_maximum_aslast": "3700",
     "technisch_toegestane_maximum_aslast": "3700"
-  },
-  {
-    "kenteken": "BRND20",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "wettelijk_toegestane_maximum_aslast": "7100",
-    "technisch_toegestane_maximum_aslast": "7100"
-  },
-  {
-    "kenteken": "BRND20",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "weggedrag_code": "A",
-    "wettelijk_toegestane_maximum_aslast": "11500",
-    "technisch_toegestane_maximum_aslast": "11500"
   },
   {
     "kenteken": "BRNZ68",
@@ -116291,26 +116292,6 @@
     "technisch_toegestane_maximum_aslast": "8240"
   },
   {
-    "kenteken": "P720BP",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "plaatscode_as": "V",
-    "spoorbreedte": "157",
-    "wettelijk_toegestane_maximum_aslast": "1120",
-    "technisch_toegestane_maximum_aslast": "1120"
-  },
-  {
-    "kenteken": "P720BP",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "plaatscode_as": "A",
-    "spoorbreedte": "157",
-    "wettelijk_toegestane_maximum_aslast": "975",
-    "technisch_toegestane_maximum_aslast": "975"
-  },
-  {
     "kenteken": "P002DV",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -119196,6 +119177,26 @@
     "spoorbreedte": "173",
     "wettelijk_toegestane_maximum_aslast": "2430",
     "technisch_toegestane_maximum_aslast": "2430"
+  },
+  {
+    "kenteken": "P720BP",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "157",
+    "wettelijk_toegestane_maximum_aslast": "1120",
+    "technisch_toegestane_maximum_aslast": "1120"
+  },
+  {
+    "kenteken": "P720BP",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "157",
+    "wettelijk_toegestane_maximum_aslast": "975",
+    "technisch_toegestane_maximum_aslast": "975"
   },
   {
     "kenteken": "P749XS",

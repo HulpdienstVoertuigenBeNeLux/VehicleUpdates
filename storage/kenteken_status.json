@@ -50024,19 +50024,6 @@
     "last_tenaamstelling_check_date": "2026-10-12",
     "aantal_zitplaatsen": null
   },
-  "BR-ND-20": {
-    "expiry": "2026-11-14",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "19-6633"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-02-01",
-    "last_tenaamstelling_check_date": "2026-10-12",
-    "aantal_zitplaatsen": "8"
-  },
   "59-STN-7": {
     "expiry": "2027-01-17",
     "checked": true,
@@ -107582,5 +107569,18 @@
     "datum_tenaamstelling_dt": "2022-02-04",
     "last_tenaamstelling_check_date": "2026-10-16",
     "aantal_zitplaatsen": "5"
+  },
+  "BD-720-X": {
+    "expiry": "2027-09-28",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "19-6633"
+    ],
+    "last_check_date": "2026-10-16",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-09-28",
+    "last_tenaamstelling_check_date": "2026-10-16",
+    "aantal_zitplaatsen": "7"
   }
 }
