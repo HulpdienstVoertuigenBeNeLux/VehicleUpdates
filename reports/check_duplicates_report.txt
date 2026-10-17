@@ -99,7 +99,7 @@
   Records checked : 6,755  (of 10,121 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  527 value(s) affected
+  Duplicate Roepnummer  --  525 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -472,7 +472,7 @@
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : A1
-      Kenteken    : 
+      Kenteken    : 1-JKU-794
 
   >> 'A101'  (2x)
       Adres       : Antwerpen-Noord
@@ -742,7 +742,7 @@
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : A2
-      Kenteken    : 
+      Kenteken    : 1-JKZ-040
       Adres       : Zoersel
       Hulpdienst  : Brandweer
       Roepnummer  : A2
@@ -883,6 +883,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A29
       Kenteken    : 
+
+  >> 'A3'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A3
+      Kenteken    : 
+      Adres       : Duffel
+      Hulpdienst  : Brandweer
+      Roepnummer  : A3
+      Kenteken    : 1-JKY-945
 
   >> 'A30'  (3x)
       Adres       : Antwerpen-Zuid
@@ -1352,16 +1362,6 @@
       Roepnummer  : B03
       Kenteken    : 
 
-  >> 'B1'  (2x)
-      Adres       : Brecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : B1
-      Kenteken    : 
-      Adres       : Sambreville
-      Hulpdienst  : Brandweer
-      Roepnummer  : B1
-      Kenteken    : 
-
   >> 'B101'  (2x)
       Adres       : Hannut
       Hulpdienst  : Brandweer
@@ -1418,11 +1418,7 @@
       Roepnummer  : B11
       Kenteken    : 
 
-  >> 'B12'  (6x)
-      Adres       : Brecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : B12
-      Kenteken    : 
+  >> 'B12'  (5x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : B12
@@ -1444,11 +1440,7 @@
       Roepnummer  : B12
       Kenteken    : 
 
-  >> 'B13'  (3x)
-      Adres       : Brecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : B13
-      Kenteken    : 
+  >> 'B13'  (2x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : B13
@@ -1578,21 +1570,7 @@
       Roepnummer  : B7
       Kenteken    : 
 
-  >> 'B8'  (2x)
-      Adres       : Brecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : B8
-      Kenteken    : 
-      Adres       : Bernissart
-      Hulpdienst  : Brandweer
-      Roepnummer  : B8
-      Kenteken    : 1-SJR-233
-
-  >> 'B9'  (3x)
-      Adres       : Brecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : B9
-      Kenteken    : 
+  >> 'B9'  (2x)
       Adres       : Melsele
       Hulpdienst  : Brandweer
       Roepnummer  : B9
@@ -1784,7 +1762,7 @@
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : C1
-      Kenteken    : 
+      Kenteken    : 2-DTJ-637
       Adres       : Lier
       Hulpdienst  : Brandweer
       Roepnummer  : C1
@@ -4222,16 +4200,6 @@
       Roepnummer  : LW1
       Kenteken    : 2-GED-449
 
-  >> 'M1'  (2x)
-      Adres       : Duffel
-      Hulpdienst  : Brandweer
-      Roepnummer  : M1
-      Kenteken    : 
-      Adres       : Zaventem
-      Hulpdienst  : Brandweer
-      Roepnummer  : M1
-      Kenteken    : 
-
   >> 'M101'  (2x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
@@ -4382,7 +4350,7 @@
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : M2
-      Kenteken    : 
+      Kenteken    : 2-AWH-847
       Adres       : Aarschot
       Hulpdienst  : Brandweer
       Roepnummer  : M2
@@ -4688,7 +4656,11 @@
       Roepnummer  : O2
       Kenteken    : 
 
-  >> 'P1'  (8x)
+  >> 'P1'  (9x)
+      Adres       : Duffel
+      Hulpdienst  : Brandweer
+      Roepnummer  : P1
+      Kenteken    : 1-YNM-101
       Adres       : Vilvoorde
       Hulpdienst  : Brandweer
       Roepnummer  : P1
@@ -5620,7 +5592,7 @@
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : S1
-      Kenteken    : 
+      Kenteken    : 1-JKU-782
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : S1
@@ -6178,7 +6150,7 @@
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : T1
-      Kenteken    : 
+      Kenteken    : 1-JKY-991
       Adres       : Dilbeek
       Hulpdienst  : Brandweer
       Roepnummer  : T1

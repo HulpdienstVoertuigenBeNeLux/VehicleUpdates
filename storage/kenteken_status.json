@@ -37507,19 +37507,6 @@
     "last_tenaamstelling_check_date": "2026-10-12",
     "aantal_zitplaatsen": "5"
   },
-  "TG-026-D": {
-    "expiry": "2027-01-22",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "15-9591"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2018-10-25",
-    "last_tenaamstelling_check_date": "2026-10-12",
-    "aantal_zitplaatsen": "5"
-  },
   "HNL-41-B": {
     "expiry": "2029-06-06",
     "checked": true,
@@ -107569,5 +107556,18 @@
     "datum_tenaamstelling_dt": "2023-07-31",
     "last_tenaamstelling_check_date": "2026-10-17",
     "aantal_zitplaatsen": "8"
+  },
+  "KRL-11-F": {
+    "expiry": "2029-08-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "15-9591"
+    ],
+    "last_check_date": "2026-10-17",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-08-05",
+    "last_tenaamstelling_check_date": "2026-10-17",
+    "aantal_zitplaatsen": "5"
   }
 }
