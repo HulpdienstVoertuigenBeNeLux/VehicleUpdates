@@ -35195,21 +35195,6 @@
       "",
       "DA",
       "Dienstauto",
-      "1-KEH-568",
-      "",
-      "",
-      "Brandweer",
-      "Oost-Vlaanderen Zone - Meetjesland",
-      "",
-      "",
-      "",
-      "VEH-012-POST-136"
-    ],
-    [
-      "Aalter",
-      "",
-      "DA",
-      "Dienstauto",
       "1-KEH-949",
       "",
       "",
@@ -35218,7 +35203,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-136"
+      "VEH-012-POST-136"
     ],
     [
       "Aalter",
@@ -35233,7 +35218,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-136"
+      "VEH-013-POST-136"
     ],
     [
       "Aalter",
@@ -35248,7 +35233,7 @@
       "",
       "",
       "",
-      "VEH-015-POST-136"
+      "VEH-014-POST-136"
     ],
     [
       "Aalter",
@@ -35256,6 +35241,21 @@
       "SLA",
       "Slangen Aanhanger",
       "QAN-208",
+      "",
+      "",
+      "Brandweer",
+      "Oost-Vlaanderen Zone - Meetjesland",
+      "",
+      "",
+      "",
+      "VEH-015-POST-136"
+    ],
+    [
+      "Aalter",
+      "",
+      "DMA",
+      "Draagbare Motorpomp Aanhanger",
+      "",
       "",
       "",
       "Brandweer",
@@ -35296,21 +35296,6 @@
       "VEH-018-POST-136"
     ],
     [
-      "Aalter",
-      "",
-      "DMA",
-      "Draagbare Motorpomp Aanhanger",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Oost-Vlaanderen Zone - Meetjesland",
-      "",
-      "",
-      "",
-      "VEH-019-POST-136"
-    ],
-    [
       "Eeklo - Gentsesteenweg 2",
       "",
       "",
@@ -35330,7 +35315,7 @@
       "E11",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-FYB-118",
       "",
       "",
       "Brandweer",
@@ -35345,7 +35330,7 @@
       "E12",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-KDA-633",
       "",
       "",
       "Brandweer",
@@ -35357,10 +35342,10 @@
     ],
     [
       "Eeklo",
-      "E11",
-      "HZA",
-      "Halfzware Autopomp",
-      "",
+      "E21",
+      "TW",
+      "Tankwagen",
+      "1-CYU-866",
       "",
       "",
       "Brandweer",
@@ -35372,11 +35357,11 @@
     ],
     [
       "Eeklo",
-      "E21",
-      "TW",
-      "Tankwagen",
-      "",
-      "",
+      "E31",
+      "ELV",
+      "Elevator",
+      "1-KDA-663",
+      "Lengte: 32 meter.",
       "",
       "Brandweer",
       "Oost-Vlaanderen Zone - Meetjesland",
@@ -35387,10 +35372,10 @@
     ],
     [
       "Eeklo",
-      "E31",
-      "HW 32",
-      "Hoogwerker",
-      "",
+      "E42",
+      "SH",
+      "Snelle Hulpwagen",
+      "1-KDA-682",
       "",
       "",
       "Brandweer",
@@ -35402,10 +35387,10 @@
     ],
     [
       "Eeklo",
-      "E42",
-      "SH",
-      "Snelle Hulpwagen",
-      "",
+      "E41",
+      "HV",
+      "Hulpverleningsvoertuig",
+      "1-KDA-696",
       "",
       "",
       "Brandweer",
@@ -35417,10 +35402,10 @@
     ],
     [
       "Eeklo",
-      "E41",
-      "HV",
-      "Hulpverleningsvoertuig",
-      "",
+      "E81",
+      "DW",
+      "Duikerswagen",
+      "1-KEK-220",
       "",
       "",
       "Brandweer",
@@ -35432,10 +35417,10 @@
     ],
     [
       "Eeklo",
-      "E43",
-      "PM",
-      "Personeel / Materiaal Voertuig",
-      "",
+      "E61",
+      "SIG",
+      "Signalisatievoertuig",
+      "2-DRE-945",
       "",
       "",
       "Brandweer",
@@ -35448,9 +35433,9 @@
     [
       "Eeklo",
       "",
-      "DW",
-      "Duikerswagen",
-      "",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "1-YSB-354",
       "",
       "",
       "Brandweer",
@@ -35462,10 +35447,10 @@
     ],
     [
       "Eeklo",
-      "E44",
-      "DB",
-      "Dienstbus Personeel / Materiaal",
-      "",
+      "E43",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "1-PPP-075",
       "",
       "",
       "Brandweer",
@@ -35477,10 +35462,10 @@
     ],
     [
       "Eeklo",
-      "",
+      "E44",
       "DA",
       "Dienstauto",
-      "",
+      "1-KEH-568",
       "",
       "",
       "Brandweer",
@@ -35492,10 +35477,10 @@
     ],
     [
       "Eeklo",
-      "E51",
-      "CO",
-      "Commandovoertuig",
-      "",
+      "E45",
+      "DB",
+      "Dienstbus",
+      "1-NPP-435",
       "",
       "",
       "Brandweer",
@@ -35504,6 +35489,36 @@
       "",
       "",
       "VEH-012-POST-1956"
+    ],
+    [
+      "Eeklo",
+      "E52",
+      "DA",
+      "Dienstauto",
+      "2-EFY-291",
+      "",
+      "",
+      "Brandweer",
+      "Oost-Vlaanderen Zone - Meetjesland",
+      "",
+      "",
+      "",
+      "VEH-013-POST-1956"
+    ],
+    [
+      "Eeklo",
+      "E51",
+      "CO",
+      "Commandovoertuig",
+      "2-AJF-429",
+      "",
+      "",
+      "Brandweer",
+      "Oost-Vlaanderen Zone - Meetjesland",
+      "",
+      "",
+      "",
+      "VEH-014-POST-1956"
     ],
     [
       "Eeklo",
@@ -35518,7 +35533,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-1956"
+      "VEH-015-POST-1956"
     ],
     [
       "Eeklo",
@@ -35533,7 +35548,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-1956"
+      "VEH-016-POST-1956"
     ],
     [
       "Kaprijke - Molenstraat 28a",
@@ -69631,11 +69646,11 @@
       "POST-300"
     ],
     [
-      "Andenne",
+      "Eghezée",
       "P01",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-NXC-626",
       "",
       "",
       "Brandweer",
@@ -69647,10 +69662,10 @@
     ],
     [
       "Eghezée",
-      "P42",
+      "P02",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-NXC-113",
       "",
       "",
       "Brandweer",
@@ -69662,10 +69677,10 @@
     ],
     [
       "Eghezée",
-      "P41",
+      "P42",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-AZN-732",
       "",
       "",
       "Brandweer",
@@ -69677,10 +69692,10 @@
     ],
     [
       "Eghezée",
-      "C43",
+      "C41",
       "TW",
       "Tankwagen",
-      "",
+      "1-NXB-425",
       "",
       "",
       "Brandweer",
@@ -69692,26 +69707,11 @@
     ],
     [
       "Eghezée",
-      "C41",
-      "TW",
-      "Tankwagen",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Namen Zone - Nage",
-      "",
-      "",
-      "",
-      "VEH-005-POST-300"
-    ],
-    [
-      "Eghezée",
       "E41",
-      "LW 30",
+      "LW",
       "Ladderwagen",
-      "",
-      "",
+      "1-NXB-350",
+      "Lengte: 30 meter.",
       "",
       "Brandweer",
       "Namen Zone - Nage",
@@ -69722,10 +69722,10 @@
     ],
     [
       "Eghezée",
-      "E42",
-      "HW 18",
-      "Hoogwerker",
-      "",
+      "D41",
+      "SH",
+      "Snelle Hulpwagen",
+      "1-YET-925",
       "",
       "",
       "Brandweer",
@@ -69737,10 +69737,10 @@
     ],
     [
       "Eghezée",
-      "D41",
-      "SH",
-      "Snelle Hulpwagen",
-      "",
+      "T41",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "1-PCB-275",
       "",
       "",
       "Brandweer",
@@ -69752,10 +69752,10 @@
     ],
     [
       "Eghezée",
-      "D41",
-      "SH",
-      "Snelle Hulpwagen",
-      "",
+      "T49",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "1-PCB-286",
       "",
       "",
       "Brandweer",
@@ -69767,10 +69767,10 @@
     ],
     [
       "Eghezée",
-      "T41",
-      "PM",
-      "Personeel / Materiaal Voertuig",
-      "",
+      "P43",
+      "CCFM",
+      "Bosbrand Autopomp Terreinvaardig",
+      "1-NXB-578",
       "",
       "",
       "Brandweer",
@@ -69782,10 +69782,10 @@
     ],
     [
       "Eghezée",
-      "T42",
-      "PM",
-      "Personeel / Materiaal Voertuig",
-      "",
+      "B41",
+      "SIG",
+      "Signalisatievoertuig",
+      "1-PCB-191",
       "",
       "",
       "Brandweer",
@@ -69797,10 +69797,10 @@
     ],
     [
       "Eghezée",
-      "P43",
-      "CCFM",
-      "Bosbrand Autopomp Terreinvaardig",
-      "",
+      "R41",
+      "CO",
+      "Commandovoertuig",
+      "1-PCB-187",
       "",
       "",
       "Brandweer",
@@ -69812,10 +69812,10 @@
     ],
     [
       "Eghezée",
-      "B42",
-      "SIG",
-      "Signalisatievoertuig",
-      "",
+      "C42",
+      "HA",
+      "Haakarmvoertuig",
+      "1-NXB-415",
       "",
       "",
       "Brandweer",
@@ -69824,81 +69824,6 @@
       "",
       "",
       "VEH-013-POST-300"
-    ],
-    [
-      "Eghezée",
-      "B41",
-      "SIG",
-      "Signalisatievoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Namen Zone - Nage",
-      "",
-      "",
-      "",
-      "VEH-014-POST-300"
-    ],
-    [
-      "Eghezée",
-      "",
-      "DB",
-      "Dienstbus Personeel / Materiaal",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Namen Zone - Nage",
-      "",
-      "",
-      "",
-      "VEH-015-POST-300"
-    ],
-    [
-      "Eghezée",
-      "R41",
-      "CO",
-      "Commandovoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Namen Zone - Nage",
-      "",
-      "",
-      "",
-      "VEH-016-POST-300"
-    ],
-    [
-      "Eghezée",
-      "",
-      "CO",
-      "Commandovoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Namen Zone - Nage",
-      "",
-      "",
-      "",
-      "VEH-017-POST-300"
-    ],
-    [
-      "Eghezée",
-      "C42",
-      "HA",
-      "Haakarmvoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Namen Zone - Nage",
-      "",
-      "",
-      "",
-      "VEH-018-POST-300"
     ],
     [
       "Eghezée",
@@ -69913,7 +69838,37 @@
       "",
       "",
       "",
-      "VEH-019-POST-300"
+      "VEH-014-POST-300"
+    ],
+    [
+      "Eghezée",
+      "",
+      "BMC",
+      "Bijzondere Materialen Container",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Namen Zone - Nage",
+      "",
+      "",
+      "",
+      "VEH-015-POST-300"
+    ],
+    [
+      "Eghezée",
+      "",
+      "LBC",
+      "Laadbak Container",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Namen Zone - Nage",
+      "",
+      "",
+      "",
+      "VEH-016-POST-300"
     ],
     [
       "Eghezée",
@@ -69928,14 +69883,14 @@
       "",
       "",
       "",
-      "VEH-020-POST-300"
+      "VEH-017-POST-300"
     ],
     [
       "Eghezée",
       "",
       "STA",
       "Schuimtank Aanhagner",
-      "",
+      "Q-ACV-213",
       "",
       "",
       "Brandweer",
@@ -69943,14 +69898,14 @@
       "",
       "",
       "",
-      "VEH-021-POST-300"
+      "VEH-018-POST-300"
     ],
     [
       "Eghezée",
       "",
       "LBA",
       "Laadbak Aanhanger",
-      "",
+      "Q-ACV-214",
       "",
       "",
       "Brandweer",
@@ -69958,7 +69913,7 @@
       "",
       "",
       "",
-      "VEH-022-POST-300"
+      "VEH-019-POST-300"
     ],
     [
       "Gembloux - Rue du Stordoir 50",
@@ -69973,7 +69928,7 @@
       "",
       "",
       "50.58116263499339, 4.71486061968079",
-      "POST-301"
+      "POST-1973"
     ],
     [
       "Gembloux",
@@ -69988,7 +69943,7 @@
       "",
       "",
       "",
-      "VEH-001-POST-301"
+      "VEH-001-POST-1973"
     ],
     [
       "Gembloux",
@@ -70003,7 +69958,7 @@
       "",
       "",
       "",
-      "VEH-002-POST-301"
+      "VEH-002-POST-1973"
     ],
     [
       "Gembloux",
@@ -70018,7 +69973,7 @@
       "",
       "",
       "",
-      "VEH-003-POST-301"
+      "VEH-003-POST-1973"
     ],
     [
       "Gembloux",
@@ -70033,7 +69988,7 @@
       "",
       "",
       "",
-      "VEH-004-POST-301"
+      "VEH-004-POST-1973"
     ],
     [
       "Gembloux",
@@ -70048,7 +70003,7 @@
       "",
       "",
       "",
-      "VEH-005-POST-301"
+      "VEH-005-POST-1973"
     ],
     [
       "Gembloux",
@@ -70063,7 +70018,7 @@
       "",
       "",
       "",
-      "VEH-006-POST-301"
+      "VEH-006-POST-1973"
     ],
     [
       "Gembloux",
@@ -70078,7 +70033,7 @@
       "",
       "",
       "",
-      "VEH-007-POST-301"
+      "VEH-007-POST-1973"
     ],
     [
       "Gembloux",
@@ -70093,7 +70048,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-301"
+      "VEH-008-POST-1973"
     ],
     [
       "Gembloux",
@@ -70108,7 +70063,7 @@
       "",
       "",
       "",
-      "VEH-009-POST-301"
+      "VEH-009-POST-1973"
     ],
     [
       "Gembloux",
@@ -70123,7 +70078,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-301"
+      "VEH-010-POST-1973"
     ],
     [
       "Gembloux",
@@ -70138,7 +70093,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-301"
+      "VEH-011-POST-1973"
     ],
     [
       "Gembloux",
@@ -70153,7 +70108,7 @@
       "",
       "",
       "",
-      "VEH-012-POST-301"
+      "VEH-012-POST-1973"
     ],
     [
       "Gembloux",
@@ -70168,7 +70123,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-301"
+      "VEH-013-POST-1973"
     ],
     [
       "Gembloux",
@@ -70183,7 +70138,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-301"
+      "VEH-014-POST-1973"
     ],
     [
       "Gembloux",
@@ -70198,7 +70153,7 @@
       "",
       "",
       "",
-      "VEH-015-POST-301"
+      "VEH-015-POST-1973"
     ],
     [
       "Gembloux",
@@ -70213,7 +70168,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-301"
+      "VEH-016-POST-1973"
     ],
     [
       "Gembloux",
@@ -70228,7 +70183,7 @@
       "",
       "",
       "",
-      "VEH-017-POST-301"
+      "VEH-017-POST-1973"
     ],
     [
       "Namur - Chau. de Liège 55",
@@ -89420,7 +89375,7 @@
       "EEKLO 1",
       "ZW",
       "Ziekenwagen",
-      "",
+      "2-EEZ-210",
       "(Team: AOEEKL01A)",
       "",
       "Ambulance",
@@ -89435,7 +89390,7 @@
       "EEKLO 2",
       "ZW",
       "Ziekenwagen",
-      "",
+      "1-TMC-991",
       "(Team: AOEEKL02A)",
       "",
       "Ambulance",
@@ -97682,10 +97637,10 @@
     ],
     [
       "Éghezée",
-      "EGHEZEE 1",
+      "A15",
       "ZW",
       "Ziekenwagen",
-      "",
+      "2-FXU-632",
       "(Team: ANEGHE01A)",
       "",
       "Ambulance",
@@ -97697,10 +97652,10 @@
     ],
     [
       "Éghezée",
-      "EGHEZEE 2",
+      "A41",
       "ZW",
       "Ziekenwagen",
-      "",
+      "1-XVG-719",
       "(Team: ANEGHE02A)",
       "",
       "Ambulance",
@@ -97709,6 +97664,21 @@
       "",
       "",
       "VEH-002-POST-1822"
+    ],
+    [
+      "Éghezée",
+      "A42",
+      "ZW",
+      "Ziekenwagen",
+      "1-PCB-259",
+      "Reserve",
+      "",
+      "Ambulance",
+      "Namen Zone - Nage",
+      "",
+      "",
+      "",
+      "VEH-003-POST-1822"
     ],
     [
       "Ziekenwagen Gembloux",

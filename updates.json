@@ -1,5 +1,350 @@
 [
   {
+    "date": "2026-10-18",
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": " PM toegevoegd aan Eeklo",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "E45 DB toegevoegd aan Eeklo",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P02 HZA toegevoegd aan Eghezée",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T49 PM toegevoegd aan Eghezée",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": " STA toegevoegd aan Eghezée",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": " LBA toegevoegd aan Eghezée",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Namen Zone - Nage",
+        "Description": "A42 ZW toegevoegd aan Éghezée",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Namen Zone - Nage",
+        "Description": "A15 ZW toegevoegd aan Éghezée",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Namen Zone - Nage",
+        "Description": "A41 ZW toegevoegd aan Éghezée",
+        "Time": "18-10-2026 00:02:20"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "B42 SIG verwijderd van Eghezée",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Namen Zone - Nage",
+        "Description": "EGHEZEE 1 ZW verwijderd van Éghezée",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Namen Zone - Nage",
+        "Description": "EGHEZEE 2 ZW verwijderd van Éghezée",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "A42 PM verwijderd van Aalter",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "A15 HZA verwijderd van Hasselt",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "A41 HV verwijderd van Aalter",
+        "Time": "18-10-2026 00:02:20"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "C41: Kenteken van '' naar '1-NXB-425' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "E41: Afkorting van 'LW 30' naar 'LW' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "E41: Kenteken van '' naar '1-NXB-350' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "E41: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "B41: Kenteken van '' naar '1-PCB-191' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "C42: Kenteken van '' naar '1-NXB-415' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "C43: Adres van 'Eghezée' naar 'Londerzeel' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "C43: Afkorting van 'TW' naar 'CO' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "C43: TypeVoertuig van 'Tankwagen' naar 'Commandovoertuig' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P42: Kenteken van '' naar '1-AZN-732' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P43: Kenteken van '' naar '1-NXB-578' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T41: Kenteken van '' naar '1-PCB-275' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T42: Adres van 'Eghezée' naar 'Hamme' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T42: Afkorting van 'PM' naar 'TW' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T42: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Tankwagen' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "E42: Adres van 'Eghezée' naar 'Nivelles' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "E42: Afkorting van 'HW 18' naar 'HW 30' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "E44: Afkorting van 'DB' naar 'DA' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "E44: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Dienstauto' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "E44: Kenteken van '' naar '1-KEH-568' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P41: Adres van 'Eghezée' naar 'Nivelles' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P41: Afkorting van 'HZA' naar 'LA' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P41: TypeVoertuig van 'Halfzware Autopomp' naar 'Lichte Autopomp' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "D41: Kenteken van '' naar '1-YET-925' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "R41: Kenteken van '' naar '1-PCB-187' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P01: Adres van 'Andenne' naar 'Eghezée' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P01: Kenteken van '' naar '1-NXC-626' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": ": Afkorting van 'LBA' naar 'DMA' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": ": TypeVoertuig van 'Laadbak Aanhanger' naar 'Draagbare Motorpomp Aanhanger' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "EEKLO 1: Kenteken van '' naar '2-EEZ-210' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "EEKLO 2: Kenteken van '' naar '1-TMC-991' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": ": Adres van 'Aalter' naar 'Eeklo' aangepast",
+        "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "'' omgenummerd naar 'E44'",
+        "Time": "18-10-2026 00:02:20"
+      }
+    ]
+  },
+  {
     "date": "2026-10-17",
     "added": [
       {
@@ -17607,98 +17952,5 @@
     "added": [],
     "removed": [],
     "changed": []
-  },
-  {
-    "date": "2026-09-16",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "",
-        "Regio": "",
-        "Description": "ONBEKEND VK-TDV toegevoegd aan Muiderberg",
-        "Time": "16-09-2026 10:00:19"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Oost-Vlaanderen",
-        "Description": "419 044 BMC toegevoegd aan Gent",
-        "Time": "16-09-2026 11:00:23"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
-        "Description": "14-1421 VK-GS toegevoegd aan Muiden",
-        "Time": "16-09-2026 12:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "7 - Gelderland-Midden (VGGM)",
-        "Description": "GEEN IM Berger toegevoegd aan Duiven",
-        "Time": "16-09-2026 12:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "8 - Gelderland-Zuid (VRGZ)",
-        "Description": "GEEN IM Berger toegevoegd aan Tiel",
-        "Time": "16-09-2026 12:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "16 - Hollands Midden (VRHM)",
-        "Description": "GEEN IM Berger toegevoegd aan Leiden",
-        "Time": "16-09-2026 12:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-        "Description": "GEEN IM Berger toegevoegd aan Rotterdam",
-        "Time": "16-09-2026 12:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Bergingsbedrijf",
-        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-        "Description": "GEEN IM Berger toegevoegd aan Rotterdam",
-        "Time": "16-09-2026 12:00:19"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Oost-Vlaanderen",
-        "Description": "419 060 MTA toegevoegd aan Gent",
-        "Time": "16-09-2026 12:00:49"
-      }
-    ],
-    "removed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
-        "Description": "14-1403 DA verwijderd van Muiden",
-        "Time": "16-09-2026 12:00:19"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "",
-        "Regio": "",
-        "Description": "ONBEKEND VK-TDV verwijderd van Muiderberg",
-        "Time": "16-09-2026 12:00:19"
-      }
-    ],
-    "changed": [
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Oost-Vlaanderen",
-        "Description": "419 044: Bijzonderheden van '' naar 'Beladen met 419 060' aangepast",
-        "Time": "16-09-2026 12:00:49"
-      }
-    ]
   }
 ]

@@ -116,10 +116,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,755  (of 10,121 total)
+  Records checked : 6,753  (of 10,119 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  525 value(s) affected
+  Duplicate Roepnummer  --  526 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -706,7 +706,7 @@
       Roepnummer  : A14
       Kenteken    : 
 
-  >> 'A15'  (3x)
+  >> 'A15'  (4x)
       Adres       : Linkeroever
       Hulpdienst  : Brandweer
       Roepnummer  : A15
@@ -719,6 +719,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A15
       Kenteken    : 
+      Adres       : Éghezée
+      Hulpdienst  : Ambulance
+      Roepnummer  : A15
+      Kenteken    : 2-FXU-632
 
   >> 'A16'  (2x)
       Adres       : Antwerpen-Noord
@@ -1058,7 +1062,7 @@
       Roepnummer  : A36
       Kenteken    : 1-NLR-819
 
-  >> 'A41'  (3x)
+  >> 'A41'  (4x)
       Adres       : Peer
       Hulpdienst  : Brandweer
       Roepnummer  : A41
@@ -1071,8 +1075,12 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A41
       Kenteken    : 1-KCZ-683
+      Adres       : Éghezée
+      Hulpdienst  : Ambulance
+      Roepnummer  : A41
+      Kenteken    : 1-XVG-719
 
-  >> 'A42'  (2x)
+  >> 'A42'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A42
@@ -1081,6 +1089,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A42
       Kenteken    : 1-KEH-835
+      Adres       : Éghezée
+      Hulpdienst  : Ambulance
+      Roepnummer  : A42
+      Kenteken    : 1-PCB-259
 
   >> 'A43'  (2x)
       Adres       : Antwerpen-Noord
@@ -1530,7 +1542,7 @@
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : B41
-      Kenteken    : 
+      Kenteken    : 1-PCB-191
 
   >> 'B51'  (2x)
       Adres       : Maaseik
@@ -2472,7 +2484,7 @@
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : C41
-      Kenteken    : 
+      Kenteken    : 1-NXB-425
 
   >> 'C42'  (2x)
       Adres       : Leuven
@@ -2482,17 +2494,7 @@
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : C42
-      Kenteken    : 
-
-  >> 'C43'  (2x)
-      Adres       : Londerzeel
-      Hulpdienst  : Brandweer
-      Roepnummer  : C43
-      Kenteken    : 
-      Adres       : Eghezée
-      Hulpdienst  : Brandweer
-      Roepnummer  : C43
-      Kenteken    : 
+      Kenteken    : 1-NXB-415
 
   >> 'C44'  (2x)
       Adres       : Leuven
@@ -2996,7 +2998,7 @@
       Roepnummer  : D403
       Kenteken    : 
 
-  >> 'D41'  (3x)
+  >> 'D41'  (2x)
       Adres       : Hamme
       Hulpdienst  : Brandweer
       Roepnummer  : D41
@@ -3004,11 +3006,7 @@
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : D41
-      Kenteken    : 
-      Adres       : Eghezée
-      Hulpdienst  : Brandweer
-      Roepnummer  : D41
-      Kenteken    : 
+      Kenteken    : 1-YET-925
 
   >> 'D7'  (2x)
       Adres       : Ath
@@ -3136,7 +3134,7 @@
       Roepnummer  : E106
       Kenteken    : 
 
-  >> 'E11'  (9x)
+  >> 'E11'  (8x)
       Adres       : Essen
       Hulpdienst  : Brandweer
       Roepnummer  : E11
@@ -3156,11 +3154,7 @@
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E11
-      Kenteken    : 
-      Adres       : Eeklo
-      Hulpdienst  : Brandweer
-      Roepnummer  : E11
-      Kenteken    : 
+      Kenteken    : 1-FYB-118
       Adres       : Berlare
       Hulpdienst  : Brandweer
       Roepnummer  : E11
@@ -3216,7 +3210,7 @@
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E12
-      Kenteken    : 
+      Kenteken    : 1-KDA-633
       Adres       : Bernissart
       Hulpdienst  : Brandweer
       Roepnummer  : E12
@@ -3296,7 +3290,7 @@
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E21
-      Kenteken    : 
+      Kenteken    : 1-CYU-866
       Adres       : Buggenhout
       Hulpdienst  : Brandweer
       Roepnummer  : E21
@@ -3348,7 +3342,7 @@
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E31
-      Kenteken    : 
+      Kenteken    : 1-KDA-663
       Adres       : Dendermonde
       Hulpdienst  : Brandweer
       Roepnummer  : E31
@@ -3414,7 +3408,7 @@
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E41
-      Kenteken    : 
+      Kenteken    : 1-KDA-696
       Adres       : Hamme
       Hulpdienst  : Brandweer
       Roepnummer  : E41
@@ -3426,18 +3420,14 @@
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : E41
-      Kenteken    : 
+      Kenteken    : 1-NXB-350
 
-  >> 'E42'  (3x)
+  >> 'E42'  (2x)
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E42
-      Kenteken    : 
+      Kenteken    : 1-KDA-682
       Adres       : Nivelles
-      Hulpdienst  : Brandweer
-      Roepnummer  : E42
-      Kenteken    : 
-      Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : E42
       Kenteken    : 
@@ -3446,7 +3436,7 @@
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E43
-      Kenteken    : 
+      Kenteken    : 1-PPP-075
       Adres       : Nivelles
       Hulpdienst  : Brandweer
       Roepnummer  : E43
@@ -3470,11 +3460,21 @@
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E51
-      Kenteken    : 
+      Kenteken    : 2-AJF-429
       Adres       : Lebbeke
       Hulpdienst  : Brandweer
       Roepnummer  : E51
       Kenteken    : 1-XWR-981
+
+  >> 'E52'  (2x)
+      Adres       : Eeklo
+      Hulpdienst  : Brandweer
+      Roepnummer  : E52
+      Kenteken    : 2-EFY-291
+      Adres       : Tubize
+      Hulpdienst  : Brandweer
+      Roepnummer  : E52
+      Kenteken    : 
 
   >> 'E6'  (3x)
       Adres       : Essen
@@ -3490,11 +3490,15 @@
       Roepnummer  : E6
       Kenteken    : 
 
-  >> 'E61'  (3x)
+  >> 'E61'  (4x)
       Adres       : Maasmechelen
       Hulpdienst  : Brandweer
       Roepnummer  : E61
       Kenteken    : 
+      Adres       : Eeklo
+      Hulpdienst  : Brandweer
+      Roepnummer  : E61
+      Kenteken    : 2-DRE-945
       Adres       : Lokeren
       Hulpdienst  : Brandweer
       Roepnummer  : E61
@@ -3530,6 +3534,16 @@
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : E8
+      Kenteken    : 
+
+  >> 'E81'  (2x)
+      Adres       : Eeklo
+      Hulpdienst  : Brandweer
+      Roepnummer  : E81
+      Kenteken    : 1-KEK-220
+      Adres       : Zele
+      Hulpdienst  : Brandweer
+      Roepnummer  : E81
       Kenteken    : 
 
   >> 'E9'  (3x)
@@ -5136,16 +5150,12 @@
       Roepnummer  : P406
       Kenteken    : 
 
-  >> 'P41'  (3x)
+  >> 'P41'  (2x)
       Adres       : Hamme
       Hulpdienst  : Brandweer
       Roepnummer  : P41
       Kenteken    : 
       Adres       : Nivelles
-      Hulpdienst  : Brandweer
-      Roepnummer  : P41
-      Kenteken    : 
-      Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : P41
       Kenteken    : 
@@ -5166,7 +5176,7 @@
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : P42
-      Kenteken    : 
+      Kenteken    : 1-AZN-732
 
   >> 'P43'  (3x)
       Adres       : Héliport
@@ -5180,7 +5190,7 @@
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : P43
-      Kenteken    : 
+      Kenteken    : 1-NXB-578
 
   >> 'P45'  (2x)
       Adres       : Héliport
@@ -5518,7 +5528,7 @@
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : R41
-      Kenteken    : 
+      Kenteken    : 1-PCB-187
 
   >> 'R5'  (3x)
       Adres       : Lier
@@ -6658,18 +6668,14 @@
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : T41
-      Kenteken    : 
+      Kenteken    : 1-PCB-275
 
-  >> 'T42'  (3x)
+  >> 'T42'  (2x)
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T42
       Kenteken    : 
       Adres       : Hamme
-      Hulpdienst  : Brandweer
-      Roepnummer  : T42
-      Kenteken    : 
-      Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : T42
       Kenteken    : 
