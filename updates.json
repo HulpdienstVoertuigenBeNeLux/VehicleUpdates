@@ -323,6 +323,20 @@
         "Regio": "Central Rescue Zone",
         "Description": " MFT-VER toegevoegd aan Lingten-Lorentzweiler",
         "Time": "17-10-2026 15:02:15"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Feuerwehr",
+        "Regio": "Central Rescue Zone",
+        "Description": " GM toegevoegd aan Luxembourg",
+        "Time": "17-10-2026 16:02:25"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Feuerwehr",
+        "Regio": "Northern Rescue Zone",
+        "Description": " BRV-K toegevoegd aan Nordstad",
+        "Time": "17-10-2026 16:02:25"
       }
     ],
     "removed": [
@@ -360,6 +374,13 @@
         "Regio": "Antwerpen Zone - Rand",
         "Description": "B20 RBA verwijderd van Brecht",
         "Time": "17-10-2026 12:01:58"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "  verwijderd van Nordstad",
+        "Time": "17-10-2026 16:02:25"
       }
     ],
     "changed": [
