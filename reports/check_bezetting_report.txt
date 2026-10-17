@@ -3,12 +3,12 @@
 ==========================================================================================
   Totaal records                   : 17264
   Records met parsebare bezetting : 3359
-  Vergeleken met RDW               : 3129
-  RDW data ontbreekt               : 230
+  Vergeleken met RDW               : 3130
+  RDW data ontbreekt               : 229
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)              : 0
-  Bezetting != RDW zitplaatsen     : 5
-  Bezetting > RDW zitplaatsen      : 4
+  Bezetting != RDW zitplaatsen     : 6
+  Bezetting > RDW zitplaatsen      : 5
   RDW zitplaatsen > bezetting      : 1
 
 ------------------------------------------------------------------------------------------
@@ -41,6 +41,7 @@
 ------------------------------------------------------------------------------------------
   Roepnummer   | Kenteken   | Bezetting |           RDW
   -----------------------------------------------------
+  19-4533      | BD-575-V   |         8 |             7
   19-6633      | BD-720-X   |         8 |             7
   19-6637      | BD-567-X   |         8 |             7
   20-7302      | T-513-NK   |         9 |             8

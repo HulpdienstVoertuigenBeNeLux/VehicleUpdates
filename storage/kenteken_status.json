@@ -49232,19 +49232,6 @@
     "last_tenaamstelling_check_date": "2026-10-12",
     "aantal_zitplaatsen": "6"
   },
-  "BN-JH-47": {
-    "expiry": "2026-12-22",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "19-4533"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2014-06-27",
-    "last_tenaamstelling_check_date": "2026-10-12",
-    "aantal_zitplaatsen": null
-  },
   "01-BRX-4": {
     "expiry": "2026-12-16",
     "checked": true,
@@ -107569,5 +107556,18 @@
     "datum_tenaamstelling_dt": "2026-08-05",
     "last_tenaamstelling_check_date": "2026-10-17",
     "aantal_zitplaatsen": "5"
+  },
+  "BD-575-V": {
+    "expiry": "2027-09-02",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "19-4533"
+    ],
+    "last_check_date": "2026-10-17",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-09-02",
+    "last_tenaamstelling_check_date": "2026-10-17",
+    "aantal_zitplaatsen": "7"
   }
 }
