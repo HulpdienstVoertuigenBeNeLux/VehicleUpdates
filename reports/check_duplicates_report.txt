@@ -116,10 +116,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,751  (of 10,118 total)
+  Records checked : 6,752  (of 10,119 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  527 value(s) affected
+  Duplicate Roepnummer  --  538 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -490,7 +490,7 @@
       Roepnummer  : A1
       Kenteken    : 1-JKU-794
 
-  >> 'A101'  (2x)
+  >> 'A101'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A101
@@ -499,8 +499,22 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A101
       Kenteken    : 
+      Adres       : Arlon
+      Hulpdienst  : Ambulance
+      Roepnummer  : A101
+      Kenteken    : 1-PJN-374
 
-  >> 'A103'  (2x)
+  >> 'A102'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A102
+      Kenteken    : 
+      Adres       : Aubange
+      Hulpdienst  : Ambulance
+      Roepnummer  : A102
+      Kenteken    : 2-GLV-509
+
+  >> 'A103'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A103
@@ -509,8 +523,22 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A103
       Kenteken    : 1-JNB-710
+      Adres       : Bastogne
+      Hulpdienst  : Ambulance
+      Roepnummer  : A103
+      Kenteken    : 1-RFR-086
 
-  >> 'A105'  (2x)
+  >> 'A104'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A104
+      Kenteken    : 
+      Adres       : Bertrix
+      Hulpdienst  : Ambulance
+      Roepnummer  : A104
+      Kenteken    : 2-GLV-581
+
+  >> 'A105'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A105
@@ -519,6 +547,20 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A105
       Kenteken    : 1-JNP-172
+      Adres       : Bouillon
+      Hulpdienst  : Ambulance
+      Roepnummer  : A105
+      Kenteken    : 1-RFR-101
+
+  >> 'A106'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A106
+      Kenteken    : 
+      Adres       : Erezee
+      Hulpdienst  : Ambulance
+      Roepnummer  : A106
+      Kenteken    : 2-CPC-983
 
   >> 'A107'  (2x)
       Adres       : Antwerpen-Noord
@@ -529,6 +571,26 @@
       Hulpdienst  : Ambulance
       Roepnummer  : A107
       Kenteken    : 2-ELY-924
+
+  >> 'A108'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A108
+      Kenteken    : 
+      Adres       : Houffalize
+      Hulpdienst  : Ambulance
+      Roepnummer  : A108
+      Kenteken    : 2-FPB-159
+
+  >> 'A109'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A109
+      Kenteken    : 
+      Adres       : Marche-en-Famenne
+      Hulpdienst  : Ambulance
+      Roepnummer  : A109
+      Kenteken    : 1-RPV-937
 
   >> 'A11'  (5x)
       Adres       : Berendrecht
@@ -552,7 +614,27 @@
       Roepnummer  : A11
       Kenteken    : 1-FYL-924
 
-  >> 'A112'  (2x)
+  >> 'A110'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A110
+      Kenteken    : 
+      Adres       : Neufchateu
+      Hulpdienst  : Ambulance
+      Roepnummer  : A110
+      Kenteken    : 2-AXU-203
+
+  >> 'A111'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A111
+      Kenteken    : 
+      Adres       : Paliseul
+      Hulpdienst  : Ambulance
+      Roepnummer  : A111
+      Kenteken    : 1-PCD-478
+
+  >> 'A112'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A112
@@ -561,8 +643,32 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A112
       Kenteken    : 1-BYZ-607
+      Adres       : Sint-Hubert
+      Hulpdienst  : Ambulance
+      Roepnummer  : A112
+      Kenteken    : 1-YKT-958
 
-  >> 'A115'  (2x)
+  >> 'A113'  (2x)
+      Adres       : Oostende
+      Hulpdienst  : Brandweer
+      Roepnummer  : A113
+      Kenteken    : 1-JNC-425
+      Adres       : Vielsam
+      Hulpdienst  : Ambulance
+      Roepnummer  : A113
+      Kenteken    : 2-CPC-995
+
+  >> 'A114'  (2x)
+      Adres       : Gistel
+      Hulpdienst  : Brandweer
+      Roepnummer  : A114
+      Kenteken    : 
+      Adres       : Virton
+      Hulpdienst  : Ambulance
+      Roepnummer  : A114
+      Kenteken    : 2-AXU-199
+
+  >> 'A115'  (3x)
       Adres       : Lillo
       Hulpdienst  : Brandweer
       Roepnummer  : A115
@@ -571,8 +677,12 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A115
       Kenteken    : 
+      Adres       : Florenville
+      Hulpdienst  : Ambulance
+      Roepnummer  : A115
+      Kenteken    : 2-CPC-991
 
-  >> 'A116'  (2x)
+  >> 'A116'  (3x)
       Adres       : Linkeroever
       Hulpdienst  : Brandweer
       Roepnummer  : A116
@@ -581,6 +691,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A116
       Kenteken    : 
+      Adres       : La-Roche
+      Hulpdienst  : Ambulance
+      Roepnummer  : A116
+      Kenteken    : 2-GLV-554
 
   >> 'A117'  (3x)
       Adres       : Antwerpen-Noord
@@ -614,7 +728,7 @@
       Roepnummer  : A12
       Kenteken    : 1-KDA-268
 
-  >> 'A120'  (2x)
+  >> 'A120'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A120
@@ -623,6 +737,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A120
       Kenteken    : 1-JRR-255
+      Adres       : Marche-en-Famenne
+      Hulpdienst  : Ambulance
+      Roepnummer  : A120
+      Kenteken    : 1-RDJ-323
 
   >> 'A121'  (2x)
       Adres       : Antwerpen-Noord
@@ -791,6 +909,26 @@
       Hulpdienst  : Ambulance
       Roepnummer  : A201
       Kenteken    : 1-SDS-390
+
+  >> 'A202'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A202
+      Kenteken    : 
+      Adres       : Aubange
+      Hulpdienst  : Ambulance
+      Roepnummer  : A202
+      Kenteken    : 2-ELY-928
+
+  >> 'A203'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A203
+      Kenteken    : 
+      Adres       : Bastogne
+      Hulpdienst  : Ambulance
+      Roepnummer  : A203
+      Kenteken    : 
 
   >> 'A21'  (4x)
       Adres       : Leopoldsburg
@@ -975,6 +1113,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A304
       Kenteken    : 
+
+  >> 'A309'  (2x)
+      Adres       : Kortrijk
+      Hulpdienst  : Brandweer
+      Roepnummer  : A309
+      Kenteken    : 
+      Adres       : Marche-en-Famenne
+      Hulpdienst  : Ambulance
+      Roepnummer  : A309
+      Kenteken    : 2-AXU-202
 
   >> 'A31'  (4x)
       Adres       : Antwerpen-Noord
@@ -2986,7 +3134,7 @@
       Adres       : Etalle
       Hulpdienst  : Brandweer
       Roepnummer  : D121
-      Kenteken    : 
+      Kenteken    : 1-KKR-772
 
   >> 'D21'  (2x)
       Adres       : Buggenhout
@@ -4874,7 +5022,7 @@
       Adres       : Etalle
       Hulpdienst  : Brandweer
       Roepnummer  : P207
-      Kenteken    : 
+      Kenteken    : 1-KGF-243
 
   >> 'P209'  (2x)
       Adres       : Grivegnée
@@ -7242,16 +7390,6 @@
       Adres       : Vilvoorde
       Hulpdienst  : Ambulance
       Roepnummer  : VILVOORDE 1
-      Kenteken    : 
-
-  >> 'VIRTON 1'  (2x)
-      Adres       : Virton
-      Hulpdienst  : Ambulance
-      Roepnummer  : VIRTON 1
-      Kenteken    : 
-      Adres       : Virton
-      Hulpdienst  : Ambulance
-      Roepnummer  : VIRTON 1
       Kenteken    : 
 
   >> 'VO1'  (2x)
