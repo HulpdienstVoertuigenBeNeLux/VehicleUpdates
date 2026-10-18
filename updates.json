@@ -1,5 +1,140 @@
 [
   {
+    "date": "2026-10-19",
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "23-106 AMBU-HC toegevoegd aan Weert",
+        "Time": "19-10-2026 00:02:14"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": " HZA toegevoegd aan Florennes",
+        "Time": "19-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": " ELV toegevoegd aan Florennes",
+        "Time": "19-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": " CCFM toegevoegd aan Florennes",
+        "Time": "19-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": " DAT toegevoegd aan Florennes",
+        "Time": "19-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "EV208 ELV toegevoegd aan Flemalle",
+        "Time": "19-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "VS259 SH toegevoegd aan Flemalle",
+        "Time": "19-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "D296 SIG toegevoegd aan Flemalle",
+        "Time": "19-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "PF221 CCFM toegevoegd aan Flemalle",
+        "Time": "19-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "VP219 PM toegevoegd aan Flemalle",
+        "Time": "19-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "T210 HA toegevoegd aan Flemalle",
+        "Time": "19-10-2026 00:02:26"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": " IGS-CMIA verwijderd van Flemalle",
+        "Time": "19-10-2026 00:02:26"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "10-5203: Kenteken van 'ONBEKEND' naar 'JL-624-V' aangepast",
+        "Time": "19-10-2026 00:02:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "10-5002: Adres van 'Wieringerwaard' naar 'Ursem' aangepast",
+        "Time": "19-10-2026 00:02:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "'10-5002' omgenummerd naar '10-5203'",
+        "Time": "19-10-2026 00:02:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "10-5002: Bijzonderheden van 'Bezetting: 8 personen' naar 'Bezetting: 8 personen.' aangepast",
+        "Time": "19-10-2026 00:02:14"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "419 511: Kenteken van '' naar '1-GYR-131' aangepast",
+        "Time": "19-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": "AP1: Adres van 'Florennes' naar 'Zwevezele' aangepast",
+        "Time": "19-10-2026 00:02:26"
+      }
+    ]
+  },
+  {
     "date": "2026-10-18",
     "added": [
       {
@@ -19528,11 +19663,5 @@
         "Time": "18-09-2026 18:00:22"
       }
     ]
-  },
-  {
-    "date": "2026-09-17",
-    "added": [],
-    "removed": [],
-    "changed": []
   }
 ]

@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,074  (of 17,264 total)
+  Records checked : 11,073  (of 17,263 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  6 value(s) affected
+  Duplicate Roepnummer  --  5 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -68,18 +68,8 @@
       Roepnummer  : 17-9383
       Kenteken    : GEEN
 
-  >> '23-119'  (2x)
-      Adres       : Weert
-      Hulpdienst  : Ambulance
-      Roepnummer  : 23-119
-      Kenteken    : GZK-55-L
-      Adres       : Weert
-      Hulpdienst  : Ambulance
-      Roepnummer  : 23-119
-      Kenteken    : GZK-55-L
-
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  3 value(s) affected
+  Duplicate Kenteken  --  2 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '85-BPX-4'  (2x)
@@ -102,24 +92,14 @@
       Roepnummer  : KENBRI HW-626
       Kenteken    : BT-TR-70
 
-  >> 'GZK-55-L'  (2x)
-      Adres       : Weert
-      Hulpdienst  : Ambulance
-      Roepnummer  : 23-119
-      Kenteken    : GZK-55-L
-      Adres       : Weert
-      Hulpdienst  : Ambulance
-      Roepnummer  : 23-119
-      Kenteken    : GZK-55-L
-
 ================================================================================
   Region: BE
 ================================================================================
 
-  Records checked : 6,754  (of 10,121 total)
+  Records checked : 6,749  (of 10,116 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  540 value(s) affected
+  Duplicate Roepnummer  --  539 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -284,16 +264,6 @@
       Adres       : Virton
       Hulpdienst  : Brandweer
       Roepnummer  : 4
-      Kenteken    : 
-
-  >> '419 511'  (2x)
-      Adres       : Expo
-      Hulpdienst  : Brandweer
-      Roepnummer  : 419 511
-      Kenteken    : 1-GYR-131
-      Adres       : Expo
-      Hulpdienst  : Brandweer
-      Roepnummer  : 419 511
       Kenteken    : 
 
   >> '460102'  (3x)
@@ -1384,7 +1354,7 @@
       Roepnummer  : ANTW ZUID
       Kenteken    : 
 
-  >> 'AP1'  (20x)
+  >> 'AP1'  (19x)
       Adres       : Zottegem
       Hulpdienst  : Brandweer
       Roepnummer  : AP1
@@ -1461,10 +1431,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : AP1
       Kenteken    : 
-      Adres       : Florennes
-      Hulpdienst  : Brandweer
-      Roepnummer  : AP1
-      Kenteken    : 
 
   >> 'AP2'  (9x)
       Adres       : Zottegem
@@ -1504,16 +1470,12 @@
       Roepnummer  : AP2
       Kenteken    : 
 
-  >> 'AP3'  (4x)
+  >> 'AP3'  (3x)
       Adres       : Sint-Lievens-Houtem
       Hulpdienst  : Brandweer
       Roepnummer  : AP3
       Kenteken    : 
       Adres       : Roeselare
-      Hulpdienst  : Brandweer
-      Roepnummer  : AP3
-      Kenteken    : 
-      Adres       : Florennes
       Hulpdienst  : Brandweer
       Roepnummer  : AP3
       Kenteken    : 
@@ -2002,7 +1964,7 @@
       Roepnummer  : C05
       Kenteken    : 
 
-  >> 'C1'  (18x)
+  >> 'C1'  (17x)
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : C1
@@ -2056,10 +2018,6 @@
       Roepnummer  : C1
       Kenteken    : 
       Adres       : Soignies
-      Hulpdienst  : Brandweer
-      Roepnummer  : C1
-      Kenteken    : 
-      Adres       : Florennes
       Hulpdienst  : Brandweer
       Roepnummer  : C1
       Kenteken    : 
@@ -5008,7 +4966,7 @@
       Adres       : Flemalle
       Hulpdienst  : Brandweer
       Roepnummer  : P202
-      Kenteken    : 
+      Kenteken    : 108-CEM
       Adres       : Marche-en-Famenne
       Hulpdienst  : Brandweer
       Roepnummer  : P202
