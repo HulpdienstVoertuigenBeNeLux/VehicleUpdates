@@ -116,10 +116,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,753  (of 10,119 total)
+  Records checked : 6,744  (of 10,110 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  526 value(s) affected
+  Duplicate Roepnummer  --  525 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -186,7 +186,7 @@
       Roepnummer  : 14
       Kenteken    : 
 
-  >> '2'  (4x)
+  >> '2'  (3x)
       Adres       : Oostmalle
       Hulpdienst  : Brandweer
       Roepnummer  : 2
@@ -196,10 +196,6 @@
       Roepnummer  : 2
       Kenteken    : 
       Adres       : Wetteren
-      Hulpdienst  : Brandweer
-      Roepnummer  : 2
-      Kenteken    : 
-      Adres       : Erezée
       Hulpdienst  : Brandweer
       Roepnummer  : 2
       Kenteken    : 
@@ -1364,6 +1360,32 @@
       Roepnummer  : AP3
       Kenteken    : 
 
+  >> 'AP?'  (6x)
+      Adres       : Braine-le-Comte
+      Hulpdienst  : Brandweer
+      Roepnummer  : AP?
+      Kenteken    : 1-JSS-435
+      Adres       : Braine-le-Comte
+      Hulpdienst  : Brandweer
+      Roepnummer  : AP?
+      Kenteken    : 1-JUB-705
+      Adres       : Chièvres
+      Hulpdienst  : Brandweer
+      Roepnummer  : AP?
+      Kenteken    : 1-JNX-126
+      Adres       : Chièvres
+      Hulpdienst  : Brandweer
+      Roepnummer  : AP?
+      Kenteken    : 1-JNX-026
+      Adres       : Enghien
+      Hulpdienst  : Brandweer
+      Roepnummer  : AP?
+      Kenteken    : 1-JNV-866
+      Adres       : Enghien
+      Hulpdienst  : Brandweer
+      Roepnummer  : AP?
+      Kenteken    : 1-JNV-801
+
   >> 'AT1'  (2x)
       Adres       : Ingelmunster
       Hulpdienst  : Brandweer
@@ -1736,6 +1758,20 @@
       Roepnummer  : BEVEREN 1
       Kenteken    : 
 
+  >> 'BL?'  (3x)
+      Adres       : Braine-le-Comte
+      Hulpdienst  : Brandweer
+      Roepnummer  : BL?
+      Kenteken    : 1-LKZ-953
+      Adres       : Chièvres
+      Hulpdienst  : Brandweer
+      Roepnummer  : BL?
+      Kenteken    : 1-PVH-252
+      Adres       : Enghien
+      Hulpdienst  : Brandweer
+      Roepnummer  : BL?
+      Kenteken    : 1-JUA-385
+
   >> 'BRASSCHAAT'  (2x)
       Adres       : Brasschaat
       Hulpdienst  : Ambulance
@@ -1790,7 +1826,7 @@
       Roepnummer  : C05
       Kenteken    : 
 
-  >> 'C1'  (19x)
+  >> 'C1'  (18x)
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : C1
@@ -1835,10 +1871,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C1
       Kenteken    : 
-      Adres       : Chièvres
-      Hulpdienst  : Brandweer
-      Roepnummer  : C1
-      Kenteken    : 1-KKK-968
       Adres       : La Louvière
       Hulpdienst  : Brandweer
       Roepnummer  : C1
@@ -2112,7 +2144,7 @@
       Roepnummer  : C19
       Kenteken    : 
 
-  >> 'C2'  (11x)
+  >> 'C2'  (10x)
       Adres       : Lier
       Hulpdienst  : Brandweer
       Roepnummer  : C2
@@ -2142,10 +2174,6 @@
       Roepnummer  : C2
       Kenteken    : 
       Adres       : Zottegem
-      Hulpdienst  : Brandweer
-      Roepnummer  : C2
-      Kenteken    : 
-      Adres       : Enghien
       Hulpdienst  : Brandweer
       Roepnummer  : C2
       Kenteken    : 
@@ -2884,19 +2912,7 @@
       Roepnummer  : CW2
       Kenteken    : 
 
-  >> 'D1'  (5x)
-      Adres       : Braine-le-Comte
-      Hulpdienst  : Brandweer
-      Roepnummer  : D1
-      Kenteken    : 
-      Adres       : Chièvres
-      Hulpdienst  : Brandweer
-      Roepnummer  : D1
-      Kenteken    : 1-KAD-322
-      Adres       : Enghien
-      Hulpdienst  : Brandweer
-      Roepnummer  : D1
-      Kenteken    : 
+  >> 'D1'  (2x)
       Adres       : Soignies
       Hulpdienst  : Brandweer
       Roepnummer  : D1
@@ -2952,16 +2968,6 @@
       Adres       : Etalle
       Hulpdienst  : Brandweer
       Roepnummer  : D121
-      Kenteken    : 
-
-  >> 'D2'  (2x)
-      Adres       : Enghien
-      Hulpdienst  : Brandweer
-      Roepnummer  : D2
-      Kenteken    : 
-      Adres       : Philippeville
-      Hulpdienst  : Brandweer
-      Roepnummer  : D2
       Kenteken    : 
 
   >> 'D21'  (2x)
@@ -3028,6 +3034,24 @@
       Roepnummer  : DEURNE
       Kenteken    : 2-JSQ-014
 
+  >> 'DS?'  (4x)
+      Adres       : Binche
+      Hulpdienst  : Brandweer
+      Roepnummer  : DS?
+      Kenteken    : 1-JUB-536
+      Adres       : Braine-le-Comte
+      Hulpdienst  : Brandweer
+      Roepnummer  : DS?
+      Kenteken    : 
+      Adres       : Chièvres
+      Hulpdienst  : Brandweer
+      Roepnummer  : DS?
+      Kenteken    : 1-KAD-322
+      Adres       : Enghien
+      Hulpdienst  : Brandweer
+      Roepnummer  : DS?
+      Kenteken    : 
+
   >> 'DW1'  (2x)
       Adres       : Izegem
       Hulpdienst  : Brandweer
@@ -3048,7 +3072,7 @@
       Roepnummer  : DW2
       Kenteken    : 
 
-  >> 'E1'  (10x)
+  >> 'E1'  (9x)
       Adres       : Essen
       Hulpdienst  : Brandweer
       Roepnummer  : E1
@@ -3065,10 +3089,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : E1
       Kenteken    : 
-      Adres       : Braine-le-Comte
-      Hulpdienst  : Brandweer
-      Roepnummer  : E1
-      Kenteken    : 1-JSS-485
       Adres       : Quiévrain
       Hulpdienst  : Brandweer
       Roepnummer  : E1
@@ -3122,16 +3142,6 @@
       Adres       : Waremme
       Hulpdienst  : Brandweer
       Roepnummer  : E102
-      Kenteken    : 
-
-  >> 'E106'  (2x)
-      Adres       : Oostende
-      Hulpdienst  : Brandweer
-      Roepnummer  : E106
-      Kenteken    : 1-JNN-950
-      Adres       : Erezée
-      Hulpdienst  : Brandweer
-      Roepnummer  : E106
       Kenteken    : 
 
   >> 'E11'  (8x)
@@ -3820,7 +3830,7 @@
       Adres       : Erezée
       Hulpdienst  : Brandweer
       Roepnummer  : L106
-      Kenteken    : 
+      Kenteken    : 1-YNX-922
 
   >> 'L107'  (2x)
       Adres       : Brugge
@@ -4186,16 +4196,6 @@
       Adres       : Belgiek
       Hulpdienst  : Brandweer
       Roepnummer  : L63
-      Kenteken    : 
-
-  >> 'L906'  (2x)
-      Adres       : Erezée
-      Hulpdienst  : Brandweer
-      Roepnummer  : L906
-      Kenteken    : 
-      Adres       : Erezée
-      Hulpdienst  : Brandweer
-      Roepnummer  : L906
       Kenteken    : 
 
   >> 'LIER'  (2x)
@@ -4676,17 +4676,7 @@
       Roepnummer  : NAMUR 1
       Kenteken    : 
 
-  >> 'O2'  (2x)
-      Adres       : Braine-le-Comte
-      Hulpdienst  : Brandweer
-      Roepnummer  : O2
-      Kenteken    : 1-JUB-669
-      Adres       : Quiévrain
-      Hulpdienst  : Brandweer
-      Roepnummer  : O2
-      Kenteken    : 
-
-  >> 'P1'  (9x)
+  >> 'P1'  (6x)
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : P1
@@ -4700,18 +4690,6 @@
       Roepnummer  : P1
       Kenteken    : 
       Adres       : Ronse
-      Hulpdienst  : Brandweer
-      Roepnummer  : P1
-      Kenteken    : 
-      Adres       : Braine-le-Comte
-      Hulpdienst  : Brandweer
-      Roepnummer  : P1
-      Kenteken    : 1-JSS-435
-      Adres       : Chièvres
-      Hulpdienst  : Brandweer
-      Roepnummer  : P1
-      Kenteken    : 1-JNX-126
-      Adres       : Enghien
       Hulpdienst  : Brandweer
       Roepnummer  : P1
       Kenteken    : 
@@ -4858,7 +4836,7 @@
       Roepnummer  : P18
       Kenteken    : 
 
-  >> 'P2'  (6x)
+  >> 'P2'  (3x)
       Adres       : Londerzeel
       Hulpdienst  : Brandweer
       Roepnummer  : P2
@@ -4867,18 +4845,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : P2
       Kenteken    : 180-BYB
-      Adres       : Braine-le-Comte
-      Hulpdienst  : Brandweer
-      Roepnummer  : P2
-      Kenteken    : 1-JUB-705
-      Adres       : Chièvres
-      Hulpdienst  : Brandweer
-      Roepnummer  : P2
-      Kenteken    : 1-JNX-026
-      Adres       : Enghien
-      Hulpdienst  : Brandweer
-      Roepnummer  : P2
-      Kenteken    : 
       Adres       : Mettet
       Hulpdienst  : Brandweer
       Roepnummer  : P2
@@ -4912,7 +4878,7 @@
       Adres       : Erezée
       Hulpdienst  : Brandweer
       Roepnummer  : P206
-      Kenteken    : 
+      Kenteken    : 1-KGF-481
 
   >> 'P207'  (2x)
       Adres       : Liège
@@ -5384,12 +5350,8 @@
       Roepnummer  : R09
       Kenteken    : 
 
-  >> 'R1'  (3x)
+  >> 'R1'  (2x)
       Adres       : Héliport
-      Hulpdienst  : Brandweer
-      Roepnummer  : R1
-      Kenteken    : 
-      Adres       : Enghien
       Hulpdienst  : Brandweer
       Roepnummer  : R1
       Kenteken    : 
@@ -5560,7 +5522,7 @@
       Roepnummer  : R52
       Kenteken    : 
 
-  >> 'R521'  (3x)
+  >> 'R521'  (2x)
       Adres       : Geel
       Hulpdienst  : Brandweer
       Roepnummer  : R521
@@ -5569,10 +5531,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : R521
       Kenteken    : 1-LST-543
-      Adres       : Erezée
-      Hulpdienst  : Brandweer
-      Roepnummer  : R521
-      Kenteken    : 
 
   >> 'S02'  (2x)
       Adres       : Lommel
@@ -5614,7 +5572,7 @@
       Roepnummer  : S09
       Kenteken    : 
 
-  >> 'S1'  (8x)
+  >> 'S1'  (7x)
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : S1
@@ -5639,10 +5597,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S1
       Kenteken    : 
-      Adres       : Enghien
-      Hulpdienst  : Brandweer
-      Roepnummer  : S1
-      Kenteken    : 1-JNV-790
       Adres       : Sambreville
       Hulpdienst  : Brandweer
       Roepnummer  : S1
@@ -5782,16 +5736,12 @@
       Roepnummer  : S19
       Kenteken    : 
 
-  >> 'S2'  (3x)
+  >> 'S2'  (2x)
       Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : S2
       Kenteken    : 
       Adres       : Héliport
-      Hulpdienst  : Brandweer
-      Roepnummer  : S2
-      Kenteken    : 
-      Adres       : Enghien
       Hulpdienst  : Brandweer
       Roepnummer  : S2
       Kenteken    : 
@@ -6172,7 +6122,7 @@
       Roepnummer  : T09
       Kenteken    : 1-BYZ-941
 
-  >> 'T1'  (11x)
+  >> 'T1'  (9x)
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : T1
@@ -6190,14 +6140,6 @@
       Roepnummer  : T1
       Kenteken    : 
       Adres       : Temse
-      Hulpdienst  : Brandweer
-      Roepnummer  : T1
-      Kenteken    : 
-      Adres       : Braine-le-Comte
-      Hulpdienst  : Brandweer
-      Roepnummer  : T1
-      Kenteken    : 
-      Adres       : Enghien
       Hulpdienst  : Brandweer
       Roepnummer  : T1
       Kenteken    : 
@@ -6400,7 +6342,7 @@
       Roepnummer  : T19
       Kenteken    : 1-KJR-398
 
-  >> 'T2'  (11x)
+  >> 'T2'  (8x)
       Adres       : Vilvoorde
       Hulpdienst  : Brandweer
       Roepnummer  : T2
@@ -6410,18 +6352,6 @@
       Roepnummer  : T2
       Kenteken    : 
       Adres       : Sint-Lievens-Houtem
-      Hulpdienst  : Brandweer
-      Roepnummer  : T2
-      Kenteken    : 
-      Adres       : Braine-le-Comte
-      Hulpdienst  : Brandweer
-      Roepnummer  : T2
-      Kenteken    : 
-      Adres       : Chièvres
-      Hulpdienst  : Brandweer
-      Roepnummer  : T2
-      Kenteken    : 1-KAD-313
-      Adres       : Enghien
       Hulpdienst  : Brandweer
       Roepnummer  : T2
       Kenteken    : 
@@ -6534,16 +6464,12 @@
       Roepnummer  : T26
       Kenteken    : 1-JXH-990
 
-  >> 'T3'  (6x)
+  >> 'T3'  (5x)
       Adres       : Lennik
       Hulpdienst  : Brandweer
       Roepnummer  : T3
       Kenteken    : 
       Adres       : Mouscron
-      Hulpdienst  : Brandweer
-      Roepnummer  : T3
-      Kenteken    : 
-      Adres       : Braine-le-Comte
       Hulpdienst  : Brandweer
       Roepnummer  : T3
       Kenteken    : 
@@ -7028,7 +6954,7 @@
       Roepnummer  : V104
       Kenteken    : 1-XWX-109
 
-  >> 'V106'  (4x)
+  >> 'V106'  (3x)
       Adres       : Ruddervoorde
       Hulpdienst  : Brandweer
       Roepnummer  : V106
@@ -7038,10 +6964,6 @@
       Roepnummer  : V106
       Kenteken    : 
       Adres       : Bastogne
-      Hulpdienst  : Brandweer
-      Roepnummer  : V106
-      Kenteken    : 
-      Adres       : Erezée
       Hulpdienst  : Brandweer
       Roepnummer  : V106
       Kenteken    : 
@@ -7178,7 +7100,7 @@
       Roepnummer  : V405
       Kenteken    : 
 
-  >> 'V406'  (3x)
+  >> 'V406'  (4x)
       Adres       : Poperinge
       Hulpdienst  : Brandweer
       Roepnummer  : V406
@@ -7187,6 +7109,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : V406
       Kenteken    : 
+      Adres       : Erezée
+      Hulpdienst  : Brandweer
+      Roepnummer  : V406
+      Kenteken    : 1-KNY-785
       Adres       : Marche-en-Famenne
       Hulpdienst  : Brandweer
       Roepnummer  : V406
@@ -7246,16 +7172,6 @@
       Roepnummer  : V422
       Kenteken    : 
 
-  >> 'V505'  (2x)
-      Adres       : Bouillon
-      Hulpdienst  : Brandweer
-      Roepnummer  : V505
-      Kenteken    : 
-      Adres       : Erezée
-      Hulpdienst  : Brandweer
-      Roepnummer  : V505
-      Kenteken    : 
-
   >> 'VC20'  (2x)
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
@@ -7275,6 +7191,32 @@
       Hulpdienst  : Brandweer
       Roepnummer  : VC3
       Kenteken    : 
+
+  >> 'VC?'  (6x)
+      Adres       : Braine-le-Comte
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC?
+      Kenteken    : 1-JUB-682
+      Adres       : Braine-le-Comte
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC?
+      Kenteken    : 1-JUB-669
+      Adres       : Braine-le-Comte
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC?
+      Kenteken    : 
+      Adres       : Chièvres
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC?
+      Kenteken    : 1-KKK-968
+      Adres       : Dour
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC?
+      Kenteken    : 1-JUA-119
+      Adres       : Enghien
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC?
+      Kenteken    : 1-KAD-308
 
   >> 'VCx23'  (2x)
       Adres       : Binche
