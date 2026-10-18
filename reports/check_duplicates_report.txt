@@ -116,10 +116,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,744  (of 10,110 total)
+  Records checked : 6,751  (of 10,118 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  525 value(s) affected
+  Duplicate Roepnummer  --  527 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -520,6 +520,16 @@
       Roepnummer  : A105
       Kenteken    : 1-JNP-172
 
+  >> 'A107'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A107
+      Kenteken    : 
+      Adres       : Etalle
+      Hulpdienst  : Ambulance
+      Roepnummer  : A107
+      Kenteken    : 2-ELY-924
+
   >> 'A11'  (5x)
       Adres       : Berendrecht
       Hulpdienst  : Brandweer
@@ -832,16 +842,6 @@
       Roepnummer  : A23
       Kenteken    : 
 
-  >> 'A24'  (2x)
-      Adres       : Herd-de-Stad
-      Hulpdienst  : Brandweer
-      Roepnummer  : A24
-      Kenteken    : 1-DYG-185
-      Adres       : Estaimpuis
-      Hulpdienst  : Brandweer
-      Roepnummer  : A24
-      Kenteken    : 
-
   >> 'A25'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
@@ -892,7 +892,7 @@
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : A28
-      Kenteken    : 
+      Kenteken    : 1-JUJ-233
 
   >> 'A29'  (2x)
       Adres       : Wilrijk
@@ -1044,11 +1044,15 @@
       Roepnummer  : A35
       Kenteken    : 
 
-  >> 'A36'  (3x)
+  >> 'A36'  (4x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A36
       Kenteken    : 
+      Adres       : Estaimpuis
+      Hulpdienst  : Brandweer
+      Roepnummer  : A36
+      Kenteken    : 1-CYL-057
       Adres       : Mouscron
       Hulpdienst  : Brandweer
       Roepnummer  : A36
@@ -1502,7 +1506,7 @@
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : B13
-      Kenteken    : 
+      Kenteken    : 2-GRW-965
 
   >> 'B2'  (2x)
       Adres       : Pelt
@@ -1566,6 +1570,16 @@
       Roepnummer  : B41
       Kenteken    : 1-PCB-191
 
+  >> 'B5'  (2x)
+      Adres       : Sint-Job-in-'t-Goor
+      Hulpdienst  : Brandweer
+      Roepnummer  : B5
+      Kenteken    : 
+      Adres       : Estaimpuis
+      Hulpdienst  : Brandweer
+      Roepnummer  : B5
+      Kenteken    : 1-KJR-640
+
   >> 'B51'  (2x)
       Adres       : Maaseik
       Hulpdienst  : Brandweer
@@ -1606,7 +1620,7 @@
       Roepnummer  : B63
       Kenteken    : 
 
-  >> 'B7'  (4x)
+  >> 'B7'  (5x)
       Adres       : Sint-Job-in-'t-Goor
       Hulpdienst  : Brandweer
       Roepnummer  : B7
@@ -1619,6 +1633,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : B7
       Kenteken    : 
+      Adres       : Estaimpuis
+      Hulpdienst  : Brandweer
+      Roepnummer  : B7
+      Kenteken    : 1-KJR-560
       Adres       : Mouscron
       Hulpdienst  : Brandweer
       Roepnummer  : B7
@@ -1916,7 +1934,7 @@
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : C10
-      Kenteken    : 
+      Kenteken    : 1-JUH-610
       Adres       : La Louvière
       Hulpdienst  : Brandweer
       Roepnummer  : C10
@@ -2102,11 +2120,15 @@
       Roepnummer  : C150
       Kenteken    : 2-CDR-864
 
-  >> 'C16'  (3x)
+  >> 'C16'  (4x)
       Adres       : Leuven
       Hulpdienst  : Brandweer
       Roepnummer  : C16
       Kenteken    : 
+      Adres       : Estaimpuis
+      Hulpdienst  : Brandweer
+      Roepnummer  : C16
+      Kenteken    : 1-JUJ-316
       Adres       : Mouscron
       Hulpdienst  : Brandweer
       Roepnummer  : C16
@@ -2438,7 +2460,7 @@
       Roepnummer  : C36
       Kenteken    : 
 
-  >> 'C4'  (8x)
+  >> 'C4'  (7x)
       Adres       : Lier
       Hulpdienst  : Brandweer
       Roepnummer  : C4
@@ -2456,10 +2478,6 @@
       Roepnummer  : C4
       Kenteken    : 
       Adres       : Kortrijk
-      Hulpdienst  : Brandweer
-      Roepnummer  : C4
-      Kenteken    : 
-      Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : C4
       Kenteken    : 
@@ -3072,11 +3090,7 @@
       Roepnummer  : DW2
       Kenteken    : 
 
-  >> 'E1'  (9x)
-      Adres       : Essen
-      Hulpdienst  : Brandweer
-      Roepnummer  : E1
-      Kenteken    : 
+  >> 'E1'  (8x)
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : E1
@@ -3144,11 +3158,7 @@
       Roepnummer  : E102
       Kenteken    : 
 
-  >> 'E11'  (8x)
-      Adres       : Essen
-      Hulpdienst  : Brandweer
-      Roepnummer  : E11
-      Kenteken    : 
+  >> 'E11'  (7x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : E11
@@ -3260,11 +3270,7 @@
       Roepnummer  : E19
       Kenteken    : 
 
-  >> 'E2'  (3x)
-      Adres       : Essen
-      Hulpdienst  : Brandweer
-      Roepnummer  : E2
-      Kenteken    : 
+  >> 'E2'  (2x)
       Adres       : Anderlecht
       Hulpdienst  : Brandweer
       Roepnummer  : E2
@@ -3376,11 +3382,7 @@
       Roepnummer  : E314
       Kenteken    : 
 
-  >> 'E4'  (3x)
-      Adres       : Essen
-      Hulpdienst  : Brandweer
-      Roepnummer  : E4
-      Kenteken    : 
+  >> 'E4'  (2x)
       Adres       : Schaarbeek
       Hulpdienst  : Brandweer
       Roepnummer  : E4
@@ -3486,11 +3488,7 @@
       Roepnummer  : E52
       Kenteken    : 
 
-  >> 'E6'  (3x)
-      Adres       : Essen
-      Hulpdienst  : Brandweer
-      Roepnummer  : E6
-      Kenteken    : 
+  >> 'E6'  (2x)
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : E6
@@ -3518,11 +3516,7 @@
       Roepnummer  : E61
       Kenteken    : 
 
-  >> 'E7'  (3x)
-      Adres       : Essen
-      Hulpdienst  : Brandweer
-      Roepnummer  : E7
-      Kenteken    : 
+  >> 'E7'  (2x)
       Adres       : VUB
       Hulpdienst  : Brandweer
       Roepnummer  : E7
@@ -3532,11 +3526,7 @@
       Roepnummer  : E7
       Kenteken    : 
 
-  >> 'E8'  (3x)
-      Adres       : Essen
-      Hulpdienst  : Brandweer
-      Roepnummer  : E8
-      Kenteken    : 
+  >> 'E8'  (2x)
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : E8
@@ -3544,7 +3534,7 @@
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : E8
-      Kenteken    : 
+      Kenteken    : 1-JUJ-309
 
   >> 'E81'  (2x)
       Adres       : Eeklo
@@ -3556,11 +3546,7 @@
       Roepnummer  : E81
       Kenteken    : 
 
-  >> 'E9'  (3x)
-      Adres       : Essen
-      Hulpdienst  : Brandweer
-      Roepnummer  : E9
-      Kenteken    : 
+  >> 'E9'  (2x)
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : E9
@@ -3840,7 +3826,7 @@
       Adres       : Etalle
       Hulpdienst  : Brandweer
       Roepnummer  : L107
-      Kenteken    : 
+      Kenteken    : 2-GRV-418
 
   >> 'L11'  (4x)
       Adres       : Bree
@@ -5374,8 +5360,12 @@
       Roepnummer  : R11
       Kenteken    : 
 
-  >> 'R12'  (2x)
+  >> 'R12'  (3x)
       Adres       : Genk
+      Hulpdienst  : Brandweer
+      Roepnummer  : R12
+      Kenteken    : 
+      Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : R12
       Kenteken    : 
@@ -6242,7 +6232,7 @@
       Roepnummer  : T12
       Kenteken    : 1-JUH-619
 
-  >> 'T13'  (5x)
+  >> 'T13'  (4x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : T13
@@ -6252,10 +6242,6 @@
       Roepnummer  : T13
       Kenteken    : 
       Adres       : Temse
-      Hulpdienst  : Brandweer
-      Roepnummer  : T13
-      Kenteken    : 
-      Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : T13
       Kenteken    : 
@@ -6406,7 +6392,7 @@
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : T21
-      Kenteken    : 
+      Kenteken    : 1-KJR-632
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : T21
@@ -6424,7 +6410,7 @@
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : T22
-      Kenteken    : 
+      Kenteken    : 1-JXS-368
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : T22
@@ -6980,7 +6966,7 @@
       Adres       : Etalle
       Hulpdienst  : Brandweer
       Roepnummer  : V107
-      Kenteken    : 
+      Kenteken    : 1-WQX-292
 
   >> 'V109'  (3x)
       Adres       : Middelkerke
@@ -7172,11 +7158,21 @@
       Roepnummer  : V422
       Kenteken    : 
 
+  >> 'VC10'  (2x)
+      Adres       : Estaimpuis
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC10
+      Kenteken    : 1-KJR-605
+      Adres       : Mouscron
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC10
+      Kenteken    : 
+
   >> 'VC20'  (2x)
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : VC20
-      Kenteken    : 
+      Kenteken    : 1-LBF-863
       Adres       : Binche
       Hulpdienst  : Brandweer
       Roepnummer  : VC20
