@@ -116,10 +116,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,752  (of 10,119 total)
+  Records checked : 6,754  (of 10,121 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  538 value(s) affected
+  Duplicate Roepnummer  --  540 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -284,6 +284,16 @@
       Adres       : Virton
       Hulpdienst  : Brandweer
       Roepnummer  : 4
+      Kenteken    : 
+
+  >> '419 511'  (2x)
+      Adres       : Expo
+      Hulpdienst  : Brandweer
+      Roepnummer  : 419 511
+      Kenteken    : 1-GYR-131
+      Adres       : Expo
+      Hulpdienst  : Brandweer
+      Roepnummer  : 419 511
       Kenteken    : 
 
   >> '460102'  (3x)
@@ -7411,6 +7421,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : VO5
       Kenteken    : 
+
+  >> 'VP643'  (2x)
+      Adres       : Burg-Reuland
+      Hulpdienst  : Brandweer
+      Roepnummer  : VP643
+      Kenteken    : 2-FMV-549
+      Adres       : Eupen
+      Hulpdienst  : Brandweer
+      Roepnummer  : VP643
+      Kenteken    : 1-XMN-546
 
   >> 'W1'  (2x)
       Adres       : Wuustwezel

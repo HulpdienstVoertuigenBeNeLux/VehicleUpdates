@@ -498,6 +498,55 @@
         "Regio": "Luxemburg Zone - Luxemburg",
         "Description": "A309 ZW toegevoegd aan Marche-en-Famenne",
         "Time": "18-10-2026 16:02:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "419 106 HZA toegevoegd aan Expo",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "419 511 (VW) IGS toegevoegd aan Expo",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP618 DB toegevoegd aan Eupen",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP-646 BM toegevoegd aan Eupen",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VC601 CO toegevoegd aan Eupen",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "TG641 HA-KR toegevoegd aan Eupen",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "CTRC602 WTC toegevoegd aan Eupen",
+        "Time": "18-10-2026 23:01:47"
       }
     ],
     "removed": [
@@ -962,6 +1011,48 @@
         "Regio": "West-Vlaanderen Zone - Fluvia",
         "Description": "A309 HZA verwijderd van Kortrijk",
         "Time": "18-10-2026 16:02:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": " HZA verwijderd van Expo",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VS646 STW verwijderd van Eupen",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "C642 TW verwijderd van Eupen",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "D641 SH verwijderd van Eupen",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP624 PM verwijderd van Eupen",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VS645 BM verwijderd van Eupen",
+        "Time": "18-10-2026 23:01:47"
       }
     ],
     "changed": [
@@ -1762,6 +1853,76 @@
         "Regio": "Luxemburg Zone - Luxemburg",
         "Description": "MARCHE: Bijzonderheden van '(Team: PXMARC01A)' naar '(Team: PXMARC01A) Wisselende dienst met PIT Bastogne' aangepast",
         "Time": "18-10-2026 16:02:18"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP643: Adres van 'Burg-Reuland' naar 'Eupen' aangepast",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP643: Afkorting van 'PM' naar 'DB' aangepast",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP643: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Dienstbus' aangepast",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP643: Kenteken van '2-FMV-549' naar '1-XMN-546' aangepast",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "PX641: Kenteken van '' naar '1-CYS-527' aangepast",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "PL642: Kenteken van '' naar '1-JXU-253' aangepast",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "C641: Kenteken van '' naar '1-KBA-412' aangepast",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "V641: Kenteken van '' naar '1-KAV-135' aangepast",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Luik Zone - DG",
+        "Description": "EUPEN 1: Kenteken van '' naar '1-KAN-707' aangepast",
+        "Time": "18-10-2026 23:01:47"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Luik Zone - DG",
+        "Description": "EUPEN 2: Kenteken van '' naar '1-XVT-669' aangepast",
+        "Time": "18-10-2026 23:01:47"
       }
     ]
   },
