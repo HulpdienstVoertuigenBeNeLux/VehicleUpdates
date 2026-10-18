@@ -106795,17 +106795,6 @@
     "last_tenaamstelling_check_date": "2026-10-18",
     "aantal_zitplaatsen": "5"
   },
-  "V-717-TD": {
-    "expiry": "2026-11-19",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [],
-    "last_check_date": "2026-10-11",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-10-16",
-    "last_tenaamstelling_check_date": "2026-10-18",
-    "aantal_zitplaatsen": "2"
-  },
   "VGH-42-G": {
     "expiry": "2027-06-05",
     "checked": true,
@@ -107556,5 +107545,18 @@
     "datum_tenaamstelling_dt": "2023-01-02",
     "last_tenaamstelling_check_date": "2026-10-17",
     "aantal_zitplaatsen": "4"
+  },
+  "JDB-35-D": {
+    "expiry": "2027-09-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "06-717"
+    ],
+    "last_check_date": "2026-10-18",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-09-30",
+    "last_tenaamstelling_check_date": "2026-10-18",
+    "aantal_zitplaatsen": "5"
   }
 }

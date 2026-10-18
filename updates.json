@@ -64,6 +64,13 @@
         "Regio": "Namen Zone - Nage",
         "Description": "A41 ZW toegevoegd aan Éghezée",
         "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "EC17 LW 24 toegevoegd aan Enghien",
+        "Time": "18-10-2026 13:02:02"
       }
     ],
     "removed": [
@@ -108,6 +115,13 @@
         "Regio": "Oost-Vlaanderen Zone - Meetjesland",
         "Description": "A41 HV verwijderd van Aalter",
         "Time": "18-10-2026 00:02:20"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Douane",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": " DB verwijderd van IJmuiden",
+        "Time": "18-10-2026 13:01:54"
       }
     ],
     "changed": [
@@ -348,6 +362,34 @@
         "Regio": "ZB-POL",
         "Description": "P98: Bijzonderheden van '' naar 'Beschikt over beschermende tralies t.b.v. inzet nautische ME.' aangepast",
         "Time": "18-10-2026 09:01:31"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-717: Kenteken van 'ONBEKEND' naar 'JDB-35-D' aangepast",
+        "Time": "18-10-2026 13:01:54"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "L32: Adres van 'Enghien' naar 'Landen' aangepast",
+        "Time": "18-10-2026 13:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "L32: Afkorting van 'LW 24' naar 'HW 32' aangepast",
+        "Time": "18-10-2026 13:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "L32: TypeVoertuig van 'Ladderwagen' naar 'Hoogwerker' aangepast",
+        "Time": "18-10-2026 13:02:02"
       }
     ]
   },
