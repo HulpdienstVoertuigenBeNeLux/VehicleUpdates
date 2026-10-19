@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-20",
+    "added": [],
+    "removed": [],
+    "changed": []
+  },
+  {
     "date": "2026-10-19",
     "added": [
       {
@@ -19617,50 +19623,6 @@
         "Regio": "15 - Haaglanden (VRH)",
         "Description": "15-9686: Bijzonderheden van 'T.b.v. logistiek.' naar '' aangepast",
         "Time": "19-09-2026 21:00:16"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-18",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "ProRail",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "GEEN DB-ICB toegevoegd aan Prorail ICB Eindhoven",
-        "Time": "18-09-2026 13:00:16"
-      }
-    ],
-    "removed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "ProRail",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "GEEN DB-ICB verwijderd van Prorail ICB Eindhoven",
-        "Time": "18-09-2026 13:00:16"
-      }
-    ],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "1 - Groningen (VRG)",
-        "Description": "01-2331: Kenteken van 'BZ-PG-18' naar 'BD-616-V' aangepast",
-        "Time": "18-09-2026 11:00:30"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
-        "Description": "06-3231: Kenteken van '16-BGT-6' naar 'BD-525-V' aangepast",
-        "Time": "18-09-2026 12:00:18"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "19 - Zeeland (VRZ)",
-        "Description": "19-4530: Kenteken van 'BX-SH-49' naar 'BD-579-V' aangepast",
-        "Time": "18-09-2026 18:00:22"
       }
     ]
   }
