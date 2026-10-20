@@ -96,10 +96,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,749  (of 10,116 total)
+  Records checked : 6,751  (of 10,118 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  539 value(s) affected
+  Duplicate Roepnummer  --  538 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -1628,7 +1628,7 @@
       Roepnummer  : B13
       Kenteken    : 2-GRW-965
 
-  >> 'B2'  (2x)
+  >> 'B2'  (3x)
       Adres       : Pelt
       Hulpdienst  : Brandweer
       Roepnummer  : B2
@@ -1637,6 +1637,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : B2
       Kenteken    : 
+      Adres       : Sart-Saint-Laurant
+      Hulpdienst  : Brandweer
+      Roepnummer  : B2
+      Kenteken    : 1-LEX-510
 
   >> 'B21'  (3x)
       Adres       : Leopoldsburg
@@ -2453,10 +2457,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C3
       Kenteken    : 
-      Adres       : Fosses-la-Ville
+      Adres       : Sart-Saint-Laurant
       Hulpdienst  : Brandweer
       Roepnummer  : C3
-      Kenteken    : 
+      Kenteken    : 1-KXF-945
       Adres       : Sambreville
       Hulpdienst  : Brandweer
       Roepnummer  : C3
@@ -3147,16 +3151,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : D41
       Kenteken    : 1-YET-925
-
-  >> 'D7'  (2x)
-      Adres       : Ath
-      Hulpdienst  : Brandweer
-      Roepnummer  : D7
-      Kenteken    : 1-JUG-413
-      Adres       : Fosses-la-Ville
-      Hulpdienst  : Brandweer
-      Roepnummer  : D7
-      Kenteken    : 
 
   >> 'DEURNE'  (2x)
       Adres       : Deurne
@@ -5085,10 +5079,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : P3
       Kenteken    : 
-      Adres       : Fosses-la-Ville
+      Adres       : Sart-Saint-Laurant
       Hulpdienst  : Brandweer
       Roepnummer  : P3
-      Kenteken    : 
+      Kenteken    : 1-KXF-941
 
   >> 'P30'  (2x)
       Adres       : Aarschot
@@ -5266,7 +5260,7 @@
       Roepnummer  : P45
       Kenteken    : 
 
-  >> 'P5'  (4x)
+  >> 'P5'  (3x)
       Adres       : Tienen
       Hulpdienst  : Brandweer
       Roepnummer  : P5
@@ -5276,10 +5270,6 @@
       Roepnummer  : P5
       Kenteken    : 
       Adres       : Ronse
-      Hulpdienst  : Brandweer
-      Roepnummer  : P5
-      Kenteken    : 
-      Adres       : Fosses-la-Ville
       Hulpdienst  : Brandweer
       Roepnummer  : P5
       Kenteken    : 
@@ -5368,7 +5358,7 @@
       Roepnummer  : P83
       Kenteken    : 
 
-  >> 'P9'  (2x)
+  >> 'P9'  (3x)
       Adres       : Londerzeel
       Hulpdienst  : Brandweer
       Roepnummer  : P9
@@ -5377,6 +5367,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : P9
       Kenteken    : 
+      Adres       : Sart-Saint-Laurant
+      Hulpdienst  : Brandweer
+      Roepnummer  : P9
+      Kenteken    : 1-GYR-180
 
   >> 'PC1'  (3x)
       Adres       : Mouscron
@@ -5842,7 +5836,7 @@
       Roepnummer  : S19
       Kenteken    : 
 
-  >> 'S2'  (2x)
+  >> 'S2'  (3x)
       Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : S2
@@ -5851,6 +5845,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S2
       Kenteken    : 
+      Adres       : Sart-Saint-Laurant
+      Hulpdienst  : Brandweer
+      Roepnummer  : S2
+      Kenteken    : 1-LFD-412
 
   >> 'S21'  (2x)
       Adres       : Bilzen-Hoeselt
