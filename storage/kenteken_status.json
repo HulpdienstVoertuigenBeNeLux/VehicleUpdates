@@ -34390,19 +34390,6 @@
     "last_tenaamstelling_check_date": "2026-10-19",
     "aantal_zitplaatsen": "4"
   },
-  "2-KLB-18": {
-    "expiry": "2027-05-30",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "13-0003"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-10-17",
-    "last_tenaamstelling_check_date": "2026-10-19",
-    "aantal_zitplaatsen": "4"
-  },
   "2-KLB-20": {
     "expiry": "2027-03-18",
     "checked": true,
@@ -35131,19 +35118,6 @@
     "last_tenaamstelling_check_date": "2026-10-19",
     "aantal_zitplaatsen": "5"
   },
-  "1-ZHR-35": {
-    "expiry": "2027-02-05",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "13-9402"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-10-14",
-    "last_tenaamstelling_check_date": "2026-10-19",
-    "aantal_zitplaatsen": "5"
-  },
   "HST-46-L": {
     "expiry": "2029-06-30",
     "checked": true,
@@ -35247,19 +35221,6 @@
     "datum_tenaamstelling_dt": "2007-12-20",
     "last_tenaamstelling_check_date": "2026-10-16",
     "aantal_zitplaatsen": "6"
-  },
-  "61-BDL-5": {
-    "expiry": "2026-12-19",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "13-9481"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-10-16",
-    "last_tenaamstelling_check_date": "2026-10-19",
-    "aantal_zitplaatsen": "7"
   },
   "GF-513-J": {
     "expiry": "2027-05-20",
@@ -107571,5 +107532,31 @@
     "datum_tenaamstelling_dt": "2023-12-12",
     "last_tenaamstelling_check_date": "2026-10-19",
     "aantal_zitplaatsen": "4"
+  },
+  "86-BZN-4": {
+    "expiry": "2027-03-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-10-20",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-11-14",
+    "last_tenaamstelling_check_date": "2026-10-20",
+    "aantal_zitplaatsen": "2"
+  },
+  "V-87-NZG": {
+    "expiry": "2029-02-17",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-10-20",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-02-17",
+    "last_tenaamstelling_check_date": "2026-10-20",
+    "aantal_zitplaatsen": "2"
   }
 }

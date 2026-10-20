@@ -1,8 +1,45 @@
 [
   {
     "date": "2026-10-20",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "GEEN CMV Berger toegevoegd aan Leiden",
+        "Time": "20-10-2026 17:02:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rijkswaterstaat",
+        "Regio": "WNN-RWS",
+        "Description": "GEEN (DAT) WIS toegevoegd aan Uitgeest",
+        "Time": "20-10-2026 17:02:21"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-0003 DA verwijderd van Galwin",
+        "Time": "20-10-2026 17:02:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-9402 DA verwijderd van OpleidingsCentrum BOCAS",
+        "Time": "20-10-2026 17:02:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-9481 GM verwijderd van OpleidingsCentrum BOCAS",
+        "Time": "20-10-2026 17:02:21"
+      }
+    ],
     "changed": []
   },
   {

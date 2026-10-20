@@ -3402,5 +3402,44 @@
     "nettomaximumvermogen": "92.00",
     "toerental_geluidsniveau": "3750",
     "uitlaatemissieniveau": "EURO 6 X"
+  },
+  {
+    "kenteken": "1ZHR35",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "4.00",
+    "co2_uitstoot_gecombineerd": "104",
+    "geluidsniveau_rijdend": "67",
+    "geluidsniveau_stationair": "68",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*136/2014W",
+    "nettomaximumvermogen": "81.00",
+    "toerental_geluidsniveau": "2375",
+    "uitlaatemissieniveau": "EURO 6 W",
+    "actieradius_extern_oplaadbaar": "0",
+    "actieradius": "0"
+  },
+  {
+    "kenteken": "2KLB18",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Benzine",
+    "brandstofverbruik_gecombineerd": "4.20",
+    "co2_uitstoot_gecombineerd": "98",
+    "geluidsniveau_rijdend": "71",
+    "geluidsniveau_stationair": "77",
+    "emissiecode_omschrijving": "5",
+    "nettomaximumvermogen": "55.00",
+    "toerental_geluidsniveau": "3750",
+    "uitlaatemissieniveau": "EURO 5"
+  },
+  {
+    "kenteken": "61BDL5",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*64/2012A",
+    "nettomaximumvermogen": "120.00",
+    "uitlaatemissieniveau": "EURO VI A",
+    "co2_emissieklasse": "1"
   }
 ]
