@@ -260,6 +260,69 @@
         "Regio": "Namen Zone - Dinaphi",
         "Description": " CO toegevoegd aan Gedinne",
         "Time": "22-10-2026 00:02:38"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "CON.01 COC toegevoegd aan Bilzen-Hoeselt",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "S91 DA toegevoegd aan Genk",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "S92 DA toegevoegd aan Genk",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T39 PM toegevoegd aan Gembloux",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "U34 DMA toegevoegd aan Gembloux",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "Z12 ZW toegevoegd aan Genk",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "Z91 ZW toegevoegd aan Genk",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "Z61 ZW toegevoegd aan Maasmechelen",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "Z51 ZW toegevoegd aan Maaseik",
+        "Time": "22-10-2026 11:02:02"
       }
     ],
     "removed": [
@@ -283,6 +346,69 @@
         "Regio": "Namen Zone - Dinaphi",
         "Description": " DA verwijderd van Gedinne",
         "Time": "22-10-2026 00:02:38"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "L53 HA-KR verwijderd van Maaseik",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": " IGS-CMIA verwijderd van Geluwe",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "V31 PM verwijderd van Gembloux",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "V32 DA verwijderd van Gembloux",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": " DMA verwijderd van Gembloux",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "GENK 1 ZW verwijderd van Genk",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "GENK 2 ZW verwijderd van Genk",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "MAASMECHELEN ZW verwijderd van Maasmechelen",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "MAASEIK 1 ZW verwijderd van Maaseik",
+        "Time": "22-10-2026 11:02:02"
       }
     ],
     "changed": [
@@ -383,6 +509,237 @@
         "Regio": "Antwerpen Zone - Kempen",
         "Description": "GEEL 2: Kenteken van '' naar '1-XKK-546' aangepast",
         "Time": "22-10-2026 00:02:38"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "E11: Adres van 'Namur' naar 'Gembloux' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "E11: Afkorting van 'LW 30' naar 'LW' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "E11: Kenteken van '' naar '2-EWH-336' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "E11: Bijzonderheden van '' naar 'Lengte: 32 meter.' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "L51: Adres van 'Bilzen-Hoeselt' naar 'Maaseik' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "L51: Afkorting van 'PM' naar 'HA-KR' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "L51: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Haakarmvoertuig (Met kraan)' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "L51: Kenteken van '1-KVY-142' naar '' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T31: Afkorting van 'HV' naar 'DB' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T31: TypeVoertuig van 'Hulpverleningsvoertuig' naar 'Dienstbus' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T31: Kenteken van '' naar '1-PCB-222' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "B31: Kenteken van '' naar '1-PCB-644' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "C33: Adres van 'Gembloux' naar 'Jodoigne' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "P31: Kenteken van '' naar '1-NXC-089' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "C31: Kenteken van '' naar '1-NXB-670' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "C32: Adres van 'Gembloux' naar 'Jodoigne' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V39: Adres van 'Héliport' naar 'Gembloux' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V39: Afkorting van 'DA' naar 'DB' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V39: TypeVoertuig van 'Dienstauto' naar 'Dienstbus' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V39: Kenteken van '' naar '1-PCB-573' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T32: Adres van 'Gembloux' naar 'Jodoigne' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T32: Afkorting van 'PM' naar 'HV' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "T32: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Hulpverleningsvoertuig' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "E31: Adres van 'Gembloux' naar 'Jodoigne' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "R31: Kenteken van '' naar '1-PCB-553' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "D31: Kenteken van '' naar '1-YET-927' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "L429: Adres van 'Mesen' naar 'Geluwe' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "L429: Kenteken van '1-GYP-500' naar '1-RDU-131' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "L477: Kenteken van '' naar '2-FEQ-242' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "U33: Afkorting van 'BMA' naar 'BU-VN' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "U33: TypeVoertuig van 'Bijzondere Materialen Aanhanger' naar 'Bijzondere uitrusting ventilator' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Namen Zone - Nage",
+        "Description": "GEMBLOUX 1: Kenteken van '' naar '2-GMX-662' aangepast",
+        "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Namen Zone - Nage",
+        "Description": "GEMBLOUX 2: Kenteken van '' naar '1-VWY-943' aangepast",
+        "Time": "22-10-2026 11:02:02"
       }
     ]
   },
