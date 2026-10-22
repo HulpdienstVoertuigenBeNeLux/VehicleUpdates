@@ -5,10 +5,10 @@
 ----------------------------------------------------------------------------------------
   Brandweer
 ----------------------------------------------------------------------------------------
-  HulpdienstvoertuigenBenelux : 5748
+  HulpdienstvoertuigenBenelux : 5750
   RDW inrichting dataset      : 2588
-  Missing in RDW              : 3568
-  Extra in RDW                : 408
+  Missing in RDW              : 3571
+  Extra in RDW                : 409
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
   - 0022YK
@@ -1049,6 +1049,7 @@
   - BD206K
   - BD282G
   - BD283G
+  - BD422Z
   - BD431N
   - BD433J
   - BD509R
@@ -1060,7 +1061,9 @@
   - BD662R
   - BD663R
   - BD668G
+  - BD673Z
   - BD676T
+  - BD677Z
   - BD682G
   - BD685G
   - BD686G
@@ -3591,6 +3594,7 @@
   - 08BZJ3
   - 10BHD6
   - 12BZL3
+  - 13BGT6
   - 14BZL3
   - 15BDJ8
   - 15BGT6
@@ -3680,7 +3684,6 @@
   - BD203K
   - BD242V
   - BD273V
-  - BD351Z
   - BD394X
   - BD414X
   - BD443J
@@ -3855,6 +3858,7 @@
   - BVBB81
   - BVDH91
   - BVFD19
+  - BVFL78
   - BVFR38
   - BVFX62
   - BVPB74
