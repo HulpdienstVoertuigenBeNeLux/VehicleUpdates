@@ -91150,7 +91150,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "Medic 2"
+      "Medic 1"
     ],
     "last_check_date": "2026-10-16",
     "last_expired_notification_date": null,
@@ -91162,7 +91162,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "Medic 1"
+      "Medic 2"
     ],
     "last_check_date": "2026-10-16",
     "last_expired_notification_date": null,
@@ -91174,7 +91174,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "13-991"
+      "GEEN"
     ],
     "last_check_date": "2026-10-16",
     "last_expired_notification_date": null,
@@ -100954,7 +100954,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "GEEN"
+      "13-991"
     ],
     "last_check_date": "2026-10-20",
     "last_expired_notification_date": null,
@@ -107558,5 +107558,31 @@
     "datum_tenaamstelling_dt": "2026-02-17",
     "last_tenaamstelling_check_date": "2026-10-20",
     "aantal_zitplaatsen": "2"
+  },
+  "X-332-PN": {
+    "expiry": "2028-12-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "12-8091"
+    ],
+    "last_check_date": "2026-10-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-12-30",
+    "last_tenaamstelling_check_date": "2026-10-22",
+    "aantal_zitplaatsen": "5"
+  },
+  "GXF-26-L": {
+    "expiry": "2029-01-15",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "19-8593"
+    ],
+    "last_check_date": "2026-10-22",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-01-15",
+    "last_tenaamstelling_check_date": "2026-10-22",
+    "aantal_zitplaatsen": "5"
   }
 }

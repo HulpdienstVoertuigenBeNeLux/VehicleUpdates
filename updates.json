@@ -323,6 +323,13 @@
         "Regio": "Limburg Zone - Oost",
         "Description": "Z51 ZW toegevoegd aan Maaseik",
         "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "GEEN MMTL toegevoegd aan Lelystad Airport",
+        "Time": "22-10-2026 12:01:50"
       }
     ],
     "removed": [
@@ -409,6 +416,13 @@
         "Regio": "Limburg Zone - Oost",
         "Description": "MAASEIK 1 ZW verwijderd van Maaseik",
         "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-8194 DA verwijderd van Emmen",
+        "Time": "22-10-2026 12:01:50"
       }
     ],
     "changed": [
@@ -740,6 +754,62 @@
         "Regio": "Namen Zone - Nage",
         "Description": "GEMBLOUX 2: Kenteken van '' naar '1-VWY-943' aangepast",
         "Time": "22-10-2026 11:02:02"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-991: Kenteken van 'PH-TTR' naar 'PH-HLP' aangepast",
+        "Time": "22-10-2026 12:01:50"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "Medic 1: Kenteken van 'PH-OOP' naar 'PH-HOW' aangepast",
+        "Time": "22-10-2026 12:01:50"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "Medic 2: Kenteken van 'PH-HOW' naar 'PH-OOP' aangepast",
+        "Time": "22-10-2026 12:01:50"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "12-8091: Kenteken van 'Onbekend' naar 'X-332-PN' aangepast",
+        "Time": "22-10-2026 12:01:50"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-8593: Kenteken van 'ONBEKEND' naar 'GXF-26-L' aangepast",
+        "Time": "22-10-2026 12:01:50"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "GEEN: Adres van 'Lelystad Airport' naar 'Heliport Amsterdam' aangepast",
+        "Time": "22-10-2026 12:01:50"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "'GEEN' omgenummerd naar '13-991'",
+        "Time": "22-10-2026 12:01:50"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "GEEN: Bijzonderheden van 'Reserveluchtvaartuig.' naar 'Lifeliner 1.' aangepast",
+        "Time": "22-10-2026 12:01:50"
       }
     ]
   },
