@@ -98401,19 +98401,6 @@
     "last_tenaamstelling_check_date": "2026-10-23",
     "aantal_zitplaatsen": null
   },
-  "J-706-XR": {
-    "expiry": "2026-12-03",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-151"
-    ],
-    "last_check_date": "2026-07-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-10-19",
-    "last_tenaamstelling_check_date": "2026-10-23",
-    "aantal_zitplaatsen": "4"
-  },
   "KNX-71-T": {
     "expiry": "2027-07-09",
     "checked": true,
@@ -107610,5 +107597,18 @@
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-10-23",
     "aantal_zitplaatsen": "2"
+  },
+  "KNX-48-T": {
+    "expiry": "2027-10-13",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "04-151"
+    ],
+    "last_check_date": "2026-10-23",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-10-13",
+    "last_tenaamstelling_check_date": "2026-10-23",
+    "aantal_zitplaatsen": "4"
   }
 }
