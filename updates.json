@@ -1,8 +1,31 @@
 [
   {
     "date": "2026-10-23",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN BMH-OTO toegevoegd aan Utrecht Leidsche Rijn",
+        "Time": "23-10-2026 23:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5301 DA toegevoegd aan ROC Waalre",
+        "Time": "23-10-2026 23:02:05"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "22-5301 DA verwijderd van ROC Waalre",
+        "Time": "23-10-2026 23:02:05"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -59,6 +82,83 @@
         "Regio": "8 - Gelderland-Zuid (VRGZ)",
         "Description": "08-9038: Bijzonderheden van '' naar 'T.b.v vakbekwaamheid' aangepast",
         "Time": "23-10-2026 21:01:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-48OMA: Afkorting van 'BMH-OTO' naar 'BMA-OTO' aangepast",
+        "Time": "23-10-2026 23:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5285: Bijzonderheden van 'T.b.v Jeugdbrandweer' naar 'T.b.v Jeugdbrandweer.' aangepast",
+        "Time": "23-10-2026 23:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5386: Bijzonderheden van 'Oefen tank.' naar 'Tank op haakarmbak t.b.v. IBGS oefeningen.' aangepast",
+        "Time": "23-10-2026 23:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "GEEN: Bijzonderheden van 'T.b.v Brandveilig Leven' naar 'T.b.v. brandveilig leven.' aangepast",
+        "Time": "23-10-2026 23:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "23-0091: Bijzonderheden van 'OVD-BZ Cluster Venray' naar 'OVD-BZ Cluster Venray.' aangepast",
+        "Time": "23-10-2026 23:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28 - Defensie",
+        "Description": "28-6489: Bijzonderheden van 'IBGS oefenhaakarmbak.' naar 'Tank op haakarmbak t.b.v. IBGS oefeningen.' aangepast",
+        "Time": "23-10-2026 23:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28 - Defensie",
+        "Description": "D-474: Bijzonderheden van 'T.b.v Opleiding in Amerika' naar 'T.b.v. opleiding in Amerika.' aangepast",
+        "Time": "23-10-2026 23:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28 - Defensie",
+        "Description": "D-475: Bijzonderheden van 'T.b.v Opleiding in Amerika' naar 'T.b.v. opleiding in Amerika.' aangepast",
+        "Time": "23-10-2026 23:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28 - Defensie",
+        "Description": "D-476: Bijzonderheden van 'T.b.v Opleiding in Amerika' naar 'T.b.v. opleiding in Amerika.' aangepast",
+        "Time": "23-10-2026 23:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28 - Defensie",
+        "Description": "D-477: Bijzonderheden van 'T.b.v Opleiding in Amerika' naar 'T.b.v. opleiding in Amerika.' aangepast",
+        "Time": "23-10-2026 23:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28 - Defensie",
+        "Description": "D-478: Bijzonderheden van 'T.b.v Opleiding in Amerika' naar 'T.b.v. opleiding in Amerika.' aangepast",
+        "Time": "23-10-2026 23:02:05"
       }
     ]
   },
