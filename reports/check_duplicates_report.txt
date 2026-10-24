@@ -96,10 +96,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,742  (of 10,118 total)
+  Records checked : 6,744  (of 10,124 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  537 value(s) affected
+  Duplicate Roepnummer  --  536 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -120,16 +120,6 @@
       Adres       : Wetteren
       Hulpdienst  : Brandweer
       Roepnummer  : 10
-      Kenteken    : 
-
-  >> '104000'  (2x)
-      Adres       : Merksem
-      Hulpdienst  : Ambulance
-      Roepnummer  : 104000
-      Kenteken    : 2-GCL-615
-      Adres       : Brasschaat
-      Hulpdienst  : Ambulance
-      Roepnummer  : 104000
       Kenteken    : 
 
   >> '14'  (2x)
@@ -1300,11 +1290,11 @@
       Adres       : Antwerpen
       Hulpdienst  : Ambulance
       Roepnummer  : ANTW CADIX
-      Kenteken    : 2-GCN-215
+      Kenteken    : 
       Adres       : Antwerpen
       Hulpdienst  : Ambulance
       Roepnummer  : ANTW CADIX
-      Kenteken    : 
+      Kenteken    : 2-GCN-215
 
   >> 'ANTW VINCENTIUS'  (2x)
       Adres       : Antwerpen
