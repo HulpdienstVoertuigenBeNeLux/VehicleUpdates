@@ -17777,13 +17777,6 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
-    "kenteken": "BD065B",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "BD004T",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -17838,6 +17831,13 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "31",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
+  },
+  {
+    "kenteken": "BD065B",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "BD077G",
@@ -36379,6 +36379,10 @@
   },
   {
     "kenteken": "V949VV",
+    "no_data": true
+  },
+  {
+    "kenteken": "V94NSH",
     "no_data": true
   },
   {
