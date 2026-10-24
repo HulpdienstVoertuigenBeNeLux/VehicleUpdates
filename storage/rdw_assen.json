@@ -50833,6 +50833,27 @@
     "technisch_toegestane_maximum_aslast": "1000"
   },
   {
+    "kenteken": "94WGP6",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "wettelijk_toegestane_maximum_aslast": "1750",
+    "technisch_toegestane_maximum_aslast": "1750",
+    "afstand_tot_volgende_as_voertuig": "75"
+  },
+  {
+    "kenteken": "94WGP6",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "wettelijk_toegestane_maximum_aslast": "1750",
+    "technisch_toegestane_maximum_aslast": "1750"
+  },
+  {
     "kenteken": "94BBP8",
     "as_nummer": "1",
     "aantal_assen": "3",
@@ -133895,27 +133916,6 @@
     "no_data": true
   },
   {
-    "kenteken": "V94NSH",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "plaatscode_as": "V",
-    "spoorbreedte": "162",
-    "wettelijk_toegestane_maximum_aslast": "1490",
-    "technisch_toegestane_maximum_aslast": "1490",
-    "afstand_tot_volgende_as_voertuig": "327"
-  },
-  {
-    "kenteken": "V94NSH",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "plaatscode_as": "A",
-    "spoorbreedte": "162",
-    "wettelijk_toegestane_maximum_aslast": "1959",
-    "technisch_toegestane_maximum_aslast": "1959"
-  },
-  {
     "kenteken": "V018FN",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -140180,6 +140180,27 @@
     "spoorbreedte": "165",
     "wettelijk_toegestane_maximum_aslast": "1750",
     "technisch_toegestane_maximum_aslast": "1750"
+  },
+  {
+    "kenteken": "V94NSH",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "162",
+    "wettelijk_toegestane_maximum_aslast": "1490",
+    "technisch_toegestane_maximum_aslast": "1490",
+    "afstand_tot_volgende_as_voertuig": "327"
+  },
+  {
+    "kenteken": "V94NSH",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "A",
+    "spoorbreedte": "162",
+    "wettelijk_toegestane_maximum_aslast": "1959",
+    "technisch_toegestane_maximum_aslast": "1959"
   },
   {
     "kenteken": "V951PR",
