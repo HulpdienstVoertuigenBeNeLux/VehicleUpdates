@@ -169,6 +169,27 @@
         "Regio": "14 - Gooi en Vechtstreek (VRGV)",
         "Description": "14-7186 HA toegevoegd aan Hilversum",
         "Time": "25-10-2026 20:01:39"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "11 - Zaanstreek-Waterland (VRZW)",
+        "Description": "11-8083 PM toegevoegd aan Zaandam Oost",
+        "Time": "25-10-2026 22:02:29"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "11 - Zaanstreek-Waterland (VRZW)",
+        "Description": "11-9060 MSA toegevoegd aan Oosthuizen",
+        "Time": "25-10-2026 22:02:29"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "GEEN MFT-VER toegevoegd aan Hilversum",
+        "Time": "25-10-2026 22:02:29"
       }
     ],
     "removed": [
@@ -241,6 +262,13 @@
         "Regio": "14 - Gooi en Vechtstreek (VRGV)",
         "Description": "14-7186 HA verwijderd van Hilversum",
         "Time": "25-10-2026 20:01:39"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN LO verwijderd van Hilversum",
+        "Time": "25-10-2026 22:02:29"
       }
     ],
     "changed": [

@@ -23004,28 +23004,6 @@
     "technisch_toegestane_maximum_aslast": "1600"
   },
   {
-    "kenteken": "43BVL7",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "wettelijk_toegestane_maximum_aslast": "3400",
-    "technisch_toegestane_maximum_aslast": "3700",
-    "afstand_tot_volgende_as_voertuig": "420"
-  },
-  {
-    "kenteken": "43BVL7",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "weggedrag_code": "G",
-    "wettelijk_toegestane_maximum_aslast": "5200",
-    "technisch_toegestane_maximum_aslast": "5200"
-  },
-  {
     "kenteken": "43BBF6",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -23228,6 +23206,28 @@
     "weggedrag_code": "G",
     "wettelijk_toegestane_maximum_aslast": "10500",
     "technisch_toegestane_maximum_aslast": "10500"
+  },
+  {
+    "kenteken": "43BVL7",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "3400",
+    "technisch_toegestane_maximum_aslast": "3700",
+    "afstand_tot_volgende_as_voertuig": "420"
+  },
+  {
+    "kenteken": "43BVL7",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "5200",
+    "technisch_toegestane_maximum_aslast": "5200"
   },
   {
     "kenteken": "43BXH5",
@@ -123735,6 +123735,24 @@
     "spoorbreedte": "153",
     "wettelijk_toegestane_maximum_aslast": "1090",
     "technisch_toegestane_maximum_aslast": "1090"
+  },
+  {
+    "kenteken": "RD613D",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "plaatscode_as": "V",
+    "spoorbreedte": "171",
+    "wettelijk_toegestane_maximum_aslast": "1860",
+    "technisch_toegestane_maximum_aslast": "1860"
+  },
+  {
+    "kenteken": "RD613D",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "plaatscode_as": "A",
+    "spoorbreedte": "172",
+    "wettelijk_toegestane_maximum_aslast": "2250",
+    "technisch_toegestane_maximum_aslast": "2250"
   },
   {
     "kenteken": "RD065N",
