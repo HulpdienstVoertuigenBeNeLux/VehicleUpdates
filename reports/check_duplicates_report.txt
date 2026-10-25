@@ -96,10 +96,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,744  (of 10,124 total)
+  Records checked : 6,745  (of 10,125 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  536 value(s) affected
+  Duplicate Roepnummer  --  538 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -164,7 +164,7 @@
       Adres       : Aalst
       Hulpdienst  : Ambulance
       Roepnummer  : 205000
-      Kenteken    : 
+      Kenteken    : 2-BQR-790
 
   >> '21'  (2x)
       Adres       : Ranst
@@ -232,6 +232,16 @@
       Roepnummer  : 4
       Kenteken    : 
 
+  >> '460101'  (2x)
+      Adres       : Aalst
+      Hulpdienst  : Brandweer
+      Roepnummer  : 460101
+      Kenteken    : 1-DYT-915
+      Adres       : Geraardsbergen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 460101
+      Kenteken    : 1-CYA-770
+
   >> '460102'  (3x)
       Adres       : Aalst
       Hulpdienst  : Brandweer
@@ -255,6 +265,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : 460602
       Kenteken    : 1-KCV-132
+
+  >> '469401'  (2x)
+      Adres       : Denderleeuw
+      Hulpdienst  : Brandweer
+      Roepnummer  : 469401
+      Kenteken    : 1-SBD-311
+      Adres       : Geraardsbergen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 469401
+      Kenteken    : 1-JUT-741
 
   >> '5'  (4x)
       Adres       : Wommelgem
@@ -608,7 +628,7 @@
       Adres       : Gistel
       Hulpdienst  : Brandweer
       Roepnummer  : A114
-      Kenteken    : 
+      Kenteken    : 1-JNP-284
       Adres       : Virton
       Hulpdienst  : Ambulance
       Roepnummer  : A114
@@ -622,7 +642,7 @@
       Adres       : Gistel
       Hulpdienst  : Brandweer
       Roepnummer  : A115
-      Kenteken    : 
+      Kenteken    : 1-JNP-274
       Adres       : Florenville
       Hulpdienst  : Ambulance
       Roepnummer  : A115
@@ -642,16 +662,12 @@
       Roepnummer  : A116
       Kenteken    : 2-GLV-554
 
-  >> 'A117'  (3x)
+  >> 'A117'  (2x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A117
       Kenteken    : 
       Adres       : Gistel
-      Hulpdienst  : Brandweer
-      Roepnummer  : A117
-      Kenteken    : 
-      Adres       : Torhout
       Hulpdienst  : Brandweer
       Roepnummer  : A117
       Kenteken    : 1-JLB-562
@@ -4286,7 +4302,7 @@
       Adres       : Gistel
       Hulpdienst  : Brandweer
       Roepnummer  : M109
-      Kenteken    : 
+      Kenteken    : 1-JNP-229
 
   >> 'M11'  (4x)
       Adres       : Bree
