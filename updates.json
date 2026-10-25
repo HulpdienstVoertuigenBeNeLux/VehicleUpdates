@@ -134,6 +134,20 @@
         "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
         "Description": "GERAARDSBERGEN 2 ZW toegevoegd aan Geraardsbergen",
         "Time": "25-10-2026 11:01:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-111 AMBU-HC toegevoegd aan Houten",
+        "Time": "25-10-2026 19:02:34"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-113 AMBU-HC toegevoegd aan Houten",
+        "Time": "25-10-2026 19:02:34"
       }
     ],
     "removed": [
@@ -185,6 +199,20 @@
         "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
         "Description": "GERAARDSBERGEN ZW verwijderd van Geraardsbergen",
         "Time": "25-10-2026 11:01:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-9963 SLH-GW verwijderd van Amstelveen",
+        "Time": "25-10-2026 19:02:34"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "ONBEKEND LOH verwijderd van Amstelveen",
+        "Time": "25-10-2026 19:02:34"
       }
     ],
     "changed": [
@@ -376,6 +404,55 @@
         "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
         "Description": "18-86: Bijzonderheden van 'Bevat divers oefenmateriaal.' naar 'Autoambulance.' aangepast",
         "Time": "25-10-2026 16:02:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-48OMA: TypeVoertuig van 'Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen' naar 'Bijzonder materieel aanhanger t.b.v. opleiding, training en oefenen' aangepast",
+        "Time": "25-10-2026 19:02:34"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-8096: TypeVoertuig van 'Algemeen commandant brandweer' naar 'Algemeen commandant Brandweer' aangepast",
+        "Time": "25-10-2026 19:02:34"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-9995: TypeVoertuig van 'Algemeen commandant brandweer' naar 'Algemeen commandant Brandweer' aangepast",
+        "Time": "25-10-2026 19:02:34"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "10-6690: TypeVoertuig van 'Algemeen commandant brandweer' naar 'Algemeen commandant Brandweer' aangepast",
+        "Time": "25-10-2026 19:02:34"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "12-9284 / B17: TypeVoertuig van '' naar 'Hulpverleningsvoertuig' aangepast",
+        "Time": "25-10-2026 19:02:34"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-7085: TypeVoertuig van 'Logistiek' naar 'Logistiek voertuig' aangepast",
+        "Time": "25-10-2026 19:02:34"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9799: TypeVoertuig van 'Algemeen commandant brandweer' naar 'Commandant Brandweer' aangepast",
+        "Time": "25-10-2026 19:02:34"
       }
     ]
   },

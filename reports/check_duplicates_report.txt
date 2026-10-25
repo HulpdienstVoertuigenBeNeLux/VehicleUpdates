@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,078  (of 17,270 total)
+  Records checked : 11,082  (of 17,274 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  5 value(s) affected
+  Duplicate Roepnummer  --  7 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -44,6 +44,16 @@
       Roepnummer  : 08-151 of 08-152
       Kenteken    : ZH-127-F
 
+  >> '09-111'  (2x)
+      Adres       : Houten
+      Hulpdienst  : Ambulance
+      Roepnummer  : 09-111
+      Kenteken    : KZJ-73-F
+      Adres       : Houten
+      Hulpdienst  : Ambulance
+      Roepnummer  : 09-111
+      Kenteken    : 
+
   >> '1'  (3x)
       Adres       : Eelde Airport
       Hulpdienst  : Brandweer
@@ -57,6 +67,20 @@
       Hulpdienst  : Ambulance
       Roepnummer  : 1
       Kenteken    : ONBEKEND
+
+  >> '13-9386'  (3x)
+      Adres       : Amstelveen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 13-9386
+      Kenteken    : GEEN
+      Adres       : Amstelveen
+      Hulpdienst  : Brandweer
+      Roepnummer  : 13-9386
+      Kenteken    : GEEN
+      Adres       : Galwin
+      Hulpdienst  : Brandweer
+      Roepnummer  : 13-9386
+      Kenteken    : VSL-30-S
 
   >> '17-9383'  (2x)
       Adres       : Vakbekwaamheid/Breevaartstraat
@@ -96,10 +120,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,745  (of 10,125 total)
+  Records checked : 6,746  (of 10,126 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  538 value(s) affected
+  Duplicate Roepnummer  --  539 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -941,6 +965,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A23
       Kenteken    : 
+
+  >> 'A24'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A24
+      Kenteken    : 
+      Adres       : Herd-de-Stad
+      Hulpdienst  : Brandweer
+      Roepnummer  : A24
+      Kenteken    : 1-DYG-185
 
   >> 'A25'  (3x)
       Adres       : Antwerpen-Noord
