@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,082  (of 17,273 total)
+  Records checked : 11,083  (of 17,274 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  6 value(s) affected
+  Duplicate Roepnummer  --  7 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -57,6 +57,16 @@
       Hulpdienst  : Ambulance
       Roepnummer  : 1
       Kenteken    : ONBEKEND
+
+  >> '11-0382'  (2x)
+      Adres       : Wormerveer
+      Hulpdienst  : Brandweer
+      Roepnummer  : 11-0382
+      Kenteken    : GEEN
+      Adres       : Zaandam Oost
+      Hulpdienst  : Brandweer
+      Roepnummer  : 11-0382
+      Kenteken    : GEEN
 
   >> '13-9386'  (2x)
       Adres       : Amstelveen

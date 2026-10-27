@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-10-28",
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "11 - Zaanstreek-Waterland (VRZW)",
+        "Description": "11-0382: Adres van 'Wormerveer' naar 'Zaandam Oost' aangepast",
+        "Time": "28-10-2026 00:01:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "11 - Zaanstreek-Waterland (VRZW)",
+        "Description": "11-0382: Afkorting van 'BMH-KR' naar 'LOH-KR' aangepast",
+        "Time": "28-10-2026 00:01:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "11 - Zaanstreek-Waterland (VRZW)",
+        "Description": "11-0382: TypeVoertuig van 'Bijzonder materieel haakarmbak kraanvoertuig' naar 'Logistiek haakarmbak met kraan' aangepast",
+        "Time": "28-10-2026 00:01:40"
+      }
+    ]
+  },
+  {
     "date": "2026-10-27",
     "added": [],
     "removed": [],
@@ -19779,125 +19807,5 @@
     "added": [],
     "removed": [],
     "changed": []
-  },
-  {
-    "date": "2026-09-26",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
-        "Description": "10-5933 TS-BB toegevoegd aan Cocksdorp",
-        "Time": "26-09-2026 19:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
-        "Description": "10-5961 SB-BB toegevoegd aan Cocksdorp",
-        "Time": "26-09-2026 19:00:16"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "West-Vlaanderen",
-        "Description": " PIT toegevoegd aan Diksmuide",
-        "Time": "26-09-2026 21:00:35"
-      }
-    ],
-    "removed": [],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
-        "Description": "10-6301: Afkorting van 'DB' naar 'DB-BB' aangepast",
-        "Time": "26-09-2026 19:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
-        "Description": "10-6301: TypeVoertuig van 'Dienstbus' naar 'Dienstbus bedrijfsbrandweer' aangepast",
-        "Time": "26-09-2026 19:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
-        "Description": "10-6331: Afkorting van 'TS' naar 'TS-BB' aangepast",
-        "Time": "26-09-2026 19:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
-        "Description": "10-6331: TypeVoertuig van 'Tankautospuit' naar 'Tankautospuit bedrijfsbrandweer' aangepast",
-        "Time": "26-09-2026 19:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
-        "Description": "10-6332: Afkorting van 'TS' naar 'TS-BB' aangepast",
-        "Time": "26-09-2026 19:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
-        "Description": "10-6332: TypeVoertuig van 'Tankautospuit' naar 'Tankautospuit bedrijfsbrandweer' aangepast",
-        "Time": "26-09-2026 19:00:16"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "15 - Haaglanden (VRH)",
-        "Description": "15-5680: Kenteken van 'BX-VF-92' naar '77-BHT-3' aangepast",
-        "Time": "26-09-2026 21:00:18"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "15 - Haaglanden (VRH)",
-        "Description": "15-6680: Kenteken van 'BX-HB-47' naar 'ONBEKEND' aangepast",
-        "Time": "26-09-2026 21:00:18"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "15 - Haaglanden (VRH)",
-        "Description": "15-9680: Kenteken van '77-BHT-3' naar 'ONBEKEND' aangepast",
-        "Time": "26-09-2026 21:00:18"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "15 - Haaglanden (VRH)",
-        "Description": "'15-9681' omgenummerd naar '15-9781'",
-        "Time": "26-09-2026 21:00:18"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Antwerpen",
-        "Description": "A79: Afkorting van 'DW-KR' naar 'DW' aangepast",
-        "Time": "26-09-2026 21:00:35"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Antwerpen",
-        "Description": "A79: TypeVoertuig van 'Duiker/Bootwagen (met kraan)' naar 'Duiker/Bootwagen' aangepast",
-        "Time": "26-09-2026 21:00:35"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "West-Vlaanderen",
-        "Description": "Diksmuide: Kenteken van '' naar '2-HUH-377' aangepast",
-        "Time": "26-09-2026 21:00:35"
-      }
-    ]
   }
 ]
