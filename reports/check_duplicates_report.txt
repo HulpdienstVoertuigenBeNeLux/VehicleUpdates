@@ -106,10 +106,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,746  (of 10,126 total)
+  Records checked : 6,745  (of 10,125 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  539 value(s) affected
+  Duplicate Roepnummer  --  542 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -4222,6 +4222,16 @@
       Roepnummer  : L52
       Kenteken    : 
 
+  >> 'L532'  (2x)
+      Adres       : Grobbendonk
+      Hulpdienst  : Brandweer
+      Roepnummer  : L532
+      Kenteken    : 1-JTB-397
+      Adres       : Grobbendonk
+      Hulpdienst  : Brandweer
+      Roepnummer  : L532
+      Kenteken    : 1-JRT-900
+
   >> 'L61'  (2x)
       Adres       : Maasmechelen
       Hulpdienst  : Brandweer
@@ -4890,6 +4900,16 @@
       Roepnummer  : P20
       Kenteken    : 
 
+  >> 'P201'  (2x)
+      Adres       : Liège
+      Hulpdienst  : Brandweer
+      Roepnummer  : P201
+      Kenteken    : 1-FYT-590
+      Adres       : Arlon
+      Hulpdienst  : Brandweer
+      Roepnummer  : P201
+      Kenteken    : 1-KHN-589
+
   >> 'P202'  (2x)
       Adres       : Flemalle
       Hulpdienst  : Brandweer
@@ -4924,7 +4944,7 @@
       Adres       : Grivegnée
       Hulpdienst  : Brandweer
       Roepnummer  : P209
-      Kenteken    : 
+      Kenteken    : 1-FQC-991
       Adres       : Marche-en-Famenne
       Hulpdienst  : Brandweer
       Roepnummer  : P209
@@ -4947,6 +4967,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : P21
       Kenteken    : 1-CYC-893
+
+  >> 'P210'  (2x)
+      Adres       : Grâce-Hollogne
+      Hulpdienst  : Brandweer
+      Roepnummer  : P210
+      Kenteken    : 1-FYT-294
+      Adres       : Neufchâteau
+      Hulpdienst  : Brandweer
+      Roepnummer  : P210
+      Kenteken    : 
 
   >> 'P22'  (3x)
       Adres       : Diest
@@ -7375,8 +7405,28 @@
       Kenteken    : 2-DAW-513
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  2 value(s) affected
+  Duplicate Kenteken  --  4 value(s) affected
 --------------------------------------------------------------------------------
+
+  >> '1-JRT-900'  (2x)
+      Adres       : Grobbendonk
+      Hulpdienst  : Brandweer
+      Roepnummer  : L532
+      Kenteken    : 1-JRT-900
+      Adres       : Grobbendonk
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : 1-JRT-900
+
+  >> '1-JTB-397'  (2x)
+      Adres       : Grobbendonk
+      Hulpdienst  : Brandweer
+      Roepnummer  : L531
+      Kenteken    : 1-JTB-397
+      Adres       : Grobbendonk
+      Hulpdienst  : Brandweer
+      Roepnummer  : L532
+      Kenteken    : 1-JTB-397
 
   >> '1-NPS-154'  (2x)
       Adres       : Kortemark

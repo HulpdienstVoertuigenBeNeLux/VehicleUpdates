@@ -13871,7 +13871,7 @@
       "Brandweer",
       "Antwerpen Zone - Kempen",
       "",
-      "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/C12-unknown.webp",
+      "",
       "",
       "VEH-037-POST-062"
     ],
@@ -14117,26 +14117,11 @@
     ],
     [
       "Grobbendonk",
-      "",
-      "LA",
-      "Lichte Autopomp",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Antwerpen Zone - Kempen",
-      "",
-      "",
-      "",
-      "VEH-002-POST-063"
-    ],
-    [
-      "Grobbendonk",
-      "",
-      "HZA",
-      "Halfzware Autopomp",
-      "",
-      "",
+      "H531",
+      "LW",
+      "Ladderwagen",
+      "1-JRS-900",
+      "Lengte: 30 meter.",
       "",
       "Brandweer",
       "Antwerpen Zone - Kempen",
@@ -14147,10 +14132,10 @@
     ],
     [
       "Grobbendonk",
-      "",
-      "LW 30",
-      "Ladderwagen",
-      "",
+      "M531",
+      "SH",
+      "Snelle Hulpwagen",
+      "1-JRT-010",
       "",
       "",
       "Brandweer",
@@ -14162,10 +14147,10 @@
     ],
     [
       "Grobbendonk",
-      "",
-      "SH",
-      "Snelle Hulpwagen",
-      "",
+      "R531",
+      "HV",
+      "Hulpverleningsvoertuig",
+      "1-JRT-454",
       "",
       "",
       "Brandweer",
@@ -14177,10 +14162,10 @@
     ],
     [
       "Grobbendonk",
-      "",
-      "HV",
-      "Hulpverleningsvoertuig",
-      "",
+      "S531",
+      "DAT",
+      "Dienstauto Terreinvaardig",
+      "1-JTB-334",
       "",
       "",
       "Brandweer",
@@ -14192,10 +14177,10 @@
     ],
     [
       "Grobbendonk",
-      "",
-      "PM",
-      "Personeel / Materiaal Voertuig",
-      "",
+      "L531",
+      "SIG",
+      "Signalisatievoertuig",
+      "1-JTB-397",
       "",
       "",
       "Brandweer",
@@ -14207,10 +14192,10 @@
     ],
     [
       "Grobbendonk",
-      "",
-      "PM",
-      "Personeel / Materiaal Voertuig",
-      "",
+      "L532",
+      "SIG",
+      "Signalisatievoertuig",
+      "1-JTB-397",
       "",
       "",
       "Brandweer",
@@ -14222,10 +14207,10 @@
     ],
     [
       "Grobbendonk",
-      "",
-      "CO",
-      "Commandovoertuig",
-      "",
+      "L533",
+      "(VW) IGS",
+      "Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )",
+      "1-JTB-325",
       "",
       "",
       "Brandweer",
@@ -14237,10 +14222,10 @@
     ],
     [
       "Grobbendonk",
-      "",
-      "SIG",
-      "Signalisatievoertuig",
-      "",
+      "L532",
+      "HA",
+      "Haakarmvoertuig",
+      "1-JRT-900",
       "",
       "",
       "Brandweer",
@@ -14253,9 +14238,9 @@
     [
       "Grobbendonk",
       "",
-      "(VW) IGS",
-      "Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )",
-      "",
+      "HA",
+      "Haakarmvoertuig",
+      "1-JRT-900",
       "",
       "",
       "Brandweer",
@@ -14264,21 +14249,6 @@
       "",
       "",
       "VEH-011-POST-063"
-    ],
-    [
-      "Grobbendonk",
-      "",
-      "HA",
-      "Haakarmvoertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Antwerpen Zone - Kempen",
-      "",
-      "",
-      "",
-      "VEH-012-POST-063"
     ],
     [
       "Grobbendonk",
@@ -14293,7 +14263,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-063"
+      "VEH-012-POST-063"
     ],
     [
       "Grobbendonk",
@@ -14308,13 +14278,28 @@
       "",
       "",
       "",
-      "VEH-014-POST-063"
+      "VEH-013-POST-063"
     ],
     [
       "Grobbendonk",
       "",
       "LBC",
-      "Laadbak Container (met kraan)",
+      "Laadbak Container",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Antwerpen Zone - Kempen",
+      "",
+      "",
+      "",
+      "VEH-014-POST-063"
+    ],
+    [
+      "Grobbendonk",
+      "",
+      "IGS-CMIA",
+      "IGS -CMIC / Milieu Aanhanger",
       "",
       "",
       "",
@@ -14324,21 +14309,6 @@
       "",
       "",
       "VEH-015-POST-063"
-    ],
-    [
-      "Grobbendonk",
-      "",
-      "(A) IGS",
-      "IGS / milieu Aanhanger",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Antwerpen Zone - Kempen",
-      "",
-      "",
-      "",
-      "VEH-016-POST-063"
     ],
     [
       "Grobbendonk",
@@ -14353,7 +14323,7 @@
       "",
       "",
       "",
-      "VEH-017-POST-063"
+      "VEH-016-POST-063"
     ],
     [
       "Grobbendonk",
@@ -14368,7 +14338,7 @@
       "",
       "",
       "",
-      "VEH-018-POST-063"
+      "VEH-017-POST-063"
     ],
     [
       "Grobbendonk",
@@ -14383,7 +14353,7 @@
       "",
       "",
       "",
-      "VEH-019-POST-063"
+      "VEH-018-POST-063"
     ],
     [
       "Grobbendonk",
@@ -14398,7 +14368,7 @@
       "",
       "",
       "",
-      "VEH-020-POST-063"
+      "VEH-019-POST-063"
     ],
     [
       "Grobbendonk",
@@ -14413,7 +14383,7 @@
       "",
       "",
       "",
-      "VEH-021-POST-063"
+      "VEH-020-POST-063"
     ],
     [
       "Grobbendonk",
@@ -14428,7 +14398,7 @@
       "",
       "",
       "",
-      "VEH-022-POST-063"
+      "VEH-021-POST-063"
     ],
     [
       "Herentals - Oud-Strijderslaan 1",
@@ -22766,7 +22736,7 @@
       "Brandweer",
       "Vlaams-Brabant Zone - Oost",
       "",
-      "",
+      "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/C12-unknown.webp",
       "",
       "VEH-013-POST-093"
     ],
@@ -48828,21 +48798,6 @@
     [
       "Gits",
       "",
-      "DMA",
-      "Draagbare Motorpomp Aanhanger",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "West-Vlaanderen Zone - Midwest",
-      "",
-      "",
-      "",
-      "VEH-004-POST-1908"
-    ],
-    [
-      "Gits",
-      "",
       "IGS-CMIA",
       "IGS -CMIC / Milieu Aanhanger",
       "",
@@ -48853,7 +48808,7 @@
       "",
       "",
       "",
-      "VEH-005-POST-1908"
+      "VEH-004-POST-1908"
     ],
     [
       "Hooglede - Grote Noordstraat 25",
@@ -72467,10 +72422,10 @@
     ],
     [
       "Grâce-Hollogne",
-      "",
+      "P210",
       "ZA",
       "Zware Autopomp",
-      "",
+      "1-FYT-294",
       "",
       "",
       "Brandweer",
@@ -72485,7 +72440,7 @@
       "E205",
       "LW 30",
       "Ladderwagen",
-      "",
+      "153-AIY",
       "",
       "",
       "Brandweer",
@@ -72500,7 +72455,7 @@
       "D253",
       "SH",
       "Snelle Hulpwagen",
-      "",
+      "1-FPF-910",
       "",
       "",
       "Brandweer",
@@ -72512,7 +72467,37 @@
     ],
     [
       "Grâce-Hollogne",
-      "CTR221",
+      "",
+      "HA-KR",
+      "Haakarmvoertuig (Met kraan)",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Luik Zone - IILE-SRI",
+      "",
+      "",
+      "",
+      "VEH-004-POST-313"
+    ],
+    [
+      "Grâce-Hollogne",
+      "",
+      "DPC",
+      "DompelPomp Container",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Luik Zone - IILE-SRI",
+      "",
+      "",
+      "",
+      "VEH-005-POST-313"
+    ],
+    [
+      "Grâce-Hollogne",
+      "",
       "WTC",
       "Watertank container",
       "",
@@ -72523,7 +72508,7 @@
       "",
       "",
       "",
-      "VEH-004-POST-313"
+      "VEH-006-POST-313"
     ],
     [
       "Grivegnée - Rue Bodson 102",
@@ -72545,7 +72530,7 @@
       "P209",
       "ZA",
       "Zware Autopomp",
-      "",
+      "1-FQC-991",
       "",
       "",
       "Brandweer",
@@ -72560,7 +72545,7 @@
       "PR201",
       "SWV",
       "Spoorweg Voertuig ( kan op spoor rijden )",
-      "",
+      "XSN-171",
       "",
       "",
       "Brandweer",
@@ -72602,10 +72587,10 @@
     ],
     [
       "Liège",
-      "",
+      "P201",
       "ZA",
       "Zware Autopomp",
-      "",
+      "1-FYT-590",
       "",
       "",
       "Brandweer",
@@ -72617,7 +72602,7 @@
     ],
     [
       "Liège",
-      "P212",
+      "",
       "ZA",
       "Zware Autopomp",
       "",
@@ -72632,10 +72617,10 @@
     ],
     [
       "Liège",
-      "P207",
+      "P212",
       "ZA",
       "Zware Autopomp",
-      "1-FYP-496",
+      "",
       "",
       "",
       "Brandweer",
@@ -72647,10 +72632,10 @@
     ],
     [
       "Liège",
-      "",
+      "P207",
       "ZA",
       "Zware Autopomp",
-      "",
+      "1-FYP-496",
       "",
       "",
       "Brandweer",
@@ -73115,7 +73100,7 @@
       "VR233",
       "(DB) ON",
       "Dienstbus Ondersteuning",
-      "",
+      "1-SFX-485",
       "",
       "",
       "Brandweer",
@@ -94865,7 +94850,7 @@
       "GRACE HOL",
       "ZW",
       "Ziekenwagen",
-      "",
+      "2-CCQ-101",
       "(Team: AGGRAC01A)",
       "",
       "Ambulance",

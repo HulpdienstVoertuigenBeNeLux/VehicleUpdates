@@ -1,5 +1,119 @@
 [
   {
+    "date": "2026-10-29",
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "H531 LW toegevoegd aan Grobbendonk",
+        "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "M531 SH toegevoegd aan Grobbendonk",
+        "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "R531 HV toegevoegd aan Grobbendonk",
+        "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "S531 DAT toegevoegd aan Grobbendonk",
+        "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "L531 SIG toegevoegd aan Grobbendonk",
+        "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "L532 HA toegevoegd aan Grobbendonk",
+        "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "L533 (VW) IGS toegevoegd aan Grobbendonk",
+        "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": " HA toegevoegd aan Grobbendonk",
+        "Time": "29-10-2026 00:02:15"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "CTR221 WTC verwijderd van Grâce-Hollogne",
+        "Time": "29-10-2026 00:02:15"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-7802: Bijzonderheden van 'Trekkend voertuig van de 18-7881.' naar 'Trekkend voertuig van de 18-7881. Tevens in bezit van een reddingskussen (BU-RK)' aangepast",
+        "Time": "29-10-2026 00:02:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "E205: Kenteken van '' naar '153-AIY' aangepast",
+        "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "D253: Kenteken van '' naar '1-FPF-910' aangepast",
+        "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "PR201: Kenteken van '' naar 'XSN-171' aangepast",
+        "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "VR233: Kenteken van '' naar '1-SFX-485' aangepast",
+        "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "GRACE HOL: Kenteken van '' naar '2-CCQ-101' aangepast",
+        "Time": "29-10-2026 00:02:15"
+      }
+    ]
+  },
+  {
     "date": "2026-10-28",
     "added": [
       {
@@ -20104,11 +20218,5 @@
         "Time": "28-09-2026 16:00:19"
       }
     ]
-  },
-  {
-    "date": "2026-09-27",
-    "added": [],
-    "removed": [],
-    "changed": []
   }
 ]
