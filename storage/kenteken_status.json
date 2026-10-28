@@ -92879,18 +92879,6 @@
     "last_tenaamstelling_check_date": "2026-10-26",
     "aantal_zitplaatsen": "2"
   },
-  "02-58-YK": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "15-5512"
-    ],
-    "last_check_date": "2026-10-27",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-10-26"
-  },
   "HHB-44-T": {
     "expiry": "2028-03-20",
     "checked": true,
@@ -107700,5 +107688,43 @@
     "datum_tenaamstelling_dt": "2025-12-08",
     "last_tenaamstelling_check_date": "2026-10-28",
     "aantal_zitplaatsen": "2"
+  },
+  "02-TNN-2": {
+    "expiry": "2027-04-12",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "15-5000"
+    ],
+    "last_check_date": "2026-10-28",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-04-17",
+    "last_tenaamstelling_check_date": "2026-10-28",
+    "aantal_zitplaatsen": "9"
+  },
+  "1-YH-929": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "15-5512"
+    ],
+    "last_check_date": "2026-10-28",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": "2026-10-28"
+  },
+  "BD-373-V": {
+    "expiry": "2027-08-19",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-10-28",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-08-19",
+    "last_tenaamstelling_check_date": "2026-10-28",
+    "aantal_zitplaatsen": "6"
   }
 }

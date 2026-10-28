@@ -300,6 +300,12 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "02TNN2",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
     "kenteken": "02BBX5",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -15825,6 +15831,12 @@
   },
   {
     "kenteken": "BBHT82",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BD373V",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -36970,18 +36982,6 @@
     "no_data": true
   },
   {
-    "kenteken": "V64LZF",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "V64NPT",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "V018FN",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BE",
@@ -38230,10 +38230,22 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
+    "kenteken": "V64LZF",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
     "kenteken": "V64NBZ",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "V64NPT",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "V653GZ",
