@@ -2267,21 +2267,6 @@
     ],
     [
       "Groningen Hoofdpost",
-      "01-3693",
-      "OVD-B",
-      "Officier van dienst Brandweer",
-      "J-473-VN",
-      "Gebied: Oost.",
-      "",
-      "Brandweer",
-      "1 - Groningen (VRG)",
-      "",
-      "",
-      "",
-      "VEH-065-POST-021"
-    ],
-    [
-      "Groningen Hoofdpost",
       "26-8182",
       "VZH",
       "Verzorgingshaakarmbak",
@@ -2293,7 +2278,7 @@
       "",
       "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/26-8182-GEEN.webp",
       "",
-      "VEH-066-POST-021"
+      "VEH-065-POST-021"
     ],
     [
       "Groningen Hoofdpost",
@@ -2308,7 +2293,7 @@
       "",
       "",
       "",
-      "VEH-067-POST-021"
+      "VEH-066-POST-021"
     ],
     [
       "Groningen Hoofdpost",
@@ -2323,7 +2308,7 @@
       "",
       "",
       "",
-      "VEH-068-POST-021"
+      "VEH-067-POST-021"
     ],
     [
       "Groningen Hoofdpost",
@@ -2338,7 +2323,7 @@
       "",
       "",
       "",
-      "VEH-069-POST-021"
+      "VEH-068-POST-021"
     ],
     [
       "Groningen Hoofdpost",
@@ -2353,7 +2338,7 @@
       "",
       "",
       "",
-      "VEH-070-POST-021"
+      "VEH-069-POST-021"
     ],
     [
       "01-18 Groningen Vinkhuizen, Diamantlaan 168",
@@ -3419,6 +3404,21 @@
       "https://images.hulpdienstvoertuigenbenelux.nl/vehicles/images/01-2650-67-BVK-8-1790528931126.webp",
       "",
       "VEH-007-POST-032"
+    ],
+    [
+      "Stadskanaal",
+      "01-3693",
+      "OVD-B",
+      "Officier van dienst Brandweer",
+      "J-473-VN",
+      "Gebied: Oost.",
+      "",
+      "Brandweer",
+      "1 - Groningen (VRG)",
+      "",
+      "",
+      "",
+      "VEH-008-POST-032"
     ],
     [
       "01-27 Ter Apel, Heemker Akkerstraat 1",
@@ -6291,7 +6291,7 @@
       "OVD-B",
       "Officier van dienst Brandweer",
       "H-401-PL",
-      "",
+      "Gebied: Noord-West.",
       "",
       "Brandweer",
       "2 - Fryslân (VRF)",
@@ -7626,7 +7626,7 @@
       "OVD-B",
       "Officier van dienst Brandweer",
       "GLS-64-V",
-      "",
+      "Gebied: Zuid-West.",
       "",
       "Brandweer",
       "2 - Fryslân (VRF)",
@@ -7670,7 +7670,7 @@
       "02-7538",
       "TS",
       "Tankautospuit",
-      "BS-LV-49",
+      "ONBEKEND",
       "T.b.v vakbekwaamheid. Bezetting: 9 personen.",
       "",
       "Brandweer",
@@ -8436,7 +8436,7 @@
       "OVD-B",
       "Officier van dienst Brandweer",
       "T-646-XP",
-      "",
+      "Gebied: Noord.",
       "",
       "Brandweer",
       "2 - Fryslân (VRF)",
@@ -10041,7 +10041,7 @@
       "OVD-B",
       "Officier van dienst Brandweer",
       "G-917-BS",
-      "",
+      "Gebied: Zuid.",
       "",
       "Brandweer",
       "2 - Fryslân (VRF)",
@@ -10416,7 +10416,7 @@
       "OVD-B",
       "Officier van dienst Brandweer",
       "G-905-BS",
-      "",
+      "Gebied: Zuid-Oost.",
       "",
       "Brandweer",
       "2 - Fryslân (VRF)",
@@ -10716,7 +10716,7 @@
       "OVD-B",
       "Officier van dienst Brandweer",
       "Z-798-BV",
-      "",
+      "Gebied: ?.",
       "",
       "Brandweer",
       "2 - Fryslân (VRF)",
@@ -12126,7 +12126,7 @@
       "OVD-B",
       "Officier van dienst Brandweer",
       "JND-48-S",
-      "",
+      "Gebied: Noord-Midden.",
       "",
       "Brandweer",
       "3 - Drenthe (VRD)",
@@ -13416,7 +13416,7 @@
       "OVD-B",
       "Officier van dienst Brandweer",
       "JND-49-S",
-      "",
+      "Gebied: Zuid-Oost.",
       "",
       "Brandweer",
       "3 - Drenthe (VRD)",
@@ -14301,7 +14301,7 @@
       "OVD-B",
       "Officier van dienst Brandweer",
       "T-424-GD",
-      "",
+      "Gebied: West.",
       "",
       "Brandweer",
       "3 - Drenthe (VRD)",
@@ -25412,6 +25412,21 @@
     ],
     [
       "Wezep",
+      "06-1931",
+      "TS",
+      "Tankautospuit",
+      "ONBEKEND",
+      "Bezetting: 7 personen.",
+      "",
+      "Brandweer",
+      "6 - Noord- en Oost-Gelderland (VNOG)",
+      "",
+      "",
+      "",
+      "VEH-002-POST-245"
+    ],
+    [
+      "Wezep",
       "06-1941",
       "TST-NB",
       "Tankautospuit terreinvaardig natuurbrandbestrijding",
@@ -25423,7 +25438,7 @@
       "",
       "",
       "",
-      "VEH-002-POST-245"
+      "VEH-003-POST-245"
     ],
     [
       "Wezep",
@@ -25438,11 +25453,11 @@
       "",
       "",
       "",
-      "VEH-003-POST-245"
+      "VEH-004-POST-245"
     ],
     [
       "Wezep",
-      "06-6587",
+      "06-75RO",
       "BMH-OTO",
       "Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen",
       "GEEN",
@@ -25453,7 +25468,7 @@
       "",
       "",
       "",
-      "VEH-004-POST-245"
+      "VEH-005-POST-245"
     ],
     [
       "06-20 Hattem, Verlengde Parklaan 36",
@@ -42575,7 +42590,7 @@
       "09-3701",
       "DB",
       "Dienstbus",
-      "13-RN-LJ",
+      "ONBEKEND",
       "Bezetting: 9 personen.",
       "",
       "Brandweer",
@@ -62105,13 +62120,13 @@
       "14-2107",
       "DB",
       "Dienstbus",
-      "H-336-HS",
+      "ONBEKEND",
       "Bezetting: 8 personen",
       "",
       "Brandweer",
       "14 - Gooi en Vechtstreek (VRGV)",
       "",
-      "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/14-2107-H-336-HS-1786362634749.webp",
+      "",
       "",
       "VEH-011-POST-589"
     ],
@@ -76625,7 +76640,7 @@
       "17-8721",
       "VK",
       "Verkenningsvoertuig",
-      "VX-527-F",
+      "ONBEKEND",
       "Havenbedrijf huisstijl. Bezetting: 3 personen",
       "",
       "Brandweer",
@@ -93380,7 +93395,7 @@
       "20-0080",
       "TBO",
       "Team brandonderzoek",
-      "1-THL-04",
+      "V-64-LZF",
       "",
       "",
       "Brandweer",
@@ -103880,7 +103895,7 @@
       "22-3201",
       "DA",
       "Dienstauto",
-      "51-ZSR-7",
+      "ONBEKEND",
       "Bezetting: 5 personen.",
       "",
       "Brandweer",
@@ -119282,6 +119297,21 @@
     ],
     [
       "Niebert",
+      "01-804",
+      "OVD-G",
+      "Officier van dienst geneeskundige zorg",
+      "G-955-RL",
+      "OVD-G gebied Noord",
+      "",
+      "Ambulance",
+      "1 - Groningen (VRG)",
+      "",
+      "",
+      "",
+      "VEH-005-POST-1100"
+    ],
+    [
+      "Niebert",
       "GEEN",
       "DA-RA",
       "Dienstauto regionale ambulancevoorziening",
@@ -119293,7 +119323,7 @@
       "",
       "",
       "",
-      "VEH-005-POST-1100"
+      "VEH-006-POST-1100"
     ],
     [
       "Groningen Noord, Van der Hoopstraat 11",
@@ -119477,6 +119507,21 @@
     ],
     [
       "Stadskanaal",
+      "01-802",
+      "OVD-G",
+      "Officier van dienst geneeskundige zorg",
+      "G-952-RL",
+      "OVD-G gebied Oost",
+      "",
+      "Ambulance",
+      "1 - Groningen (VRG)",
+      "",
+      "",
+      "",
+      "VEH-006-POST-1102"
+    ],
+    [
+      "Stadskanaal",
       "GEEN",
       "DA-RA",
       "Dienstauto regionale ambulancevoorziening",
@@ -119488,7 +119533,7 @@
       "",
       "",
       "",
-      "VEH-006-POST-1102"
+      "VEH-007-POST-1102"
     ],
     [
       "Groningen Zuid, Gotenburgweg 40",
@@ -120062,11 +120107,11 @@
     ],
     [
       "Groningen Zuid",
-      "01-801",
+      "01-803",
       "OVD-G",
       "Officier van dienst geneeskundige zorg",
-      "G-949-RL",
-      "",
+      "G-948-RL",
+      "OVD-G gebied Noord",
       "",
       "Ambulance",
       "1 - Groningen (VRG)",
@@ -120077,40 +120122,10 @@
     ],
     [
       "Groningen Zuid",
-      "01-802",
+      "01-805",
       "OVD-G",
       "Officier van dienst geneeskundige zorg",
-      "G-952-RL",
-      "",
-      "",
-      "Ambulance",
-      "1 - Groningen (VRG)",
-      "",
-      "",
-      "",
-      "VEH-039-POST-1103"
-    ],
-    [
-      "Groningen Zuid",
-      "01-803",
-      "OVD-G",
-      "Officier van dienst geneeskundige zorg",
-      "G-948-RL",
-      "",
-      "",
-      "Ambulance",
-      "1 - Groningen (VRG)",
-      "",
-      "",
-      "",
-      "VEH-040-POST-1103"
-    ],
-    [
-      "Groningen Zuid",
-      "01-804",
-      "OVD-G",
-      "Officier van dienst geneeskundige zorg",
-      "G-955-RL",
+      "HB-048-N",
       "Reserve",
       "",
       "Ambulance",
@@ -120118,22 +120133,7 @@
       "",
       "",
       "",
-      "VEH-041-POST-1103"
-    ],
-    [
-      "Groningen Zuid",
-      "01-805",
-      "OVD-G",
-      "Officier van dienst geneeskundige zorg",
-      "HB-048-N",
-      "",
-      "",
-      "Ambulance",
-      "1 - Groningen (VRG)",
-      "",
-      "",
-      "",
-      "VEH-042-POST-1103"
+      "VEH-039-POST-1103"
     ],
     [
       "Groningen Zuid",
@@ -120148,7 +120148,7 @@
       "",
       "",
       "",
-      "VEH-043-POST-1103"
+      "VEH-040-POST-1103"
     ],
     [
       "Veendam, Van Stolbergweg 28",
@@ -120497,6 +120497,21 @@
     ],
     [
       "Hoogezand-Sappemeer",
+      "01-801",
+      "OVD-G",
+      "Officier van dienst geneeskundige zorg",
+      "G-949-RL",
+      "OVD-G gebied Oost",
+      "",
+      "Ambulance",
+      "1 - Groningen (VRG)",
+      "",
+      "",
+      "",
+      "VEH-005-POST-1108"
+    ],
+    [
+      "Hoogezand-Sappemeer",
       "GEEN",
       "DA-RA",
       "Dienstauto regionale ambulancevoorziening",
@@ -120508,7 +120523,7 @@
       "",
       "",
       "",
-      "VEH-005-POST-1108"
+      "VEH-006-POST-1108"
     ],
     [
       "Spoed HAP Groningen, Van Swietenlaan 2b",
@@ -123485,7 +123500,7 @@
       "03-712",
       "ARTS-HP",
       "Huisarts voertuig",
-      "ONBEKEND",
+      "KJX-83-T",
       "",
       "",
       "Ambulance",
@@ -124430,13 +124445,13 @@
       "04-175",
       "AMBU-HC",
       "Ambulance hoogcomplexe zorg",
-      "ZB-364-B",
+      "KNX-46-T",
       "",
       "",
       "Ambulance",
       "4 - IJsselland (VRIJ)",
       "",
-      "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/04-175-ZB-364-B.webp",
+      "",
       "",
       "VEH-002-POST-1174"
     ],
@@ -142625,7 +142640,7 @@
       "18-174",
       "AMBU-HC",
       "Ambulance hoogcomplexe zorg",
-      "N-874-FT",
+      "ONBEKEND",
       "",
       "",
       "Ambulance",
@@ -149765,7 +149780,7 @@
       "23-703",
       "ARTS-HP",
       "Huisarts voertuig",
-      "NF-477-F",
+      "ONBEKEND",
       "",
       "",
       "Ambulance",
@@ -233465,7 +233480,7 @@
       "GEEN",
       "(DAT) WIS",
       "Dienstauto Terreinvaardig Weginspecteur",
-      "",
+      "V-64-NPT",
       "",
       "",
       "Rijkswaterstaat",

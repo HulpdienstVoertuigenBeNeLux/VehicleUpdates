@@ -1,8 +1,38 @@
 [
   {
     "date": "2026-10-28",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-1931 TS toegevoegd aan Wezep",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-75RO BMH-OTO toegevoegd aan Wezep",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rijkswaterstaat",
+        "Regio": "ZN-RWS",
+        "Description": "GEEN (DAT) WIS toegevoegd aan Geldrop",
+        "Time": "28-10-2026 15:02:37"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-6587 BMH-OTO verwijderd van Wezep",
+        "Time": "28-10-2026 15:02:37"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -24,6 +54,202 @@
         "Regio": "11 - Zaanstreek-Waterland (VRZW)",
         "Description": "11-0382: TypeVoertuig van 'Bijzonder materieel haakarmbak kraanvoertuig' naar 'Logistiek haakarmbak met kraan' aangepast",
         "Time": "28-10-2026 00:01:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-3693: Adres van 'Groningen Hoofdpost' naar 'Stadskanaal' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-7393: Bijzonderheden van '' naar 'Gebied: Noord-West.' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-5793: Bijzonderheden van '' naar 'Gebied: Zuid-West.' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-7538: Kenteken van 'BS-LV-49' naar 'ONBEKEND' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-6193: Bijzonderheden van '' naar 'Gebied: Noord.' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-6793: Bijzonderheden van '' naar 'Gebied: Zuid.' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-6993: Bijzonderheden van '' naar 'Gebied: Zuid-Oost.' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-7093: Bijzonderheden van '' naar 'Gebied: ?.' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-8293: Bijzonderheden van '' naar 'Gebied: Noord-Midden.' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-8693: Bijzonderheden van '' naar 'Gebied: Zuid-Oost.' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-8993: Bijzonderheden van '' naar 'Gebied: West.' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-3701: Kenteken van '13-RN-LJ' naar 'ONBEKEND' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-2107: Kenteken van 'H-336-HS' naar 'ONBEKEND' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-8721: Kenteken van 'VX-527-F' naar 'ONBEKEND' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "20-0080: Kenteken van '1-THL-04' naar 'V-64-LZF' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-3201: Kenteken van '51-ZSR-7' naar 'ONBEKEND' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-804: Adres van 'Groningen Zuid' naar 'Niebert' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-804: Bijzonderheden van 'Reserve' naar 'OVD-G gebied Noord' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-802: Adres van 'Groningen Zuid' naar 'Stadskanaal' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-802: Bijzonderheden van '' naar 'OVD-G gebied Oost' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-803: Bijzonderheden van '' naar 'OVD-G gebied Noord' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-805: Bijzonderheden van '' naar 'Reserve' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-801: Adres van 'Groningen Zuid' naar 'Hoogezand-Sappemeer' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-801: Bijzonderheden van '' naar 'OVD-G gebied Oost' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-712: Kenteken van 'ONBEKEND' naar 'KJX-83-T' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-175: Kenteken van 'ZB-364-B' naar 'KNX-46-T' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-174: Kenteken van 'N-874-FT' naar 'ONBEKEND' aangepast",
+        "Time": "28-10-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "23-703: Kenteken van 'NF-477-F' naar 'ONBEKEND' aangepast",
+        "Time": "28-10-2026 15:02:37"
       }
     ]
   },
