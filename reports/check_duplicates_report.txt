@@ -106,7 +106,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,735  (of 10,115 total)
+  Records checked : 6,732  (of 10,116 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  539 value(s) affected
@@ -441,10 +441,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A01
       Kenteken    : 1-JVZ-742
-      Adres       : Sint-Truiden
+      Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : A01
-      Kenteken    : 
+      Kenteken    : 1-JPP-849
 
   >> 'A02'  (2x)
       Adres       : Bilzen-Hoeselt
@@ -466,7 +466,7 @@
       Roepnummer  : A1
       Kenteken    : 1-JKU-794
 
-  >> 'A101'  (3x)
+  >> 'A101'  (4x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A101
@@ -475,6 +475,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A101
       Kenteken    : 
+      Adres       : Hannut
+      Hulpdienst  : Ambulance
+      Roepnummer  : A101
+      Kenteken    : 1-XBS-557
       Adres       : Arlon
       Hulpdienst  : Ambulance
       Roepnummer  : A101
@@ -504,11 +508,15 @@
       Roepnummer  : A103
       Kenteken    : 1-RFR-086
 
-  >> 'A104'  (2x)
+  >> 'A104'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A104
       Kenteken    : 
+      Adres       : Hannut
+      Hulpdienst  : Ambulance
+      Roepnummer  : A104
+      Kenteken    : 1-UVB-332
       Adres       : Bertrix
       Hulpdienst  : Ambulance
       Roepnummer  : A104
@@ -528,11 +536,15 @@
       Roepnummer  : A105
       Kenteken    : 1-RFR-101
 
-  >> 'A106'  (2x)
+  >> 'A106'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A106
       Kenteken    : 
+      Adres       : Hannut
+      Hulpdienst  : Ambulance
+      Roepnummer  : A106
+      Kenteken    : 2-HVR-185
       Adres       : Erezee
       Hulpdienst  : Ambulance
       Roepnummer  : A106
@@ -800,7 +812,7 @@
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : A14
-      Kenteken    : 
+      Kenteken    : 1-JPP-928
 
   >> 'A15'  (4x)
       Adres       : Linkeroever
@@ -819,16 +831,6 @@
       Hulpdienst  : Ambulance
       Roepnummer  : A15
       Kenteken    : 2-FXU-632
-
-  >> 'A16'  (2x)
-      Adres       : Antwerpen-Noord
-      Hulpdienst  : Brandweer
-      Roepnummer  : A16
-      Kenteken    : 
-      Adres       : Hasselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : A16
-      Kenteken    : 
 
   >> 'A18'  (2x)
       Adres       : Lillo
@@ -990,15 +992,11 @@
       Roepnummer  : A26
       Kenteken    : 1-JUJ-205
 
-  >> 'A27'  (3x)
+  >> 'A27'  (2x)
       Adres       : Berendrecht
       Hulpdienst  : Brandweer
       Roepnummer  : A27
       Kenteken    : 1-JLJ-092
-      Adres       : Hasselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : A27
-      Kenteken    : 
       Adres       : Mouscron
       Hulpdienst  : Brandweer
       Roepnummer  : A27
@@ -1546,7 +1544,7 @@
       Adres       : Hannut
       Hulpdienst  : Brandweer
       Roepnummer  : B101
-      Kenteken    : 
+      Kenteken    : 1-LCP-424
       Adres       : Arlon
       Hulpdienst  : Brandweer
       Roepnummer  : B101
@@ -2066,7 +2064,7 @@
       Adres       : Hannut
       Hulpdienst  : Brandweer
       Roepnummer  : C101
-      Kenteken    : 
+      Kenteken    : 1-JVZ-435
 
   >> 'C102'  (2x)
       Adres       : Brugge
@@ -2086,7 +2084,7 @@
       Adres       : Hannut
       Hulpdienst  : Brandweer
       Roepnummer  : C103
-      Kenteken    : 
+      Kenteken    : 1-VQV-516
       Adres       : Bastogne
       Hulpdienst  : Brandweer
       Roepnummer  : C103
@@ -2102,7 +2100,7 @@
       Roepnummer  : C105
       Kenteken    : 
 
-  >> 'C11'  (9x)
+  >> 'C11'  (10x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : C11
@@ -2115,6 +2113,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C11
       Kenteken    : 1-XRX-662
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : C11
+      Kenteken    : 1-XVU-498
       Adres       : Sint-Truiden
       Hulpdienst  : Brandweer
       Roepnummer  : C11
@@ -3036,16 +3038,6 @@
       Roepnummer  : D1
       Kenteken    : 
 
-  >> 'D101'  (2x)
-      Adres       : Brugge
-      Hulpdienst  : Brandweer
-      Roepnummer  : D101
-      Kenteken    : 1-JNP-185
-      Adres       : Hannut
-      Hulpdienst  : Brandweer
-      Roepnummer  : D101
-      Kenteken    : 
-
   >> 'D102'  (2x)
       Adres       : Oostende
       Hulpdienst  : Brandweer
@@ -3228,7 +3220,7 @@
       Adres       : Hannut
       Hulpdienst  : Brandweer
       Roepnummer  : E101
-      Kenteken    : 
+      Kenteken    : 2-GLH-047
 
   >> 'E102'  (2x)
       Adres       : Oostende
@@ -3315,7 +3307,7 @@
       Kenteken    : 2-AJT-058
 
   >> 'E13'  (2x)
-      Adres       : Beringen
+      Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : E13
       Kenteken    : 1-PNE-090
@@ -3435,6 +3427,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : E303
       Kenteken    : 1-KGH-888
+
+  >> 'E305'  (2x)
+      Adres       : Harelbeke
+      Hulpdienst  : Brandweer
+      Roepnummer  : E305
+      Kenteken    : 2-CWA-059
+      Adres       : Bouillon
+      Hulpdienst  : Brandweer
+      Roepnummer  : E305
+      Kenteken    : 1-KGH-735
 
   >> 'E31'  (3x)
       Adres       : Eeklo
@@ -4260,7 +4262,7 @@
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : L63
-      Kenteken    : 
+      Kenteken    : 1-BYZ-940
       Adres       : Belgiek
       Hulpdienst  : Brandweer
       Roepnummer  : L63
@@ -4328,16 +4330,6 @@
       Roepnummer  : M103
       Kenteken    : 1-JNP-044
 
-  >> 'M105'  (2x)
-      Adres       : Hasselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : M105
-      Kenteken    : 
-      Adres       : Torhout
-      Hulpdienst  : Brandweer
-      Roepnummer  : M105
-      Kenteken    : 1-JLB-353
-
   >> 'M109'  (2x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
@@ -4374,6 +4366,16 @@
       Adres       : Maldegem
       Hulpdienst  : Brandweer
       Roepnummer  : M12
+      Kenteken    : 
+
+  >> 'M13'  (2x)
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : M13
+      Kenteken    : 1-JSB-119
+      Adres       : Leuven
+      Hulpdienst  : Brandweer
+      Roepnummer  : M13
       Kenteken    : 
 
   >> 'M151'  (2x)
@@ -4756,6 +4758,16 @@
       Roepnummer  : P10
       Kenteken    : 
 
+  >> 'P101'  (2x)
+      Adres       : Hannut
+      Hulpdienst  : Brandweer
+      Roepnummer  : P101
+      Kenteken    : 1-JVZ-316
+      Adres       : Arlon
+      Hulpdienst  : Brandweer
+      Roepnummer  : P101
+      Kenteken    : 1-KGF-390
+
   >> 'P102'  (2x)
       Adres       : Waremme
       Hulpdienst  : Brandweer
@@ -4770,7 +4782,7 @@
       Adres       : Hannut
       Hulpdienst  : Brandweer
       Roepnummer  : P103
-      Kenteken    : 
+      Kenteken    : 2-APM-652
       Adres       : Bastogne
       Hulpdienst  : Brandweer
       Roepnummer  : P103
@@ -6286,7 +6298,7 @@
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : T13
-      Kenteken    : 
+      Kenteken    : 1-JPP-766
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T13
@@ -6940,7 +6952,7 @@
       Adres       : Hannut
       Hulpdienst  : Brandweer
       Roepnummer  : V101
-      Kenteken    : 
+      Kenteken    : 1-JVY-898
       Adres       : Arlon
       Hulpdienst  : Brandweer
       Roepnummer  : V101
@@ -6960,11 +6972,15 @@
       Roepnummer  : V102
       Kenteken    : 1-WQX-289
 
-  >> 'V103'  (2x)
+  >> 'V103'  (3x)
       Adres       : Centrum-Brugge
       Hulpdienst  : Brandweer
       Roepnummer  : V103
       Kenteken    : 1-KHX-430
+      Adres       : Hannut
+      Hulpdienst  : Brandweer
+      Roepnummer  : V103
+      Kenteken    : 2-DXQ-213
       Adres       : Bastogne
       Hulpdienst  : Brandweer
       Roepnummer  : V103
@@ -7006,7 +7022,7 @@
       Adres       : Hannut
       Hulpdienst  : Brandweer
       Roepnummer  : V107
-      Kenteken    : 
+      Kenteken    : 1-TAV-561
       Adres       : Etalle
       Hulpdienst  : Brandweer
       Roepnummer  : V107
@@ -7040,11 +7056,7 @@
       Roepnummer  : V11
       Kenteken    : 
 
-  >> 'V112'  (3x)
-      Adres       : Hannut
-      Hulpdienst  : Brandweer
-      Roepnummer  : V112
-      Kenteken    : 
+  >> 'V112'  (2x)
       Adres       : Saint-Hubert
       Hulpdienst  : Brandweer
       Roepnummer  : V112
