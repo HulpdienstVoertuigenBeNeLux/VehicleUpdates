@@ -78228,19 +78228,6 @@
     "last_tenaamstelling_check_date": "2026-10-26",
     "aantal_zitplaatsen": "4"
   },
-  "J-367-HR": {
-    "expiry": "2027-05-30",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "17-140"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2020-12-29",
-    "last_tenaamstelling_check_date": "2026-10-26",
-    "aantal_zitplaatsen": "4"
-  },
   "J-610-FN": {
     "expiry": "2027-07-14",
     "checked": true,
@@ -107739,5 +107726,18 @@
     "datum_tenaamstelling_dt": "2026-01-22",
     "last_tenaamstelling_check_date": "2026-10-29",
     "aantal_zitplaatsen": "2"
+  },
+  "NDB-53-Z": {
+    "expiry": "2029-02-12",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "17-140"
+    ],
+    "last_check_date": "2026-10-29",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-10-20",
+    "last_tenaamstelling_check_date": "2026-10-29",
+    "aantal_zitplaatsen": "5"
   }
 }

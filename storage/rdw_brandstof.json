@@ -52353,20 +52353,6 @@
     "uitlaatemissieniveau": "EURO VI D"
   },
   {
-    "kenteken": "J367HR",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "brandstofverbruik_gecombineerd": "9.50",
-    "co2_uitstoot_gecombineerd": "249",
-    "geluidsniveau_rijdend": "71",
-    "geluidsniveau_stationair": "81",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2018/932D",
-    "nettomaximumvermogen": "140.00",
-    "toerental_geluidsniveau": "2850",
-    "uitlaatemissieniveau": "EURO VI D"
-  },
-  {
     "kenteken": "J368HR",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -69452,6 +69438,30 @@
     "uitlaatemissieniveau": "EURO 6 W"
   },
   {
+    "kenteken": "NDB53Z",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Benzine",
+    "geluidsniveau_stationair": "87",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EA",
+    "nettomaximumvermogen": "430.00",
+    "toerental_geluidsniveau": "3750",
+    "emis_co2_gewogen_gecombineerd_wltp": "39",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EA"
+  },
+  {
+    "kenteken": "NDB53Z",
+    "brandstof_volgnummer": "2",
+    "brandstof_omschrijving": "Elektriciteit",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EA",
+    "nominaal_continu_maximumvermogen": "57.00",
+    "netto_max_vermogen_elektrisch": "145.00",
+    "klasse_hybride_elektrisch_voertuig": "OVC-HEV",
+    "uitlaatemissieniveau": "EURO 6 EA"
+  },
+  {
     "kenteken": "NF420V",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -84526,21 +84536,6 @@
     "opgegeven_maximum_snelheid": "60.00"
   },
   {
-    "kenteken": "V67NVB",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "geluidsniveau_rijdend": "70",
-    "geluidsniveau_stationair": "77",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EA",
-    "nettomaximumvermogen": "125.00",
-    "toerental_geluidsniveau": "2625",
-    "emis_deeltjes_type1_wltp": "0.45",
-    "emissie_co2_gecombineerd_wltp": "230",
-    "brandstof_verbruik_gecombineerd_wltp": "8.800",
-    "uitlaatemissieniveau": "EURO 6 EA"
-  },
-  {
     "kenteken": "V018FN",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -87914,6 +87909,21 @@
     "actie_radius_enkel_elektrisch_wltp": "336",
     "netto_max_vermogen_elektrisch": "100.00",
     "uitlaatemissieniveau": "AX"
+  },
+  {
+    "kenteken": "V67NVB",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_rijdend": "70",
+    "geluidsniveau_stationair": "77",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EA",
+    "nettomaximumvermogen": "125.00",
+    "toerental_geluidsniveau": "2625",
+    "emis_deeltjes_type1_wltp": "0.45",
+    "emissie_co2_gecombineerd_wltp": "230",
+    "brandstof_verbruik_gecombineerd_wltp": "8.800",
+    "uitlaatemissieniveau": "EURO 6 EA"
   },
   {
     "kenteken": "V683PS",
