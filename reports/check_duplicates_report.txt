@@ -106,10 +106,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,746  (of 10,126 total)
+  Records checked : 6,735  (of 10,115 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  538 value(s) affected
+  Duplicate Roepnummer  --  539 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -2474,7 +2474,7 @@
       Adres       : Hamoir
       Hulpdienst  : Brandweer
       Roepnummer  : C301
-      Kenteken    : 
+      Kenteken    : 1-NNB-286
       Adres       : Arlon
       Hulpdienst  : Brandweer
       Roepnummer  : C301
@@ -2488,13 +2488,23 @@
       Adres       : Huy
       Hulpdienst  : Brandweer
       Roepnummer  : C302
-      Kenteken    : 
+      Kenteken    : 1-NNB-311
+
+  >> 'C303'  (2x)
+      Adres       : Huy
+      Hulpdienst  : Brandweer
+      Roepnummer  : C303
+      Kenteken    : 1-NRN-776
+      Adres       : Bastogne
+      Hulpdienst  : Brandweer
+      Roepnummer  : C303
+      Kenteken    : 1-KGF-304
 
   >> 'C304'  (2x)
       Adres       : Huy
       Hulpdienst  : Brandweer
       Roepnummer  : C304
-      Kenteken    : 
+      Kenteken    : 1-VPX-534
       Adres       : Bertrix
       Hulpdienst  : Brandweer
       Roepnummer  : C304
@@ -3108,7 +3118,7 @@
       Adres       : Hamme
       Hulpdienst  : Brandweer
       Roepnummer  : D41
-      Kenteken    : 
+      Kenteken    : 1-JLF-993
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : D41
@@ -3388,32 +3398,36 @@
       Roepnummer  : E21
       Kenteken    : 1-NXC-599
 
-  >> 'E301'  (2x)
+  >> 'E301'  (3x)
       Adres       : Kuurne
       Hulpdienst  : Brandweer
       Roepnummer  : E301
       Kenteken    : 
+      Adres       : Hamoir
+      Hulpdienst  : Brandweer
+      Roepnummer  : E301
+      Kenteken    : 1-NNB-222
       Adres       : Arlon
       Hulpdienst  : Brandweer
       Roepnummer  : E301
       Kenteken    : 1-SSF-887
 
-  >> 'E302'  (2x)
+  >> 'E302'  (3x)
       Adres       : Menen
       Hulpdienst  : Brandweer
       Roepnummer  : E302
       Kenteken    : 
+      Adres       : Huy
+      Hulpdienst  : Brandweer
+      Roepnummer  : E302
+      Kenteken    : 1-NNB-237
       Adres       : Aubange
       Hulpdienst  : Brandweer
       Roepnummer  : E302
       Kenteken    : 1-KKR-503
 
-  >> 'E303'  (3x)
+  >> 'E303'  (2x)
       Adres       : Kortrijk
-      Hulpdienst  : Brandweer
-      Roepnummer  : E303
-      Kenteken    : 
-      Adres       : Huy
       Hulpdienst  : Brandweer
       Roepnummer  : E303
       Kenteken    : 
@@ -3488,7 +3502,7 @@
       Adres       : Hamme
       Hulpdienst  : Brandweer
       Roepnummer  : E41
-      Kenteken    : 
+      Kenteken    : 1-JLV-288
       Adres       : Nivelles
       Hulpdienst  : Brandweer
       Roepnummer  : E41
@@ -4162,11 +4176,15 @@
       Roepnummer  : L326
       Kenteken    : 
 
-  >> 'L41'  (3x)
+  >> 'L41'  (4x)
       Adres       : Peer
       Hulpdienst  : Brandweer
       Roepnummer  : L41
       Kenteken    : 
+      Adres       : Hamme
+      Hulpdienst  : Brandweer
+      Roepnummer  : L41
+      Kenteken    : 1-JLF-922
       Adres       : Belgiek
       Hulpdienst  : Brandweer
       Roepnummer  : L41
@@ -4174,6 +4192,16 @@
       Adres       : Kuurne
       Hulpdienst  : Brandweer
       Roepnummer  : L41
+      Kenteken    : 
+
+  >> 'L43'  (2x)
+      Adres       : Hamme
+      Hulpdienst  : Brandweer
+      Roepnummer  : L43
+      Kenteken    : 1-XSH-037
+      Adres       : Zwevegem
+      Hulpdienst  : Brandweer
+      Roepnummer  : L43
       Kenteken    : 
 
   >> 'L5'  (3x)
@@ -4452,6 +4480,16 @@
       Roepnummer  : M29
       Kenteken    : 
 
+  >> 'M301'  (2x)
+      Adres       : Menen
+      Hulpdienst  : Brandweer
+      Roepnummer  : M301
+      Kenteken    : 
+      Adres       : Hamoir
+      Hulpdienst  : Brandweer
+      Roepnummer  : M301
+      Kenteken    : 1-NRN-678
+
   >> 'M31'  (4x)
       Adres       : Houthalen
       Hulpdienst  : Brandweer
@@ -4512,7 +4550,7 @@
       Adres       : Hamme
       Hulpdienst  : Brandweer
       Roepnummer  : M41
-      Kenteken    : 
+      Kenteken    : 1-DYJ-433
 
   >> 'M44'  (2x)
       Adres       : Vilvoorde
@@ -5024,16 +5062,6 @@
       Roepnummer  : P30
       Kenteken    : 
 
-  >> 'P301'  (2x)
-      Adres       : Hamoir
-      Hulpdienst  : Brandweer
-      Roepnummer  : P301
-      Kenteken    : 
-      Adres       : Huy
-      Hulpdienst  : Brandweer
-      Roepnummer  : P301
-      Kenteken    : 
-
   >> 'P31'  (4x)
       Adres       : Lennik
       Hulpdienst  : Brandweer
@@ -5142,7 +5170,7 @@
       Adres       : Hamme
       Hulpdienst  : Brandweer
       Roepnummer  : P41
-      Kenteken    : 
+      Kenteken    : 1-GYA-364
       Adres       : Nivelles
       Hulpdienst  : Brandweer
       Roepnummer  : P41
@@ -5156,7 +5184,7 @@
       Adres       : Hamme
       Hulpdienst  : Brandweer
       Roepnummer  : P42
-      Kenteken    : 
+      Kenteken    : 1-JLV-347
       Adres       : Villers-la-Ville
       Hulpdienst  : Brandweer
       Roepnummer  : P42
@@ -5914,16 +5942,6 @@
       Roepnummer  : S41
       Kenteken    : 
 
-  >> 'S42'  (2x)
-      Adres       : Hamme
-      Hulpdienst  : Brandweer
-      Roepnummer  : S42
-      Kenteken    : 
-      Adres       : Nivelles
-      Hulpdienst  : Brandweer
-      Roepnummer  : S42
-      Kenteken    : 
-
   >> 'S5'  (3x)
       Adres       : Londerzeel
       Hulpdienst  : Brandweer
@@ -6516,7 +6534,7 @@
       Adres       : Huy
       Hulpdienst  : Brandweer
       Roepnummer  : T302
-      Kenteken    : 
+      Kenteken    : 1-NNB-429
 
   >> 'T31'  (6x)
       Adres       : Pelt
@@ -6596,11 +6614,15 @@
       Roepnummer  : T401
       Kenteken    : 
 
-  >> 'T41'  (3x)
+  >> 'T41'  (4x)
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T41
       Kenteken    : 
+      Adres       : Hamme
+      Hulpdienst  : Brandweer
+      Roepnummer  : T41
+      Kenteken    : 1-JLG-004
       Adres       : Nivelles
       Hulpdienst  : Brandweer
       Roepnummer  : T41
@@ -6609,16 +6631,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : T41
       Kenteken    : 1-PCB-275
-
-  >> 'T42'  (2x)
-      Adres       : Héliport
-      Hulpdienst  : Brandweer
-      Roepnummer  : T42
-      Kenteken    : 
-      Adres       : Hamme
-      Hulpdienst  : Brandweer
-      Roepnummer  : T42
-      Kenteken    : 
 
   >> 'T44'  (2x)
       Adres       : Héliport
@@ -7075,6 +7087,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : V25
       Kenteken    : 1-RUG-921
+
+  >> 'V325'  (2x)
+      Adres       : Belgiek
+      Hulpdienst  : Brandweer
+      Roepnummer  : V325
+      Kenteken    : 1-KCU-106
+      Adres       : Huy
+      Hulpdienst  : Brandweer
+      Roepnummer  : V325
+      Kenteken    : 1-NRN-636
 
   >> 'V39'  (2x)
       Adres       : Héliport
