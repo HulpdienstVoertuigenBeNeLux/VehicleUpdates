@@ -106,10 +106,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,745  (of 10,125 total)
+  Records checked : 6,746  (of 10,126 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  542 value(s) affected
+  Duplicate Roepnummer  --  538 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -1942,7 +1942,7 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : C01
-      Kenteken    : 
+      Kenteken    : 2-BQN-118
 
   >> 'C02'  (2x)
       Adres       : Bilzen-Hoeselt
@@ -1962,7 +1962,7 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : C04
-      Kenteken    : 
+      Kenteken    : 2-BQN-119
 
   >> 'C05'  (2x)
       Adres       : Tessenderlo
@@ -2518,7 +2518,11 @@
       Roepnummer  : C31
       Kenteken    : 1-NXB-670
 
-  >> 'C32'  (2x)
+  >> 'C32'  (3x)
+      Adres       : Halle
+      Hulpdienst  : Brandweer
+      Roepnummer  : C32
+      Kenteken    : 1-KDZ-868
       Adres       : Anderlecht
       Hulpdienst  : Brandweer
       Roepnummer  : C32
@@ -2528,11 +2532,7 @@
       Roepnummer  : C32
       Kenteken    : 
 
-  >> 'C33'  (3x)
-      Adres       : Halle
-      Hulpdienst  : Brandweer
-      Roepnummer  : C33
-      Kenteken    : 
+  >> 'C33'  (2x)
       Adres       : VUB
       Hulpdienst  : Brandweer
       Roepnummer  : C33
@@ -2546,7 +2546,7 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : C34
-      Kenteken    : 
+      Kenteken    : 1-KDZ-875
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C34
@@ -3978,11 +3978,11 @@
       Adres       : Haacht
       Hulpdienst  : Brandweer
       Roepnummer  : L14
-      Kenteken    : 
+      Kenteken    : 1-LTE-943
       Adres       : Gullegem
       Hulpdienst  : Brandweer
       Roepnummer  : L14
-      Kenteken    : 
+      Kenteken    : 1-KCT-746
 
   >> 'L17'  (2x)
       Adres       : Hasselt
@@ -3994,16 +3994,12 @@
       Roepnummer  : L17
       Kenteken    : 
 
-  >> 'L18'  (3x)
+  >> 'L18'  (2x)
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : L18
       Kenteken    : 1-JXA-539
       Adres       : Tongeren
-      Hulpdienst  : Brandweer
-      Roepnummer  : L18
-      Kenteken    : 
-      Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : L18
       Kenteken    : 
@@ -4222,16 +4218,6 @@
       Roepnummer  : L52
       Kenteken    : 
 
-  >> 'L532'  (2x)
-      Adres       : Grobbendonk
-      Hulpdienst  : Brandweer
-      Roepnummer  : L532
-      Kenteken    : 1-JTB-397
-      Adres       : Grobbendonk
-      Hulpdienst  : Brandweer
-      Roepnummer  : L532
-      Kenteken    : 1-JRT-900
-
   >> 'L61'  (2x)
       Adres       : Maasmechelen
       Hulpdienst  : Brandweer
@@ -4346,7 +4332,7 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : M11
-      Kenteken    : 
+      Kenteken    : 1-JRP-628
       Adres       : Maldegem
       Hulpdienst  : Brandweer
       Roepnummer  : M11
@@ -4360,26 +4346,6 @@
       Adres       : Maldegem
       Hulpdienst  : Brandweer
       Roepnummer  : M12
-      Kenteken    : 
-
-  >> 'M14'  (2x)
-      Adres       : Tongeren
-      Hulpdienst  : Brandweer
-      Roepnummer  : M14
-      Kenteken    : 
-      Adres       : Halle
-      Hulpdienst  : Brandweer
-      Roepnummer  : M14
-      Kenteken    : 
-
-  >> 'M15'  (2x)
-      Adres       : Londerzeel
-      Hulpdienst  : Brandweer
-      Roepnummer  : M15
-      Kenteken    : 
-      Adres       : Menen
-      Hulpdienst  : Brandweer
-      Roepnummer  : M15
       Kenteken    : 
 
   >> 'M151'  (2x)
@@ -4464,7 +4430,7 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : M22
-      Kenteken    : 
+      Kenteken    : 1-XWR-676
 
   >> 'M28'  (2x)
       Adres       : Scherpenheuvel-Zichem
@@ -4522,7 +4488,7 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : M40
-      Kenteken    : 
+      Kenteken    : 1-JSC-818
 
   >> 'M404'  (2x)
       Adres       : Kortemark
@@ -4580,7 +4546,7 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : M61
-      Kenteken    : 
+      Kenteken    : 1-KDZ-898
       Adres       : Maldegem
       Hulpdienst  : Brandweer
       Roepnummer  : M61
@@ -4856,7 +4822,7 @@
       Adres       : Haacht
       Hulpdienst  : Brandweer
       Roepnummer  : P17
-      Kenteken    : 
+      Kenteken    : 1-LTE-434
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P17
@@ -5132,7 +5098,7 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : P36
-      Kenteken    : 
+      Kenteken    : 2-DTD-161
       Adres       : Schaarbeek
       Hulpdienst  : Brandweer
       Roepnummer  : P36
@@ -5313,10 +5279,10 @@
       Kenteken    : 
 
   >> 'P83'  (2x)
-      Adres       : Halle
+      Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : P83
-      Kenteken    : 
+      Kenteken    : 1-JPC-215
       Adres       : Zele
       Hulpdienst  : Brandweer
       Roepnummer  : P83
@@ -5698,7 +5664,7 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : S11
-      Kenteken    : 
+      Kenteken    : 1-KKJ-375
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : S11
@@ -5844,12 +5810,8 @@
       Roepnummer  : S23
       Kenteken    : 1-LES-263
 
-  >> 'S24'  (3x)
+  >> 'S24'  (2x)
       Adres       : Herd-de-Stad
-      Hulpdienst  : Brandweer
-      Roepnummer  : S24
-      Kenteken    : 
-      Adres       : Menen
       Hulpdienst  : Brandweer
       Roepnummer  : S24
       Kenteken    : 
@@ -5866,16 +5828,6 @@
       Adres       : Wevelgem
       Hulpdienst  : Brandweer
       Roepnummer  : S25
-      Kenteken    : 
-
-  >> 'S26'  (2x)
-      Adres       : Sint-Truiden
-      Hulpdienst  : Brandweer
-      Roepnummer  : S26
-      Kenteken    : 
-      Adres       : Menen
-      Hulpdienst  : Brandweer
-      Roepnummer  : S26
       Kenteken    : 
 
   >> 'S27'  (2x)
@@ -6114,7 +6066,7 @@
       Adres       : Haacht
       Hulpdienst  : Brandweer
       Roepnummer  : S8
-      Kenteken    : 
+      Kenteken    : 1-LGT-236
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : S8
@@ -6374,7 +6326,7 @@
       Adres       : Haacht
       Hulpdienst  : Brandweer
       Roepnummer  : T16
-      Kenteken    : 
+      Kenteken    : 1-LGG-830
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T16
@@ -6682,7 +6634,7 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : T5
-      Kenteken    : 
+      Kenteken    : 1-JRN-973
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T5
@@ -6730,7 +6682,7 @@
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : T54
-      Kenteken    : 
+      Kenteken    : 1-JRN-985
       Adres       : Tubize
       Hulpdienst  : Brandweer
       Roepnummer  : T54
@@ -7405,28 +7357,8 @@
       Kenteken    : 2-DAW-513
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  4 value(s) affected
+  Duplicate Kenteken  --  2 value(s) affected
 --------------------------------------------------------------------------------
-
-  >> '1-JRT-900'  (2x)
-      Adres       : Grobbendonk
-      Hulpdienst  : Brandweer
-      Roepnummer  : L532
-      Kenteken    : 1-JRT-900
-      Adres       : Grobbendonk
-      Hulpdienst  : Brandweer
-      Roepnummer  : 
-      Kenteken    : 1-JRT-900
-
-  >> '1-JTB-397'  (2x)
-      Adres       : Grobbendonk
-      Hulpdienst  : Brandweer
-      Roepnummer  : L531
-      Kenteken    : 1-JTB-397
-      Adres       : Grobbendonk
-      Hulpdienst  : Brandweer
-      Roepnummer  : L532
-      Kenteken    : 1-JTB-397
 
   >> '1-NPS-154'  (2x)
       Adres       : Kortemark

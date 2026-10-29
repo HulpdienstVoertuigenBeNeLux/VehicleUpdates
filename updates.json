@@ -64,6 +64,90 @@
         "Regio": "ZN-RWS",
         "Description": "GEEN (DAT) WIS toegevoegd aan Geldrop",
         "Time": "29-10-2026 13:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "C531 CO toegevoegd aan Grobbendonk",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "B531 CCFM toegevoegd aan Grobbendonk",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "L03 LW toegevoegd aan Halle",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "L08 LW 30 toegevoegd aan Halle",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "M52 HA-KR toegevoegd aan Lennik",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "L319 PM toegevoegd aan Gullegem",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": " CO toegevoegd aan Gullegem",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "M315 HV toegevoegd aan Menen",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "L324 PM toegevoegd aan Menen",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "L314 PM toegevoegd aan Menen",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "K319 WTC toegevoegd aan Zwevegem",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "Z01 ZW toegevoegd aan Halle",
+        "Time": "29-10-2026 14:01:44"
       }
     ],
     "removed": [
@@ -73,6 +157,34 @@
         "Regio": "Luik Zone - IILE-SRI",
         "Description": "CTR221 WTC verwijderd van Grâce-Hollogne",
         "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "L8 LW 30 verwijderd van Halle",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": " CO verwijderd van Gullegem",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": " WTC verwijderd van Zwevegem",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "HALLE 2 ZW verwijderd van Halle",
+        "Time": "29-10-2026 14:01:44"
       }
     ],
     "changed": [
@@ -117,6 +229,223 @@
         "Regio": "Luik Zone - IILE-SRI",
         "Description": "GRACE HOL: Kenteken van '' naar '2-CCQ-101' aangepast",
         "Time": "29-10-2026 00:02:15"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "M22: Kenteken van '' naar '1-XWR-676' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "C01: Kenteken van '' naar '2-BQN-118' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "L18: Adres van 'Halle' naar 'Tongeren' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "L18: Afkorting van 'LW 32' naar 'SIG' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "L18: TypeVoertuig van 'Ladderwagen' naar 'Signalisatievoertuig' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "C04: Kenteken van '' naar '2-BQN-119' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "L14: Kenteken van '' naar '1-KCT-746' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "S26: Adres van 'Menen' naar 'Sint-Truiden' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "S26: Afkorting van 'PM' naar 'DB' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "S26: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Dienstbus Personeel / Materiaal' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "M14: Adres van 'Halle' naar 'Tongeren' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "M14: Afkorting van 'HV' naar 'SIG' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "M14: TypeVoertuig van 'Hulpverleningsvoertuig' naar 'Signalisatievoertuig' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "M40: Kenteken van '' naar '1-JSC-818' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "P06: Kenteken van '' naar '1-JRL-554' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I12: Kenteken van '' naar '1-KDZ-884' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "M64: Kenteken van '' naar '1-JRF-511' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I13: Kenteken van '' naar '1-SPY-340' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "M53: Kenteken van '' naar '2-GMZ-705' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "CT35: TypeVoertuig van 'Laadbak Container (met kraan)' naar 'Laadbak Container' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "M15: Adres van 'Menen' naar 'Londerzeel' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I17: Kenteken van '' naar '2-FUQ-051' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "A311: Kenteken van '' naar '1-DYD-935' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "T310: Kenteken van '' naar '1-JKV-232' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "M311: Kenteken van '' naar '1-JPN-190' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "K361: Kenteken van '' naar 'Q-AAH-915' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "A316: Kenteken van '' naar '1-DYD-937' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "HALLE RK 1: Kenteken van '' naar '2-BUD-430' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Civiele Bescherming",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "0201: Kenteken van '' naar '1-HAE-973' aangepast",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "'' omgenummerd naar 'L532'",
+        "Time": "29-10-2026 14:01:44"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "'' omgenummerd naar 'S516'",
+        "Time": "29-10-2026 14:01:44"
       }
     ]
   },
