@@ -28515,19 +28515,6 @@
     "last_tenaamstelling_check_date": "2026-10-26",
     "aantal_zitplaatsen": "9"
   },
-  "BR-FP-50": {
-    "expiry": "2027-08-11",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "10-5034"
-    ],
-    "last_check_date": "2026-08-12",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-12-24",
-    "last_tenaamstelling_check_date": "2026-10-28",
-    "aantal_zitplaatsen": "8"
-  },
   "79-BVH-5": {
     "expiry": "2027-05-02",
     "checked": true,
@@ -107726,5 +107713,18 @@
     "datum_tenaamstelling_dt": "2026-10-20",
     "last_tenaamstelling_check_date": "2026-10-29",
     "aantal_zitplaatsen": "5"
+  },
+  "BD-570-Z": {
+    "expiry": "2027-10-20",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "10-5034"
+    ],
+    "last_check_date": "2026-10-30",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-10-20",
+    "last_tenaamstelling_check_date": "2026-10-30",
+    "aantal_zitplaatsen": "7"
   }
 }
