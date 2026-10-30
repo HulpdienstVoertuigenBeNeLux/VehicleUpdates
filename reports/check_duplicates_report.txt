@@ -106,10 +106,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,731  (of 10,131 total)
+  Records checked : 6,731  (of 10,132 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  544 value(s) affected
+  Duplicate Roepnummer  --  547 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -992,7 +992,7 @@
       Roepnummer  : A26
       Kenteken    : 1-JUJ-205
 
-  >> 'A27'  (2x)
+  >> 'A27'  (3x)
       Adres       : Berendrecht
       Hulpdienst  : Brandweer
       Roepnummer  : A27
@@ -1001,6 +1001,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A27
       Kenteken    : 
+      Adres       : Schaarbeek
+      Hulpdienst  : Ambulance
+      Roepnummer  : A27
+      Kenteken    : 1-HZE-971
 
   >> 'A28'  (2x)
       Adres       : Antwerpen-Centrum
@@ -1222,7 +1226,7 @@
       Roepnummer  : A42
       Kenteken    : 1-PCB-259
 
-  >> 'A43'  (2x)
+  >> 'A43'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A43
@@ -1231,6 +1235,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A43
       Kenteken    : 1-WAA-949
+      Adres       : Brussel
+      Hulpdienst  : Ambulance
+      Roepnummer  : A43
+      Kenteken    : 1-YAN-996
 
   >> 'A46'  (2x)
       Adres       : Antwerpen-Zuid
@@ -1320,6 +1328,16 @@
       Roepnummer  : A62
       Kenteken    : 2-ATC-268
 
+  >> 'A68'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A68
+      Kenteken    : 
+      Adres       : Brussel
+      Hulpdienst  : Ambulance
+      Roepnummer  : A68
+      Kenteken    : 2-BVD-005
+
   >> 'A69'  (2x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
@@ -1340,6 +1358,16 @@
       Roepnummer  : A71
       Kenteken    : 2-BKN-237
 
+  >> 'A76'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A76
+      Kenteken    : 
+      Adres       : Brussel
+      Hulpdienst  : Ambulance
+      Roepnummer  : A76
+      Kenteken    : 2-DDV-832
+
   >> 'A84'  (2x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
@@ -1349,6 +1377,16 @@
       Hulpdienst  : Ambulance
       Roepnummer  : A84
       Kenteken    : 2-FBR-279
+
+  >> 'AND 1'  (2x)
+      Adres       : Anderlecht
+      Hulpdienst  : Ambulance
+      Roepnummer  : AND 1
+      Kenteken    : 
+      Adres       : Anderlecht
+      Hulpdienst  : Ambulance
+      Roepnummer  : AND 1
+      Kenteken    : 
 
   >> 'ANTW CADIX'  (2x)
       Adres       : Antwerpen
@@ -2188,7 +2226,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C12
-      Kenteken    : 
+      Kenteken    : JYF-760
       Adres       : Belgiek
       Hulpdienst  : Brandweer
       Roepnummer  : C12
@@ -2588,7 +2626,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C34
-      Kenteken    : 
+      Kenteken    : 1-FNE-739
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : C34
@@ -2794,7 +2832,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C54
-      Kenteken    : 
+      Kenteken    : HDM-666
 
   >> 'C6'  (3x)
       Adres       : Lommel
@@ -3564,7 +3602,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : E5
-      Kenteken    : 
+      Kenteken    : 398-AVF
       Adres       : Ath
       Hulpdienst  : Brandweer
       Roepnummer  : E5
@@ -4770,7 +4808,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P1
-      Kenteken    : 
+      Kenteken    : 508-BYG
       Adres       : Ronse
       Hulpdienst  : Brandweer
       Roepnummer  : P1
@@ -5274,7 +5312,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P5
-      Kenteken    : 
+      Kenteken    : 1-CIJ-604
       Adres       : Ronse
       Hulpdienst  : Brandweer
       Roepnummer  : P5
@@ -5812,7 +5850,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : S14
-      Kenteken    : 
+      Kenteken    : 1-YUC-359
 
   >> 'S16'  (3x)
       Adres       : Beringen
@@ -5994,7 +6032,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : S41
-      Kenteken    : 
+      Kenteken    : 1-SKS-462
 
   >> 'S5'  (3x)
       Adres       : Londerzeel
@@ -6344,7 +6382,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T13
-      Kenteken    : 
+      Kenteken    : 1-KKJ-207
       Adres       : Temse
       Hulpdienst  : Brandweer
       Roepnummer  : T13
