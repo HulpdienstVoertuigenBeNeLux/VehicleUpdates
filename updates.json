@@ -204,6 +204,55 @@
         "Regio": "",
         "Description": "P28 HZA toegevoegd aan Héliport",
         "Time": "30-10-2026 11:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "A69 ZW toegevoegd aan Brussel",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "A84 ZW toegevoegd aan Brussel",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "A46 ZW toegevoegd aan Brussel",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "P19 HZA toegevoegd aan ",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "P37 HZA toegevoegd aan ",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "P36 HZA toegevoegd aan ",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "P35 HZA toegevoegd aan ",
+        "Time": "30-10-2026 12:02:16"
       }
     ],
     "removed": [
@@ -325,6 +374,76 @@
         "Regio": "Vlaams-Brabant Zone - West",
         "Description": "P28 LA verwijderd van Zaventem",
         "Time": "30-10-2026 11:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "HELI 7 ZW verwijderd van Brussel",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "HELI 8 ZW verwijderd van Brussel",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "HELI 9 ZW verwijderd van Brussel",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A69 VW verwijderd van Antwerpen-Noord",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A84 DB verwijderd van Antwerpen-Noord",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A46 SH verwijderd van Antwerpen-Zuid",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "P19 HZA verwijderd van Overijse",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P37 HZA verwijderd van UCL",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P36 HZA verwijderd van Schaarbeek",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P35 HZA verwijderd van Anderlecht",
+        "Time": "30-10-2026 12:02:16"
       }
     ],
     "changed": [
@@ -628,6 +747,244 @@
         "Regio": "Antwerpen Zone - Rivierenland",
         "Description": "HEIST OP DEN BERG 2: Kenteken van '' naar '1-XNQ-109' aangepast",
         "Time": "30-10-2026 11:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P30: Kenteken van '' naar 'SYJ-368' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P20: Kenteken van '' naar '1-VWU-679' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P10: Kenteken van '' naar '1-DYA-833' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P14: Kenteken van '' naar '1-FYA-450' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P34: Kenteken van '' naar 'VXD-767' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "C50: Kenteken van '' naar '1-UJF-748' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P38: Bijzonderheden van '' naar 'T.b.v Catastrofes' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P39: Kenteken van '' naar '669-ANA' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P39: Bijzonderheden van '' naar 'T.b.v Catastrofes' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "E3: Kenteken van '' naar 'VXZ-120' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "C56: Afkorting van '(VW) IGS' naar 'DC' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "C56: TypeVoertuig van 'Vrachtwagen IGS / milieu ( Incident Gevaarlijke Stoffen )' naar 'Decontaminatie Voertuig' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "C56: Kenteken van '' naar 'HDM-705' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V8: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Dienstbus' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V8: Kenteken van '' naar '1-BWX-539' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V9: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Dienstbus' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "V9: Kenteken van '' naar '1-BWX-469' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "R53: Kenteken van '' naar '2-CPV-748' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "R54: Kenteken van '' naar '2-CPV-746' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "R55: Kenteken van '' naar '2-CPV-740' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "R56: Kenteken van '' naar '1-FJQ-343' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "R57: Kenteken van '' naar '1-GIU-883' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "R58: Kenteken van '' naar '1-GJS-608' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "R59: Kenteken van '' naar '1-GJS-654' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "T34: Kenteken van '' naar '1-DBM-121' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "TC0: TypeVoertuig van 'Laadbak Container (met kraan)' naar 'Laadbak Container' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "TC2: TypeVoertuig van 'Laadbak Container (met kraan)' naar 'Laadbak Container' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "TC3: TypeVoertuig van 'Laadbak Container (met kraan)' naar 'Laadbak Container' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "TC7: TypeVoertuig van 'Laadbak Container (met kraan)' naar 'Laadbak Container' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "TC8: TypeVoertuig van 'Laadbak Container (met kraan)' naar 'Laadbak Container' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Civiele Bescherming",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "1519: Kenteken van '' naar 'JWC-377' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Civiele Bescherming",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "0210: Kenteken van '' naar '1-PGL-932' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Civiele Bescherming",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "7810: Kenteken van '' naar '2-GCK-703' aangepast",
+        "Time": "30-10-2026 12:02:16"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Civiele Bescherming",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "7811: Kenteken van '' naar '2-GCK-681' aangepast",
+        "Time": "30-10-2026 12:02:16"
       }
     ]
   },

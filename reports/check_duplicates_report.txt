@@ -106,10 +106,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,731  (of 10,119 total)
+  Records checked : 6,731  (of 10,131 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  541 value(s) affected
+  Duplicate Roepnummer  --  544 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -1232,6 +1232,16 @@
       Roepnummer  : A43
       Kenteken    : 1-WAA-949
 
+  >> 'A46'  (2x)
+      Adres       : Antwerpen-Zuid
+      Hulpdienst  : Brandweer
+      Roepnummer  : A46
+      Kenteken    : 
+      Adres       : Brussel
+      Hulpdienst  : Ambulance
+      Roepnummer  : A46
+      Kenteken    : 1-YXH-796
+
   >> 'A5'  (2x)
       Adres       : Antwerpen-Zuid
       Hulpdienst  : Brandweer
@@ -1310,6 +1320,16 @@
       Roepnummer  : A62
       Kenteken    : 2-ATC-268
 
+  >> 'A69'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A69
+      Kenteken    : 
+      Adres       : Brussel
+      Hulpdienst  : Ambulance
+      Roepnummer  : A69
+      Kenteken    : 2-BVD-059
+
   >> 'A71'  (2x)
       Adres       : Voeren
       Hulpdienst  : Brandweer
@@ -1319,6 +1339,16 @@
       Hulpdienst  : Ambulance
       Roepnummer  : A71
       Kenteken    : 2-BKN-237
+
+  >> 'A84'  (2x)
+      Adres       : Antwerpen-Noord
+      Hulpdienst  : Brandweer
+      Roepnummer  : A84
+      Kenteken    : 
+      Adres       : Brussel
+      Hulpdienst  : Ambulance
+      Roepnummer  : A84
+      Kenteken    : 2-FBR-279
 
   >> 'ANTW CADIX'  (2x)
       Adres       : Antwerpen
@@ -2400,7 +2430,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C23
-      Kenteken    : 
+      Kenteken    : 2-HGU-534
       Adres       : La Louvière
       Hulpdienst  : Brandweer
       Roepnummer  : C23
@@ -2708,7 +2738,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C5
-      Kenteken    : 
+      Kenteken    : 1-UBW-656
       Adres       : Oudenaarde
       Hulpdienst  : Brandweer
       Roepnummer  : C5
@@ -2726,7 +2756,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C50
-      Kenteken    : 
+      Kenteken    : 1-UJF-748
 
   >> 'C51'  (2x)
       Adres       : Zaventem
@@ -2810,7 +2840,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C62
-      Kenteken    : 
+      Kenteken    : 1-BGW-600
       Adres       : Wavre
       Hulpdienst  : Brandweer
       Roepnummer  : C62
@@ -2844,7 +2874,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C7
-      Kenteken    : 
+      Kenteken    : 1-UJF-794
       Adres       : Bernissart
       Hulpdienst  : Brandweer
       Roepnummer  : C7
@@ -3236,7 +3266,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : E11
-      Kenteken    : 
+      Kenteken    : 1-WTP-842
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E11
@@ -3292,7 +3322,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : E12
-      Kenteken    : 
+      Kenteken    : 1-WTQ-455
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E12
@@ -4762,7 +4792,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P10
-      Kenteken    : 
+      Kenteken    : 1-DYA-833
 
   >> 'P101'  (2x)
       Adres       : Hannut
@@ -4802,7 +4832,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P11
-      Kenteken    : 
+      Kenteken    : 1-GYG-209
       Adres       : Berlare
       Hulpdienst  : Brandweer
       Roepnummer  : P11
@@ -4834,7 +4864,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P13
-      Kenteken    : 
+      Kenteken    : 1-TVL-848
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : P13
@@ -4848,7 +4878,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P14
-      Kenteken    : 
+      Kenteken    : 1-FYA-450
 
   >> 'P15'  (2x)
       Adres       : Opwijk
@@ -4868,7 +4898,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P16
-      Kenteken    : 
+      Kenteken    : 1-FYE-888
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : P16
@@ -4882,7 +4912,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P17
-      Kenteken    : 
+      Kenteken    : 1-FYE-889
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : P17
@@ -4920,7 +4950,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P20
-      Kenteken    : 
+      Kenteken    : 1-VWU-679
 
   >> 'P201'  (2x)
       Adres       : Liège
@@ -5042,7 +5072,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P29
-      Kenteken    : 
+      Kenteken    : SXB-190
       Adres       : Andenne
       Hulpdienst  : Brandweer
       Roepnummer  : P29
@@ -5056,7 +5086,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P3
-      Kenteken    : 
+      Kenteken    : 179-BYB
       Adres       : Quiévrain
       Hulpdienst  : Brandweer
       Roepnummer  : P3
@@ -5078,7 +5108,7 @@
       Adres       : Chênai
       Hulpdienst  : Brandweer
       Roepnummer  : P30
-      Kenteken    : 
+      Kenteken    : SYJ-368
 
   >> 'P31'  (4x)
       Adres       : Lennik
@@ -5088,7 +5118,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P31
-      Kenteken    : 
+      Kenteken    : SYJ-369
       Adres       : Dendermonde
       Hulpdienst  : Brandweer
       Roepnummer  : P31
@@ -5106,7 +5136,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P32
-      Kenteken    : 
+      Kenteken    : TEZ-402
       Adres       : Dendermonde
       Hulpdienst  : Brandweer
       Roepnummer  : P32
@@ -5138,7 +5168,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P34
-      Kenteken    : 
+      Kenteken    : VXD-767
 
   >> 'P36'  (2x)
       Adres       : Halle
@@ -5198,7 +5228,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P42
-      Kenteken    : 
+      Kenteken    : 1-YUE-290
       Adres       : Hamme
       Hulpdienst  : Brandweer
       Roepnummer  : P42
@@ -5216,7 +5246,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P43
-      Kenteken    : 
+      Kenteken    : 1-YUE-311
       Adres       : Nivelles
       Hulpdienst  : Brandweer
       Roepnummer  : P43
@@ -5295,10 +5325,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : P7
       Kenteken    : 
-      Adres       : Héliport
+      Adres       : Schaarbeek
       Hulpdienst  : Brandweer
       Roepnummer  : P7
-      Kenteken    : 
+      Kenteken    : 1-FTZ-118
       Adres       : Sambreville
       Hulpdienst  : Brandweer
       Roepnummer  : P7
@@ -5342,7 +5372,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P9
-      Kenteken    : 
+      Kenteken    : 1-CYX-074
       Adres       : Sart-Saint-Laurant
       Hulpdienst  : Brandweer
       Roepnummer  : P9
@@ -5714,7 +5744,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : S11
-      Kenteken    : 
+      Kenteken    : VFL-714
       Adres       : Berlare
       Hulpdienst  : Brandweer
       Roepnummer  : S11
@@ -5744,7 +5774,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : S12
-      Kenteken    : 
+      Kenteken    : 1-BYY-835
       Adres       : Stekene
       Hulpdienst  : Brandweer
       Roepnummer  : S12
@@ -6414,7 +6444,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T2
-      Kenteken    : 
+      Kenteken    : 1-EXV-635
       Adres       : Sint-Lievens-Houtem
       Hulpdienst  : Brandweer
       Roepnummer  : T2
@@ -6572,7 +6602,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T31
-      Kenteken    : 
+      Kenteken    : 1-TEL-047
       Adres       : Dendermonde
       Hulpdienst  : Brandweer
       Roepnummer  : T31
@@ -6590,7 +6620,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T32
-      Kenteken    : 
+      Kenteken    : TQW-427
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : T32
@@ -6868,7 +6898,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T9
-      Kenteken    : 
+      Kenteken    : 1-XLB-075
       Adres       : Temse
       Hulpdienst  : Brandweer
       Roepnummer  : T9
@@ -7062,7 +7092,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : V11
-      Kenteken    : 
+      Kenteken    : 1-BWX-373
       Adres       : Wavre
       Hulpdienst  : Brandweer
       Roepnummer  : V11
@@ -7082,7 +7112,7 @@
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : V12
-      Kenteken    : 
+      Kenteken    : 1-CGC-818
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : V12
