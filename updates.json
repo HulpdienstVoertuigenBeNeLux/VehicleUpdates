@@ -302,6 +302,34 @@
         "Regio": "Brussel Zone - Brussel",
         "Description": "A27 ZW toegevoegd aan Schaarbeek",
         "Time": "30-10-2026 13:02:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-144 AMBU-HC toegevoegd aan Winterswijk",
+        "Time": "30-10-2026 14:02:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "A66  toegevoegd aan ",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "A73  toegevoegd aan ",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "A28  toegevoegd aan ",
+        "Time": "30-10-2026 14:02:42"
       }
     ],
     "removed": [
@@ -563,6 +591,41 @@
         "Regio": "Henegouwen Zone - Wallonie Picarde",
         "Description": "A27 HZA verwijderd van Mouscron",
         "Time": "30-10-2026 13:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "E3 LW 30 verwijderd van Héliport",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "E18 LW 30 verwijderd van Héliport",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A66 SIG verwijderd van Antwerpen-Noord",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A73 PM verwijderd van Antwerpen-Noord",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "A28 HZA verwijderd van Estaimpuis",
+        "Time": "30-10-2026 14:02:42"
       }
     ],
     "changed": [
@@ -1146,6 +1209,111 @@
         "Regio": "Brussel Zone - Brussel",
         "Description": "528000: Kenteken van '' naar '2-ADR-088' aangepast",
         "Time": "30-10-2026 13:02:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-158: Adres van 'Winterswijk' naar 'Doetinchem' aangepast",
+        "Time": "30-10-2026 14:02:30"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-159: Adres van 'Groenlo' naar 'Doetinchem' aangepast",
+        "Time": "30-10-2026 14:02:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "E19: Adres van 'Héliport' naar 'Genk' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "E19: Afkorting van 'LW 30' naar 'ELV' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "E19: TypeVoertuig van 'Ladderwagen' naar 'Elevator' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "E19: Kenteken van '' naar '1-JXA-863' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "E19: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "T20: Kenteken van '' naar 'PVO-125' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "T20: Bijzonderheden van '' naar 'Kraan' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P18: Adres van 'Héliport' naar 'Leuven' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P18: Afkorting van 'ZSA' naar 'HZA' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "P18: TypeVoertuig van 'Zware Schuim Autopomp' naar 'Halfzware Autopomp' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "R45: Kenteken van '' naar '1-PXN-486' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "R48: Kenteken van '' naar 'TDX-442' aangepast",
+        "Time": "30-10-2026 14:02:42"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "R48: Bijzonderheden van '' naar 'Onopvallend voertuig Woordvoerder' aangepast",
+        "Time": "30-10-2026 14:02:42"
       }
     ]
   },
