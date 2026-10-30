@@ -109,7 +109,7 @@
   Records checked : 6,732  (of 10,116 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  539 value(s) affected
+  Duplicate Roepnummer  --  541 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -3832,7 +3832,7 @@
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : L02
-      Kenteken    : 
+      Kenteken    : 1-JSA-951
 
   >> 'L05'  (2x)
       Adres       : Herd-de-Stad
@@ -4004,7 +4004,7 @@
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : L17
-      Kenteken    : 
+      Kenteken    : 1-JSB-102
       Adres       : Scherpenheuvel-Zichem
       Hulpdienst  : Brandweer
       Roepnummer  : L17
@@ -4090,6 +4090,16 @@
       Adres       : Opwijk
       Hulpdienst  : Brandweer
       Roepnummer  : L22
+      Kenteken    : 
+
+  >> 'L23'  (2x)
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : L23
+      Kenteken    : 1-JSA-458
+      Adres       : Vilvoorde
+      Hulpdienst  : Brandweer
+      Roepnummer  : L23
       Kenteken    : 
 
   >> 'L3'  (2x)
@@ -5870,16 +5880,6 @@
       Roepnummer  : S25
       Kenteken    : 
 
-  >> 'S27'  (2x)
-      Adres       : Hasselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : S27
-      Kenteken    : 
-      Adres       : Kuurne
-      Hulpdienst  : Brandweer
-      Roepnummer  : S27
-      Kenteken    : 
-
   >> 'S29'  (2x)
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
@@ -5929,6 +5929,26 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S31
       Kenteken    : 
+
+  >> 'S35'  (2x)
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : S35
+      Kenteken    : 2-JCK-040
+      Adres       : Dendermonde
+      Hulpdienst  : Brandweer
+      Roepnummer  : S35
+      Kenteken    : 1-JLC-845
+
+  >> 'S36'  (2x)
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : S36
+      Kenteken    : 2-JJQ-790
+      Adres       : Dendermonde
+      Hulpdienst  : Brandweer
+      Roepnummer  : S36
+      Kenteken    : 1-NNP-522
 
   >> 'S4'  (3x)
       Adres       : Overijse
