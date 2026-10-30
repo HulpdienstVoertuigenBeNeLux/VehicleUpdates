@@ -1,5 +1,469 @@
 [
   {
+    "date": "2026-10-31",
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " HZA toegevoegd aan Hemiksem",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " ZA toegevoegd aan Hemiksem",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " LW toegevoegd aan Hemiksem",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " SH toegevoegd aan Hemiksem",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " PM toegevoegd aan Hemiksem",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " PM toegevoegd aan Hemiksem",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " CP-OPS toegevoegd aan Hemiksem",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "L541 DAT toegevoegd aan Herentals",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "L542 DA toegevoegd aan Herentals",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "B541 CCFM toegevoegd aan Herentals",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "H551 LW toegevoegd aan Herenthout",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "M551 SH toegevoegd aan Herenthout",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "S551 PM toegevoegd aan Herenthout",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "L551 PM toegevoegd aan Herenthout",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L74 MFT toegevoegd aan Hasselt",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L29 PM toegevoegd aan Herk-de-Stad",
+        "Time": "31-10-2026 00:02:26"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "R541 SH verwijderd van Herentals",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": " BMC verwijderd van Herenthout",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S01 DA verwijderd van Hasselt",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S05 DAT verwijderd van Hasselt",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S06 DA verwijderd van Hasselt",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L06 DB verwijderd van Hasselt",
+        "Time": "31-10-2026 00:02:26"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "A24: Adres van 'Herd-de-Stad' naar 'Herk-de-Stad' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T551: Adres van 'Ravels' naar 'Herenthout' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T551: Afkorting van 'CCFM' naar 'TW' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T551: TypeVoertuig van 'Bosbrand Autopomp Terreinvaardig' naar 'Tankwagen' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T551: Kenteken van '' naar '1-JRY-107' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "A515: Kenteken van '1-JRY-789' naar '1-JRX-172' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "A541: Kenteken van '' naar '1-DYR-281' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "A542: Afkorting van 'DA' naar 'HZA' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "A542: TypeVoertuig van 'Dienstauto' naar 'Halfzware Autopomp' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "A542: Kenteken van '' naar '1-JRY-631' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "A546: Kenteken van '' naar '1-JRY-789' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "T545: Kenteken van '' naar '1-JRY-743' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "H541: Afkorting van 'LW 37' naar 'LW' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "H541: Kenteken van '' naar '2-HJP-505' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "H541: Bijzonderheden van '' naar 'Lengte: 32 meter.' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "L543: Kenteken van '' naar '1-JTB-638' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "M541: Kenteken van '' naar '1-JRY-816' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "L544: Kenteken van '' naar '1-JRY-737' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "C541: Kenteken van '' naar '1-JTB-546' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "C542: Kenteken van '' naar '1-JTB-654' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "L545: Kenteken van '' naar '1-JRY-755' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "L548: Kenteken van '' naar '1-WAG-420' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "A551: Kenteken van '' naar '1-DYR-683' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S29: Kenteken van '' naar '1-JSA-913' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S08: Adres van 'Hasselt' naar 'Borgloon' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S08: Afkorting van 'CO' naar 'PM' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S08: TypeVoertuig van 'Commandovoertuig' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S08: Kenteken van '' naar '1-JSA-886' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E05: Afkorting van 'HW 32' naar 'ELV' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E05: TypeVoertuig van 'Hoogwerker' naar 'Elevator' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E05: Kenteken van '' naar '1-JPP-890' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E05: Bijzonderheden van '' naar 'Lengte: 32 meter.' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L70: Afkorting van 'BM' naar 'MFT-VER' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L70: TypeVoertuig van 'Bijzonder Materiaal' naar 'Multifunctioneel voertuig terreinvaardig verreiker' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L70: Kenteken van '' naar '1-KVR-139' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L70: Bijzonderheden van 'Wiellader' naar '' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E07: Adres van 'Herd-de-Stad' naar 'Herk-de-Stad' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E07: Afkorting van 'LW 24' naar 'LW' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E07: Kenteken van '' naar '1-JPR-037' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E07: Bijzonderheden van '' naar 'Lengte: 24 meter.' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M05: Adres van 'Herd-de-Stad' naar 'Herk-de-Stad' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M05: Kenteken van '' naar '1-RRN-807' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": "HERENTALS 1: Kenteken van '' naar '1-XKK-518' aangepast",
+        "Time": "31-10-2026 00:02:26"
+      }
+    ]
+  },
+  {
     "date": "2026-10-30",
     "added": [
       {
@@ -22118,11 +22582,5 @@
         "Time": "30-09-2026 20:00:32"
       }
     ]
-  },
-  {
-    "date": "2026-09-29",
-    "added": [],
-    "removed": [],
-    "changed": []
   }
 ]
