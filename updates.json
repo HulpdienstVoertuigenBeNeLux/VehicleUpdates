@@ -176,6 +176,41 @@
         "Regio": "West-Vlaanderen Zone - Fluvia",
         "Description": "L305 PM toegevoegd aan Kuurne",
         "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-9222 AGS toegevoegd aan Nijmegen Centrum",
+        "Time": "01-11-2026 15:02:28"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E04 ELV toegevoegd aan Heusden-Zolder",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L28 PM toegevoegd aan Heusden-Zolder",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S28 DA toegevoegd aan Heusden-Zolder",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M114 SVC toegevoegd aan Heusden-Zolder",
+        "Time": "01-11-2026 15:02:37"
       }
     ],
     "removed": [
@@ -255,6 +290,20 @@
         "Regio": "West-Vlaanderen Zone - Fluvia",
         "Description": "L60 DPA verwijderd van Heule",
         "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "R08 SH verwijderd van Heusden-Zolder",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S07 DB verwijderd van Heusden-Zolder",
+        "Time": "01-11-2026 15:02:37"
       }
     ],
     "changed": [
@@ -600,6 +649,139 @@
         "Regio": "West-Vlaanderen Zone - Fluvia",
         "Description": "L308: Kenteken van '' naar '1-KJU-197' aangepast",
         "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-0085: Afkorting van 'GSH' naar 'BMH-OTO' aangepast",
+        "Time": "01-11-2026 15:02:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-0085: TypeVoertuig van 'Gevaarlijke stoffen haakarmbak' naar 'Bijzonder materieel haakarmbak t.b.v. opleiding, training en oefenen' aangepast",
+        "Time": "01-11-2026 15:02:28"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "B03: Afkorting van 'LAT' naar 'CCFM' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "B03: TypeVoertuig van 'Lichte Autopomp Terreinvaardig' naar 'Bosbrand Autopomp Terreinvaardig' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "B03: Kenteken van '' naar '1-JPP-841' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L61: Kenteken van '' naar '1-JSC-432' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M199: Afkorting van 'IGS-CMIC' naar 'GPC' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M199: TypeVoertuig van 'IGS -CMIC / milieucontainer' naar 'Gaspakken Container' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "T03: Kenteken van '' naar '1-BYZ-943' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L91: Afkorting van 'DPC' naar 'DPV' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L91: TypeVoertuig van 'Dompelpomp Conainer' naar 'Dompelpompvoertuig' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L91: Kenteken van '' naar '1-JPP-876' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L92: Kenteken van '' naar '1-BYZ-944' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E17: Afkorting van 'LW 30' naar 'LW' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E17: Kenteken van '' naar '2-KDF-924' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E17: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "B07: Kenteken van '' naar '1-JPP-777' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L66: Kenteken van '' naar '1-RFX-363' aangepast",
+        "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "403000: Kenteken van '' naar '2-BSE-984' aangepast",
+        "Time": "01-11-2026 15:02:37"
       }
     ]
   },

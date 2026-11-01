@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,085  (of 17,281 total)
+  Records checked : 11,086  (of 17,282 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  7 value(s) affected
@@ -106,10 +106,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,760  (of 10,164 total)
+  Records checked : 6,764  (of 10,168 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  555 value(s) affected
+  Duplicate Roepnummer  --  554 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -930,7 +930,7 @@
       Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
       Roepnummer  : A22
-      Kenteken    : 
+      Kenteken    : 1-CYJ-674
       Adres       : Aalter
       Hulpdienst  : Brandweer
       Roepnummer  : A22
@@ -1044,7 +1044,7 @@
       Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
       Roepnummer  : A30
-      Kenteken    : 
+      Kenteken    : 1-JYD-117
       Adres       : Leuze-en-Hainaut
       Hulpdienst  : Brandweer
       Roepnummer  : A30
@@ -1606,7 +1606,7 @@
       Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
       Roepnummer  : B03
-      Kenteken    : 
+      Kenteken    : 1-JPP-841
 
   >> 'B101'  (2x)
       Adres       : Hannut
@@ -2011,16 +2011,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C02
       Kenteken    : 
-
-  >> 'C04'  (2x)
-      Adres       : Heusden-Zolder
-      Hulpdienst  : Brandweer
-      Roepnummer  : C04
-      Kenteken    : 
-      Adres       : Halle
-      Hulpdienst  : Brandweer
-      Roepnummer  : C04
-      Kenteken    : 2-BQN-119
 
   >> 'C05'  (2x)
       Adres       : Tessenderlo
@@ -4066,11 +4056,15 @@
       Roepnummer  : L116
       Kenteken    : 
 
-  >> 'L12'  (2x)
+  >> 'L12'  (3x)
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : L12
       Kenteken    : 1-XNG-969
+      Adres       : Heusden-Zolder
+      Hulpdienst  : Brandweer
+      Roepnummer  : L12
+      Kenteken    : 1-JSB-296
       Adres       : Diest
       Hulpdienst  : Brandweer
       Roepnummer  : L12
@@ -4222,11 +4216,15 @@
       Roepnummer  : L23
       Kenteken    : 
 
-  >> 'L25'  (2x)
+  >> 'L25'  (3x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : L25
       Kenteken    : 1-CYA-269
+      Adres       : Heusden-Zolder
+      Hulpdienst  : Brandweer
+      Roepnummer  : L25
+      Kenteken    : 1-SGT-237
       Adres       : Kuurne
       Hulpdienst  : Brandweer
       Roepnummer  : L25
@@ -4396,7 +4394,7 @@
       Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
       Roepnummer  : L61
-      Kenteken    : 
+      Kenteken    : 1-JSC-432
 
   >> 'L63'  (2x)
       Adres       : Hasselt
@@ -4508,7 +4506,11 @@
       Roepnummer  : M11
       Kenteken    : 
 
-  >> 'M12'  (2x)
+  >> 'M12'  (3x)
+      Adres       : Heusden-Zolder
+      Hulpdienst  : Brandweer
+      Roepnummer  : M12
+      Kenteken    : 1-JPP-739
       Adres       : Diest
       Hulpdienst  : Brandweer
       Roepnummer  : M12
@@ -5682,7 +5684,7 @@
       Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
       Roepnummer  : R25
-      Kenteken    : 
+      Kenteken    : 1-KTU-220
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : R25
@@ -5972,7 +5974,7 @@
       Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
       Roepnummer  : S19
-      Kenteken    : 
+      Kenteken    : 1-JSB-320
       Adres       : Aarschot
       Hulpdienst  : Brandweer
       Roepnummer  : S19
@@ -6002,11 +6004,7 @@
       Roepnummer  : S21
       Kenteken    : 
 
-  >> 'S23'  (3x)
-      Adres       : Heusden-Zolder
-      Hulpdienst  : Brandweer
-      Roepnummer  : S23
-      Kenteken    : 
+  >> 'S23'  (2x)
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : S23
@@ -6015,16 +6013,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S23
       Kenteken    : 1-LES-263
-
-  >> 'S25'  (2x)
-      Adres       : Heusden-Zolder
-      Hulpdienst  : Brandweer
-      Roepnummer  : S25
-      Kenteken    : 
-      Adres       : Wevelgem
-      Hulpdienst  : Brandweer
-      Roepnummer  : S25
-      Kenteken    : 
 
   >> 'S29'  (2x)
       Adres       : Bilzen-Hoeselt
@@ -6071,6 +6059,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S31
       Kenteken    : 
+
+  >> 'S34'  (2x)
+      Adres       : Heusden-Zolder
+      Hulpdienst  : Brandweer
+      Roepnummer  : S34
+      Kenteken    : 2-GLF-068
+      Adres       : Dendermonde
+      Hulpdienst  : Brandweer
+      Roepnummer  : S34
+      Kenteken    : 1-JLH-250
 
   >> 'S35'  (2x)
       Adres       : Hasselt
@@ -6402,7 +6400,7 @@
       Roepnummer  : T10
       Kenteken    : 
 
-  >> 'T11'  (9x)
+  >> 'T11'  (10x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : T11
@@ -6415,6 +6413,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : T11
       Kenteken    : 1-JXA-396
+      Adres       : Heusden-Zolder
+      Hulpdienst  : Brandweer
+      Roepnummer  : T11
+      Kenteken    : 1-JSC-426
       Adres       : Overijse
       Hulpdienst  : Brandweer
       Roepnummer  : T11
