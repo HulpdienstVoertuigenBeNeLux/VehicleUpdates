@@ -106,10 +106,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,758  (of 10,162 total)
+  Records checked : 6,760  (of 10,164 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  556 value(s) affected
+  Duplicate Roepnummer  --  555 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -3904,6 +3904,16 @@
       Roepnummer  : K21
       Kenteken    : 
 
+  >> 'K437'  (2x)
+      Adres       : Heule
+      Hulpdienst  : Brandweer
+      Roepnummer  : K437
+      Kenteken    : 
+      Adres       : Houthulst
+      Hulpdienst  : Brandweer
+      Roepnummer  : K437
+      Kenteken    : 
+
   >> 'K5'  (2x)
       Adres       : Kalmthout
       Hulpdienst  : Brandweer
@@ -4287,16 +4297,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : L311
       Kenteken    : 
-
-  >> 'L312'  (2x)
-      Adres       : Kortrijk
-      Hulpdienst  : Brandweer
-      Roepnummer  : L312
-      Kenteken    : 
-      Adres       : Kuurne
-      Hulpdienst  : Brandweer
-      Roepnummer  : L312
-      Kenteken    : 1-SBR-584
 
   >> 'L32'  (2x)
       Adres       : Pelt
@@ -5926,7 +5926,7 @@
       Roepnummer  : S13
       Kenteken    : 
 
-  >> 'S14'  (3x)
+  >> 'S14'  (4x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : S14
@@ -5939,6 +5939,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S14
       Kenteken    : 1-YUC-359
+      Adres       : Heule
+      Hulpdienst  : Brandweer
+      Roepnummer  : S14
+      Kenteken    : 1-KCT-549
 
   >> 'S15'  (2x)
       Adres       : Hasselt
@@ -5962,16 +5966,6 @@
       Adres       : Landen
       Hulpdienst  : Brandweer
       Roepnummer  : S16
-      Kenteken    : 
-
-  >> 'S17'  (2x)
-      Adres       : Scherpenheuvel-Zichem
-      Hulpdienst  : Brandweer
-      Roepnummer  : S17
-      Kenteken    : 
-      Adres       : Heule
-      Hulpdienst  : Brandweer
-      Roepnummer  : S17
       Kenteken    : 
 
   >> 'S19'  (2x)

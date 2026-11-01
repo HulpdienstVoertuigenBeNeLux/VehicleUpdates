@@ -134,6 +134,48 @@
         "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
         "Description": "HE-LV-1 PM toegevoegd aan Herzele",
         "Time": "01-11-2026 13:02:28"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "HE-PW-1 PM toegevoegd aan Herzele",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "HE-LV-2 LO toegevoegd aan Herzele",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "K355 SLA toegevoegd aan Heule",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "K360 DMA toegevoegd aan Heule",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "K377 DPA toegevoegd aan Heule",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "L305 PM toegevoegd aan Kuurne",
+        "Time": "01-11-2026 14:01:36"
       }
     ],
     "removed": [
@@ -192,6 +234,27 @@
         "Regio": "",
         "Description": " PIT verwijderd van Lokeren",
         "Time": "01-11-2026 12:02:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": " DMA verwijderd van Herzele",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "L55 SLA verwijderd van Heule",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "L60 DPA verwijderd van Heule",
+        "Time": "01-11-2026 14:01:36"
       }
     ],
     "changed": [
@@ -425,6 +488,118 @@
         "Regio": "Luik Zone - IILE-SRI",
         "Description": "7719: Kenteken van '' naar '2-GTM-676' aangepast",
         "Time": "01-11-2026 12:02:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "S14: Adres van 'Héliport' naar 'Heule' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "S14: Afkorting van 'HV-KR' naar 'DB' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "S14: TypeVoertuig van 'Hulpverleningsvoertuig (met kraan)' naar 'Dienstbus Personeel / Materiaal' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Brussel Zone - Brussel",
+        "Description": "S14: Kenteken van '1-YUC-359' naar '1-KCT-549' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "S17: Adres van 'Heule' naar 'Scherpenheuvel-Zichem' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "S17: Afkorting van 'DB' naar 'SIG' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "S17: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Signalisatievoertuig' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "BR-LV-1: Afkorting van 'PM' naar 'LO' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "BR-LV-1: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Logistiek voertuig' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "HE-LV-1: Afkorting van 'PM' naar 'LO' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "HE-LV-1: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Logistiek voertuig' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "A322: Kenteken van '' naar '1-DYL-001' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "M313: Kenteken van '' naar '1-JKU-587' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "L307: Adres van 'Kortrijk' naar 'Heule' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "L307: Kenteken van '' naar '1-JKU-237' aangepast",
+        "Time": "01-11-2026 14:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "L308: Kenteken van '' naar '1-KJU-197' aangepast",
+        "Time": "01-11-2026 14:01:36"
       }
     ]
   },

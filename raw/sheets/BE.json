@@ -38313,8 +38313,8 @@
     [
       "Brakel",
       "BR-LV-1",
-      "PM",
-      "Personeel / Materiaal Voertuig",
+      "LO",
+      "Logistiek voertuig",
       "1-LHB-680",
       "",
       "",
@@ -38492,9 +38492,9 @@
     ],
     [
       "Herzele",
-      "",
-      "HW 27",
-      "Hoogwerker",
+      "HE-PW-1",
+      "PM",
+      "Personeel / Materiaal Voertuig",
       "",
       "",
       "",
@@ -38508,8 +38508,8 @@
     [
       "Herzele",
       "HE-LV-1",
-      "PM",
-      "Personeel / Materiaal Voertuig",
+      "LO",
+      "Logistiek voertuig",
       "1-JSB-426",
       "",
       "",
@@ -38522,10 +38522,10 @@
     ],
     [
       "Herzele",
+      "HE-LV-2",
+      "LO",
+      "Logistiek voertuig",
       "",
-      "DMA",
-      "Draagbare Motorpomp Aanhanger",
-      "HVX-459",
       "",
       "",
       "Brandweer",
@@ -38540,7 +38540,7 @@
       "",
       "DMA",
       "Draagbare Motorpomp Aanhanger",
-      "",
+      "HVX-459",
       "",
       "",
       "Brandweer",
@@ -52700,7 +52700,7 @@
       "A322",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-DYL-001",
       "",
       "",
       "Brandweer",
@@ -52715,7 +52715,7 @@
       "M313",
       "IZA",
       "Industriële Zware Autopomp",
-      "",
+      "1-JKU-587",
       "",
       "",
       "Brandweer",
@@ -52727,10 +52727,10 @@
     ],
     [
       "Heule",
-      "L308",
-      "HV",
-      "Hulpverleningsvoertuig",
-      "",
+      "L307",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "1-JKU-237",
       "",
       "",
       "Brandweer",
@@ -52742,10 +52742,10 @@
     ],
     [
       "Heule",
-      "S17",
-      "DB",
-      "Dienstbus Personeel / Materiaal",
-      "",
+      "L308",
+      "HV",
+      "Hulpverleningsvoertuig",
+      "1-KJU-197",
       "",
       "",
       "Brandweer",
@@ -52757,10 +52757,10 @@
     ],
     [
       "Heule",
-      "L55",
-      "SLA",
-      "Slangen Aanhanger",
-      "",
+      "S14",
+      "DB",
+      "Dienstbus Personeel / Materiaal",
+      "1-KCT-549",
       "",
       "",
       "Brandweer",
@@ -52772,7 +52772,37 @@
     ],
     [
       "Heule",
-      "L60",
+      "K355",
+      "SLA",
+      "Slangen Aanhanger",
+      "Q-AAH-754",
+      "",
+      "",
+      "Brandweer",
+      "West-Vlaanderen Zone - Fluvia",
+      "",
+      "",
+      "",
+      "VEH-006-POST-1925"
+    ],
+    [
+      "Heule",
+      "K360",
+      "DMA",
+      "Draagbare Motorpomp Aanhanger",
+      "Q-AAH-755",
+      "",
+      "",
+      "Brandweer",
+      "West-Vlaanderen Zone - Fluvia",
+      "",
+      "",
+      "",
+      "VEH-007-POST-1925"
+    ],
+    [
+      "Heule",
+      "K377",
       "DPA",
       "DompelPomp Aanhager",
       "",
@@ -52783,7 +52813,22 @@
       "",
       "",
       "",
-      "VEH-006-POST-1925"
+      "VEH-008-POST-1925"
+    ],
+    [
+      "Heule",
+      "K437",
+      "MTA",
+      "Monitor Aanhanger",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "West-Vlaanderen Zone - Fluvia",
+      "",
+      "",
+      "",
+      "VEH-009-POST-1925"
     ],
     [
       "Kortrijk - Doorniksesteenweg 214 /A",
@@ -52892,7 +52937,7 @@
     ],
     [
       "Kortrijk",
-      "L307",
+      "L316",
       "PM",
       "Personeel / Materiaal Voertuig",
       "",
@@ -52907,7 +52952,7 @@
     ],
     [
       "Kortrijk",
-      "L316",
+      "M02",
       "PM",
       "Personeel / Materiaal Voertuig",
       "",
@@ -52922,21 +52967,6 @@
     ],
     [
       "Kortrijk",
-      "M02",
-      "PM",
-      "Personeel / Materiaal Voertuig",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "West-Vlaanderen Zone - Fluvia",
-      "",
-      "",
-      "",
-      "VEH-009-POST-1926"
-    ],
-    [
-      "Kortrijk",
       "",
       "SIG",
       "Signalisatievoertuig",
@@ -52948,7 +52978,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-1926"
+      "VEH-009-POST-1926"
     ],
     [
       "Kortrijk",
@@ -52963,7 +52993,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-1926"
+      "VEH-010-POST-1926"
     ],
     [
       "Kortrijk",
@@ -52978,7 +53008,7 @@
       "",
       "",
       "",
-      "VEH-012-POST-1926"
+      "VEH-011-POST-1926"
     ],
     [
       "Kortrijk",
@@ -52993,7 +53023,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-1926"
+      "VEH-012-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53008,7 +53038,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-1926"
+      "VEH-013-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53023,7 +53053,7 @@
       "",
       "",
       "",
-      "VEH-015-POST-1926"
+      "VEH-014-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53038,7 +53068,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-1926"
+      "VEH-015-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53053,7 +53083,7 @@
       "",
       "",
       "",
-      "VEH-017-POST-1926"
+      "VEH-016-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53068,7 +53098,7 @@
       "",
       "",
       "",
-      "VEH-018-POST-1926"
+      "VEH-017-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53083,7 +53113,7 @@
       "",
       "",
       "",
-      "VEH-019-POST-1926"
+      "VEH-018-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53092,6 +53122,21 @@
       "Bijzondere Materialen Container",
       "",
       "",
+      "",
+      "Brandweer",
+      "West-Vlaanderen Zone - Fluvia",
+      "",
+      "",
+      "",
+      "VEH-019-POST-1926"
+    ],
+    [
+      "Kortrijk",
+      "",
+      "BMA",
+      "Bijzondere Materialen Aanhanger",
+      "",
+      "Slijkpomp Aahanger",
       "",
       "Brandweer",
       "West-Vlaanderen Zone - Fluvia",
@@ -53118,21 +53163,6 @@
     [
       "Kortrijk",
       "",
-      "BMA",
-      "Bijzondere Materialen Aanhanger",
-      "",
-      "Slijkpomp Aahanger",
-      "",
-      "Brandweer",
-      "West-Vlaanderen Zone - Fluvia",
-      "",
-      "",
-      "",
-      "VEH-022-POST-1926"
-    ],
-    [
-      "Kortrijk",
-      "",
       "HRA",
       "RISC / GRIMP ( Hoogteredding )",
       "",
@@ -53143,7 +53173,7 @@
       "",
       "",
       "",
-      "VEH-023-POST-1926"
+      "VEH-022-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53158,7 +53188,7 @@
       "",
       "",
       "",
-      "VEH-024-POST-1926"
+      "VEH-023-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53173,7 +53203,7 @@
       "",
       "",
       "",
-      "VEH-025-POST-1926"
+      "VEH-024-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53188,7 +53218,7 @@
       "",
       "",
       "",
-      "VEH-026-POST-1926"
+      "VEH-025-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53203,22 +53233,7 @@
       "",
       "",
       "",
-      "VEH-027-POST-1926"
-    ],
-    [
-      "Kortrijk",
-      "L312",
-      "VW",
-      "Vrachtwagen",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "West-Vlaanderen Zone - Fluvia",
-      "",
-      "",
-      "",
-      "VEH-028-POST-1926"
+      "VEH-026-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53233,7 +53248,7 @@
       "",
       "",
       "",
-      "VEH-029-POST-1926"
+      "VEH-027-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53248,7 +53263,7 @@
       "",
       "",
       "",
-      "VEH-030-POST-1926"
+      "VEH-028-POST-1926"
     ],
     [
       "Kortrijk",
@@ -53263,7 +53278,7 @@
       "",
       "",
       "",
-      "VEH-031-POST-1926"
+      "VEH-029-POST-1926"
     ],
     [
       "Kuurne - Weggevoerdenplein 8",
@@ -53357,6 +53372,21 @@
     ],
     [
       "Kuurne",
+      "L305",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "1-JKU-384",
+      "",
+      "",
+      "Brandweer",
+      "West-Vlaanderen Zone - Fluvia",
+      "",
+      "",
+      "",
+      "VEH-006-POST-1927"
+    ],
+    [
+      "Kuurne",
       "L312",
       "VR",
       "Veeredding",
@@ -53368,7 +53398,7 @@
       "",
       "",
       "",
-      "VEH-006-POST-1927"
+      "VEH-007-POST-1927"
     ],
     [
       "Kuurne",
@@ -53383,7 +53413,7 @@
       "",
       "",
       "",
-      "VEH-007-POST-1927"
+      "VEH-008-POST-1927"
     ],
     [
       "Kuurne",
@@ -53398,7 +53428,7 @@
       "",
       "",
       "",
-      "VEH-008-POST-1927"
+      "VEH-009-POST-1927"
     ],
     [
       "Kuurne",
@@ -53413,7 +53443,7 @@
       "",
       "",
       "",
-      "VEH-009-POST-1927"
+      "VEH-010-POST-1927"
     ],
     [
       "Kuurne",
@@ -53428,7 +53458,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-1927"
+      "VEH-011-POST-1927"
     ],
     [
       "Kuurne",
@@ -53443,7 +53473,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-1927"
+      "VEH-012-POST-1927"
     ],
     [
       "Ledegem - Kloosterstraat 6a",
