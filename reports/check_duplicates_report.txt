@@ -106,10 +106,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,768  (of 10,172 total)
+  Records checked : 6,765  (of 10,169 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  555 value(s) affected
+  Duplicate Roepnummer  --  554 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -1627,16 +1627,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : B102
       Kenteken    : 1-PSX-396
-
-  >> 'B108'  (2x)
-      Adres       : Houffalize
-      Hulpdienst  : Brandweer
-      Roepnummer  : B108
-      Kenteken    : 
-      Adres       : Houffalize
-      Hulpdienst  : Brandweer
-      Roepnummer  : B108
-      Kenteken    : 
 
   >> 'B11'  (6x)
       Adres       : Sint-Job-in-'t-Goor
@@ -7002,16 +6992,6 @@
       Roepnummer  : T8
       Kenteken    : 
 
-  >> 'T804'  (2x)
-      Adres       : Hoogstraten
-      Hulpdienst  : Brandweer
-      Roepnummer  : T804
-      Kenteken    : 
-      Adres       : Hoogstraten
-      Hulpdienst  : Brandweer
-      Roepnummer  : T804
-      Kenteken    : 1-KSD-062
-
   >> 'T822'  (2x)
       Adres       : Turnhout
       Hulpdienst  : Brandweer
@@ -7241,6 +7221,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : V107
       Kenteken    : 1-WQX-292
+
+  >> 'V108'  (2x)
+      Adres       : Oostkamp
+      Hulpdienst  : Brandweer
+      Roepnummer  : V108
+      Kenteken    : 
+      Adres       : Houffalize
+      Hulpdienst  : Brandweer
+      Roepnummer  : V108
+      Kenteken    : 1-XWX-110
 
   >> 'V109'  (3x)
       Adres       : Middelkerke
