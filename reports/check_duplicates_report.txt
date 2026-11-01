@@ -106,10 +106,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,750  (of 10,154 total)
+  Records checked : 6,758  (of 10,162 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  555 value(s) affected
+  Duplicate Roepnummer  --  556 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -1194,6 +1194,16 @@
       Roepnummer  : A36
       Kenteken    : 1-NLR-819
 
+  >> 'A404'  (2x)
+      Adres       : Poperinge
+      Hulpdienst  : Brandweer
+      Roepnummer  : A404
+      Kenteken    : 1-NPR-761
+      Adres       : Battice
+      Hulpdienst  : Ambulance
+      Roepnummer  : A404
+      Kenteken    : 2-EWA-245
+
   >> 'A41'  (4x)
       Adres       : Peer
       Hulpdienst  : Brandweer
@@ -1736,7 +1746,7 @@
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : B402
-      Kenteken    : 
+      Kenteken    : 1-LUH-295
       Adres       : Verviers
       Hulpdienst  : Brandweer
       Roepnummer  : B402
@@ -2716,16 +2726,6 @@
       Roepnummer  : C405
       Kenteken    : 
 
-  >> 'C408'  (2x)
-      Adres       : Herve
-      Hulpdienst  : Brandweer
-      Roepnummer  : C408
-      Kenteken    : 
-      Adres       : Verviers
-      Hulpdienst  : Brandweer
-      Roepnummer  : C408
-      Kenteken    : 
-
   >> 'C41'  (5x)
       Adres       : Peer
       Hulpdienst  : Brandweer
@@ -3220,7 +3220,7 @@
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : D403
-      Kenteken    : 
+      Kenteken    : 1-LSL-816
 
   >> 'D41'  (2x)
       Adres       : Hamme
@@ -5362,7 +5362,7 @@
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : P406
-      Kenteken    : 
+      Kenteken    : 1-FYT-562
       Adres       : Spa
       Hulpdienst  : Brandweer
       Roepnummer  : P406
@@ -7336,7 +7336,7 @@
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : V402
-      Kenteken    : 
+      Kenteken    : 1-LUH-903
       Adres       : Aubange
       Hulpdienst  : Brandweer
       Roepnummer  : V402
@@ -7354,7 +7354,7 @@
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : V403
-      Kenteken    : 
+      Kenteken    : 1-LUG-627
       Adres       : Bastogne
       Hulpdienst  : Brandweer
       Roepnummer  : V403
@@ -7368,7 +7368,7 @@
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : V405
-      Kenteken    : 
+      Kenteken    : 1-LUG-763
 
   >> 'V406'  (4x)
       Adres       : Poperinge
@@ -7378,7 +7378,7 @@
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : V406
-      Kenteken    : 
+      Kenteken    : 1-LUH-248
       Adres       : Erezée
       Hulpdienst  : Brandweer
       Roepnummer  : V406
@@ -7396,20 +7396,10 @@
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : V407
-      Kenteken    : 
+      Kenteken    : 1-LUH-161
       Adres       : Verviers
       Hulpdienst  : Brandweer
       Roepnummer  : V407
-      Kenteken    : 
-
-  >> 'V408'  (2x)
-      Adres       : Wervik
-      Hulpdienst  : Brandweer
-      Roepnummer  : V408
-      Kenteken    : 1-NSA-816
-      Adres       : Herve
-      Hulpdienst  : Brandweer
-      Roepnummer  : V408
       Kenteken    : 
 
   >> 'V409'  (2x)
@@ -7426,7 +7416,7 @@
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : V421
-      Kenteken    : 
+      Kenteken    : 1-TME-588
       Adres       : Verviers
       Hulpdienst  : Brandweer
       Roepnummer  : V421
@@ -7436,10 +7426,20 @@
       Adres       : Herve
       Hulpdienst  : Brandweer
       Roepnummer  : V422
-      Kenteken    : 
+      Kenteken    : 1-TME-677
       Adres       : Verviers
       Hulpdienst  : Brandweer
       Roepnummer  : V422
+      Kenteken    : 
+
+  >> 'V431'  (2x)
+      Adres       : Herve
+      Hulpdienst  : Brandweer
+      Roepnummer  : V431
+      Kenteken    : 1-WGU-913
+      Adres       : Verviers
+      Hulpdienst  : Brandweer
+      Roepnummer  : V431
       Kenteken    : 
 
   >> 'VC10'  (2x)
@@ -7470,6 +7470,16 @@
       Adres       : Sambreville
       Hulpdienst  : Brandweer
       Roepnummer  : VC3
+      Kenteken    : 
+
+  >> 'VC404'  (2x)
+      Adres       : Herve
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC404
+      Kenteken    : 1-WJM-556
+      Adres       : Welkenraedt
+      Hulpdienst  : Brandweer
+      Roepnummer  : VC404
       Kenteken    : 
 
   >> 'VC?'  (6x)
