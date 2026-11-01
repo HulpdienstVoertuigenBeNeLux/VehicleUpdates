@@ -10940,7 +10940,7 @@
       "T661",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-DYC-469",
       "",
       "",
       "Brandweer",
@@ -10955,7 +10955,7 @@
       "T662",
       "HZA",
       "Halfzware Autopomp",
-      "",
+      "1-KRP-596",
       "",
       "",
       "Brandweer",
@@ -10970,7 +10970,7 @@
       "T657",
       "ZA",
       "Zware Autopomp",
-      "",
+      "1-KRS-213",
       "",
       "",
       "Brandweer",
@@ -10985,7 +10985,7 @@
       "T862",
       "TW",
       "Tankwagen",
-      "",
+      "1-TAS-268",
       "",
       "",
       "Brandweer",
@@ -10998,10 +10998,10 @@
     [
       "Hoogstraten",
       "T761",
-      "LW 32",
+      "LW",
       "Ladderwagen",
-      "",
-      "",
+      "2-FLU-487",
+      "Lengte: 32 meter.",
       "",
       "Brandweer",
       "Antwerpen Zone - Taxandria",
@@ -11015,7 +11015,7 @@
       "T863",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-XSC-130",
       "",
       "",
       "Brandweer",
@@ -11030,7 +11030,7 @@
       "T865",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-KSE-303",
       "",
       "",
       "Brandweer",
@@ -11045,7 +11045,7 @@
       "T870",
       "SIG",
       "Signalisatievoertuig",
-      "",
+      "1-KSC-882",
       "",
       "",
       "Brandweer",
@@ -11058,9 +11058,9 @@
     [
       "Hoogstraten",
       "T965",
-      "DB",
-      "Dienstbus Personeel / Materiaal",
-      "",
+      "DA",
+      "Dienstauto",
+      "1-KSC-811",
       "",
       "",
       "Brandweer",
@@ -11069,6 +11069,51 @@
       "",
       "",
       "VEH-009-POST-051"
+    ],
+    [
+      "Hoogstraten",
+      "",
+      "DA",
+      "Dienstauto",
+      "1-KSD-374",
+      "",
+      "",
+      "Brandweer",
+      "Antwerpen Zone - Taxandria",
+      "",
+      "",
+      "",
+      "VEH-010-POST-051"
+    ],
+    [
+      "Hoogstraten",
+      "",
+      "DA",
+      "Dienstauto",
+      "1-XWB-704",
+      "",
+      "",
+      "Brandweer",
+      "Antwerpen Zone - Taxandria",
+      "",
+      "",
+      "",
+      "VEH-011-POST-051"
+    ],
+    [
+      "Hoogstraten",
+      "",
+      "LO",
+      "Logistiek voertuig",
+      "2-APZ-389",
+      "T.b.v Rehab",
+      "",
+      "Brandweer",
+      "Antwerpen Zone - Taxandria",
+      "",
+      "",
+      "",
+      "VEH-012-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11083,14 +11128,14 @@
       "",
       "",
       "",
-      "VEH-010-POST-051"
+      "VEH-014-POST-051"
     ],
     [
       "Hoogstraten",
-      "T869",
-      "HA-KR",
-      "Haakarmvoertuig (Met kraan)",
-      "",
+      "T804",
+      "CO",
+      "Commandovoertuig",
+      "1-KSD-062",
       "",
       "",
       "Brandweer",
@@ -11098,14 +11143,14 @@
       "",
       "",
       "",
-      "VEH-011-POST-051"
+      "VEH-013-POST-051"
     ],
     [
       "Hoogstraten",
       "T866",
       "HA-KR",
       "Haakarmvoertuig (Met kraan)",
-      "",
+      "1-KRP-661",
       "",
       "",
       "Brandweer",
@@ -11113,7 +11158,22 @@
       "",
       "",
       "",
-      "VEH-012-POST-051"
+      "VEH-015-POST-051"
+    ],
+    [
+      "Hoogstraten",
+      "T869",
+      "HA-KR",
+      "Haakarmvoertuig (Met kraan)",
+      "1-KRP-570",
+      "",
+      "",
+      "Brandweer",
+      "Antwerpen Zone - Taxandria",
+      "",
+      "",
+      "",
+      "VEH-016-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11128,7 +11188,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-051"
+      "VEH-017-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11143,7 +11203,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-051"
+      "VEH-018-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11151,14 +11211,14 @@
       "BMC",
       "Bijzondere Materialen Container",
       "",
-      "",
+      "T.b.v Rehab",
       "",
       "Brandweer",
       "Antwerpen Zone - Taxandria",
       "",
       "",
       "",
-      "VEH-015-POST-051"
+      "VEH-019-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11173,7 +11233,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-051"
+      "VEH-020-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11188,13 +11248,13 @@
       "",
       "",
       "",
-      "VEH-017-POST-051"
+      "VEH-021-POST-051"
     ],
     [
       "Hoogstraten",
       "",
-      "PBC",
-      "Poederblus Container",
+      "LBC",
+      "Laadbak Container",
       "",
       "",
       "",
@@ -11203,7 +11263,7 @@
       "",
       "",
       "",
-      "VEH-018-POST-051"
+      "VEH-022-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11218,13 +11278,13 @@
       "",
       "",
       "",
-      "VEH-019-POST-051"
+      "VEH-023-POST-051"
     ],
     [
       "Hoogstraten",
       "",
-      "DMA",
-      "Draagbare Motorpomp Aanhanger",
+      "MTA",
+      "Monitor Aanhanger",
       "",
       "",
       "",
@@ -11233,7 +11293,7 @@
       "",
       "",
       "",
-      "VEH-020-POST-051"
+      "VEH-024-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11248,7 +11308,7 @@
       "",
       "",
       "",
-      "VEH-021-POST-051"
+      "VEH-025-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11263,7 +11323,7 @@
       "",
       "",
       "",
-      "VEH-022-POST-051"
+      "VEH-026-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11278,7 +11338,7 @@
       "",
       "",
       "",
-      "VEH-023-POST-051"
+      "VEH-027-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11293,22 +11353,22 @@
       "",
       "",
       "",
-      "VEH-024-POST-051"
+      "VEH-028-POST-051"
     ],
     [
       "Hoogstraten",
       "",
-      "LBA",
-      "Laadbak Aanhanger",
+      "BMA",
+      "Bijzondere Materialen Aanhanger",
       "",
-      "",
+      "Absorbtiekorrels Aanhanger",
       "",
       "Brandweer",
       "Antwerpen Zone - Taxandria",
       "",
       "",
       "",
-      "VEH-025-POST-051"
+      "VEH-029-POST-051"
     ],
     [
       "Hoogstraten",
@@ -11323,7 +11383,7 @@
       "",
       "",
       "",
-      "VEH-026-POST-051"
+      "VEH-030-POST-051"
     ],
     [
       "Kasterlee - Lichtaartsebaan 4/1",
@@ -20863,7 +20923,7 @@
       "",
       "",
       "",
-      "VEH-010-POST-087"
+      "VEH-009-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -20878,7 +20938,7 @@
       "",
       "",
       "",
-      "VEH-011-POST-087"
+      "VEH-010-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -20893,7 +20953,7 @@
       "",
       "",
       "",
-      "VEH-012-POST-087"
+      "VEH-011-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -20908,7 +20968,7 @@
       "",
       "",
       "",
-      "VEH-013-POST-087"
+      "VEH-012-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -20923,7 +20983,7 @@
       "",
       "",
       "",
-      "VEH-014-POST-087"
+      "VEH-013-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -20938,7 +20998,7 @@
       "",
       "",
       "",
-      "VEH-015-POST-087"
+      "VEH-014-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -20953,7 +21013,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-087"
+      "VEH-015-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -20968,7 +21028,7 @@
       "",
       "",
       "",
-      "VEH-017-POST-087"
+      "VEH-016-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -20983,7 +21043,7 @@
       "",
       "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/VehicleImages/main/vehicles/S19-unknown.webp",
       "",
-      "VEH-018-POST-087"
+      "VEH-017-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -20998,7 +21058,7 @@
       "",
       "",
       "",
-      "VEH-019-POST-087"
+      "VEH-018-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21013,7 +21073,7 @@
       "",
       "",
       "",
-      "VEH-020-POST-087"
+      "VEH-019-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21028,7 +21088,7 @@
       "",
       "",
       "",
-      "VEH-021-POST-087"
+      "VEH-020-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21043,7 +21103,7 @@
       "",
       "",
       "",
-      "VEH-022-POST-087"
+      "VEH-021-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21058,7 +21118,7 @@
       "",
       "",
       "",
-      "VEH-023-POST-087"
+      "VEH-022-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21073,7 +21133,7 @@
       "",
       "",
       "",
-      "VEH-024-POST-087"
+      "VEH-023-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21088,7 +21148,7 @@
       "",
       "",
       "",
-      "VEH-025-POST-087"
+      "VEH-024-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21103,7 +21163,7 @@
       "",
       "",
       "",
-      "VEH-026-POST-087"
+      "VEH-025-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21118,7 +21178,7 @@
       "",
       "",
       "",
-      "VEH-027-POST-087"
+      "VEH-026-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21133,7 +21193,7 @@
       "",
       "",
       "",
-      "VEH-028-POST-087"
+      "VEH-027-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21148,7 +21208,7 @@
       "",
       "",
       "",
-      "VEH-029-POST-087"
+      "VEH-028-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21163,7 +21223,7 @@
       "",
       "",
       "",
-      "VEH-030-POST-087"
+      "VEH-029-POST-087"
     ],
     [
       "Heusden-Zolder",
@@ -21178,7 +21238,7 @@
       "",
       "",
       "",
-      "VEH-031-POST-087"
+      "VEH-030-POST-087"
     ],
     [
       "Sint-Truiden - Zepperenweg 26",
@@ -49070,7 +49130,7 @@
       "",
       "DMA",
       "Draagbare Motorpomp Aanhanger",
-      "",
+      "WG-974",
       "",
       "",
       "Brandweer",
@@ -84965,7 +85025,7 @@
       "HOOGSTRATEN 1",
       "ZW",
       "Ziekenwagen",
-      "",
+      "1-XNC-833",
       "(Team: AAHOOG01A)",
       "",
       "Ambulance",
@@ -84980,7 +85040,7 @@
       "HOOGSTRATEN 2",
       "ZW",
       "Ziekenwagen",
-      "",
+      "1-VNL-347",
       "(Team: AAHOOG02A)",
       "",
       "Ambulance",

@@ -211,6 +211,34 @@
         "Regio": "Limburg Zone - Zuid-West",
         "Description": "M114 SVC toegevoegd aan Heusden-Zolder",
         "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": " DA toegevoegd aan Hoogstraten",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": " DA toegevoegd aan Hoogstraten",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": " LO toegevoegd aan Hoogstraten",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Midwest",
+        "Description": " DMA toegevoegd aan Hooglede",
+        "Time": "01-11-2026 16:01:41"
       }
     ],
     "removed": [
@@ -304,6 +332,13 @@
         "Regio": "Limburg Zone - Zuid-West",
         "Description": "S07 DB verwijderd van Heusden-Zolder",
         "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Midwest",
+        "Description": " DMA verwijderd van Hooglede",
+        "Time": "01-11-2026 16:01:41"
       }
     ],
     "changed": [
@@ -782,6 +817,132 @@
         "Regio": "Limburg Zone - Zuid-West",
         "Description": "403000: Kenteken van '' naar '2-BSE-984' aangepast",
         "Time": "01-11-2026 15:02:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-814: Adres van 'Apeldoorn-Saba' naar 't Harde' aangepast",
+        "Time": "01-11-2026 16:01:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T661: Kenteken van '' naar '1-DYC-469' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T662: Kenteken van '' naar '1-KRP-596' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T862: Kenteken van '' naar '1-TAS-268' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T761: Afkorting van 'LW 32' naar 'LW' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T761: Kenteken van '' naar '2-FLU-487' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T761: Bijzonderheden van '' naar 'Lengte: 32 meter.' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T863: Kenteken van '' naar '1-XSC-130' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T865: Kenteken van '' naar '1-KSE-303' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T870: Kenteken van '' naar '1-KSC-882' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T965: Afkorting van 'DB' naar 'DA' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T965: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Dienstauto' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T965: Kenteken van '' naar '1-KSC-811' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T804: Kenteken van '' naar '1-KSD-062' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T866: Kenteken van '' naar '1-KRP-661' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T869: Kenteken van '' naar '1-KRP-570' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "HOOGSTRATEN 1: Kenteken van '' naar '1-XNC-833' aangepast",
+        "Time": "01-11-2026 16:01:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "HOOGSTRATEN 2: Kenteken van '' naar '1-VNL-347' aangepast",
+        "Time": "01-11-2026 16:01:41"
       }
     ]
   },

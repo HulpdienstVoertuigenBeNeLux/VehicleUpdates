@@ -106,10 +106,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,764  (of 10,168 total)
+  Records checked : 6,768  (of 10,172 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  554 value(s) affected
+  Duplicate Roepnummer  --  555 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -6948,7 +6948,7 @@
       Adres       : Hoogstraten
       Hulpdienst  : Brandweer
       Roepnummer  : T657
-      Kenteken    : 
+      Kenteken    : 1-KRS-213
       Adres       : Merksplas
       Hulpdienst  : Brandweer
       Roepnummer  : T657
@@ -7001,6 +7001,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : T8
       Kenteken    : 
+
+  >> 'T804'  (2x)
+      Adres       : Hoogstraten
+      Hulpdienst  : Brandweer
+      Roepnummer  : T804
+      Kenteken    : 
+      Adres       : Hoogstraten
+      Hulpdienst  : Brandweer
+      Roepnummer  : T804
+      Kenteken    : 1-KSD-062
 
   >> 'T822'  (2x)
       Adres       : Turnhout
