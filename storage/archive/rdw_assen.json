@@ -5446,5 +5446,108 @@
     "aantal_assen": "2",
     "aangedreven_as": "J",
     "technisch_toegestane_maximum_aslast": "3000"
+  },
+  {
+    "kenteken": "30BHH9",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "2000",
+    "technisch_toegestane_maximum_aslast": "2000"
+  },
+  {
+    "kenteken": "30BHH9",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "A",
+    "wettelijk_toegestane_maximum_aslast": "3500",
+    "technisch_toegestane_maximum_aslast": "3500"
+  },
+  {
+    "kenteken": "9VPG17",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "spoorbreedte": "153",
+    "wettelijk_toegestane_maximum_aslast": "1125"
+  },
+  {
+    "kenteken": "9VPG17",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "154",
+    "wettelijk_toegestane_maximum_aslast": "1230"
+  },
+  {
+    "kenteken": "BSLZ80",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "5600",
+    "technisch_toegestane_maximum_aslast": "5600"
+  },
+  {
+    "kenteken": "BSLZ80",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "A",
+    "wettelijk_toegestane_maximum_aslast": "10000",
+    "technisch_toegestane_maximum_aslast": "10000"
+  },
+  {
+    "kenteken": "L420LF",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "V",
+    "spoorbreedte": "173",
+    "wettelijk_toegestane_maximum_aslast": "2000",
+    "technisch_toegestane_maximum_aslast": "2000",
+    "afstand_tot_volgende_as_voertuig": "367"
+  },
+  {
+    "kenteken": "L420LF",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "A",
+    "spoorbreedte": "172",
+    "wettelijk_toegestane_maximum_aslast": "2430",
+    "technisch_toegestane_maximum_aslast": "2430"
+  },
+  {
+    "kenteken": "V376NR",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "163",
+    "wettelijk_toegestane_maximum_aslast": "1445",
+    "technisch_toegestane_maximum_aslast": "1445"
+  },
+  {
+    "kenteken": "V376NR",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "A",
+    "spoorbreedte": "162",
+    "wettelijk_toegestane_maximum_aslast": "1860",
+    "technisch_toegestane_maximum_aslast": "1860"
   }
 ]
