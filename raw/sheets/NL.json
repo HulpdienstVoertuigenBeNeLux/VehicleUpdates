@@ -154981,21 +154981,6 @@
       "VEH-002-POST-1487"
     ],
     [
-      "Zandvoort",
-      "GEEN",
-      "RMV",
-      "Reddingsmaatschappij vaartuig",
-      "Meerval",
-      "Type Float",
-      "",
-      "KNRM",
-      "12 - Kennemerland (VRK)",
-      "",
-      "",
-      "",
-      "VEH-003-POST-1487"
-    ],
-    [
       "IJmuiden, Haringkade 2a",
       "",
       "",
@@ -155341,6 +155326,21 @@
       "VEH-002-POST-1492"
     ],
     [
+      "Ter Heijde",
+      "GEEN",
+      "RMV",
+      "Reddingsmaatschappij vaartuig",
+      "Meerval",
+      "Type Float 500 (Reserve boot)",
+      "",
+      "KNRM",
+      "15 - Haaglanden (VRH)",
+      "",
+      "",
+      "",
+      "VEH-003-POST-1492"
+    ],
+    [
       "Scheveningen, Visafslagweg 101",
       "",
       "",
@@ -155360,8 +155360,8 @@
       "35-7191",
       "RMV",
       "Reddingsmaatschappij vaartuig",
-      "Kitty Roosmale",
-      "Type Arie Visser",
+      "Jaap Pronk",
+      "Reddingbootklasse Chaterina D",
       "",
       "KNRM",
       "15 - Haaglanden (VRH)",
@@ -155375,8 +155375,8 @@
       "35-7192",
       "RMV",
       "Reddingsmaatschappij vaartuig",
-      "Beluga",
-      "Type Float",
+      "Kitty Roosmale",
+      "Type Arie Visser",
       "",
       "KNRM",
       "15 - Haaglanden (VRH)",
@@ -172851,7 +172851,7 @@
       "NRV",
       "Nationale reddingsvloot vaartuig",
       "GEEN",
-      "Vlet ( Zomerdag strandbewaking te 's-Gravenzande )",
+      "Vlet ( Nationale Reddingsvloot )",
       "",
       "Reddingsbrigade",
       "15 - Haaglanden (VRH)",
@@ -172862,7 +172862,7 @@
     ],
     [
       "s-Gravenzande",
-      "36-3317",
+      "15-8517",
       "RBV-WSC",
       "Reddingsbrigade vaartuig waterscooter",
       "GEEN",
@@ -172877,7 +172877,7 @@
     ],
     [
       "s-Gravenzande",
-      "36-3319",
+      "15-8519",
       "RBV",
       "Reddingsbrigade vaartuig",
       "GEEN",
@@ -172892,7 +172892,7 @@
     ],
     [
       "s-Gravenzande",
-      "36-3310",
+      "15-8510",
       "RBT",
       "Reddingsbrigade voertuig terreinvaardig",
       "VGF-44-N",
@@ -172907,7 +172907,7 @@
     ],
     [
       "s-Gravenzande",
-      "36-3320",
+      "15-8520",
       "RBT",
       "Reddingsbrigade voertuig terreinvaardig",
       "VGF-45-N",
@@ -172921,7 +172921,22 @@
       "VEH-005-POST-2591"
     ],
     [
-      "s-Gravenzande, Arendsduin 6",
+      "s-Gravenzande",
+      "15-8513",
+      "BT-RB",
+      "Biketeam Reddingsbrigade",
+      "GEEN",
+      "2 fietsen ( Zomerdag strandbewaking te 's-Gravenzande )",
+      "",
+      "Reddingsbrigade",
+      "15 - Haaglanden (VRH)",
+      "",
+      "",
+      "",
+      "VEH-006-POST-2591"
+    ],
+    [
+      "Reddingsbrigade s-Gravenzande, Verlengde Strandweg 1",
       "",
       "",
       "",
@@ -172937,7 +172952,7 @@
     ],
     [
       "s-Gravenzande",
-      "36-3327",
+      "15-8527",
       "RBV-WSC",
       "Reddingsbrigade vaartuig waterscooter",
       "GEEN",
@@ -172952,7 +172967,7 @@
     ],
     [
       "s-Gravenzande",
-      "36-3329",
+      "15-8529",
       "RBV",
       "Reddingsbrigade vaartuig",
       "GEEN",
@@ -172964,21 +172979,6 @@
       "",
       "",
       "VEH-002-POST-2592"
-    ],
-    [
-      "s-Gravenzande",
-      "36-3330",
-      "RBT",
-      "Reddingsbrigade voertuig terreinvaardig",
-      "T-83-FPF",
-      "",
-      "",
-      "Reddingsbrigade",
-      "15 - Haaglanden (VRH)",
-      "",
-      "",
-      "",
-      "VEH-003-POST-2592"
     ],
     [
       "(Reddingsbrigade Monster) Ter Heijde, Karel Doormanweg 1",
@@ -173061,7 +173061,7 @@
       "RBV",
       "Reddingsbrigade vaartuig",
       "GEEN",
-      "Vlet, lesboot ( Zomerdag strandbewaking te Ter Heijde )",
+      "Lesboot ( Zomerdag strandbewaking te Ter Heijde )",
       "",
       "Reddingsbrigade",
       "15 - Haaglanden (VRH)",

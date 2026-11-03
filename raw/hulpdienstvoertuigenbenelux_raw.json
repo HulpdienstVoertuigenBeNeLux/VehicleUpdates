@@ -123972,18 +123972,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Zandvoort",
-    "Roepnummer": "GEEN",
-    "Afkorting": "RMV",
-    "TypeVoertuig": "Reddingsmaatschappij vaartuig",
-    "Kenteken": "Meerval",
-    "Bijzonderheden": "Type Float",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "KNRM",
-    "Regio": "12 - Kennemerland (VRK)",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "IJmuiden, Haringkade 2a",
     "Roepnummer": "",
     "Afkorting": "",
@@ -124260,6 +124248,18 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Ter Heijde",
+    "Roepnummer": "GEEN",
+    "Afkorting": "RMV",
+    "TypeVoertuig": "Reddingsmaatschappij vaartuig",
+    "Kenteken": "Meerval",
+    "Bijzonderheden": "Type Float 500 (Reserve boot)",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "KNRM",
+    "Regio": "15 - Haaglanden (VRH)",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "Scheveningen, Visafslagweg 101",
     "Roepnummer": "",
     "Afkorting": "",
@@ -124276,8 +124276,8 @@
     "Roepnummer": "35-7191",
     "Afkorting": "RMV",
     "TypeVoertuig": "Reddingsmaatschappij vaartuig",
-    "Kenteken": "Kitty Roosmale",
-    "Bijzonderheden": "Type Arie Visser",
+    "Kenteken": "Jaap Pronk",
+    "Bijzonderheden": "Reddingbootklasse Chaterina D",
     "Extra Afkortingen": "",
     "Hulpdienst": "KNRM",
     "Regio": "15 - Haaglanden (VRH)",
@@ -124288,8 +124288,8 @@
     "Roepnummer": "35-7192",
     "Afkorting": "RMV",
     "TypeVoertuig": "Reddingsmaatschappij vaartuig",
-    "Kenteken": "Beluga",
-    "Bijzonderheden": "Type Float",
+    "Kenteken": "Kitty Roosmale",
+    "Bijzonderheden": "Type Arie Visser",
     "Extra Afkortingen": "",
     "Hulpdienst": "KNRM",
     "Regio": "15 - Haaglanden (VRH)",
@@ -138269,7 +138269,7 @@
     "Afkorting": "NRV",
     "TypeVoertuig": "Nationale reddingsvloot vaartuig",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Vlet ( Zomerdag strandbewaking te 's-Gravenzande )",
+    "Bijzonderheden": "Vlet ( Nationale Reddingsvloot )",
     "Extra Afkortingen": "",
     "Hulpdienst": "Reddingsbrigade",
     "Regio": "15 - Haaglanden (VRH)",
@@ -138277,7 +138277,7 @@
   },
   {
     "Adres": "s-Gravenzande",
-    "Roepnummer": "36-3317",
+    "Roepnummer": "15-8517",
     "Afkorting": "RBV-WSC",
     "TypeVoertuig": "Reddingsbrigade vaartuig waterscooter",
     "Kenteken": "GEEN",
@@ -138289,7 +138289,7 @@
   },
   {
     "Adres": "s-Gravenzande",
-    "Roepnummer": "36-3319",
+    "Roepnummer": "15-8519",
     "Afkorting": "RBV",
     "TypeVoertuig": "Reddingsbrigade vaartuig",
     "Kenteken": "GEEN",
@@ -138301,7 +138301,7 @@
   },
   {
     "Adres": "s-Gravenzande",
-    "Roepnummer": "36-3310",
+    "Roepnummer": "15-8510",
     "Afkorting": "RBT",
     "TypeVoertuig": "Reddingsbrigade voertuig terreinvaardig",
     "Kenteken": "VGF-44-N",
@@ -138313,7 +138313,7 @@
   },
   {
     "Adres": "s-Gravenzande",
-    "Roepnummer": "36-3320",
+    "Roepnummer": "15-8520",
     "Afkorting": "RBT",
     "TypeVoertuig": "Reddingsbrigade voertuig terreinvaardig",
     "Kenteken": "VGF-45-N",
@@ -138324,7 +138324,19 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "s-Gravenzande, Arendsduin 6",
+    "Adres": "s-Gravenzande",
+    "Roepnummer": "15-8513",
+    "Afkorting": "BT-RB",
+    "TypeVoertuig": "Biketeam Reddingsbrigade",
+    "Kenteken": "GEEN",
+    "Bijzonderheden": "2 fietsen ( Zomerdag strandbewaking te 's-Gravenzande )",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Reddingsbrigade",
+    "Regio": "15 - Haaglanden (VRH)",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Reddingsbrigade s-Gravenzande, Verlengde Strandweg 1",
     "Roepnummer": "",
     "Afkorting": "",
     "TypeVoertuig": "",
@@ -138337,7 +138349,7 @@
   },
   {
     "Adres": "s-Gravenzande",
-    "Roepnummer": "36-3327",
+    "Roepnummer": "15-8527",
     "Afkorting": "RBV-WSC",
     "TypeVoertuig": "Reddingsbrigade vaartuig waterscooter",
     "Kenteken": "GEEN",
@@ -138349,23 +138361,11 @@
   },
   {
     "Adres": "s-Gravenzande",
-    "Roepnummer": "36-3329",
+    "Roepnummer": "15-8529",
     "Afkorting": "RBV",
     "TypeVoertuig": "Reddingsbrigade vaartuig",
     "Kenteken": "GEEN",
     "Bijzonderheden": "RIB ( Zomerdag strandbewaking te 's-Gravenzande )",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Reddingsbrigade",
-    "Regio": "15 - Haaglanden (VRH)",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "s-Gravenzande",
-    "Roepnummer": "36-3330",
-    "Afkorting": "RBT",
-    "TypeVoertuig": "Reddingsbrigade voertuig terreinvaardig",
-    "Kenteken": "T-83-FPF",
-    "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Reddingsbrigade",
     "Regio": "15 - Haaglanden (VRH)",
@@ -138437,7 +138437,7 @@
     "Afkorting": "RBV",
     "TypeVoertuig": "Reddingsbrigade vaartuig",
     "Kenteken": "GEEN",
-    "Bijzonderheden": "Vlet, lesboot ( Zomerdag strandbewaking te Ter Heijde )",
+    "Bijzonderheden": "Lesboot ( Zomerdag strandbewaking te Ter Heijde )",
     "Extra Afkortingen": "",
     "Hulpdienst": "Reddingsbrigade",
     "Regio": "15 - Haaglanden (VRH)",
