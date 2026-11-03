@@ -1,9 +1,61 @@
 [
   {
     "date": "2026-11-03",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-5067 WT-G toegevoegd aan Stellendam",
+        "Time": "03-11-2026 11:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4167 WT-G toegevoegd aan Stellendam",
+        "Time": "03-11-2026 11:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4567 WT-G toegevoegd aan Olympia",
+        "Time": "03-11-2026 11:01:35"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4561 WT-G verwijderd van Olympia",
+        "Time": "03-11-2026 11:01:35"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9287: Afkorting van 'VZH' naar 'VZH-KA' aangepast",
+        "Time": "03-11-2026 11:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9287: TypeVoertuig van 'Verzorgingshaakarmbak' naar 'Verzorgingshaakarmbak met kantine' aangepast",
+        "Time": "03-11-2026 11:01:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9202: Kenteken van '44-BDJ-6' naar 'BD-193-V' aangepast",
+        "Time": "03-11-2026 11:01:35"
+      }
+    ]
   },
   {
     "date": "2026-11-02",
