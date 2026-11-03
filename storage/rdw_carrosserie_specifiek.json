@@ -17751,13 +17751,6 @@
     "carrosserie_voertuig_nummer_europese_omschrijving": "Brandweerwagen"
   },
   {
-    "kenteken": "BD193V",
-    "carrosserie_volgnummer": "1",
-    "carrosserie_voertuig_nummer_code_volgnummer": "1",
-    "carrosseriecode": "03",
-    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
-  },
-  {
     "kenteken": "BD004T",
     "carrosserie_volgnummer": "1",
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
@@ -17963,6 +17956,13 @@
     "carrosserie_voertuig_nummer_code_volgnummer": "1",
     "carrosseriecode": "27",
     "carrosserie_voertuig_nummer_europese_omschrijving": "Hoogwerker"
+  },
+  {
+    "kenteken": "BD193V",
+    "carrosserie_volgnummer": "1",
+    "carrosserie_voertuig_nummer_code_volgnummer": "1",
+    "carrosseriecode": "03",
+    "carrosserie_voertuig_nummer_europese_omschrijving": "Gesloten opbouw"
   },
   {
     "kenteken": "BD195G",
@@ -35440,6 +35440,10 @@
   },
   {
     "kenteken": "V35NFF",
+    "no_data": true
+  },
+  {
+    "kenteken": "V376NR",
     "no_data": true
   },
   {

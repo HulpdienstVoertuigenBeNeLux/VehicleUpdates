@@ -84538,6 +84538,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
+      "35-7231",
       "GEEN"
     ],
     "last_check_date": "2026-11-01",
@@ -84711,18 +84712,6 @@
     "unknown": true,
     "roepnummers": [
       "35-7172"
-    ],
-    "last_check_date": "2026-11-01",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": null,
-    "last_tenaamstelling_check_date": "2026-11-02"
-  },
-  "R&J Van Wijk": {
-    "expiry": null,
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "GEEN"
     ],
     "last_check_date": "2026-11-01",
     "last_expired_notification_date": null,
@@ -86678,7 +86667,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "36-3140"
+      "15-8830"
     ],
     "last_check_date": "2026-11-01",
     "last_expired_notification_date": null,
@@ -86690,7 +86679,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "36-3160"
+      "15-8880"
     ],
     "last_check_date": "2026-11-01",
     "last_expired_notification_date": null,
@@ -101188,7 +101177,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "36-3120"
+      "15-8720"
     ],
     "last_check_date": "2026-08-29",
     "last_expired_notification_date": null,
@@ -104295,7 +104284,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "36-3110"
+      "15-8730"
     ],
     "last_check_date": "2026-09-26",
     "last_expired_notification_date": null,
@@ -104308,7 +104297,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "36-3130"
+      "15-8810"
     ],
     "last_check_date": "2026-10-31",
     "last_expired_notification_date": null,
@@ -107713,5 +107702,18 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-11-03"
+  },
+  "V-376-NR": {
+    "expiry": "2025-10-14",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "15-8710"
+    ],
+    "last_check_date": "2026-11-03",
+    "last_expired_notification_date": "2026-11-03",
+    "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": "2026-11-03",
+    "aantal_zitplaatsen": "5"
   }
 }
