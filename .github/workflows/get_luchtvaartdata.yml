@@ -33,4 +33,9 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add storage/
         git commit -m "Automated update: ILT register & MMTL aircraft data" || exit 0
-        git push
+        # master kan tijdens de run veranderd zijn: eerst bijwerken, dan pushen
+        for i in 1 2 3; do
+          git pull --rebase --autostash && git push && exit 0
+          sleep 15
+        done
+        exit 1
