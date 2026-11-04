@@ -1,8 +1,24 @@
 [
   {
     "date": "2026-11-04",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "NN-POL",
+        "Description": "NN14 Politiepost Klein, Zuidoost Fryslân  toegevoegd aan Oosterwolde",
+        "Time": "04-11-2026 09:01:37"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "NN-POL",
+        "Description": "NN14 Pollitiepost Klein, Zuidoost Fryslân  verwijderd van Oosterwolde",
+        "Time": "04-11-2026 09:01:37"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
