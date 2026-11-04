@@ -8,6 +8,13 @@
         "Regio": "NN-POL",
         "Description": "NN14 Politiepost Klein, Zuidoost Fryslân  toegevoegd aan Oosterwolde",
         "Time": "04-11-2026 09:01:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "36-8458 RBV toegevoegd aan Tegelen",
+        "Time": "04-11-2026 12:03:26"
       }
     ],
     "removed": [
@@ -17,6 +24,13 @@
         "Regio": "NN-POL",
         "Description": "NN14 Pollitiepost Klein, Zuidoost Fryslân  verwijderd van Oosterwolde",
         "Time": "04-11-2026 09:01:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "ONBEKEND RBV verwijderd van Tegelen",
+        "Time": "04-11-2026 12:03:26"
       }
     ],
     "changed": [
@@ -26,6 +40,20 @@
         "Regio": "13 - Amsterdam-Amstelland (VRAA)",
         "Description": "13-4131: Kenteken van 'ONBEKEND' naar '86-BDK-6' aangepast",
         "Time": "04-11-2026 00:02:51"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "'ONBEKEND' omgenummerd naar '36-7418'",
+        "Time": "04-11-2026 12:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "'ONBEKEND' omgenummerd naar '36-8558'",
+        "Time": "04-11-2026 12:03:26"
       }
     ]
   },
