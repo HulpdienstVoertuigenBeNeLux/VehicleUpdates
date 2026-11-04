@@ -16529,7 +16529,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "06-8101"
+      "06-8001"
     ],
     "last_check_date": "2026-10-15",
     "last_expired_notification_date": null,
@@ -107676,5 +107676,31 @@
     "datum_tenaamstelling_dt": "2013-12-18",
     "last_tenaamstelling_check_date": "2026-11-04",
     "aantal_zitplaatsen": "7"
+  },
+  "JTL-79-Z": {
+    "expiry": "2030-04-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "06-7302"
+    ],
+    "last_check_date": "2026-11-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-04-10",
+    "last_tenaamstelling_check_date": "2026-11-04",
+    "aantal_zitplaatsen": "5"
+  },
+  "TGZ-86-L": {
+    "expiry": "None",
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "36-2320"
+    ],
+    "last_check_date": "2026-11-04",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2021-06-09",
+    "last_tenaamstelling_check_date": "2026-11-04",
+    "aantal_zitplaatsen": null
   }
 }

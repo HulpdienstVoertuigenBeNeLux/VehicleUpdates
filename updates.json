@@ -15,6 +15,27 @@
         "Regio": "23 - Limburg-Noord (VRLN)",
         "Description": "36-8458 RBV toegevoegd aan Tegelen",
         "Time": "04-11-2026 12:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "ONBEKEND BT-RB toegevoegd aan Bergen aan Zee",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-2120 RBT toegevoegd aan Bergen aan Zee",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "ONBEKEND BT-RB toegevoegd aan Castricum",
+        "Time": "04-11-2026 15:03:37"
       }
     ],
     "removed": [
@@ -31,6 +52,13 @@
         "Regio": "23 - Limburg-Noord (VRLN)",
         "Description": "ONBEKEND RBV verwijderd van Tegelen",
         "Time": "04-11-2026 12:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "GEEN MSA verwijderd van Castricum",
+        "Time": "04-11-2026 15:03:37"
       }
     ],
     "changed": [
@@ -54,6 +82,118 @@
         "Regio": "23 - Limburg-Noord (VRLN)",
         "Description": "'ONBEKEND' omgenummerd naar '36-8558'",
         "Time": "04-11-2026 12:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-8001: Kenteken van 'ONBEKEND' naar '8-XJD-87' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-7302: Kenteken van 'ONBEKEND' naar 'JTL-79-Z' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-8101: Kenteken van '8-XJD-87' naar 'ONBEKEND' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "GEEN: Afkorting van 'LG' naar 'RBA' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "GEEN: TypeVoertuig van 'Lifeguard team' naar 'Reddingsbrigade Aanhanger' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "GEEN: Bijzonderheden van 'Bezetting: 2 personen.' naar '' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "36-7111: Afkorting van 'LG' naar 'RBA' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "36-7111: TypeVoertuig van 'Lifeguard team' naar 'Reddingsbrigade Aanhanger' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-2217: Kenteken van '' naar 'GEEN' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-2217: Bijzonderheden van '' naar '( Zomerdag strandbewaking te Castricum )' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-2320: Kenteken van 'Onbekend' naar 'TGZ-86-L' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-7711: Afkorting van 'LG' naar 'RBA' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-7711: TypeVoertuig van 'Lifeguard team' naar 'Reddingsbrigade Aanhanger' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-7710: Afkorting van 'DAT' naar 'RBT' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "36-7710: TypeVoertuig van 'Dienstauto terreinvaardig' naar 'Reddingsbrigade voertuig terreinvaardig' aangepast",
+        "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "36-8458: Bijzonderheden van 'Vlet, T.b.v Ook in dienst van de' naar 'Vlet' aangepast",
+        "Time": "04-11-2026 15:03:37"
       }
     ]
   },
