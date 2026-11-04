@@ -50,6 +50,48 @@
         "Regio": "9 - Utrecht (VRU)",
         "Description": "36-9619 RBV toegevoegd aan Nieuwegein",
         "Time": "04-11-2026 16:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-145 AMBU-HC toegevoegd aan Winterswijk",
+        "Time": "04-11-2026 17:03:33"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "Hogenkamp 10  toegevoegd aan ",
+        "Time": "04-11-2026 17:03:33"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "36-7059 RBV toegevoegd aan Rijen",
+        "Time": "04-11-2026 17:03:33"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "36-7368 RBV toegevoegd aan Cuijk",
+        "Time": "04-11-2026 17:03:33"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "GEEN IM Berger toegevoegd aan Apeldoorn",
+        "Time": "04-11-2026 17:03:33"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "11 - Zaanstreek-Waterland (VRZW)",
+        "Description": "GEEN CMV Berger toegevoegd aan Oostzaan",
+        "Time": "04-11-2026 17:03:33"
       }
     ],
     "removed": [
@@ -73,6 +115,13 @@
         "Regio": "10 - Noord-Holland-Noord (VRNHN)",
         "Description": "GEEN MSA verwijderd van Castricum",
         "Time": "04-11-2026 15:03:37"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "Zeddamseweg 43  verwijderd van ",
+        "Time": "04-11-2026 17:03:33"
       }
     ],
     "changed": [
@@ -222,6 +271,34 @@
         "Regio": "16 - Hollands Midden (VRHM)",
         "Description": "'16-9280' omgenummerd naar '16-4280'",
         "Time": "04-11-2026 16:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-134: Kenteken van 'ONBEKEND' naar 'N-497-TT' aangepast",
+        "Time": "04-11-2026 17:03:33"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-142: Adres van 'Groenlo' naar 'Borculo' aangepast",
+        "Time": "04-11-2026 17:03:33"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "36-7259: Kenteken van '' naar 'GEEN' aangepast",
+        "Time": "04-11-2026 17:03:33"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "'ONBEKEND' omgenummerd naar '36-7360'",
+        "Time": "04-11-2026 17:03:33"
       }
     ]
   },
