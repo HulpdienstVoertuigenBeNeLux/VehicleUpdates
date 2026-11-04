@@ -33,5 +33,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: fotocontrole
-          path: fotocontrole_*.xlsx
+          path: |
+            fotocontrole_*.xlsx
+            fotocontrole_*.md
           if-no-files-found: ignore

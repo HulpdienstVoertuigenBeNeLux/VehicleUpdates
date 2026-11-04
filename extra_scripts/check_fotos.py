@@ -186,27 +186,57 @@ def save_to_xlsx(findings, filename):
     workbook.save(filename)
 
 
-def send_discord_alert_with_file(counts, filename):
+def _md_cell(value):
+    return str(value or "").replace("|", "/").replace("\n", " ").strip() or "-"
+
+
+def save_to_md(findings, counts, filename):
+    print(f"Saving results to {filename}...")
+    lines = [f"# Fotocontrole {datetime.now(timezone.utc):%Y-%m-%d}", ""]
+    lines += [f"- {kind}: **{n}**" for kind, n in counts.items()]
+    for kind in counts:
+        group = [f for f in findings if f[0] == kind]
+        if not group:
+            continue
+        lines += ["", f"## {kind} ({len(group)})", "",
+                  "| Land | Post | Roepnummer | Kenteken | Rij-ID | Foto | Hoort waarschijnlijk bij |",
+                  "|---|---|---|---|---|---|---|"]
+        for finding in group:
+            cells = to_cells(*finding)
+            lines.append("| " + " | ".join(_md_cell(cells[i]) for i in (1, 3, 4, 5, 6, 7, 8)) + " |")
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+
+def send_discord_alert_with_files(counts, filenames):
     if not DISCORD_WEBHOOK_URL:
-        print(f"Discord Webhook URL not set. File is saved locally as {filename}.")
+        print(f"Discord Webhook URL not set. Files are saved locally as {', '.join(filenames)}.")
         return
 
-    print("Sending file to Discord...")
+    print("Sending files to Discord...")
     regels = "\n".join(f"- {kind}: **{n}**" for kind, n in counts.items() if n)
     payload = {
         "content": (
             "🖼️ **Wekelijkse controle: foto's in de sheets**\n"
             f"{regels}\n"
-            "In de bijlage staat per foto waar hij nu staat en bij welk voertuig hij waarschijnlijk hoort."
+            "In de bijlagen staat per foto waar hij nu staat en bij welk voertuig hij waarschijnlijk hoort."
         )
     }
+    mimes = {".xlsx": XLSX_MIME, ".md": "text/markdown"}
+    handles = [open(name, "rb") for name in filenames]
     try:
-        with open(filename, "rb") as f:
-            response = requests.post(DISCORD_WEBHOOK_URL, data=payload, files={"file": (filename, f, XLSX_MIME)})
-            response.raise_for_status()
-            print("Successfully sent alert and file to Discord.")
+        files = {
+            f"file{i}": (name, handle, mimes.get(os.path.splitext(name)[1], "application/octet-stream"))
+            for i, (name, handle) in enumerate(zip(filenames, handles))
+        }
+        response = requests.post(DISCORD_WEBHOOK_URL, data=payload, files=files)
+        response.raise_for_status()
+        print("Successfully sent alert and files to Discord.")
     except Exception as e:
-        print(f"Failed to send Discord alert with file: {e}")
+        print(f"Failed to send Discord alert with files: {e}")
+    finally:
+        for handle in handles:
+            handle.close()
 
 
 def write_step_summary(counts):
@@ -236,9 +266,10 @@ def main():
     if not findings:
         print("No photo problems found!")
         return
-    filename = f"fotocontrole_{datetime.now(timezone.utc):%Y-%m-%d}.xlsx"
-    save_to_xlsx(findings, filename)
-    send_discord_alert_with_file(counts, filename)
+    base = f"fotocontrole_{datetime.now(timezone.utc):%Y-%m-%d}"
+    save_to_xlsx(findings, base + ".xlsx")
+    save_to_md(findings, counts, base + ".md")
+    send_discord_alert_with_files(counts, [base + ".xlsx", base + ".md"])
 
 
 if __name__ == "__main__":
