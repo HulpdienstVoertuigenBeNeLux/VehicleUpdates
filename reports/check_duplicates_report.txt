@@ -116,10 +116,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,765  (of 10,169 total)
+  Records checked : 6,755  (of 10,159 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  554 value(s) affected
+  Duplicate Roepnummer  --  548 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -1518,7 +1518,7 @@
       Adres       : Ingelmunster
       Hulpdienst  : Brandweer
       Roepnummer  : AP2
-      Kenteken    : 
+      Kenteken    : 1-JTB-016
       Adres       : Izegem
       Hulpdienst  : Brandweer
       Roepnummer  : AP2
@@ -1587,16 +1587,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : AP?
       Kenteken    : 1-JNV-801
-
-  >> 'AT1'  (2x)
-      Adres       : Ingelmunster
-      Hulpdienst  : Brandweer
-      Roepnummer  : AT1
-      Kenteken    : 
-      Adres       : Izegem
-      Hulpdienst  : Brandweer
-      Roepnummer  : AT1
-      Kenteken    : 
 
   >> 'AW15'  (2x)
       Adres       : Aarschot
@@ -1898,11 +1888,7 @@
       Roepnummer  : BE1
       Kenteken    : 
 
-  >> 'BE2'  (5x)
-      Adres       : Ingelmunster
-      Hulpdienst  : Brandweer
-      Roepnummer  : BE2
-      Kenteken    : 
+  >> 'BE2'  (4x)
       Adres       : Izegem
       Hulpdienst  : Brandweer
       Roepnummer  : BE2
@@ -1920,11 +1906,7 @@
       Roepnummer  : BE2
       Kenteken    : 
 
-  >> 'BE3'  (4x)
-      Adres       : Ingelmunster
-      Hulpdienst  : Brandweer
-      Roepnummer  : BE3
-      Kenteken    : 
+  >> 'BE3'  (3x)
       Adres       : Izegem
       Hulpdienst  : Brandweer
       Roepnummer  : BE3
@@ -1937,26 +1919,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : BE3
       Kenteken    : 
-
-  >> 'BE4'  (2x)
-      Adres       : Ingelmunster
-      Hulpdienst  : Brandweer
-      Roepnummer  : BE4
-      Kenteken    : 
-      Adres       : Roeselare
-      Hulpdienst  : Brandweer
-      Roepnummer  : BE4
-      Kenteken    : 1-JTA-486
-
-  >> 'BE5'  (2x)
-      Adres       : Ingelmunster
-      Hulpdienst  : Brandweer
-      Roepnummer  : BE5
-      Kenteken    : 
-      Adres       : Roeselare
-      Hulpdienst  : Brandweer
-      Roepnummer  : BE5
-      Kenteken    : 1-VQA-304
 
   >> 'BEVEREN 1'  (2x)
       Adres       : Beveren
@@ -2600,7 +2562,7 @@
       Roepnummer  : C304
       Kenteken    : 1-KHN-656
 
-  >> 'C31'  (4x)
+  >> 'C31'  (5x)
       Adres       : Vilvoorde
       Hulpdienst  : Brandweer
       Roepnummer  : C31
@@ -2613,21 +2575,21 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C31
       Kenteken    : 1-JLH-235
+      Adres       : Jodoigne
+      Hulpdienst  : Brandweer
+      Roepnummer  : C31
+      Kenteken    : 1-LEJ-063
       Adres       : Gembloux
       Hulpdienst  : Brandweer
       Roepnummer  : C31
       Kenteken    : 1-NXB-670
 
-  >> 'C32'  (3x)
+  >> 'C32'  (2x)
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : C32
       Kenteken    : 1-KDZ-868
       Adres       : Anderlecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : C32
-      Kenteken    : 
-      Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : C32
       Kenteken    : 
@@ -2656,17 +2618,7 @@
       Roepnummer  : C34
       Kenteken    : 1-CYG-149
 
-  >> 'C35'  (2x)
-      Adres       : Héliport
-      Hulpdienst  : Brandweer
-      Roepnummer  : C35
-      Kenteken    : 1-XLB-046
-      Adres       : Jodoigne
-      Hulpdienst  : Brandweer
-      Roepnummer  : C35
-      Kenteken    : 
-
-  >> 'C36'  (3x)
+  >> 'C36'  (2x)
       Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : C36
@@ -2675,10 +2627,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C36
       Kenteken    : 1-XLB-063
-      Adres       : Jodoigne
-      Hulpdienst  : Brandweer
-      Roepnummer  : C36
-      Kenteken    : 
 
   >> 'C4'  (6x)
       Adres       : Lier
@@ -3260,16 +3208,6 @@
       Roepnummer  : DW1
       Kenteken    : 2-AAZ-503
 
-  >> 'DW2'  (2x)
-      Adres       : Izegem
-      Hulpdienst  : Brandweer
-      Roepnummer  : DW2
-      Kenteken    : 
-      Adres       : Roeselare
-      Hulpdienst  : Brandweer
-      Roepnummer  : DW2
-      Kenteken    : 
-
   >> 'E1'  (8x)
       Adres       : Lommel
       Hulpdienst  : Brandweer
@@ -3560,7 +3498,7 @@
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : E31
-      Kenteken    : 
+      Kenteken    : 1-NAU-437
 
   >> 'E314'  (2x)
       Adres       : Ledegem
@@ -4428,7 +4366,7 @@
       Adres       : Izegem
       Hulpdienst  : Brandweer
       Roepnummer  : LW1
-      Kenteken    : 
+      Kenteken    : 1-DYU-090
       Adres       : Roeselare
       Hulpdienst  : Brandweer
       Roepnummer  : LW1
@@ -5244,7 +5182,7 @@
       Roepnummer  : P30
       Kenteken    : SYJ-368
 
-  >> 'P31'  (4x)
+  >> 'P31'  (5x)
       Adres       : Lennik
       Hulpdienst  : Brandweer
       Roepnummer  : P31
@@ -5257,6 +5195,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : P31
       Kenteken    : 1-JLH-616
+      Adres       : Jodoigne
+      Hulpdienst  : Brandweer
+      Roepnummer  : P31
+      Kenteken    : 1-LEK-502
       Adres       : Gembloux
       Hulpdienst  : Brandweer
       Roepnummer  : P31
@@ -5278,9 +5220,9 @@
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : P32
-      Kenteken    : 
+      Kenteken    : 1-AZN-515
 
-  >> 'P33'  (4x)
+  >> 'P33'  (3x)
       Adres       : Lennik
       Hulpdienst  : Brandweer
       Roepnummer  : P33
@@ -5293,10 +5235,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : P33
       Kenteken    : VXD-769
-      Adres       : Jodoigne
-      Hulpdienst  : Brandweer
-      Roepnummer  : P33
-      Kenteken    : 
 
   >> 'P34'  (2x)
       Adres       : Zaventem
@@ -5712,7 +5650,7 @@
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : R31
-      Kenteken    : 
+      Kenteken    : 1-NAY-040
       Adres       : Gembloux
       Hulpdienst  : Brandweer
       Roepnummer  : R31
@@ -6058,7 +5996,7 @@
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : S31
-      Kenteken    : 
+      Kenteken    : 1-LGB-099
 
   >> 'S34'  (2x)
       Adres       : Heusden-Zolder
@@ -6728,7 +6666,7 @@
       Roepnummer  : T302
       Kenteken    : 1-NNB-429
 
-  >> 'T31'  (6x)
+  >> 'T31'  (7x)
       Adres       : Pelt
       Hulpdienst  : Brandweer
       Roepnummer  : T31
@@ -6748,21 +6686,15 @@
       Adres       : Jodoigne
       Hulpdienst  : Brandweer
       Roepnummer  : T31
+      Kenteken    : 1-NAX-866
+      Adres       : Jodoigne
+      Hulpdienst  : Brandweer
+      Roepnummer  : T31
       Kenteken    : 
       Adres       : Gembloux
       Hulpdienst  : Brandweer
       Roepnummer  : T31
       Kenteken    : 1-PCB-222
-
-  >> 'T32'  (2x)
-      Adres       : Héliport
-      Hulpdienst  : Brandweer
-      Roepnummer  : T32
-      Kenteken    : TQW-427
-      Adres       : Jodoigne
-      Hulpdienst  : Brandweer
-      Roepnummer  : T32
-      Kenteken    : 
 
   >> 'T33'  (2x)
       Adres       : Héliport
