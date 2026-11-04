@@ -11,6 +11,7 @@ from openpyxl.utils import get_column_letter
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_SHEETS_DIR = os.path.join(BASE_DIR, "raw", "sheets")
+EXCEPTIONS_FILE = os.path.join(BASE_DIR, "storage", "fotocontrole_uitzonderingen.json")
 REGIONS = ["NL", "BE", "LUX"]
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")  # Loaded from GitHub Secrets
 
@@ -81,6 +82,31 @@ def load_rows(region):
         row["_post"] = post
         rows.append(row)
     return rows
+
+
+def load_exceptions():
+    """Foto's (bestandsnaam) en voertuigen (roepnummer of kenteken) die de controle overslaat."""
+    try:
+        with open(EXCEPTIONS_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        return set(), set()
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"Failed to load {EXCEPTIONS_FILE}: {e}")
+        return set(), set()
+    photos = {str(name).strip().lower() for name in data.get("foto", []) if str(name).strip()}
+    vehicles = {slug(value) for value in data.get("voertuig", []) if slug(value)}
+    return photos, vehicles
+
+
+def is_excepted(finding, photos, vehicles):
+    """Uitzonderingen gelden alleen voor foto's bij een ander voertuig of op een postregel, niet voor dode links."""
+    kind, row, url, _ = finding
+    if kind == "Foto bestaat niet meer":
+        return False
+    if url.split("?")[0].rsplit("/", 1)[-1].lower() in photos:
+        return True
+    return bool(vehicles & {slug(row.get("Roepnummer")), slug(row.get("Kenteken"))} - {""})
 
 
 def is_post_row(row):
@@ -190,10 +216,13 @@ def _md_cell(value):
     return str(value or "").replace("|", "/").replace("\n", " ").strip() or "-"
 
 
-def save_to_md(findings, counts, filename):
+def save_to_md(findings, counts, skipped, filename):
     print(f"Saving results to {filename}...")
     lines = [f"# Fotocontrole {datetime.now(timezone.utc):%Y-%m-%d}", ""]
     lines += [f"- {kind}: **{n}**" for kind, n in counts.items()]
+    lines += [f"- Overgeslagen door uitzonderingen: {skipped}", "",
+              "Klopt een melding toch? Zet de bestandsnaam bij `foto` of het roepnummer/kenteken bij `voertuig` "
+              "in `storage/fotocontrole_uitzonderingen.json`."]
     for kind in counts:
         group = [f for f in findings if f[0] == kind]
         if not group:
@@ -208,7 +237,7 @@ def save_to_md(findings, counts, filename):
         f.write("\n".join(lines) + "\n")
 
 
-def send_discord_alert_with_files(counts, filenames):
+def send_discord_alert_with_files(counts, skipped, filenames):
     if not DISCORD_WEBHOOK_URL:
         print(f"Discord Webhook URL not set. Files are saved locally as {', '.join(filenames)}.")
         return
@@ -219,7 +248,8 @@ def send_discord_alert_with_files(counts, filenames):
         "content": (
             "🖼️ **Wekelijkse controle: foto's in de sheets**\n"
             f"{regels}\n"
-            "In de bijlagen staat per foto waar hij nu staat en bij welk voertuig hij waarschijnlijk hoort."
+            + (f"({skipped} overgeslagen door uitzonderingen)\n" if skipped else "")
+            + "In de bijlagen staat per foto waar hij nu staat en bij welk voertuig hij waarschijnlijk hoort."
         )
     }
     mimes = {".xlsx": XLSX_MIME, ".md": "text/markdown"}
@@ -257,10 +287,15 @@ def main():
         findings += find_misplaced(rows)
         findings += find_dead_links(rows)
 
+    photos, vehicles = load_exceptions()
+    kept = [f for f in findings if not is_excepted(f, photos, vehicles)]
+    skipped = len(findings) - len(kept)
+    findings = kept
+
     order = ["Foto bestaat niet meer", "Foto hoort bij ander voertuig", "Voertuigfoto op postregel"]
     findings.sort(key=lambda f: (order.index(f[0]), f[1]["_region"], f[1]["_post"], str(f[1].get("Roepnummer", ""))))
     counts = {kind: sum(1 for f in findings if f[0] == kind) for kind in order}
-    print(counts)
+    print(counts, f"skipped={skipped}")
     write_step_summary(counts)
 
     if not findings:
@@ -268,8 +303,8 @@ def main():
         return
     base = f"fotocontrole_{datetime.now(timezone.utc):%Y-%m-%d}"
     save_to_xlsx(findings, base + ".xlsx")
-    save_to_md(findings, counts, base + ".md")
-    send_discord_alert_with_files(counts, [base + ".xlsx", base + ".md"])
+    save_to_md(findings, counts, skipped, base + ".md")
+    send_discord_alert_with_files(counts, skipped, [base + ".xlsx", base + ".md"])
 
 
 if __name__ == "__main__":
