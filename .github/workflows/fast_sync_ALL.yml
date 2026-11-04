@@ -41,7 +41,14 @@ jobs:
         run: |
           git add .
           git reset updates.json updates_DE.json
-          git diff --cached --quiet || (git commit -m "Automated update from GitHub Actions" && git push)
+          git diff --cached --quiet && exit 0
+          git commit -m "Automated update from GitHub Actions"
+          # master kan tijdens de run veranderd zijn (merges, andere workflows): eerst bijwerken, dan pushen
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            sleep 15
+          done
+          exit 1
 
       - name: Send Discord notification
         run: |
