@@ -32746,19 +32746,6 @@
     "last_tenaamstelling_check_date": "2026-11-01",
     "aantal_zitplaatsen": "6"
   },
-  "12-WT-XR": {
-    "expiry": "None",
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "12-4311"
-    ],
-    "last_check_date": "2026-11-01",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2019-06-06",
-    "last_tenaamstelling_check_date": "2026-11-01",
-    "aantal_zitplaatsen": null
-  },
   "41-BLK-6": {
     "expiry": "2027-07-04",
     "checked": true,
@@ -107766,5 +107753,17 @@
     "datum_tenaamstelling_dt": "2013-12-11",
     "last_tenaamstelling_check_date": "2026-11-05",
     "aantal_zitplaatsen": "7"
+  },
+  "8-YB-818": {
+    "expiry": null,
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "12-4311"
+    ],
+    "last_check_date": "2026-11-05",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": "2026-11-05"
   }
 }
