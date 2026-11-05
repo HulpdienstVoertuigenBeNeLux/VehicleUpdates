@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026-11-06",
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": " CCFM toegevoegd aan Jumet",
+        "Time": "06-11-2026 00:03:19"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "RM93 HV verwijderd van Jummet",
+        "Time": "06-11-2026 00:03:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": " BM verwijderd van Jummet",
+        "Time": "06-11-2026 00:03:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "72 CCFM verwijderd van Jummet",
+        "Time": "06-11-2026 00:03:19"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "22: Adres van 'Jummet' naar 'Kluisbergen' aangepast",
+        "Time": "06-11-2026 00:03:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "22: Afkorting van 'SH' naar 'LW 30' aangepast",
+        "Time": "06-11-2026 00:03:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "22: TypeVoertuig van 'Snelle Hulpwagen' naar 'Ladderwagen' aangepast",
+        "Time": "06-11-2026 00:03:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T33: Adres van 'Jodoigne' naar 'Héliport' aangepast",
+        "Time": "06-11-2026 00:03:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T33: Afkorting van 'PM' naar 'HA-KR' aangepast",
+        "Time": "06-11-2026 00:03:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T33: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Haakarmvoertuig (Met kraan)' aangepast",
+        "Time": "06-11-2026 00:03:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
+        "Description": "T33: Kenteken van '' naar '1-BOW-078' aangepast",
+        "Time": "06-11-2026 00:03:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "21002: Adres van 'Charleroi' naar 'Jumet' aangepast",
+        "Time": "06-11-2026 00:03:19"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Est",
+        "Description": "22107: Adres van 'Charleroi' naar 'Jumet' aangepast",
+        "Time": "06-11-2026 00:03:19"
+      }
+    ]
+  },
+  {
     "date": "2026-11-05",
     "added": [
       {
@@ -20163,162 +20263,6 @@
         "Regio": "4 - IJsselland (VRIJ)",
         "Description": "04-DB0019: Afkorting van 'GM' naar 'DB' aangepast",
         "Time": "06-10-2026 23:00:26"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-05",
-    "added": [
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Antwerpen Zone - Rivierenland",
-        "Description": " HZA toegevoegd aan Berlaar",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Antwerpen Zone - Rivierenland",
-        "Description": " ZA toegevoegd aan Berlaar",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Antwerpen Zone - Rivierenland",
-        "Description": " LW toegevoegd aan Berlaar",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Antwerpen Zone - Rivierenland",
-        "Description": " SH toegevoegd aan Berlaar",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Antwerpen Zone - Rivierenland",
-        "Description": " PM toegevoegd aan Berlaar",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Antwerpen Zone - Rivierenland",
-        "Description": " DB toegevoegd aan Berlaar",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Antwerpen Zone - Rivierenland",
-        "Description": " CO toegevoegd aan Berlaar",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "",
-        "Regio": "",
-        "Description": "B09 CCFM toegevoegd aan ",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
-        "Description": "463401 TW toegevoegd aan Lede",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Limburg Zone - Zuid-West",
-        "Description": "Z19 ZW toegevoegd aan Herk de Stad",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Limburg Zone - Zuid-West",
-        "Description": "Z18 ZW toegevoegd aan Heusden-Zolder",
-        "Time": "05-10-2026 00:00:25"
-      }
-    ],
-    "removed": [
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Limburg Zone - Zuid-West",
-        "Description": "L08 HV verwijderd van Beringen",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Limburg Zone - Zuid-West",
-        "Description": "L93 SIG verwijderd van Beringen",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Limburg Zone - Zuid-West",
-        "Description": "C06 DA verwijderd van Beringen",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Limburg Zone - Zuid-West",
-        "Description": "HERK-DE-STAD ZW verwijderd van Herk de Stad",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Limburg Zone - Zuid-West",
-        "Description": "HEUSDEN-ZOLDER 1 ZW verwijderd van Heusden-Zolder",
-        "Time": "05-10-2026 00:00:25"
-      }
-    ],
-    "changed": [
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Antwerpen Zone - Taxandria",
-        "Description": "T636: Kenteken van '' naar '1-GYP-996' aangepast",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Antwerpen Zone - Taxandria",
-        "Description": "T536: Kenteken van '' naar '1-KRP-903' aangepast",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Limburg Zone - Zuid-West",
-        "Description": "T09: Kenteken van '' naar '1-BYZ-941' aangepast",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Limburg Zone - Zuid-West",
-        "Description": "S20: Kenteken van '' naar '1-JSA-676' aangepast",
-        "Time": "05-10-2026 00:00:25"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-5285: Bijzonderheden van '' naar 'T.b.v Jeugdbrandweer' aangepast",
-        "Time": "05-10-2026 23:00:35"
       }
     ]
   }
