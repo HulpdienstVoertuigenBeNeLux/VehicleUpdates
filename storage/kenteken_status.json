@@ -14932,7 +14932,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "06-7101"
+      "06-7201"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -42419,19 +42419,6 @@
     "datum_tenaamstelling_dt": "2021-07-05",
     "last_tenaamstelling_check_date": "2026-11-02",
     "aantal_zitplaatsen": "7"
-  },
-  "BZ-VT-68": {
-    "expiry": "2027-05-25",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "17-2551"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2023-05-01",
-    "last_tenaamstelling_check_date": "2026-11-02",
-    "aantal_zitplaatsen": "2"
   },
   "VB-246-D": {
     "expiry": "2027-07-22",
@@ -97926,19 +97913,6 @@
     "last_tenaamstelling_check_date": "2026-11-01",
     "aantal_zitplaatsen": "3"
   },
-  "8-XJD-93": {
-    "expiry": "2027-10-10",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "06-7201"
-    ],
-    "last_check_date": "2026-10-11",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2014-11-24",
-    "last_tenaamstelling_check_date": "2026-11-01",
-    "aantal_zitplaatsen": "5"
-  },
   "01-16-YJ": {
     "expiry": null,
     "checked": true,
@@ -107753,5 +107727,31 @@
     "datum_tenaamstelling_dt": "2026-11-03",
     "last_tenaamstelling_check_date": "2026-11-05",
     "aantal_zitplaatsen": "7"
+  },
+  "JTL-76-Z": {
+    "expiry": "2030-04-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "06-7101"
+    ],
+    "last_check_date": "2026-11-05",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-04-10",
+    "last_tenaamstelling_check_date": "2026-11-05",
+    "aantal_zitplaatsen": "5"
+  },
+  "BD-673-T": {
+    "expiry": "2027-09-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "17-2551"
+    ],
+    "last_check_date": "2026-11-05",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-09-24",
+    "last_tenaamstelling_check_date": "2026-11-05",
+    "aantal_zitplaatsen": "2"
   }
 }
