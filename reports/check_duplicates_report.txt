@@ -116,10 +116,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,748  (of 10,152 total)
+  Records checked : 6,743  (of 10,147 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  545 value(s) affected
+  Duplicate Roepnummer  --  540 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -3548,16 +3548,6 @@
       Roepnummer  : E41
       Kenteken    : 1-NXB-350
 
-  >> 'E42'  (2x)
-      Adres       : Eeklo
-      Hulpdienst  : Brandweer
-      Roepnummer  : E42
-      Kenteken    : 1-KDA-682
-      Adres       : Nivelles
-      Hulpdienst  : Brandweer
-      Roepnummer  : E42
-      Kenteken    : 
-
   >> 'E43'  (2x)
       Adres       : Eeklo
       Hulpdienst  : Brandweer
@@ -3768,26 +3758,6 @@
       Roepnummer  : J11
       Kenteken    : 
 
-  >> 'K1'  (2x)
-      Adres       : Kalmthout
-      Hulpdienst  : Brandweer
-      Roepnummer  : K1
-      Kenteken    : 
-      Adres       : Kruibeke
-      Hulpdienst  : Brandweer
-      Roepnummer  : K1
-      Kenteken    : 
-
-  >> 'K10'  (2x)
-      Adres       : Kalmthout
-      Hulpdienst  : Brandweer
-      Roepnummer  : K10
-      Kenteken    : 
-      Adres       : Kruibeke
-      Hulpdienst  : Brandweer
-      Roepnummer  : K10
-      Kenteken    : 
-
   >> 'K109'  (2x)
       Adres       : Brugge
       Hulpdienst  : Brandweer
@@ -3802,7 +3772,7 @@
       Adres       : Kaprijke
       Hulpdienst  : Brandweer
       Roepnummer  : K21
-      Kenteken    : 
+      Kenteken    : 1-CYU-868
       Adres       : Kruibeke
       Hulpdienst  : Brandweer
       Roepnummer  : K21
@@ -3816,26 +3786,6 @@
       Adres       : Houthulst
       Hulpdienst  : Brandweer
       Roepnummer  : K437
-      Kenteken    : 
-
-  >> 'K5'  (2x)
-      Adres       : Kalmthout
-      Hulpdienst  : Brandweer
-      Roepnummer  : K5
-      Kenteken    : 
-      Adres       : Kruibeke
-      Hulpdienst  : Brandweer
-      Roepnummer  : K5
-      Kenteken    : 
-
-  >> 'K6'  (2x)
-      Adres       : Kalmthout
-      Hulpdienst  : Brandweer
-      Roepnummer  : K6
-      Kenteken    : 
-      Adres       : Kruibeke
-      Hulpdienst  : Brandweer
-      Roepnummer  : K6
       Kenteken    : 
 
   >> 'L02'  (2x)
@@ -6856,7 +6806,7 @@
       Adres       : kasterlee
       Hulpdienst  : Brandweer
       Roepnummer  : T676
-      Kenteken    : 
+      Kenteken    : 1-KRP-775
       Adres       : Rijkevorsel
       Hulpdienst  : Brandweer
       Roepnummer  : T676
