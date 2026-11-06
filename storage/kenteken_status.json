@@ -49712,19 +49712,6 @@
     "last_tenaamstelling_check_date": "2026-11-02",
     "aantal_zitplaatsen": "8"
   },
-  "BL-ZL-73": {
-    "expiry": "2027-09-17",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "19-6533"
-    ],
-    "last_check_date": "2026-09-18",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-08-08",
-    "last_tenaamstelling_check_date": "2026-11-06",
-    "aantal_zitplaatsen": null
-  },
   "ZR-642-X": {
     "expiry": "2027-09-19",
     "checked": true,
@@ -107765,5 +107752,18 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-11-05"
+  },
+  "BD-555-Z": {
+    "expiry": "2027-10-13",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "19-6533"
+    ],
+    "last_check_date": "2026-11-06",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-10-13",
+    "last_tenaamstelling_check_date": "2026-11-06",
+    "aantal_zitplaatsen": "7"
   }
 }
