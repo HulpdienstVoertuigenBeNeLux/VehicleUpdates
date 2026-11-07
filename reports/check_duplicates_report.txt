@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,091  (of 17,285 total)
+  Records checked : 11,090  (of 17,284 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  7 value(s) affected
@@ -116,10 +116,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,743  (of 10,147 total)
+  Records checked : 6,737  (of 10,142 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  540 value(s) affected
+  Duplicate Roepnummer  --  539 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -194,16 +194,6 @@
       Adres       : Oudenaarde
       Hulpdienst  : Brandweer
       Roepnummer  : 21
-      Kenteken    : 
-
-  >> '22'  (2x)
-      Adres       : Ranst
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22
-      Kenteken    : 
-      Adres       : Kluisbergen
-      Hulpdienst  : Brandweer
-      Roepnummer  : 22
       Kenteken    : 
 
   >> '3'  (3x)
@@ -441,16 +431,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A01
       Kenteken    : 1-JPP-849
-
-  >> 'A02'  (2x)
-      Adres       : Bilzen-Hoeselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : A02
-      Kenteken    : 1-CYB-037
-      Adres       : Kieldrecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : A02
-      Kenteken    : 
 
   >> 'A1'  (2x)
       Adres       : Antwerpen-Noord
@@ -1614,7 +1594,7 @@
       Roepnummer  : B102
       Kenteken    : 1-PSX-396
 
-  >> 'B11'  (6x)
+  >> 'B11'  (5x)
       Adres       : Sint-Job-in-'t-Goor
       Hulpdienst  : Brandweer
       Roepnummer  : B11
@@ -1627,10 +1607,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : B11
       Kenteken    : 1-JXA-989
-      Adres       : Kieldrecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : B11
-      Kenteken    : 
       Adres       : Ath
       Hulpdienst  : Brandweer
       Roepnummer  : B11
@@ -1640,7 +1616,7 @@
       Roepnummer  : B11
       Kenteken    : 
 
-  >> 'B12'  (5x)
+  >> 'B12'  (4x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : B12
@@ -1653,10 +1629,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : B12
       Kenteken    : 1-JXS-923
-      Adres       : Kieldrecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : B12
-      Kenteken    : 
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : B12
@@ -1690,12 +1662,8 @@
       Roepnummer  : B2
       Kenteken    : 1-LEX-510
 
-  >> 'B21'  (3x)
+  >> 'B21'  (2x)
       Adres       : Leopoldsburg
-      Hulpdienst  : Brandweer
-      Roepnummer  : B21
-      Kenteken    : 
-      Adres       : Kieldrecht
       Hulpdienst  : Brandweer
       Roepnummer  : B21
       Kenteken    : 
@@ -2098,7 +2066,7 @@
       Roepnummer  : C105
       Kenteken    : 
 
-  >> 'C11'  (10x)
+  >> 'C11'  (11x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : C11
@@ -2127,6 +2095,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C11
       Kenteken    : 1-PEJ-419
+      Adres       : Kieldrecht
+      Hulpdienst  : Brandweer
+      Roepnummer  : C11
+      Kenteken    : 
       Adres       : Bernissart
       Hulpdienst  : Brandweer
       Roepnummer  : C11
@@ -3758,6 +3730,16 @@
       Roepnummer  : J11
       Kenteken    : 
 
+  >> 'K101'  (2x)
+      Adres       : Knokke-Heist
+      Hulpdienst  : Brandweer
+      Roepnummer  : K101
+      Kenteken    : 
+      Adres       : Arlon
+      Hulpdienst  : Brandweer
+      Roepnummer  : K101
+      Kenteken    : 1-KGF-338
+
   >> 'K109'  (2x)
       Adres       : Brugge
       Hulpdienst  : Brandweer
@@ -3822,7 +3804,7 @@
       Adres       : Knokke-Heist
       Hulpdienst  : Brandweer
       Roepnummer  : L101
-      Kenteken    : 
+      Kenteken    : 1-JNB-997
       Adres       : Arlon
       Hulpdienst  : Brandweer
       Roepnummer  : L101
@@ -4310,7 +4292,7 @@
       Adres       : Knokke-Heist
       Hulpdienst  : Brandweer
       Roepnummer  : M101
-      Kenteken    : 
+      Kenteken    : 1-VQL-131
 
   >> 'M102'  (2x)
       Adres       : Hasselt
@@ -4320,7 +4302,7 @@
       Adres       : Knokke-Heist
       Hulpdienst  : Brandweer
       Roepnummer  : M102
-      Kenteken    : 
+      Kenteken    : 1-JNB-571
 
   >> 'M103'  (2x)
       Adres       : Hasselt
@@ -4545,16 +4527,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : M40
       Kenteken    : 1-JSC-818
-
-  >> 'M404'  (2x)
-      Adres       : Kortemark
-      Hulpdienst  : Brandweer
-      Roepnummer  : M404
-      Kenteken    : 1-NPS-154
-      Adres       : Oostduinkerke
-      Hulpdienst  : Brandweer
-      Roepnummer  : M404
-      Kenteken    : 1-NPS-154
 
   >> 'M41'  (3x)
       Adres       : Lanaken
@@ -5978,6 +5950,16 @@
       Roepnummer  : S41
       Kenteken    : 1-SKS-462
 
+  >> 'S434'  (2x)
+      Adres       : Kortemark
+      Hulpdienst  : Brandweer
+      Roepnummer  : S434
+      Kenteken    : 2-CUU-041
+      Adres       : Kortemark
+      Hulpdienst  : Brandweer
+      Roepnummer  : S434
+      Kenteken    : 
+
   >> 'S5'  (3x)
       Adres       : Londerzeel
       Hulpdienst  : Brandweer
@@ -7000,7 +6982,7 @@
       Adres       : Knokke-Heist
       Hulpdienst  : Brandweer
       Roepnummer  : V101
-      Kenteken    : 
+      Kenteken    : 1-KAR-915
       Adres       : Hannut
       Hulpdienst  : Brandweer
       Roepnummer  : V101
@@ -7467,18 +7449,8 @@
       Kenteken    : 2-DAW-513
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  2 value(s) affected
+  Duplicate Kenteken  --  1 value(s) affected
 --------------------------------------------------------------------------------
-
-  >> '1-NPS-154'  (2x)
-      Adres       : Kortemark
-      Hulpdienst  : Brandweer
-      Roepnummer  : M404
-      Kenteken    : 1-NPS-154
-      Adres       : Oostduinkerke
-      Hulpdienst  : Brandweer
-      Roepnummer  : M404
-      Kenteken    : 1-NPS-154
 
   >> 'RIB'  (91x)
       Adres       : R1 Leopold
