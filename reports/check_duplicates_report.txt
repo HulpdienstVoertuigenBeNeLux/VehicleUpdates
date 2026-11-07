@@ -116,10 +116,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,737  (of 10,142 total)
+  Records checked : 6,742  (of 10,134 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  539 value(s) affected
+  Duplicate Roepnummer  --  537 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -236,6 +236,16 @@
       Adres       : Virton
       Hulpdienst  : Brandweer
       Roepnummer  : 4
+      Kenteken    : 
+
+  >> '419 522'  (2x)
+      Adres       : Gavere
+      Hulpdienst  : Brandweer
+      Roepnummer  : 419 522
+      Kenteken    : 1-DZY-644
+      Adres       : Gent
+      Hulpdienst  : Brandweer
+      Roepnummer  : 419 522
       Kenteken    : 
 
   >> '460101'  (2x)
@@ -1050,22 +1060,8 @@
       Roepnummer  : A302
       Kenteken    : 1-JKR-828
 
-  >> 'A303'  (2x)
+  >> 'A304'  (2x)
       Adres       : Oostende
-      Hulpdienst  : Brandweer
-      Roepnummer  : A303
-      Kenteken    : 
-      Adres       : Kortrijk
-      Hulpdienst  : Brandweer
-      Roepnummer  : A303
-      Kenteken    : 
-
-  >> 'A304'  (3x)
-      Adres       : Oostende
-      Hulpdienst  : Brandweer
-      Roepnummer  : A304
-      Kenteken    : 
-      Adres       : Kortrijk
       Hulpdienst  : Brandweer
       Roepnummer  : A304
       Kenteken    : 
@@ -1078,7 +1074,7 @@
       Adres       : Kortrijk
       Hulpdienst  : Brandweer
       Roepnummer  : A309
-      Kenteken    : 
+      Kenteken    : 1-DYZ-515
       Adres       : Marche-en-Famenne
       Hulpdienst  : Ambulance
       Roepnummer  : A309
@@ -2286,7 +2282,7 @@
       Roepnummer  : C19
       Kenteken    : 
 
-  >> 'C2'  (10x)
+  >> 'C2'  (11x)
       Adres       : Lier
       Hulpdienst  : Brandweer
       Roepnummer  : C2
@@ -2316,6 +2312,10 @@
       Roepnummer  : C2
       Kenteken    : 
       Adres       : Zottegem
+      Hulpdienst  : Brandweer
+      Roepnummer  : C2
+      Kenteken    : 
+      Adres       : Kortrijk
       Hulpdienst  : Brandweer
       Roepnummer  : C2
       Kenteken    : 
@@ -2489,16 +2489,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C301
       Kenteken    : 2-FEZ-745
-
-  >> 'C302'  (2x)
-      Adres       : Kortrijk
-      Hulpdienst  : Brandweer
-      Roepnummer  : C302
-      Kenteken    : 
-      Adres       : Huy
-      Hulpdienst  : Brandweer
-      Roepnummer  : C302
-      Kenteken    : 1-NNB-311
 
   >> 'C303'  (2x)
       Adres       : Huy
@@ -3428,7 +3418,7 @@
       Adres       : Kortrijk
       Hulpdienst  : Brandweer
       Roepnummer  : E303
-      Kenteken    : 
+      Kenteken    : 1-VBE-570
       Adres       : Bastogne
       Hulpdienst  : Brandweer
       Roepnummer  : E303
@@ -4160,7 +4150,7 @@
       Adres       : Kortrijk
       Hulpdienst  : Brandweer
       Roepnummer  : L326
-      Kenteken    : 
+      Kenteken    : 2-GNU-323
 
   >> 'L41'  (4x)
       Adres       : Peer
@@ -5949,16 +5939,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S41
       Kenteken    : 1-SKS-462
-
-  >> 'S434'  (2x)
-      Adres       : Kortemark
-      Hulpdienst  : Brandweer
-      Roepnummer  : S434
-      Kenteken    : 2-CUU-041
-      Adres       : Kortemark
-      Hulpdienst  : Brandweer
-      Roepnummer  : S434
-      Kenteken    : 
 
   >> 'S5'  (3x)
       Adres       : Londerzeel
