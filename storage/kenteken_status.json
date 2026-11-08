@@ -9161,19 +9161,6 @@
     "last_tenaamstelling_check_date": "2026-11-08",
     "aantal_zitplaatsen": "5"
   },
-  "BP-LV-49": {
-    "expiry": "2027-04-08",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-1030"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-11-06",
-    "last_tenaamstelling_check_date": "2026-11-08",
-    "aantal_zitplaatsen": null
-  },
   "80-BPS-7": {
     "expiry": "2027-06-24",
     "checked": true,
@@ -10131,19 +10118,6 @@
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2013-12-17",
-    "last_tenaamstelling_check_date": "2026-11-08",
-    "aantal_zitplaatsen": "9"
-  },
-  "BR-FH-17": {
-    "expiry": "2027-06-04",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "04-1033"
-    ],
-    "last_check_date": "2026-06-05",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-11-06",
     "last_tenaamstelling_check_date": "2026-11-08",
     "aantal_zitplaatsen": "9"
   },
@@ -37551,7 +37525,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "15-9685"
+      "15-9785"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -105463,19 +105437,6 @@
     "last_tenaamstelling_check_date": "2026-11-08",
     "aantal_zitplaatsen": "5"
   },
-  "NV-602-R": {
-    "expiry": "2027-05-13",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "MMS-106"
-    ],
-    "last_check_date": "2026-10-04",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-09-16",
-    "last_tenaamstelling_check_date": "2026-11-08",
-    "aantal_zitplaatsen": "4"
-  },
   "1-ZBG-61": {
     "expiry": "2027-03-02",
     "checked": true,
@@ -107788,5 +107749,18 @@
     "datum_tenaamstelling_dt": "2026-07-31",
     "last_tenaamstelling_check_date": "2026-11-07",
     "aantal_zitplaatsen": "5"
+  },
+  "96-BBR-1": {
+    "expiry": "2027-03-31",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "15-9682"
+    ],
+    "last_check_date": "2026-11-08",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2013-03-26",
+    "last_tenaamstelling_check_date": "2026-11-08",
+    "aantal_zitplaatsen": "2"
   }
 }
