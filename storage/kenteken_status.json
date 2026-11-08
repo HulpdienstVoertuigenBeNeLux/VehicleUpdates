@@ -107762,5 +107762,42 @@
     "datum_tenaamstelling_dt": "2013-03-26",
     "last_tenaamstelling_check_date": "2026-11-08",
     "aantal_zitplaatsen": "2"
+  },
+  "SP-323-K": {
+    "expiry": "2027-03-04",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-11-08",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-03-17",
+    "last_tenaamstelling_check_date": "2026-11-08",
+    "aantal_zitplaatsen": "4"
+  },
+  "V-17-LTS": {
+    "expiry": "2028-10-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-11-08",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-10-24",
+    "last_tenaamstelling_check_date": "2026-11-08",
+    "aantal_zitplaatsen": "2"
+  },
+  "JPN-10-X": {
+    "expiry": "2030-02-26",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [],
+    "last_check_date": "2026-11-08",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-02-26",
+    "last_tenaamstelling_check_date": "2026-11-08",
+    "aantal_zitplaatsen": "5"
   }
 }
