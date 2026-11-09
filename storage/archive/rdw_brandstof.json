@@ -4010,5 +4010,69 @@
     "uitlaatemissieniveau": "EURO 6 Y",
     "actieradius_extern_oplaadbaar": "0",
     "actieradius": "0"
+  },
+  {
+    "kenteken": "1ZFL13",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "3.50",
+    "co2_uitstoot_gecombineerd": "92",
+    "geluidsniveau_rijdend": "71",
+    "geluidsniveau_stationair": "70",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*136/2014W",
+    "uitstoot_deeltjes_licht": "0.00013",
+    "nettomaximumvermogen": "66.00",
+    "toerental_geluidsniveau": "2375",
+    "uitlaatemissieniveau": "EURO 6 W"
+  },
+  {
+    "kenteken": "BPSJ70",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "emissiecode_omschrijving": "3",
+    "nettomaximumvermogen": "230.00",
+    "uitlaatemissieniveau": "EURO 3"
+  },
+  {
+    "kenteken": "JJ124H",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Benzine",
+    "brandstofverbruik_gecombineerd": "4.10",
+    "co2_uitstoot_gecombineerd": "95",
+    "geluidsniveau_rijdend": "71",
+    "geluidsniveau_stationair": "78",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*136/2014W",
+    "nettomaximumvermogen": "44.00",
+    "toerental_geluidsniveau": "3750",
+    "uitlaatemissieniveau": "EURO 6 W"
+  },
+  {
+    "kenteken": "JZF79S",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "64",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443AX",
+    "nominaal_continu_maximumvermogen": "62.00",
+    "elektrisch_verbruik_enkel_elektrisch_wltp": "142.00",
+    "actie_radius_enkel_elektrisch_wltp": "428",
+    "netto_max_vermogen_elektrisch": "115.00",
+    "uitlaatemissieniveau": "AX"
+  },
+  {
+    "kenteken": "VZ961J",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "5.00",
+    "co2_uitstoot_gecombineerd": "132",
+    "geluidsniveau_rijdend": "70",
+    "geluidsniveau_stationair": "72",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2015/45X",
+    "nettomaximumvermogen": "75.00",
+    "toerental_geluidsniveau": "2375",
+    "uitlaatemissieniveau": "EURO 6 X"
   }
 ]

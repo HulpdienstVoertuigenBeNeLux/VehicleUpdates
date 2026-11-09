@@ -22,9 +22,59 @@
         "Regio": "Oost-Vlaanderen Zone - Centrum",
         "Description": "418 714 HA toegevoegd aan Zelzate",
         "Time": "09-11-2026 19:03:43"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-2102 DA toegevoegd aan Hoogezand-Sappemeer",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-3000 DA toegevoegd aan Delfzijl",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "02-4102 DA toegevoegd aan Schiermonnikoog",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-9805 DA toegevoegd aan Emmen",
+        "Time": "09-11-2026 20:03:26"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "GEEN PR verwijderd van Assen Hoofdpost",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-0397 DA verwijderd van Emmen",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-9203 DA verwijderd van Meppel",
+        "Time": "09-11-2026 20:03:26"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -151,6 +201,83 @@
         "Regio": "Oost-Vlaanderen Zone - Centrum",
         "Description": "419 403: Kenteken van '2-JCD-724' naar '1-JYB-442' aangepast",
         "Time": "09-11-2026 19:03:43"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-0003: Kenteken van 'V-49-PXL' naar 'V-18-BRB' aangepast",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-0005: Kenteken van 'V-18-BRB' naar 'V-49-PXL' aangepast",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-7203: Bijzonderheden van '' naar 'Bezetting: 5 personen.' aangepast",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-5704: Kenteken van 'JZF-79-S' naar 'JXL-76-P' aangepast",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-0309: Adres van 'Assen Hoofdpost' naar 'Hoogeveen' aangepast",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9423: TypeVoertuig van 'Coördinator verkenningseenheden' naar 'Hoofd ondersteuning Brandweer' aangepast",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9491: Extra Afkortingen van 'PC-B' naar 'PC-B, PC-GW' aangepast",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9793: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Onbekend welke functie dit voertuig heeft.' aangepast",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-6632: Kenteken van 'BP-SJ-70' naar 'BD-559-Z' aangepast",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-145: Kenteken van 'ONBEKEND' naar 'NDF-12-D' aangepast",
+        "Time": "09-11-2026 20:03:26"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "'19-4713' omgenummerd naar '19-4301'",
+        "Time": "09-11-2026 20:03:26"
       }
     ]
   },
