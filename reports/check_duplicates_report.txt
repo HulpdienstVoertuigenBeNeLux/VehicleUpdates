@@ -129,7 +129,7 @@
   Records checked : 6,745  (of 10,137 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  537 value(s) affected
+  Duplicate Roepnummer  --  538 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -247,6 +247,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : 4
       Kenteken    : 
+
+  >> '419 403'  (2x)
+      Adres       : Gent
+      Hulpdienst  : Brandweer
+      Roepnummer  : 419 403
+      Kenteken    : 2-JCD-724
+      Adres       : Zelzate
+      Hulpdienst  : Brandweer
+      Roepnummer  : 419 403
+      Kenteken    : 1-JYB-442
 
   >> '419 522'  (2x)
       Adres       : Gavere
