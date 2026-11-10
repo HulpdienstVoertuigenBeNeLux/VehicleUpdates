@@ -40851,19 +40851,6 @@
     "last_tenaamstelling_check_date": "2026-11-09",
     "aantal_zitplaatsen": "7"
   },
-  "BV-FG-03": {
-    "expiry": "2027-04-27",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "17-0251"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2008-06-25",
-    "last_tenaamstelling_check_date": "2026-11-09",
-    "aantal_zitplaatsen": "2"
-  },
   "BP-GZ-93": {
     "expiry": "2027-03-27",
     "checked": true,
@@ -86632,7 +86619,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "17-0182"
+      "17-0116"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -92615,7 +92602,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "17-0181"
+      "17-0115"
     ],
     "last_check_date": "2026-06-24",
     "last_expired_notification_date": null,
@@ -108009,5 +107996,31 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-11-10"
+  },
+  "BD-566-V": {
+    "expiry": "2027-11-03",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "17-0251"
+    ],
+    "last_check_date": "2026-11-10",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-11-03",
+    "last_tenaamstelling_check_date": "2026-11-10",
+    "aantal_zitplaatsen": "2"
+  },
+  "BF-914-B": {
+    "expiry": "None",
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "17-5067"
+    ],
+    "last_check_date": "2026-11-10",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": "2026-11-10",
+    "aantal_zitplaatsen": "2"
   }
 }
