@@ -1,5 +1,280 @@
 [
   {
+    "date": "2026-11-11",
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2667 WTH-G toegevoegd aan Brielle",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "26-8122 GSH-LS toegevoegd aan CBRN Middelharnis",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "26-8181 GSH-PBM toegevoegd aan CBRN Middelharnis",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "26-8226 GSH-LS toegevoegd aan CBRN Middelharnis",
+        "Time": "11-11-2026 00:03:28"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9164 DPH-GW verwijderd van Brielle",
+        "Time": "11-11-2026 00:03:28"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1605: Afkorting van 'VK-TDV' naar 'DB' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1605: TypeVoertuig van 'Dienstbus' naar 'Verkenningsvoertuig team digitale verkenning' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1605: Extra Afkortingen van 'BUL-BUD' naar '' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "PH-5RR: TypeVoertuig van 'Verkenningsluchtvaartuig groot' naar 'Bijzondere uitrusting luchtvaartuig buiten drone' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "PH-7RR: TypeVoertuig van 'Verkenningsluchtvaartuig groot' naar 'Bijzondere uitrusting luchtvaartuig buiten drone' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "PH-1ZK: TypeVoertuig van 'Verkenningsluchtvaartuig groot' naar 'Bijzondere uitrusting luchtvaartuig buiten drone' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9083: Afkorting van 'OVD-B' naar 'DA' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9083: Bijzonderheden van 'Reserve voertuig?' naar 'Reserve piketvoertuig.' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9906: Afkorting van 'TL-TDV' naar 'DA' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9906: TypeVoertuig van 'Dienstauto' naar 'Teamleider team digitale verkenning' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9906: Extra Afkortingen van 'BUL-BUD, BUL-BID, BUV-OWD, BUV-SN, BU-BRB, BU-VRB' naar '' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9374: Afkorting van 'GMH' naar 'LOH-O' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9374: TypeVoertuig van 'Gereedschap/materieelhaakarmbak' naar 'Logistiek haakarmbak open uitvoering' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9374: Bijzonderheden van 'T.b.v. THV opleidingen.' naar 'Platte haakarmbak.' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9376: Afkorting van 'GMH' naar 'LOH-O' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9376: TypeVoertuig van 'Gereedschap/materieelhaakarmbak' naar 'Logistiek haakarmbak open uitvoering' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6512: Extra Afkortingen van '' naar 'BRV-M' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6513: Afkorting van 'GMT' naar 'ON-BRV' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6513: Extra Afkortingen van 'ON-BRV' naar 'GMT' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6702: Afkorting van 'TK-K' naar 'PM' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6702: Extra Afkortingen van '' naar 'TK-K' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6765: Extra Afkortingen van '' naar 'BRV' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-7602: Kenteken van 'KG-003-V' naar 'KRZ-37-B' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9491: Kenteken van 'RV-314-P' naar 'KVS-11-B' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9791: Kenteken van 'K-888-HJ' naar 'KTZ-31-K' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9791: Bijzonderheden van '' naar 'Veiligheidsregio huisstijl.' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9796: Bijzonderheden van '' naar 'Veiligheidsregio huisstijl.' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9799: Bijzonderheden van 'T.b.v. algemeen directeur veiligheidsregio.' naar 'T.b.v. algemeen directeur veiligheidsregio, geen striping.' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9891: Bijzonderheden van 'Gebied: Hoeksche Waard.' naar 'Veiligheidsregio huisstijl. Gebied: Hoeksche Waard.' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9892: Bijzonderheden van 'Gebied: Drechtsteden-Zuid.' naar 'Veiligheidsregio huisstijl. Gebied: Drechtsteden-Zuid.' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9893: Bijzonderheden van 'Gebied: Drechtsteden-Noord.' naar 'Veiligheidsregio huisstijl. Gebied: Drechtsteden-Noord.' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9894: Bijzonderheden van 'Gebied: Molenwaard.' naar 'Veiligheidsregio huisstijl. Gebied: Molenwaard.' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-801: Kenteken van 'GNK-74-N' naar 'KTZ-29-K' aangepast",
+        "Time": "11-11-2026 00:03:28"
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "added": [
       {
@@ -21305,498 +21580,6 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "17-146: Kenteken van 'J-361-HR' naar 'KRN-98-G' aangepast",
         "Time": "11-10-2026 22:02:10"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-10",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-3601 DA toegevoegd aan Lieshout",
-        "Time": "10-10-2026 10:01:55"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "8 - Gelderland-Zuid (VRGZ)",
-        "Description": "08-0080 BMH-OTO toegevoegd aan Nijmegen Centrum",
-        "Time": "10-10-2026 11:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "GEEN BMA-OTO toegevoegd aan Eindhoven Woensel",
-        "Time": "10-10-2026 11:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-4402 DA toegevoegd aan Valkenswaard",
-        "Time": "10-10-2026 11:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Politie",
-        "Regio": "RT-POL",
-        "Description": "P100  toegevoegd aan Rotterdam",
-        "Time": "10-10-2026 12:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Politie",
-        "Regio": "RT-POL",
-        "Description": "P103  toegevoegd aan Rotterdam",
-        "Time": "10-10-2026 12:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Rijkswaterstaat",
-        "Regio": "MN-RWS",
-        "Description": "GEEN (DAT) WIS toegevoegd aan Baarn",
-        "Time": "10-10-2026 19:02:11"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Rijkswaterstaat",
-        "Regio": "MN-RWS",
-        "Description": "GEEN DA-WAIS toegevoegd aan Amersfoort",
-        "Time": "10-10-2026 23:01:54"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": " BU-VN toegevoegd aan Braine-L'Alleud",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": " SVA toegevoegd aan Braine-L'Alleud",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": " IGS-CMIA toegevoegd aan Braine-L'Alleud",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "C805 CCFM toegevoegd aan Bouillon",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": " DMA toegevoegd aan Bouillon",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "BW41 ZW toegevoegd aan Nivelles",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "BW12 ZW toegevoegd aan Braine-L'Alleud",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "BW23 ZW toegevoegd aan Braine-L'Alleud",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "BW25 ZW toegevoegd aan Braine-L'Alleud",
-        "Time": "10-10-2026 23:02:06"
-      }
-    ],
-    "removed": [
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "L105 HV verwijderd van Bouillon",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "Cf805 LAT verwijderd van Bouillon",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "? CO verwijderd van Bouillon",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "NIVELLES 1 ZW verwijderd van Nivelles",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "BRAINE-L'ALLEUD 1 ZW verwijderd van Braine-L'Alleud",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "BRAINE-L'ALLEUD 2 ZW verwijderd van Braine-L'Alleud",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "BRAINE-L'ALLEUD 3 ZW verwijderd van Braine-L'Alleud",
-        "Time": "10-10-2026 23:02:06"
-      }
-    ],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-2331: Afkorting van 'TS' naar 'TS-BB' aangepast",
-        "Time": "10-10-2026 11:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-2331: TypeVoertuig van 'Tankautospuit' naar 'Tankautospuit bedrijfsbrandweer' aangepast",
-        "Time": "10-10-2026 11:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-        "Description": "17-9983: Afkorting van 'CTL-B' naar 'DA' aangepast",
-        "Time": "10-10-2026 12:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-        "Description": "17-9983: TypeVoertuig van 'Centralist brandweer' naar 'Dienstauto' aangepast",
-        "Time": "10-10-2026 12:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-        "Description": "17-9983: Kenteken van 'ZD-621-P' naar 'JJG-80-D' aangepast",
-        "Time": "10-10-2026 12:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-        "Description": "17-9983: Bijzonderheden van '' naar 'Reserve piketvoertuig.' aangepast",
-        "Time": "10-10-2026 12:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "GEEN: Bijzonderheden van 'Bezetting: 2 personen.' naar '' aangepast",
-        "Time": "10-10-2026 12:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Politie",
-        "Regio": "MD-POL",
-        "Description": "P93: Bijzonderheden van '' naar 'Boe' aangepast",
-        "Time": "10-10-2026 12:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-        "Description": "17-9205: Adres van 'Logistiek/Driemanssteeweg' naar 'Regionaal/Wilhelminakade' aangepast",
-        "Time": "10-10-2026 12:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-        "Description": "'17-9205' omgenummerd naar '17-9983'",
-        "Time": "10-10-2026 12:02:13"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
-        "Description": "18-9799: Afkorting van 'AC-B' naar 'CDT-B' aangepast",
-        "Time": "10-10-2026 13:02:15"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
-        "Description": "06-1841: Kenteken van 'BX-LB-50' naar 'BD-061-N' aangepast",
-        "Time": "10-10-2026 14:02:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Politie",
-        "Regio": "MD-POL",
-        "Description": "P93: Bijzonderheden van 'Boe' naar '' aangepast",
-        "Time": "10-10-2026 14:02:12"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "9 - Utrecht (VRU)",
-        "Description": "09-3172: Bijzonderheden van 'John Deere Gator.' naar 'John Deere Gator. Wordt vervoerd met een aanhanger' aangepast",
-        "Time": "10-10-2026 23:01:54"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "9 - Utrecht (VRU)",
-        "Description": "09-3180: Bijzonderheden van 'Bezetting: 5 personen.' naar 'Bezetting: 5 personen. Trekvoertuig aanhanger voor de 09-3172' aangepast",
-        "Time": "10-10-2026 23:01:54"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "C23: Kenteken van '' naar '1-CYK-154' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "C63: Kenteken van '' naar '2-AVN-338' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "S23: Kenteken van '' naar '1-LES-263' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "R23: Kenteken van '' naar '1-RFU-384' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Vlaams-Brabant Zone - Oost",
-        "Description": "P22: Adres van 'Diest' naar 'Braine-L'Alleud' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Vlaams-Brabant Zone - Oost",
-        "Description": "P22: Kenteken van '' naar '1-FYE-568' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "P23: Kenteken van '' naar '1-CYG-175' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "T25: Kenteken van '' naar '1-LEU-170' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "T24: Afkorting van 'HV' naar 'SIG' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "T24: TypeVoertuig van 'Hulpverleningsvoertuig' naar 'Signalisatievoertuig' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "T24: Kenteken van '' naar '1-XDE-356' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "E23: Afkorting van 'LW 30' naar 'LW' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "E23: Kenteken van '' naar '1-RKP-171' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "E23: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "S22: Kenteken van '' naar '1-WDP-463' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "T62: Afkorting van 'HV' naar 'HR' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "T62: TypeVoertuig van 'Hulpverleningsvoertuig' naar 'RISC / GRIMP ( Hoogteredding )' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "T62: Kenteken van '' naar '1-LEN-936' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "P105: Kenteken van '' naar '1-KGH-765' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "P205: Kenteken van '' naar '1-KGH-746' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "C305: Kenteken van '' naar '1-KGH-664' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "E305: Kenteken van '' naar '1-KGH-735' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "E305: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "B105: Kenteken van '' naar '1-KNY-740' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "V905: Kenteken van '' naar '1-CYD-328' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "S205: Afkorting van 'BM' naar 'MFT' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "S205: TypeVoertuig van 'Bijzonder Materiaal' naar 'Multifunctioneel voertuig terreinvaardig' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "S205: Kenteken van '' naar '1-CYD-575' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Luxemburg Zone - Luxemburg",
-        "Description": "S205: Bijzonderheden van 'Quad' naar '' aangepast",
-        "Time": "10-10-2026 23:02:06"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Ambulance",
-        "Regio": "Waals-Brabant Zone - Brabant-Wallon",
-        "Description": "543000: Kenteken van '' naar '2-BVV-080' aangepast",
-        "Time": "10-10-2026 23:02:06"
       }
     ]
   }
