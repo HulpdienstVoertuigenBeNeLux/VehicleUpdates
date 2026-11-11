@@ -29,6 +29,62 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "26-8226 GSH-LS toegevoegd aan CBRN Middelharnis",
         "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9164 DPH-GW toegevoegd aan Brielle",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-8186 HA toegevoegd aan Yara Sluiskil",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "21-0031 TS toegevoegd aan Den Bosch",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "ONBEKEND HOVD-B toegevoegd aan Antwerpen-Noord",
+        "Time": "11-11-2026 15:04:29"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "Interventie 1 PM toegevoegd aan Zelzate",
+        "Time": "11-11-2026 15:04:29"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "Interventie 2 PM toegevoegd aan Zelzate",
+        "Time": "11-11-2026 15:04:29"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "Amublance ZW toegevoegd aan Zelzate",
+        "Time": "11-11-2026 15:04:29"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "Schuimwagen  toegevoegd aan Zelzate",
+        "Time": "11-11-2026 15:04:29"
       }
     ],
     "removed": [
@@ -38,6 +94,41 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "17-9164 DPH-GW verwijderd van Brielle",
         "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "12-DA40 DA verwijderd van Haarlem West",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "DA26 DA verwijderd van Hoofddorp",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-9451 AL-OTO verwijderd van OpleidingsCentrum BOCAS",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-4863 AS verwijderd van Colijnsplaat",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "GEEN ICB verwijderd van ProRail ICB Utrecht",
+        "Time": "11-11-2026 15:03:24"
       }
     ],
     "changed": [
@@ -271,6 +362,118 @@
         "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
         "Description": "18-801: Kenteken van 'GNK-74-N' naar 'KTZ-29-K' aangepast",
         "Time": "11-11-2026 00:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-9433: Kenteken van 'BT-LZ-04' naar 'ONBEKEND' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-9434: Kenteken van 'BT-LZ-06' naar 'ONBEKEND' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4167: Kenteken van 'ONBEKEND' naar 'BF-918-B' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-4230: Kenteken van '89-BLS-2' naar '99-BRX-3' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-8539: Adres van 'Middelburg Stromenweg' naar 'Colijnsplaat' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-8539: Kenteken van '99-BRX-3' naar '89-BLS-2' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-8539: Bijzonderheden van 'T.b.v. M&L. Bezetting: 6 personen' naar 'Tijdelijk tot komst eigen TS. T.b.v. M&L. Bezetting: 6 personen' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-381: Kenteken van 'G-947-RL' naar 'ONBEKEND' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-201: Kenteken van 'G-237-DH' naar 'HFX-71-Z' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-127: Kenteken van 'H-395-HK' naar 'NFD-91-N' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-138: Kenteken van 'J-365-HR' naar 'NBD-58-Z' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "35-7241: Kenteken van 'Donateur' naar 'Dora Heeres' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "'GEEN' omgenummerd naar '26-8892'",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "GEEN: Afkorting van 'ICB' naar 'OVDRAIL' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "GEEN: TypeVoertuig van 'Incidentenbestrijding voertuig' naar 'Officier van dienst ProRail' aangepast",
+        "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "GEEN: Kenteken van 'VJR-12-L' naar 'Z-666-DR' aangepast",
+        "Time": "11-11-2026 15:03:24"
       }
     ]
   },
