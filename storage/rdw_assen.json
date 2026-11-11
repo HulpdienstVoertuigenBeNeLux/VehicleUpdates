@@ -28159,22 +28159,6 @@
     "technisch_toegestane_maximum_aslast": "1100"
   },
   {
-    "kenteken": "53ZSR7",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "spoorbreedte": "154",
-    "wettelijk_toegestane_maximum_aslast": "1150",
-    "technisch_toegestane_maximum_aslast": "1150"
-  },
-  {
-    "kenteken": "53ZSR7",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "spoorbreedte": "151",
-    "wettelijk_toegestane_maximum_aslast": "1100",
-    "technisch_toegestane_maximum_aslast": "1100"
-  },
-  {
     "kenteken": "53BHX9",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -28648,6 +28632,22 @@
     "spoorbreedte": "153",
     "wettelijk_toegestane_maximum_aslast": "1200",
     "technisch_toegestane_maximum_aslast": "1200"
+  },
+  {
+    "kenteken": "53ZSR7",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "spoorbreedte": "154",
+    "wettelijk_toegestane_maximum_aslast": "1150",
+    "technisch_toegestane_maximum_aslast": "1150"
+  },
+  {
+    "kenteken": "53ZSR7",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "spoorbreedte": "151",
+    "wettelijk_toegestane_maximum_aslast": "1100",
+    "technisch_toegestane_maximum_aslast": "1100"
   },
   {
     "kenteken": "54BBV4",
@@ -52268,6 +52268,28 @@
     "technisch_toegestane_maximum_aslast": "1600"
   },
   {
+    "kenteken": "97BZS6",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "2700",
+    "technisch_toegestane_maximum_aslast": "2700",
+    "afstand_tot_volgende_as_voertuig": "375"
+  },
+  {
+    "kenteken": "97BZS6",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "5350",
+    "technisch_toegestane_maximum_aslast": "5350"
+  },
+  {
     "kenteken": "97BBS3",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -74450,6 +74472,25 @@
     "plaatscode_as": "A",
     "wettelijk_toegestane_maximum_aslast": "6200",
     "technisch_toegestane_maximum_aslast": "6200"
+  },
+  {
+    "kenteken": "BZSZ34",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "3175"
+  },
+  {
+    "kenteken": "BZSZ34",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "A",
+    "wettelijk_toegestane_maximum_aslast": "5444"
   },
   {
     "kenteken": "BZBD93",
