@@ -37382,7 +37382,8 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "15-5680"
+      "15-5680",
+      "15-9680"
     ],
     "last_check_date": "2026-05-24",
     "last_expired_notification_date": null,
@@ -90311,7 +90312,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "Medic 1"
+      "Medic 2"
     ],
     "last_check_date": "2026-11-06",
     "last_expired_notification_date": null,
@@ -90323,7 +90324,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "Medic 2"
+      "Medic 1"
     ],
     "last_check_date": "2026-11-06",
     "last_expired_notification_date": null,
@@ -90335,7 +90336,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "GEEN"
+      "17-992"
     ],
     "last_check_date": "2026-11-06",
     "last_expired_notification_date": null,
@@ -90347,7 +90348,7 @@
     "checked": true,
     "unknown": true,
     "roepnummers": [
-      "17-992"
+      "GEEN"
     ],
     "last_check_date": "2026-11-06",
     "last_expired_notification_date": null,
@@ -107957,5 +107958,18 @@
     "datum_tenaamstelling_dt": "2025-10-23",
     "last_tenaamstelling_check_date": "2026-11-11",
     "aantal_zitplaatsen": "2"
+  },
+  "53-ZSR-7": {
+    "expiry": "2027-02-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "09-3701"
+    ],
+    "last_check_date": "2026-11-11",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2013-02-05",
+    "last_tenaamstelling_check_date": "2026-11-11",
+    "aantal_zitplaatsen": "5"
   }
 }
