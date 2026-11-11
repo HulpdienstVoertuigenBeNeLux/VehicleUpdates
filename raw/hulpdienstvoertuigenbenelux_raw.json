@@ -33,7 +33,7 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "13 - Amsterdam-Amstelland (VRAA)",
-    "Interne opmerking": ""
+    "Interne opmerking": "PH-HLP"
   },
   {
     "Adres": "Rotterdam Airport, Zestienhoven 3045 AS",
@@ -81,7 +81,7 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-    "Interne opmerking": ""
+    "Interne opmerking": "PH-UMC"
   },
   {
     "Adres": "Vliegbasis Volkel, 5408 SM Volkel",
@@ -129,7 +129,7 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "21 - Brabant-Noord (VRBN)",
-    "Interne opmerking": ""
+    "Interne opmerking": "PH-HIP"
   },
   {
     "Adres": "Eelde Airport, Machlaan 28",
@@ -177,7 +177,7 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "3 - Drenthe (VRD)",
-    "Interne opmerking": ""
+    "Interne opmerking": "PH-DOC"
   },
   {
     "Adres": "Leeuwarden Airport, Keegsdijkje 7",
@@ -201,7 +201,7 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "2 - Fryslân (VRF)",
-    "Interne opmerking": ""
+    "Interne opmerking": "PH-HOW"
   },
   {
     "Adres": "Lelystad Airport, Emoeweg 16",
@@ -225,7 +225,7 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "25 - Flevoland (VRFL)",
-    "Interne opmerking": ""
+    "Interne opmerking": "PH-OOP"
   },
   {
     "Adres": "Lelystad Airport",
@@ -237,7 +237,7 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "25 - Flevoland (VRFL)",
-    "Interne opmerking": ""
+    "Interne opmerking": "PH-LLN"
   },
   {
     "Adres": "Lelystad Airport",
@@ -249,7 +249,7 @@
     "Extra Afkortingen": "",
     "Hulpdienst": "Ambulance",
     "Regio": "25 - Flevoland (VRFL)",
-    "Interne opmerking": ""
+    "Interne opmerking": "PH-TTR"
   },
   {
     "Adres": "Soesterberg, Stemerdingweg 11-13",
@@ -49792,7 +49792,7 @@
     "Roepnummer": "14-7007",
     "Afkorting": "TD",
     "TypeVoertuig": "Technische dienst",
-    "Kenteken": "ONBEKEND",
+    "Kenteken": "V-47-PFD",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
@@ -53453,7 +53453,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "KB-164-R",
-    "Bijzonderheden": "Bezetting: 9 personen.",
+    "Bijzonderheden": "FR-B. Bezetting: 9 personen.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -53701,10 +53701,10 @@
   },
   {
     "Adres": "Voorhout",
-    "Roepnummer": "16-9267",
-    "Afkorting": "SLH-GW",
-    "TypeVoertuig": "Slangenhaakarmbak grootschalige watervoorziening",
-    "Kenteken": "GEEN",
+    "Roepnummer": "16-1480",
+    "Afkorting": "HAT",
+    "TypeVoertuig": "Haakarmvoertuig terreinvaardig",
+    "Kenteken": "BZ-JH-42",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
@@ -53713,10 +53713,10 @@
   },
   {
     "Adres": "Voorhout",
-    "Roepnummer": "16-9281",
-    "Afkorting": "HAT",
-    "TypeVoertuig": "Haakarmvoertuig terreinvaardig",
-    "Kenteken": "BZ-JH-42",
+    "Roepnummer": "16-9267",
+    "Afkorting": "SLH-GW",
+    "TypeVoertuig": "Slangenhaakarmbak grootschalige watervoorziening",
+    "Kenteken": "GEEN",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
@@ -54122,7 +54122,7 @@
   {
     "Adres": "Kaag",
     "Roepnummer": "16-2012",
-    "Afkorting": "BRV-M",
+    "Afkorting": "BRV-K",
     "TypeVoertuig": "Brandweervaartuig middel",
     "Kenteken": "97-34-YN",
     "Bijzonderheden": "",
@@ -54158,7 +54158,7 @@
   {
     "Adres": "Leimuiden",
     "Roepnummer": "16-2014",
-    "Afkorting": "BRV-M",
+    "Afkorting": "BRV-K",
     "TypeVoertuig": "Brandweervaartuig middel",
     "Kenteken": "03-43-YK",
     "Bijzonderheden": "",
@@ -54173,7 +54173,7 @@
     "Afkorting": "VK-GS",
     "TypeVoertuig": "Verkenningsvoertuig IBGS",
     "Kenteken": "KF-137-H",
-    "Bijzonderheden": "",
+    "Bijzonderheden": "FR-B.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -54209,7 +54209,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "KF-135-H",
-    "Bijzonderheden": "Tevens FR-B. Bezetting: 9 personen.",
+    "Bijzonderheden": "FR-B. Bezetting: 9 personen.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -54218,7 +54218,7 @@
   {
     "Adres": "Rijpwetering",
     "Roepnummer": "16-2016",
-    "Afkorting": "BRV-M",
+    "Afkorting": "BRV-K",
     "TypeVoertuig": "Brandweervaartuig middel",
     "Kenteken": "30-92-YL",
     "Bijzonderheden": "",
@@ -54300,6 +54300,18 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Roelofarendsveen",
+    "Roepnummer": "16-2063",
+    "Afkorting": "MSA",
+    "TypeVoertuig": "Motorspuitaanhanger",
+    "Kenteken": "GEEN",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "16 - Hollands Midden (VRHM)",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "16-20 Woubrugge, Vrouwgeestweg 1a",
     "Roepnummer": "",
     "Afkorting": "",
@@ -54326,7 +54338,7 @@
   {
     "Adres": "Woubrugge",
     "Roepnummer": "16-2015",
-    "Afkorting": "BRV-M",
+    "Afkorting": "BRV-K",
     "TypeVoertuig": "Brandweervaartuig middel",
     "Kenteken": "97-52-YL",
     "Bijzonderheden": "",
@@ -54389,7 +54401,7 @@
     "Afkorting": "VK-GS",
     "TypeVoertuig": "Verkenningsvoertuig IBGS",
     "Kenteken": "KG-991-T",
-    "Bijzonderheden": "FR-B.",
+    "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -54518,7 +54530,7 @@
   {
     "Adres": "Ter Aar",
     "Roepnummer": "16-2113",
-    "Afkorting": "BRV-M",
+    "Afkorting": "BRV-K",
     "TypeVoertuig": "Brandweervaartuig middel",
     "Kenteken": "98-78-YL",
     "Bijzonderheden": "",
@@ -54569,7 +54581,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "KB-169-R",
-    "Bijzonderheden": "Bezetting: 9 personen.",
+    "Bijzonderheden": "FR-B. Bezetting: 9 personen.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -54638,7 +54650,7 @@
   {
     "Adres": "Alphen a/d Rijn",
     "Roepnummer": "16-2212",
-    "Afkorting": "BRV-M",
+    "Afkorting": "BRV-K",
     "TypeVoertuig": "Brandweervaartuig middel",
     "Kenteken": "40-66-YL",
     "Bijzonderheden": "",
@@ -54917,7 +54929,7 @@
     "Afkorting": "VK-GS",
     "TypeVoertuig": "Verkenningsvoertuig IBGS",
     "Kenteken": "VRB-78-G",
-    "Bijzonderheden": "FR-B.",
+    "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -55406,8 +55418,8 @@
   {
     "Adres": "Gouda",
     "Roepnummer": "16-3180",
-    "Afkorting": "HA",
-    "TypeVoertuig": "Haakarmvoertuig",
+    "Afkorting": "HA-KR",
+    "TypeVoertuig": "Haakarmvoertuig met kraan",
     "Kenteken": "BZ-BG-65",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
@@ -55764,6 +55776,18 @@
     "Interne opmerking": ""
   },
   {
+    "Adres": "Schoonhoven",
+    "Roepnummer": "16-3363",
+    "Afkorting": "MSA",
+    "TypeVoertuig": "Motorspuitaanhanger",
+    "Kenteken": "GEEN",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "16 - Hollands Midden (VRHM)",
+    "Interne opmerking": ""
+  },
+  {
     "Adres": "16-34 Bergambacht, Veerweg 6",
     "Roepnummer": "",
     "Afkorting": "",
@@ -55781,7 +55805,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "P-112-ND",
-    "Bijzonderheden": "FR-B. Bezetting: 8 personen",
+    "Bijzonderheden": "Bezetting: 8 personen",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -55901,7 +55925,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "KG-988-T",
-    "Bijzonderheden": "Bezetting: 9 personen.",
+    "Bijzonderheden": "FR-B. Bezetting: 9 personen.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -55949,7 +55973,7 @@
     "Afkorting": "VK-GS",
     "TypeVoertuig": "Verkenningsvoertuig IBGS",
     "Kenteken": "KG-989-T",
-    "Bijzonderheden": "FR-B. Bezetting: 9 personen.",
+    "Bijzonderheden": "Bezetting: 9 personen.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -55985,7 +56009,7 @@
     "Afkorting": "ON-UHD",
     "TypeVoertuig": "Ondersteuningsteam ultra hoge druk blussysteem",
     "Kenteken": "KF-125-J",
-    "Bijzonderheden": "Bezetting: 9 personen.",
+    "Bijzonderheden": "FR-B. Bezetting: 9 personen.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -56081,7 +56105,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "KF-136-H",
-    "Bijzonderheden": "Bezetting: 9 personen.",
+    "Bijzonderheden": "FR-B. Bezetting: 9 personen.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -56125,6 +56149,18 @@
   },
   {
     "Adres": "Nieuwerkerk a/d IJssel",
+    "Roepnummer": "16-3765",
+    "Afkorting": "SBA",
+    "TypeVoertuig": "Schuimblusaanhanger",
+    "Kenteken": "GEEN",
+    "Bijzonderheden": "",
+    "Extra Afkortingen": "",
+    "Hulpdienst": "Brandweer",
+    "Regio": "16 - Hollands Midden (VRHM)",
+    "Interne opmerking": ""
+  },
+  {
+    "Adres": "Nieuwerkerk a/d IJssel",
     "Roepnummer": "16-9235",
     "Afkorting": "TS",
     "TypeVoertuig": "Tankautospuit",
@@ -56153,7 +56189,7 @@
     "Afkorting": "DB",
     "TypeVoertuig": "Dienstbus",
     "Kenteken": "KB-159-R",
-    "Bijzonderheden": "Bezetting: 9 personen.",
+    "Bijzonderheden": "FR-B. Bezetting: 9 personen.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -56184,18 +56220,6 @@
     "Interne opmerking": ""
   },
   {
-    "Adres": "Zevenhuizen",
-    "Roepnummer": "16-3765",
-    "Afkorting": "SBA",
-    "TypeVoertuig": "Schuimblusaanhanger",
-    "Kenteken": "GEEN",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "16 - Hollands Midden (VRHM)",
-    "Interne opmerking": ""
-  },
-  {
     "Adres": "16-38 Waddinxveen, Noordkade 48",
     "Roepnummer": "",
     "Afkorting": "",
@@ -56213,7 +56237,7 @@
     "Afkorting": "ON-VZ",
     "TypeVoertuig": "Ondersteuningsteam verzorging",
     "Kenteken": "KF-364-R",
-    "Bijzonderheden": "Ondersteunend aan VZH 16-9284.",
+    "Bijzonderheden": "FR-B. Ondersteunend aan VZH 16-9284.",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
     "Regio": "16 - Hollands Midden (VRHM)",
@@ -72401,18 +72425,6 @@
     "Afkorting": "GM",
     "TypeVoertuig": "Gereedschap/materieelvoertuig",
     "Kenteken": "BN-SH-76",
-    "Bijzonderheden": "",
-    "Extra Afkortingen": "",
-    "Hulpdienst": "Brandweer",
-    "Regio": "19 - Zeeland (VRZ)",
-    "Interne opmerking": ""
-  },
-  {
-    "Adres": "Yara Sluiskil",
-    "Roepnummer": "19-8186",
-    "Afkorting": "HA",
-    "TypeVoertuig": "Haakarmvoertuig",
-    "Kenteken": "BD-633-Z",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Brandweer",
@@ -188212,7 +188224,7 @@
     "Roepnummer": "GEEN",
     "Afkorting": "(DAT) WIS",
     "TypeVoertuig": "Dienstauto Terreinvaardig Weginspecteur",
-    "Kenteken": "",
+    "Kenteken": "V-50-NKF",
     "Bijzonderheden": "",
     "Extra Afkortingen": "",
     "Hulpdienst": "Rijkswaterstaat",

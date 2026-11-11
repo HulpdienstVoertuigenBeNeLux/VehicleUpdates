@@ -85,6 +85,27 @@
         "Regio": "Oost-Vlaanderen Zone - Meetjesland",
         "Description": "Schuimwagen  toegevoegd aan Zelzate",
         "Time": "11-11-2026 15:04:29"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2063 MSA toegevoegd aan Roelofarendsveen",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-3363 MSA toegevoegd aan Schoonhoven",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rijkswaterstaat",
+        "Regio": "ZN-RWS",
+        "Description": "GEEN (DAT) WIS toegevoegd aan Venlo",
+        "Time": "11-11-2026 16:03:22"
       }
     ],
     "removed": [
@@ -129,6 +150,13 @@
         "Regio": "9 - Utrecht (VRU)",
         "Description": "GEEN ICB verwijderd van ProRail ICB Utrecht",
         "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-8186 HA verwijderd van Yara Sluiskil",
+        "Time": "11-11-2026 16:03:22"
       }
     ],
     "changed": [
@@ -474,6 +502,244 @@
         "Regio": "22 - Brabant-Zuidoost (VRBZO)",
         "Description": "GEEN: Kenteken van 'VJR-12-L' naar 'Z-666-DR' aangepast",
         "Time": "11-11-2026 15:03:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-991: Interne opmerking van '' naar 'PH-HLP' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-992: Interne opmerking van '' naar 'PH-UMC' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "08-993: Interne opmerking van '' naar 'PH-HIP' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-994: Interne opmerking van '' naar 'PH-DOC' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "Medic 1: Interne opmerking van '' naar 'PH-HOW' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "Medic 2: Interne opmerking van '' naar 'PH-OOP' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "GEEN: Interne opmerking van '' naar 'PH-LLN' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "GEEN: Interne opmerking van '' naar 'PH-TTR' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-7007: Kenteken van 'ONBEKEND' naar 'V-47-PFD' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-1000: Bijzonderheden van 'Bezetting: 9 personen.' naar 'FR-B. Bezetting: 9 personen.' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2012: Afkorting van 'BRV-M' naar 'BRV-K' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2014: Afkorting van 'BRV-M' naar 'BRV-K' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2026: Bijzonderheden van '' naar 'FR-B.' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2004: Bijzonderheden van 'Tevens FR-B. Bezetting: 9 personen.' naar 'FR-B. Bezetting: 9 personen.' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2016: Afkorting van 'BRV-M' naar 'BRV-K' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2015: Afkorting van 'BRV-M' naar 'BRV-K' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2126: Bijzonderheden van 'FR-B.' naar '' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2113: Afkorting van 'BRV-M' naar 'BRV-K' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2208: Bijzonderheden van 'Bezetting: 9 personen.' naar 'FR-B. Bezetting: 9 personen.' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2212: Afkorting van 'BRV-M' naar 'BRV-K' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2226: Bijzonderheden van 'FR-B.' naar '' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-3180: Afkorting van 'HA' naar 'HA-KR' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-3180: TypeVoertuig van 'Haakarmvoertuig' naar 'Haakarmvoertuig met kraan' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-3400: Bijzonderheden van 'FR-B. Bezetting: 8 personen' naar 'Bezetting: 8 personen' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-3500: Bijzonderheden van 'Bezetting: 9 personen.' naar 'FR-B. Bezetting: 9 personen.' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-3626: Bijzonderheden van 'FR-B. Bezetting: 9 personen.' naar 'Bezetting: 9 personen.' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-3600: Bijzonderheden van 'Bezetting: 9 personen.' naar 'FR-B. Bezetting: 9 personen.' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-3701: Bijzonderheden van 'Bezetting: 9 personen.' naar 'FR-B. Bezetting: 9 personen.' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-3765: Adres van 'Zevenhuizen' naar 'Nieuwerkerk a/d IJssel' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-3702: Bijzonderheden van 'Bezetting: 9 personen.' naar 'FR-B. Bezetting: 9 personen.' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-3800: Bijzonderheden van 'Ondersteunend aan VZH 16-9284.' naar 'FR-B. Ondersteunend aan VZH 16-9284.' aangepast",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "'16-9281' omgenummerd naar '16-1480'",
+        "Time": "11-11-2026 16:03:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "Interventie 2: Adres van 'Zelzate' naar 'Rain Carbon Zelzate' aangepast",
+        "Time": "11-11-2026 16:05:21"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
+        "Description": "Amublance: Adres van 'Zelzate' naar 'Rain Carbon Zelzate' aangepast",
+        "Time": "11-11-2026 16:05:21"
       }
     ]
   },

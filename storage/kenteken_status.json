@@ -94720,7 +94720,7 @@
     "checked": true,
     "unknown": false,
     "roepnummers": [
-      "16-9281"
+      "16-1480"
     ],
     "last_check_date": "2026-08-27",
     "last_expired_notification_date": null,
@@ -107868,19 +107868,6 @@
     "last_tenaamstelling_check_date": "2026-11-11",
     "aantal_zitplaatsen": "2"
   },
-  "BD-633-Z": {
-    "expiry": "2021-07-21",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "19-8186"
-    ],
-    "last_check_date": "2026-11-11",
-    "last_expired_notification_date": "2026-11-11",
-    "datum_tenaamstelling_dt": "2026-10-09",
-    "last_tenaamstelling_check_date": "2026-11-11",
-    "aantal_zitplaatsen": "2"
-  },
   "BZ-VF-73": {
     "expiry": "2027-01-17",
     "checked": true,
@@ -107944,5 +107931,31 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-11-11"
+  },
+  "V-47-PFD": {
+    "expiry": "2030-03-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "14-7007"
+    ],
+    "last_check_date": "2026-11-11",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-03-24",
+    "last_tenaamstelling_check_date": "2026-11-11",
+    "aantal_zitplaatsen": "3"
+  },
+  "V-50-NKF": {
+    "expiry": "2028-10-23",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-11-11",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-10-23",
+    "last_tenaamstelling_check_date": "2026-11-11",
+    "aantal_zitplaatsen": "2"
   }
 }
