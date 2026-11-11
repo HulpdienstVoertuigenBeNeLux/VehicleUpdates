@@ -558,7 +558,7 @@ def run_region(region: str) -> None:
         descs = []
         for field in new:
             if field in old and new[field] != old[field]:
-                if field == 'Regio':
+                if field in ('Regio', 'Interne opmerking'):
                     continue
                 if field == 'Roepnummer':
                     descs.append(f"'{old_roepnummer}' omgenummerd naar '{new_roepnummer}'")
@@ -657,6 +657,14 @@ def run_region(region: str) -> None:
             updates = []
     except Exception:
         updates = []
+
+    # Interne opmerkingen horen niet op de website; oude regels daarover weghalen.
+    for entry in updates:
+        if isinstance(entry.get("changed"), list):
+            entry["changed"] = [
+                c for c in entry["changed"]
+                if ": Interne opmerking van '" not in str(c.get("Description", ""))
+            ]
 
     today = changelog["date"]
     found_today = False
