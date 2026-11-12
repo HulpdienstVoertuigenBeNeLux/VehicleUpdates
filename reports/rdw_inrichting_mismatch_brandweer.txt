@@ -5,9 +5,9 @@
 ----------------------------------------------------------------------------------------
   Brandweer
 ----------------------------------------------------------------------------------------
-  HulpdienstvoertuigenBenelux : 5750
+  HulpdienstvoertuigenBenelux : 5737
   RDW inrichting dataset      : 2600
-  Missing in RDW              : 3570
+  Missing in RDW              : 3557
   Extra in RDW                : 420
 
   Kentekens in HulpdienstvoertuigenBenelux maar niet in RDW:
@@ -165,7 +165,6 @@
   - 19WSBT
   - 19ZDH9
   - 1KLH08
-  - 1KST12
   - 1SBB73
   - 1SKR80
   - 1TGV64
@@ -366,7 +365,6 @@
   - 3ZPB92
   - 3ZPB93
   - 3ZPB97
-  - 3ZPB98
   - 3ZTB91
   - 3ZTB93
   - 3ZTB96
@@ -454,7 +452,6 @@
   - 4YH236
   - 4YH251
   - 4YH348
-  - 4ZPB00
   - 4ZPB02
   - 50BBV4
   - 50BBX1
@@ -1546,7 +1543,6 @@
   - HTR66Z
   - HTR67Z
   - HV551K
-  - HV552K
   - HV986D
   - HVB19D
   - HVB20D
@@ -1597,7 +1593,8 @@
   - HZT98F
   - J012HP
   - J013HP
-  - J140RX
+  - J139RX
+  - J143RX
   - J144RX
   - J152ZR
   - J169ZR
@@ -1620,7 +1617,6 @@
   - J351DK
   - J352DK
   - J353DK
-  - J382SB
   - J384SB
   - J397SK
   - J398SK
@@ -1631,10 +1627,7 @@
   - J406SK
   - J407SK
   - J408SP
-  - J432KF
   - J466JD
-  - J467JD
-  - J468JD
   - J473VN
   - J474VN
   - J475VN
@@ -1667,12 +1660,14 @@
   - J536TX
   - J563DN
   - J563HS
+  - J762LZ
   - J795HN
   - J867GF
   - J868GF
   - J870GF
   - J891GF
   - J911ZH
+  - J913SX
   - J915ZH
   - J922SX
   - J923SX
@@ -2645,7 +2640,6 @@
   - T085VT
   - T086SB
   - T088SB
-  - T088XG
   - T089SB
   - T090SB
   - T091SB
@@ -2753,8 +2747,6 @@
   - TP414R
   - TP742V
   - TP746V
-  - TP747V
-  - TP748V
   - TP749V
   - TP750V
   - TP751V
@@ -2763,18 +2755,14 @@
   - TP754V
   - TP755V
   - TP756V
-  - TP757V
   - TP758V
   - TP989J
   - TP990J
   - TP991J
   - TPL78L
-  - TR675N
   - TR676N
   - TR677N
   - TR678N
-  - TR679N
-  - TR680N
   - TR681N
   - TR683N
   - TR684N
@@ -3341,7 +3329,6 @@
   - WVGL49
   - WVGL57
   - WVLZ48
-  - WVRR09
   - WVTH02
   - WVTH03
   - WVZD46
@@ -3759,6 +3746,7 @@
   - BNHT75
   - BNJH47
   - BNJL30
+  - BNLB44
   - BNLZ85
   - BNPB28
   - BNPB33
@@ -3931,7 +3919,6 @@
   - BXNB22
   - BXNB79
   - BXNL11
-  - BXNZ94
   - BXPH70
   - BXRD83
   - BXSH49
