@@ -4343,5 +4343,32 @@
     "toerental_geluidsniveau": "1350",
     "uitlaatemissieniveau": "EURO VI D",
     "co2_emissieklasse": "1"
+  },
+  {
+    "kenteken": "HXJ69Z",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "68",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443AX",
+    "nominaal_continu_maximumvermogen": "53.00",
+    "elektrisch_verbruik_enkel_elektrisch_wltp": "167.00",
+    "actie_radius_enkel_elektrisch_wltp": "322",
+    "netto_max_vermogen_elektrisch": "83.00",
+    "uitlaatemissieniveau": "AX"
+  },
+  {
+    "kenteken": "J927NR",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "9.50",
+    "co2_uitstoot_gecombineerd": "249",
+    "geluidsniveau_rijdend": "71",
+    "geluidsniveau_stationair": "81",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2018/932D",
+    "nettomaximumvermogen": "140.00",
+    "toerental_geluidsniveau": "2850",
+    "uitlaatemissieniveau": "EURO VI D"
   }
 ]
