@@ -108222,5 +108222,42 @@
     "datum_tenaamstelling_dt": "2026-03-20",
     "last_tenaamstelling_check_date": "2026-11-12",
     "aantal_zitplaatsen": "8"
+  },
+  "VSG-12-R": {
+    "expiry": "2026-12-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "EMS-45"
+    ],
+    "last_check_date": "2026-11-12",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2022-12-15",
+    "last_tenaamstelling_check_date": "2026-11-12",
+    "aantal_zitplaatsen": "3"
+  },
+  "26-BXG-7": {
+    "expiry": "2027-01-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-11-12",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-01-09",
+    "last_tenaamstelling_check_date": "2026-11-12",
+    "aantal_zitplaatsen": "2"
+  },
+  "35-BTR-3": {
+    "expiry": "2027-11-10",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [],
+    "last_check_date": "2026-11-12",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2022-12-19",
+    "last_tenaamstelling_check_date": "2026-11-12",
+    "aantal_zitplaatsen": "2"
   }
 }

@@ -64,9 +64,52 @@
         "Regio": "Antwerpen Zone - Rand",
         "Description": " ZW toegevoegd aan Turnhout",
         "Time": "12-11-2026 11:03:54"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "EMS-45 EH toegevoegd aan EMS Uden",
+        "Time": "12-11-2026 12:03:39"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": "GEEN CMV Berger toegevoegd aan Landgraaf",
+        "Time": "12-11-2026 12:03:39"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Douane",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": " DB toegevoegd aan Maastricht Airport",
+        "Time": "12-11-2026 12:03:39"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "LB-POL",
+        "Description": "P80  toegevoegd aan Maasbracht",
+        "Time": "12-11-2026 12:03:39"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN DA toegevoegd aan Regionaal/Wilhelminakade",
+        "Time": "12-11-2026 12:03:39"
       }
     ],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN DA verwijderd van Regionaal/Wilhelminakade",
+        "Time": "12-11-2026 12:03:39"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -137,6 +180,41 @@
         "Regio": "Antwerpen Zone - Rand",
         "Description": "1306: Kenteken van '' naar '1-DYR-049' aangepast",
         "Time": "12-11-2026 11:03:54"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": "GEEN: Afkorting van 'CMV Berger' naar 'IM Berger' aangepast",
+        "Time": "12-11-2026 12:03:39"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": "GEEN: TypeVoertuig van 'Vrachtwagenberging' naar 'Plateauwagen' aangepast",
+        "Time": "12-11-2026 12:03:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "PAAL Collocaties: Kenteken van '' naar '2-AXM-584' aangepast",
+        "Time": "12-11-2026 12:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "LANAKEN: Kenteken van '' naar '2-FMH-737' aangepast",
+        "Time": "12-11-2026 12:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "404000: Kenteken van '' naar '1-VKX-996' aangepast",
+        "Time": "12-11-2026 12:04:04"
       }
     ]
   },
