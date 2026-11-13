@@ -63258,10 +63258,10 @@
     [
       "La Louvière",
       "",
-      "DB",
-      "Dienstbus Personeel / Materiaal",
-      "",
-      "",
+      "PM",
+      "Personeel / Materiaal Voertuig",
+      "2-HMY-305",
+      "T.b.v Rehab",
       "",
       "Brandweer",
       "Henegouwen Zone - Hainaut-Centre",
@@ -63542,10 +63542,10 @@
     ],
     [
       "La Louvière",
-      "",
+      "VL28",
       "DB",
-      "Dienstbus Personeel / Materiaal",
-      "",
+      "Dienstbus",
+      "1-YWY-144",
       "",
       "",
       "Brandweer",
@@ -63554,6 +63554,21 @@
       "",
       "",
       "VEH-046-POST-1302"
+    ],
+    [
+      "La Louvière",
+      "MT9",
+      "DB",
+      "Dienstbus",
+      "1-UXB-686",
+      "",
+      "",
+      "Brandweer",
+      "Henegouwen Zone - Hainaut-Centre",
+      "",
+      "",
+      "",
+      "VEH-047-POST-1302"
     ],
     [
       "La Louvière",
@@ -63568,28 +63583,13 @@
       "",
       "",
       "",
-      "VEH-047-POST-1302"
+      "VEH-048-POST-1302"
     ],
     [
       "La Louvière",
       "",
       "DA",
       "Dienstauto",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Henegouwen Zone - Hainaut-Centre",
-      "",
-      "",
-      "",
-      "VEH-048-POST-1302"
-    ],
-    [
-      "La Louvière",
-      "",
-      "CO",
-      "Commandovoertuig",
       "",
       "",
       "",
@@ -63618,6 +63618,21 @@
     [
       "La Louvière",
       "",
+      "CO",
+      "Commandovoertuig",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Henegouwen Zone - Hainaut-Centre",
+      "",
+      "",
+      "",
+      "VEH-051-POST-1302"
+    ],
+    [
+      "La Louvière",
+      "",
       "COC",
       "Commanco Container",
       "",
@@ -63628,7 +63643,7 @@
       "",
       "",
       "",
-      "VEH-051-POST-1302"
+      "VEH-052-POST-1302"
     ],
     [
       "Mons - Rue des sandrinettes 29",
@@ -91886,7 +91901,7 @@
       "Ambulance",
       "West-Vlaanderen Zone - 1",
       "",
-      "",
+      "https://images.hulpdienstvoertuigenbenelux.nl/vehicles/images/FHLCA-F-HLCA-1794606139453.webp",
       "",
       "VEH-001-POST-1965"
     ],
