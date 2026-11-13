@@ -136,10 +136,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,749  (of 10,141 total)
+  Records checked : 6,728  (of 10,120 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  537 value(s) affected
+  Duplicate Roepnummer  --  535 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -372,7 +372,7 @@
       Adres       : La Louviere
       Hulpdienst  : Ambulance
       Roepnummer  : 603000
-      Kenteken    : 
+      Kenteken    : 2-ADF-264
       Adres       : La Louviere
       Hulpdienst  : Ambulance
       Roepnummer  : 603000
@@ -1214,7 +1214,7 @@
       Adres       : Lanaken
       Hulpdienst  : Brandweer
       Roepnummer  : A41
-      Kenteken    : 
+      Kenteken    : 1-JVV-206
       Adres       : Aalter
       Hulpdienst  : Brandweer
       Roepnummer  : A41
@@ -1502,7 +1502,17 @@
       Roepnummer  : AP1
       Kenteken    : 
 
-  >> 'AP2'  (9x)
+  >> 'AP17'  (2x)
+      Adres       : La Louvière
+      Hulpdienst  : Brandweer
+      Roepnummer  : AP17
+      Kenteken    : 1-JSS-342
+      Adres       : Mons
+      Hulpdienst  : Brandweer
+      Roepnummer  : AP17
+      Kenteken    : 
+
+  >> 'AP2'  (8x)
       Adres       : Zottegem
       Hulpdienst  : Brandweer
       Roepnummer  : AP2
@@ -1527,10 +1537,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : AP2
       Kenteken    : 1-JTA-743
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : AP2
-      Kenteken    : 
       Adres       : Philippeville
       Hulpdienst  : Brandweer
       Roepnummer  : AP2
@@ -1726,7 +1732,7 @@
       Adres       : Lanaken
       Hulpdienst  : Brandweer
       Roepnummer  : B41
-      Kenteken    : 
+      Kenteken    : 2-FVB-355
       Adres       : Eghezée
       Hulpdienst  : Brandweer
       Roepnummer  : B41
@@ -1964,7 +1970,7 @@
       Roepnummer  : C05
       Kenteken    : 
 
-  >> 'C1'  (16x)
+  >> 'C1'  (15x)
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : C1
@@ -2005,10 +2011,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C1
       Kenteken    : 
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C1
-      Kenteken    : 
       Adres       : Quiévrain
       Hulpdienst  : Brandweer
       Roepnummer  : C1
@@ -2030,7 +2032,7 @@
       Roepnummer  : C1
       Kenteken    : 
 
-  >> 'C10'  (4x)
+  >> 'C10'  (3x)
       Adres       : Tessenderlo
       Hulpdienst  : Brandweer
       Roepnummer  : C10
@@ -2043,10 +2045,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C10
       Kenteken    : 1-JUH-610
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C10
-      Kenteken    : 
 
   >> 'C101'  (2x)
       Adres       : Oostende
@@ -2092,7 +2090,7 @@
       Roepnummer  : C105
       Kenteken    : 
 
-  >> 'C11'  (11x)
+  >> 'C11'  (10x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : C11
@@ -2129,10 +2127,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C11
       Kenteken    : 1-JUG-203
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C11
-      Kenteken    : 
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : C11
@@ -2176,7 +2170,7 @@
       Roepnummer  : C12
       Kenteken    : 
 
-  >> 'C13'  (6x)
+  >> 'C13'  (5x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : C13
@@ -2190,10 +2184,6 @@
       Roepnummer  : C13
       Kenteken    : 2-GWA-086
       Adres       : Tournai
-      Hulpdienst  : Brandweer
-      Roepnummer  : C13
-      Kenteken    : 
-      Adres       : La Louvière
       Hulpdienst  : Brandweer
       Roepnummer  : C13
       Kenteken    : 
@@ -2220,7 +2210,7 @@
       Roepnummer  : C14
       Kenteken    : 
 
-  >> 'C15'  (4x)
+  >> 'C15'  (3x)
       Adres       : Herk-de-Stad
       Hulpdienst  : Brandweer
       Roepnummer  : C15
@@ -2230,10 +2220,6 @@
       Roepnummer  : C15
       Kenteken    : 2-CNO-306
       Adres       : Overijse
-      Hulpdienst  : Brandweer
-      Roepnummer  : C15
-      Kenteken    : 
-      Adres       : La Louvière
       Hulpdienst  : Brandweer
       Roepnummer  : C15
       Kenteken    : 
@@ -2248,7 +2234,7 @@
       Roepnummer  : C150
       Kenteken    : 2-CDR-864
 
-  >> 'C16'  (4x)
+  >> 'C16'  (3x)
       Adres       : Leuven
       Hulpdienst  : Brandweer
       Roepnummer  : C16
@@ -2261,26 +2247,12 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C16
       Kenteken    : 
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C16
-      Kenteken    : 
-
-  >> 'C17'  (2x)
-      Adres       : Héliport
-      Hulpdienst  : Brandweer
-      Roepnummer  : C17
-      Kenteken    : 2-GWA-077
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C17
-      Kenteken    : 
 
   >> 'C18'  (4x)
       Adres       : Landen
       Hulpdienst  : Brandweer
       Roepnummer  : C18
-      Kenteken    : 
+      Kenteken    : 2-AWJ-708
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C18
@@ -2294,7 +2266,7 @@
       Roepnummer  : C18
       Kenteken    : 
 
-  >> 'C19'  (4x)
+  >> 'C19'  (3x)
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : C19
@@ -2307,12 +2279,8 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C19
       Kenteken    : 1-UJN-960
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C19
-      Kenteken    : 
 
-  >> 'C2'  (11x)
+  >> 'C2'  (10x)
       Adres       : Lier
       Hulpdienst  : Brandweer
       Roepnummer  : C2
@@ -2349,10 +2317,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C2
       Kenteken    : 
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C2
-      Kenteken    : 
       Adres       : Philippeville
       Hulpdienst  : Brandweer
       Roepnummer  : C2
@@ -2368,7 +2332,7 @@
       Roepnummer  : C201
       Kenteken    : 1-KGF-071
 
-  >> 'C21'  (8x)
+  >> 'C21'  (7x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : C21
@@ -2389,10 +2353,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C21
       Kenteken    : 1-PEJ-395
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C21
-      Kenteken    : 
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : C21
@@ -2412,7 +2372,7 @@
       Roepnummer  : C212
       Kenteken    : 
 
-  >> 'C22'  (3x)
+  >> 'C22'  (2x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : C22
@@ -2421,12 +2381,8 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C22
       Kenteken    : 2-HGU-529
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C22
-      Kenteken    : 
 
-  >> 'C23'  (5x)
+  >> 'C23'  (4x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : C23
@@ -2439,10 +2395,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C23
       Kenteken    : 2-HGU-534
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C23
-      Kenteken    : 
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : C23
@@ -2462,7 +2414,7 @@
       Roepnummer  : C24
       Kenteken    : 
 
-  >> 'C3'  (9x)
+  >> 'C3'  (8x)
       Adres       : Lier
       Hulpdienst  : Brandweer
       Roepnummer  : C3
@@ -2484,10 +2436,6 @@
       Roepnummer  : C3
       Kenteken    : 
       Adres       : Leuze-en-Hainaut
-      Hulpdienst  : Brandweer
-      Roepnummer  : C3
-      Kenteken    : 
-      Adres       : La Louvière
       Hulpdienst  : Brandweer
       Roepnummer  : C3
       Kenteken    : 
@@ -2606,7 +2554,7 @@
       Roepnummer  : C36
       Kenteken    : 1-XLB-063
 
-  >> 'C4'  (6x)
+  >> 'C4'  (5x)
       Adres       : Lier
       Hulpdienst  : Brandweer
       Roepnummer  : C4
@@ -2620,10 +2568,6 @@
       Roepnummer  : C4
       Kenteken    : 1-TSC-715
       Adres       : Kortrijk
-      Hulpdienst  : Brandweer
-      Roepnummer  : C4
-      Kenteken    : 
-      Adres       : La Louvière
       Hulpdienst  : Brandweer
       Roepnummer  : C4
       Kenteken    : 
@@ -2750,7 +2694,11 @@
       Roepnummer  : C50
       Kenteken    : 1-UJF-748
 
-  >> 'C51'  (2x)
+  >> 'C51'  (3x)
+      Adres       : Maaseik
+      Hulpdienst  : Brandweer
+      Roepnummer  : C51
+      Kenteken    : 1-UKL-909
       Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : C51
@@ -2876,7 +2824,7 @@
       Roepnummer  : C65
       Kenteken    : 
 
-  >> 'C7'  (4x)
+  >> 'C7'  (3x)
       Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : C7
@@ -2889,12 +2837,8 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C7
       Kenteken    : 1-JUG-312
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C7
-      Kenteken    : 
 
-  >> 'C8'  (3x)
+  >> 'C8'  (2x)
       Adres       : Tienen
       Hulpdienst  : Brandweer
       Roepnummer  : C8
@@ -2903,21 +2847,13 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C8
       Kenteken    : 
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : C8
-      Kenteken    : 
 
-  >> 'C9'  (3x)
+  >> 'C9'  (2x)
       Adres       : Leuven
       Hulpdienst  : Brandweer
       Roepnummer  : C9
       Kenteken    : 
       Adres       : Leuze-en-Hainaut
-      Hulpdienst  : Brandweer
-      Roepnummer  : C9
-      Kenteken    : 
-      Adres       : La Louvière
       Hulpdienst  : Brandweer
       Roepnummer  : C9
       Kenteken    : 
@@ -3522,7 +3458,7 @@
       Adres       : Lanaken
       Hulpdienst  : Brandweer
       Roepnummer  : E41
-      Kenteken    : 
+      Kenteken    : 1-JVV-428
       Adres       : Eeklo
       Hulpdienst  : Brandweer
       Roepnummer  : E41
@@ -3902,11 +3838,15 @@
       Roepnummer  : L114
       Kenteken    : 
 
-  >> 'L116'  (2x)
+  >> 'L116'  (3x)
       Adres       : Oostkamp
       Hulpdienst  : Brandweer
       Roepnummer  : L116
       Kenteken    : 
+      Adres       : La Roche en Ardenne
+      Hulpdienst  : Brandweer
+      Roepnummer  : L116
+      Kenteken    : 2-CHA-032
       Adres       : Marche-en-Famenne
       Hulpdienst  : Brandweer
       Roepnummer  : L116
@@ -4160,7 +4100,7 @@
       Adres       : Landen
       Hulpdienst  : Brandweer
       Roepnummer  : L32
-      Kenteken    : 
+      Kenteken    : 2-GQK-829
 
   >> 'L326'  (2x)
       Adres       : Belgiek
@@ -4448,16 +4388,12 @@
       Roepnummer  : M21
       Kenteken    : 1-DYJ-430
 
-  >> 'M22'  (4x)
+  >> 'M22'  (3x)
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : M22
       Kenteken    : 
       Adres       : Lommel
-      Hulpdienst  : Brandweer
-      Roepnummer  : M22
-      Kenteken    : 
-      Adres       : Landen
       Hulpdienst  : Brandweer
       Roepnummer  : M22
       Kenteken    : 
@@ -4538,7 +4474,7 @@
       Adres       : Lanaken
       Hulpdienst  : Brandweer
       Roepnummer  : M41
-      Kenteken    : 
+      Kenteken    : 1-JVP-980
       Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : M41
@@ -5810,7 +5746,7 @@
       Adres       : Landen
       Hulpdienst  : Brandweer
       Roepnummer  : S16
-      Kenteken    : 
+      Kenteken    : 1-LDV-071
 
   >> 'S19'  (2x)
       Adres       : Heusden-Zolder
@@ -6336,7 +6272,7 @@
       Adres       : Landen
       Hulpdienst  : Brandweer
       Roepnummer  : T14
-      Kenteken    : 
+      Kenteken    : 1-LGG-876
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T14
@@ -6632,7 +6568,11 @@
       Roepnummer  : T401
       Kenteken    : 
 
-  >> 'T41'  (4x)
+  >> 'T41'  (5x)
+      Adres       : Lanaken
+      Hulpdienst  : Brandweer
+      Roepnummer  : T41
+      Kenteken    : 1-JVV-358
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : T41
@@ -7368,26 +7308,6 @@
       Adres       : Vilvoorde
       Hulpdienst  : Ambulance
       Roepnummer  : VILVOORDE 1
-      Kenteken    : 
-
-  >> 'VO1'  (2x)
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : VO1
-      Kenteken    : 
-      Adres       : Soignies
-      Hulpdienst  : Brandweer
-      Roepnummer  : VO1
-      Kenteken    : 
-
-  >> 'VO5'  (2x)
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : VO5
-      Kenteken    : 
-      Adres       : La Louvière
-      Hulpdienst  : Brandweer
-      Roepnummer  : VO5
       Kenteken    : 
 
   >> 'VP643'  (2x)
