@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,091  (of 16,062 total)
+  Records checked : 11,094  (of 16,064 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  8 value(s) affected
+  Duplicate Roepnummer  --  9 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -53,6 +53,16 @@
       Hulpdienst  : Ambulance
       Roepnummer  : 08-151 of 08-152
       Kenteken    : ZH-127-F
+
+  >> '09-9005'  (2x)
+      Adres       : Hilversum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 09-9005
+      Kenteken    : TX-253-P
+      Adres       : Hoofdkantoor VRU
+      Hulpdienst  : Brandweer
+      Roepnummer  : 09-9005
+      Kenteken    : TX-253-P
 
   >> '1'  (3x)
       Adres       : Eelde Airport
@@ -99,7 +109,7 @@
       Kenteken    : GEEN
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  3 value(s) affected
+  Duplicate Kenteken  --  4 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '77-BHT-3'  (2x)
@@ -131,6 +141,16 @@
       Hulpdienst  : KNRM
       Roepnummer  : 35-7231
       Kenteken    : Koos van Messel
+
+  >> 'TX-253-P'  (2x)
+      Adres       : Hilversum
+      Hulpdienst  : Brandweer
+      Roepnummer  : 09-9005
+      Kenteken    : TX-253-P
+      Adres       : Hoofdkantoor VRU
+      Hulpdienst  : Brandweer
+      Roepnummer  : 09-9005
+      Kenteken    : TX-253-P
 
 ================================================================================
   Region: BE

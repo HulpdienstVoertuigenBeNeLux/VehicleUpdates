@@ -190,6 +190,13 @@
         "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
         "Description": "KL-LV-1 PM toegevoegd aan Kluisbergen",
         "Time": "13-11-2026 00:04:01"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "GEEN LO toegevoegd aan Hilversum",
+        "Time": "13-11-2026 13:03:05"
       }
     ],
     "removed": [
@@ -318,6 +325,13 @@
         "Regio": "",
         "Description": "KL-LV-1 PM verwijderd van Kluisbergen",
         "Time": "13-11-2026 00:04:01"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN LO verwijderd van Hilversum",
+        "Time": "13-11-2026 13:03:05"
       }
     ],
     "changed": [
@@ -481,6 +495,90 @@
         "Regio": "25 - Flevoland (VRFL)",
         "Description": "25-126: Kenteken van 'H-677-KJ' naar 'ONBEKEND' aangepast",
         "Time": "13-11-2026 01:03:02"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-9129: Adres van 'Hoofdkantoor VRU' naar 'Amersfoort Centrum' aangepast",
+        "Time": "13-11-2026 13:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-9289: Adres van 'Utrecht Leidsche Rijn' naar 'Amersfoort Centrum' aangepast",
+        "Time": "13-11-2026 13:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-9292: Adres van 'Hoofdkantoor VRU' naar 'Amersfoort Centrum' aangepast",
+        "Time": "13-11-2026 13:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-9294: Adres van 'Hoofdkantoor VRU' naar 'Amersfoort Centrum' aangepast",
+        "Time": "13-11-2026 13:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-9388: Adres van 'Utrecht Leidsche Rijn' naar 'Amersfoort Centrum' aangepast",
+        "Time": "13-11-2026 13:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-9388: Afkorting van 'LO' naar 'FL' aangepast",
+        "Time": "13-11-2026 13:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-9388: TypeVoertuig van 'Logistiek voertuig' naar 'Functionaris logistiek' aangepast",
+        "Time": "13-11-2026 13:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-5474: Afkorting van 'HV' naar 'HVT' aangepast",
+        "Time": "13-11-2026 13:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-5474: TypeVoertuig van 'Hulpverleningsvoertuig' naar 'Hulpverleningsvoertuig terreinvaardig' aangepast",
+        "Time": "13-11-2026 13:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "14-1301: Adres van 'Huizen Hoofdpost' naar 'Huizen Nevenpost' aangepast",
+        "Time": "13-11-2026 13:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-9005: Afkorting van 'DA' naar 'CTL-B' aangepast",
+        "Time": "13-11-2026 13:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-9005: TypeVoertuig van 'Dienstauto' naar 'Centralist Brandweer' aangepast",
+        "Time": "13-11-2026 13:03:05"
       }
     ]
   },
