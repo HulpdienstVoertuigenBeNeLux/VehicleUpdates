@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,095  (of 16,065 total)
+  Records checked : 11,100  (of 16,069 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  8 value(s) affected
@@ -136,10 +136,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,728  (of 10,120 total)
+  Records checked : 6,729  (of 10,121 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  535 value(s) affected
+  Duplicate Roepnummer  --  533 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -3666,16 +3666,6 @@
       Roepnummer  : HASSELT 2
       Kenteken    : 
 
-  >> 'I15'  (2x)
-      Adres       : Aarschot
-      Hulpdienst  : Brandweer
-      Roepnummer  : I15
-      Kenteken    : 2-CAE-099
-      Adres       : Lennik
-      Hulpdienst  : Brandweer
-      Roepnummer  : I15
-      Kenteken    : 
-
   >> 'J11'  (2x)
       Adres       : Tienen
       Hulpdienst  : Brandweer
@@ -5744,7 +5734,11 @@
       Roepnummer  : S16
       Kenteken    : 1-LDV-071
 
-  >> 'S19'  (2x)
+  >> 'S19'  (3x)
+      Adres       : Bilzen-Hoeselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : S19
+      Kenteken    : 1-SRS-092
       Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
       Roepnummer  : S19
@@ -5787,16 +5781,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S23
       Kenteken    : 1-LES-263
-
-  >> 'S29'  (2x)
-      Adres       : Bilzen-Hoeselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : S29
-      Kenteken    : 1-SRS-092
-      Adres       : Hasselt
-      Hulpdienst  : Brandweer
-      Roepnummer  : S29
-      Kenteken    : 1-JSA-913
 
   >> 'S3'  (4x)
       Adres       : Leopoldsburg
@@ -5916,15 +5900,11 @@
       Roepnummer  : S51
       Kenteken    : 
 
-  >> 'S52'  (3x)
+  >> 'S52'  (2x)
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : S52
-      Kenteken    : 
-      Adres       : Maaseik
-      Hulpdienst  : Brandweer
-      Roepnummer  : S52
-      Kenteken    : 
+      Kenteken    : 1-PBL-983
       Adres       : Tubize
       Hulpdienst  : Brandweer
       Roepnummer  : S52

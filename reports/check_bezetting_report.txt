@@ -1,15 +1,15 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                   : 16065
-  Records met parsebare bezetting : 3355
-  Vergeleken met RDW               : 3127
-  RDW data ontbreekt               : 228
+  Totaal records                   : 16069
+  Records met parsebare bezetting : 3356
+  Vergeleken met RDW               : 3126
+  RDW data ontbreekt               : 230
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)              : 0
-  Bezetting != RDW zitplaatsen     : 26
+  Bezetting != RDW zitplaatsen     : 27
   Bezetting > RDW zitplaatsen      : 9
-  RDW zitplaatsen > bezetting      : 17
+  RDW zitplaatsen > bezetting      : 18
 
 ------------------------------------------------------------------------------------------
   Verdeling bezetting
@@ -18,9 +18,9 @@
    2 personen : 131
    3 personen : 64
    4 personen : 150
-   5 personen : 744
+   5 personen : 746
    6 personen : 174
-   7 personen : 1166
+   7 personen : 1165
    8 personen : 544
    9 personen : 366
   10 personen : 5
@@ -56,6 +56,7 @@
 ------------------------------------------------------------------------------------------
   Roepnummer   | Kenteken   | Bezetting |           RDW
   -----------------------------------------------------
+  13-9303      | X-069-GR   |         5 |             7
   14-2131      | 97-BZX-3   |         6 |             7
   14-2301      | 77-TB-TT   |         2 |             7
   16-1200      | KB-165-R   |         8 |             9

@@ -4159,8 +4159,8 @@
       "Lier",
       "",
       "DB",
-      "Dienstbus Personeel / Materiaal",
-      "",
+      "Dienstbus",
+      "2-GST-835",
       "",
       "",
       "Brandweer",
@@ -4745,7 +4745,7 @@
       "",
       "HR",
       "RISC / GRIMP ( Hoogte Redteam )",
-      "",
+      "2-GUX-775",
       "",
       "",
       "Brandweer",
@@ -16834,8 +16834,8 @@
       "Lommel",
       "S52",
       "DB",
-      "Dienstbus Personeel / Materiaal",
-      "",
+      "Dienstbus",
+      "1-PBL-983",
       "",
       "",
       "Brandweer",
@@ -16889,6 +16889,21 @@
       "",
       "",
       "VEH-046-POST-071"
+    ],
+    [
+      "Lommel",
+      "S57",
+      "DB",
+      "Dienstbus",
+      "1-UHR-748",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Noord",
+      "",
+      "",
+      "",
+      "VEH-047-POST-071"
     ],
     [
       "Peer - Stationsstraat 32",
@@ -17372,7 +17387,7 @@
     ],
     [
       "Bilzen-Hoeselt",
-      "S29",
+      "S19",
       "PM",
       "Personeel / Materiaal Voertuig",
       "1-SRS-092",
@@ -17447,6 +17462,21 @@
     ],
     [
       "Bilzen-Hoeselt",
+      "S01",
+      "DAT",
+      "Diensauto Terreinvaardig",
+      "1-JXY-913",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-019-POST-075"
+    ],
+    [
+      "Bilzen-Hoeselt",
       "S21",
       "DAT",
       "Diensauto Terreinvaardig",
@@ -17458,7 +17488,7 @@
       "",
       "",
       "",
-      "VEH-019-POST-075"
+      "VEH-020-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17473,7 +17503,7 @@
       "",
       "",
       "",
-      "VEH-020-POST-075"
+      "VEH-021-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17488,7 +17518,7 @@
       "",
       "",
       "",
-      "VEH-021-POST-075"
+      "VEH-022-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17503,7 +17533,7 @@
       "",
       "",
       "",
-      "VEH-022-POST-075"
+      "VEH-023-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17518,7 +17548,7 @@
       "",
       "",
       "",
-      "VEH-023-POST-075"
+      "VEH-024-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17533,7 +17563,7 @@
       "",
       "",
       "",
-      "VEH-024-POST-075"
+      "VEH-025-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17548,7 +17578,7 @@
       "",
       "",
       "",
-      "VEH-025-POST-075"
+      "VEH-026-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17563,7 +17593,7 @@
       "",
       "",
       "",
-      "VEH-026-POST-075"
+      "VEH-027-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17578,7 +17608,7 @@
       "",
       "",
       "",
-      "VEH-027-POST-075"
+      "VEH-028-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17593,7 +17623,7 @@
       "",
       "",
       "",
-      "VEH-028-POST-075"
+      "VEH-029-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17608,7 +17638,7 @@
       "",
       "",
       "",
-      "VEH-029-POST-075"
+      "VEH-030-POST-075"
     ],
     [
       "Bilzen-Hoeselt",
@@ -17623,7 +17653,7 @@
       "",
       "",
       "",
-      "VEH-030-POST-075"
+      "VEH-031-POST-075"
     ],
     [
       "Genk - H. Esserslaan 1",
@@ -18602,7 +18632,7 @@
     ],
     [
       "Maaseik",
-      "S52",
+      "C52",
       "DB",
       "Dienstbus Personeel / Materiaal",
       "",
@@ -18617,21 +18647,6 @@
     ],
     [
       "Maaseik",
-      "C52",
-      "DB",
-      "Dienstbus Personeel / Materiaal",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Oost",
-      "",
-      "",
-      "",
-      "VEH-015-POST-079"
-    ],
-    [
-      "Maaseik",
       "S51",
       "DA",
       "Dienstauto",
@@ -18643,7 +18658,7 @@
       "",
       "",
       "",
-      "VEH-016-POST-079"
+      "VEH-015-POST-079"
     ],
     [
       "Maaseik",
@@ -18658,7 +18673,7 @@
       "",
       "",
       "",
-      "VEH-017-POST-079"
+      "VEH-016-POST-079"
     ],
     [
       "Maaseik",
@@ -18673,7 +18688,7 @@
       "",
       "",
       "",
-      "VEH-018-POST-079"
+      "VEH-017-POST-079"
     ],
     [
       "Maaseik",
@@ -18688,13 +18703,28 @@
       "",
       "",
       "",
-      "VEH-019-POST-079"
+      "VEH-018-POST-079"
     ],
     [
       "Maaseik",
       "",
       "RBC",
       "Reddins Boot op platte Container",
+      "",
+      "",
+      "",
+      "Brandweer",
+      "Limburg Zone - Oost",
+      "",
+      "",
+      "",
+      "VEH-019-POST-079"
+    ],
+    [
+      "Maaseik",
+      "",
+      "DMA",
+      "Draagbare Motorpomp Aanhanger",
       "",
       "",
       "",
@@ -18723,8 +18753,8 @@
     [
       "Maaseik",
       "",
-      "DMA",
-      "Draagbare Motorpomp Aanhanger",
+      "BMA",
+      "Bijzondere Materialen Aanhanger",
       "",
       "",
       "",
@@ -18738,8 +18768,8 @@
     [
       "Maaseik",
       "",
-      "BMA",
-      "Bijzondere Materialen Aanhanger",
+      "EGA",
+      "Elektrogeen Aanhanger",
       "",
       "",
       "",
@@ -18753,8 +18783,8 @@
     [
       "Maaseik",
       "",
-      "EGA",
-      "Elektrogeen Aanhanger",
+      "RBA",
+      "Reddings Boot Aanhanger",
       "",
       "",
       "",
@@ -18779,21 +18809,6 @@
       "",
       "",
       "VEH-025-POST-079"
-    ],
-    [
-      "Maaseik",
-      "",
-      "RBA",
-      "Reddings Boot Aanhanger",
-      "",
-      "",
-      "",
-      "Brandweer",
-      "Limburg Zone - Oost",
-      "",
-      "",
-      "",
-      "VEH-026-POST-079"
     ],
     [
       "Maasmechelen - Rijksweg 155",
@@ -25697,10 +25712,10 @@
     ],
     [
       "Lennik",
-      "I15",
+      "I70",
       "DAT",
       "Diensauto Terreinvaardig",
-      "",
+      "2-FVK-229",
       "",
       "",
       "Brandweer",
@@ -26345,13 +26360,13 @@
       "I31",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-VEN-201",
       "",
       "",
       "Brandweer",
       "Vlaams-Brabant Zone - West",
       "",
-      "",
+      "https://images.hulpdienstvoertuigenbenelux.nl/vehicles/images/I31-1-VEN-201-1794689824770.webp",
       "",
       "VEH-008-POST-106"
     ],
@@ -26525,13 +26540,13 @@
       "I21",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-KCY-855",
       "",
       "",
       "Brandweer",
       "Vlaams-Brabant Zone - West",
       "",
-      "",
+      "https://images.hulpdienstvoertuigenbenelux.nl/vehicles/images/I21-1-KCY-855-1794689875651.webp",
       "",
       "VEH-005-POST-107"
     ],
@@ -26735,13 +26750,13 @@
       "I25",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-TAW-325",
       "",
       "",
       "Brandweer",
       "Vlaams-Brabant Zone - West",
       "",
-      "",
+      "https://images.hulpdienstvoertuigenbenelux.nl/vehicles/images/I25-1-TAW-325-1794689817676.webp",
       "",
       "VEH-011-POST-108"
     ],
@@ -27155,13 +27170,13 @@
       "I16",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "1-JPD-691",
       "",
       "",
       "Brandweer",
       "Vlaams-Brabant Zone - West",
       "",
-      "",
+      "https://images.hulpdienstvoertuigenbenelux.nl/vehicles/images/I16-1-JPD-691-1794689798535.webp",
       "",
       "VEH-015-POST-109"
     ],
@@ -34022,10 +34037,10 @@
     ],
     [
       "Melle",
-      "",
+      "419 603",
       "PM",
       "Personeel / Materiaal Voertuig",
-      "",
+      "2-JGK-456",
       "",
       "",
       "Brandweer",
@@ -52802,7 +52817,7 @@
     ],
     [
       "Kortrijk",
-      "L316",
+      "M302",
       "PM",
       "Personeel / Materiaal Voertuig",
       "1-JKU-664",

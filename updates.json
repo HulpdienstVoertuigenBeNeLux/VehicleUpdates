@@ -1,5 +1,175 @@
 [
   {
+    "date": "2026-11-15",
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-7691 OVD-BB toegevoegd aan Bedrijfsbrandweer Mijdrecht",
+        "Time": "15-11-2026 00:03:57"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9394 OO toegevoegd aan Vakbekwaamheid/Breevaartstraat",
+        "Time": "15-11-2026 00:03:57"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "19-8186 HA toegevoegd aan Yara Sluiskil",
+        "Time": "15-11-2026 00:03:57"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "20-3403 DA toegevoegd aan Etten Leur",
+        "Time": "15-11-2026 00:03:57"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-8201 LO toegevoegd aan Almere Poort",
+        "Time": "15-11-2026 00:03:57"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " DB toegevoegd aan Lier",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " HR toegevoegd aan Mechelen",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Noord",
+        "Description": "S57 DB toegevoegd aan Lommel",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "S01 DAT toegevoegd aan Bilzen-Hoeselt",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I70 DAT toegevoegd aan Lennik",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "419 603 PM toegevoegd aan Melle",
+        "Time": "15-11-2026 00:04:25"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN ICB verwijderd van ProRail ICB Rotterdam",
+        "Time": "15-11-2026 00:03:57"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-9303: Bijzonderheden van 'Bezetting: 7 personen' naar 'Bezetting: 5 personen' aangepast",
+        "Time": "15-11-2026 00:03:57"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "20-3109: Kenteken van '7-SHP-84' naar 'SB-639-H' aangepast",
+        "Time": "15-11-2026 00:03:57"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I15: Adres van 'Lennik' naar 'Aarschot' aangepast",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I15: Afkorting van 'DAT' naar 'DB' aangepast",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I15: TypeVoertuig van 'Diensauto Terreinvaardig' naar 'Dienstbus' aangepast",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I15: Kenteken van '' naar '2-CAE-099' aangepast",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I31: Kenteken van '' naar '1-VEN-201' aangepast",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I21: Kenteken van '' naar '1-KCY-855' aangepast",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I25: Kenteken van '' naar '1-TAW-325' aangepast",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I16: Kenteken van '' naar '1-JPD-691' aangepast",
+        "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "'L316' omgenummerd naar 'M302'",
+        "Time": "15-11-2026 00:04:25"
+      }
+    ]
+  },
+  {
     "date": "2026-11-14",
     "added": [
       {
@@ -22693,309 +22863,6 @@
         "Regio": "1 - Groningen (VRG)",
         "Description": "Ziekenhuis: Kenteken van '234 Bedden' naar '263 Bedden' aangepast",
         "Time": "15-10-2026 23:02:20"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "added": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "8 - Gelderland-Zuid (VRGZ)",
-        "Description": "08-6188 VIA toegevoegd aan Beesd",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "8 - Gelderland-Zuid (VRGZ)",
-        "Description": "08-8488 VIA toegevoegd aan Opheusden",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "15 - Haaglanden (VRH)",
-        "Description": "15-6882 GM toegevoegd aan Wateringen",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "24 - Zuid-Limburg (VRZL)",
-        "Description": "24-701 ARTS-HP toegevoegd aan Spoed HAP Geleen",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "15 - Haaglanden (VRH)",
-        "Description": "15-749 ARTS-HP toegevoegd aan Spoed HAP Zoetermeer",
-        "Time": "14-10-2026 16:02:21"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Oost-Vlaanderen Zone - Oost",
-        "Description": " RBA toegevoegd aan Buggenhout",
-        "Time": "14-10-2026 17:02:24"
-      }
-    ],
-    "removed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "8 - Gelderland-Zuid (VRGZ)",
-        "Description": "08-7188 VIA verwijderd van Buren",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "8 - Gelderland-Zuid (VRGZ)",
-        "Description": "08-870 DA-RA verwijderd van Nijmegen",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "23 - Limburg-Noord (VRLN)",
-        "Description": "MM01 EH verwijderd van Sportdokters, Maastricht",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "24 - Zuid-Limburg (VRZL)",
-        "Description": "24-712 ARTS-HP verwijderd van Spoed HAP Geleen",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "2 - Fryslân (VRF)",
-        "Description": "02-546 OO-RA verwijderd van Drachten",
-        "Time": "14-10-2026 16:02:21"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "19 - Zeeland (VRZ)",
-        "Description": "19-510 LO-RA verwijderd van Middelburg",
-        "Time": "14-10-2026 16:02:21"
-      }
-    ],
-    "changed": [
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "8 - Gelderland-Zuid (VRGZ)",
-        "Description": "08-7288: Adres van 'Beesd' naar 'Buren' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "8 - Gelderland-Zuid (VRGZ)",
-        "Description": "08-7288: Kenteken van 'GEEN' naar '94-WDT-6' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
-        "Description": "17-9193: Kenteken van 'V-289-KV' naar 'ONBEKEND' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "22-2801: Kenteken van '36-ZKH-9' naar 'ONBEKEND' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
-        "Description": "10-812: Kenteken van '9-KFK-24' naar 'ONBEKEND' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
-        "Description": "AES-13: Kenteken van 'ONBEKEND' naar 'G-873-JD' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "23 - Limburg-Noord (VRLN)",
-        "Description": "GEEN: Afkorting van 'EH' naar 'RRM-EH' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "23 - Limburg-Noord (VRLN)",
-        "Description": "GEEN: TypeVoertuig van 'Evenementenhulpverlening voertuig' naar 'Rapid responder motor evenementenhulpverlening' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "23 - Limburg-Noord (VRLN)",
-        "Description": "GEEN: Kenteken van 'Onbekend' naar 'GEEN' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "23 - Limburg-Noord (VRLN)",
-        "Description": "GEEN: Bijzonderheden van 'Wit voertuig.' naar 'Terreinvaardig voertuig.' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "23 - Limburg-Noord (VRLN)",
-        "Description": "23-704: Kenteken van 'GR-598-P' naar 'ONBEKEND' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "25 - Flevoland (VRFL)",
-        "Description": "25-215: Kenteken van 'RX-381-B' naar 'JKP-88-L' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "KNRM",
-        "Regio": "2 - Fryslân (VRF)",
-        "Description": "AMN010: Kenteken van '7-VGP-34' naar 'V-75-KZH' aangepast",
-        "Time": "14-10-2026 15:01:35"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
-        "Description": "13-160: Kenteken van 'ONBEKEND' naar 'L-367-FX' aangepast",
-        "Time": "14-10-2026 16:02:21"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "20 - Midden en West-Brabant (VRMWB)",
-        "Description": "20-228: Kenteken van 'K-194-PZ' naar 'ONBEKEND' aangepast",
-        "Time": "14-10-2026 16:02:21"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "20 - Midden en West-Brabant (VRMWB)",
-        "Description": "20-235: Kenteken van 'ONBEKEND' naar 'K-194-PZ' aangepast",
-        "Time": "14-10-2026 16:02:21"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "20 - Midden en West-Brabant (VRMWB)",
-        "Description": "20-709: Kenteken van 'ONBEKEND' naar 'X-630-SZ' aangepast",
-        "Time": "14-10-2026 16:02:21"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "21 - Brabant-Noord (VRBN)",
-        "Description": "MG-351: Afkorting van 'RR-EH' naar 'MFT-EH' aangepast",
-        "Time": "14-10-2026 16:02:21"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Ambulance",
-        "Regio": "21 - Brabant-Noord (VRBN)",
-        "Description": "MG-351: TypeVoertuig van 'Rapid responder evenementenhulpverlening' naar 'Multifunctioneel terreinvoertuig evenementenhulpverlening' aangepast",
-        "Time": "14-10-2026 16:02:21"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Brandweer",
-        "Regio": "8 - Gelderland-Zuid (VRGZ)",
-        "Description": "08-6188: Kenteken van 'ONBEKEND' naar '68-WBN-7' aangepast",
-        "Time": "14-10-2026 17:02:19"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
-        "Description": "M21: Adres van 'Maldegem' naar 'Buggenhout' aangepast",
-        "Time": "14-10-2026 17:02:24"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
-        "Description": "M21: Afkorting van 'TW' naar 'HV' aangepast",
-        "Time": "14-10-2026 17:02:24"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
-        "Description": "M21: TypeVoertuig van 'Tankwagen' naar 'Hulpverleningsvoertuig' aangepast",
-        "Time": "14-10-2026 17:02:24"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Oost-Vlaanderen Zone - Meetjesland",
-        "Description": "M21: Kenteken van '' naar '1-DYJ-430' aangepast",
-        "Time": "14-10-2026 17:02:24"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Vlaams-Brabant Zone - West",
-        "Description": "L21: Adres van 'Londerzeel' naar 'Buggenhout' aangepast",
-        "Time": "14-10-2026 17:02:24"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Vlaams-Brabant Zone - West",
-        "Description": "L21: Afkorting van 'LW 30' naar 'PM' aangepast",
-        "Time": "14-10-2026 17:02:24"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Vlaams-Brabant Zone - West",
-        "Description": "L21: TypeVoertuig van 'Ladderwagen' naar 'Personeel / Materiaal Voertuig' aangepast",
-        "Time": "14-10-2026 17:02:24"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Vlaams-Brabant Zone - West",
-        "Description": "L21: Kenteken van '' naar '1-JNN-744' aangepast",
-        "Time": "14-10-2026 17:02:24"
-      },
-      {
-        "Land": "BE",
-        "Hulpdienst": "Brandweer",
-        "Regio": "Oost-Vlaanderen Zone - Oost",
-        "Description": "M4: Adres van 'Buggenhout' naar 'Opwijk' aangepast",
-        "Time": "14-10-2026 17:02:24"
-      },
-      {
-        "Land": "NL",
-        "Hulpdienst": "Politie",
-        "Regio": "NN-POL",
-        "Description": "NN05 Team Verkeer Noord Nederland: TypeVoertuig van 'Assen-Balkengracht, Balkengracht 3' naar 'Assen, Hoofdvaartseweg 91' aangepast",
-        "Time": "14-10-2026 18:02:22"
       }
     ]
   }
