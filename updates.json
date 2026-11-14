@@ -183,6 +183,20 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "17-9397 OO toegevoegd aan Vakbekwaamheid/Breevaartstraat",
         "Time": "14-11-2026 13:02:21"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "11 - Zaanstreek-Waterland (VRZW)",
+        "Description": "GEEN CMV Berger toegevoegd aan Oostzaan",
+        "Time": "14-11-2026 20:02:26"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E16 LW 30 toegevoegd aan Sint-Truiden",
+        "Time": "14-11-2026 20:02:31"
       }
     ],
     "removed": [
@@ -663,6 +677,34 @@
         "Regio": "20 - Midden en West-Brabant (VRMWB)",
         "Description": "20-225: Kenteken van 'G-778-HN' naar 'ONBEKEND' aangepast",
         "Time": "14-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A58: Kenteken van '' naar '1-JHF-443' aangepast",
+        "Time": "14-11-2026 20:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A54: Kenteken van '' naar '1-JHF-421' aangepast",
+        "Time": "14-11-2026 20:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "R07: Afkorting van 'SH' naar 'HV' aangepast",
+        "Time": "14-11-2026 20:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "R07: TypeVoertuig van 'Snelle Hulpwagen' naar 'Hulpverleningsvoertuig' aangepast",
+        "Time": "14-11-2026 20:02:31"
       }
     ]
   },
