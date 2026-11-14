@@ -66535,19 +66535,6 @@
     "last_tenaamstelling_check_date": "2026-11-09",
     "aantal_zitplaatsen": "4"
   },
-  "G-980-NZ": {
-    "expiry": "2026-11-07",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "02-133"
-    ],
-    "last_check_date": "2026-11-14",
-    "last_expired_notification_date": "2026-11-14",
-    "datum_tenaamstelling_dt": "2026-01-20",
-    "last_tenaamstelling_check_date": "2026-11-14",
-    "aantal_zitplaatsen": "4"
-  },
   "H-257-ZV": {
     "expiry": "2027-02-21",
     "checked": true,
@@ -79399,19 +79386,6 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": "2021-02-01",
     "last_tenaamstelling_check_date": "2026-11-09",
-    "aantal_zitplaatsen": "4"
-  },
-  "G-778-HN": {
-    "expiry": "2027-09-25",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "20-225"
-    ],
-    "last_check_date": "2026-09-26",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-11-10",
-    "last_tenaamstelling_check_date": "2026-11-14",
     "aantal_zitplaatsen": "4"
   },
   "Z-073-PS": {
@@ -108513,5 +108487,18 @@
     "datum_tenaamstelling_dt": "2013-11-26",
     "last_tenaamstelling_check_date": "2026-11-13",
     "aantal_zitplaatsen": "7"
+  },
+  "JPJ-74-G": {
+    "expiry": "2026-12-04",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "02-133"
+    ],
+    "last_check_date": "2026-11-14",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-12-04",
+    "last_tenaamstelling_check_date": "2026-11-14",
+    "aantal_zitplaatsen": "4"
   }
 }
