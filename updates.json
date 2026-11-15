@@ -78,6 +78,48 @@
         "Regio": "Oost-Vlaanderen Zone - Centrum",
         "Description": "419 603 PM toegevoegd aan Melle",
         "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": " PM toegevoegd aan Mol",
+        "Time": "15-11-2026 01:02:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Kempen",
+        "Description": " PM toegevoegd aan Westerlo",
+        "Time": "15-11-2026 01:02:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I45 PM toegevoegd aan Leuven",
+        "Time": "15-11-2026 01:02:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": " PM toegevoegd aan Sint-Gillis-Waas",
+        "Time": "15-11-2026 01:02:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": " PM toegevoegd aan Sint-Niklaas",
+        "Time": "15-11-2026 01:02:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Civiele Bescherming",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "2280 KW-PCB toegevoegd aan Brasschaat",
+        "Time": "15-11-2026 01:02:22"
       }
     ],
     "removed": [
@@ -87,6 +129,27 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "GEEN ICB verwijderd van ProRail ICB Rotterdam",
         "Time": "15-11-2026 00:03:57"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I50 PM verwijderd van Leuven",
+        "Time": "15-11-2026 01:02:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "G5 PM verwijderd van Sint-Gillis-Waas",
+        "Time": "15-11-2026 01:02:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "N9 PM verwijderd van Sint-Niklaas",
+        "Time": "15-11-2026 01:02:22"
       }
     ],
     "changed": [
@@ -166,6 +229,20 @@
         "Regio": "West-Vlaanderen Zone - Fluvia",
         "Description": "'L316' omgenummerd naar 'M302'",
         "Time": "15-11-2026 00:04:25"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "N23: Kenteken van '' naar '1-KAD-497' aangepast",
+        "Time": "15-11-2026 01:02:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "L464: Kenteken van '1-FYC-480' naar '1-RJL-767' aangepast",
+        "Time": "15-11-2026 01:02:22"
       }
     ]
   },
