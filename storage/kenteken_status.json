@@ -285,19 +285,6 @@
     "datum_tenaamstelling_dt": "2013-12-23",
     "aantal_zitplaatsen": "9"
   },
-  "7-VFN-81": {
-    "expiry": "2027-01-04",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "01-1501"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "last_tenaamstelling_check_date": "2026-11-15",
-    "datum_tenaamstelling_dt": "2026-11-12",
-    "aantal_zitplaatsen": "6"
-  },
   "BV-DR-99": {
     "expiry": "2027-04-08",
     "checked": true,
@@ -34117,19 +34104,6 @@
     "last_tenaamstelling_check_date": "2026-11-09",
     "aantal_zitplaatsen": "7"
   },
-  "35-WV-SZ": {
-    "expiry": "None",
-    "checked": true,
-    "unknown": true,
-    "roepnummers": [
-      "GEEN"
-    ],
-    "last_check_date": "2026-11-15",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-11-09",
-    "last_tenaamstelling_check_date": "2026-11-15",
-    "aantal_zitplaatsen": null
-  },
   "2-KLB-16": {
     "expiry": "2027-05-30",
     "checked": true,
@@ -63386,19 +63360,6 @@
     "datum_tenaamstelling_dt": "2025-02-20",
     "last_tenaamstelling_check_date": "2026-11-09",
     "aantal_zitplaatsen": "8"
-  },
-  "70-BSK-1": {
-    "expiry": "2026-11-11",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "25-5231"
-    ],
-    "last_check_date": "2026-11-15",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-11-09",
-    "last_tenaamstelling_check_date": "2026-11-15",
-    "aantal_zitplaatsen": "7"
   },
   "37-BDJ-2": {
     "expiry": "2027-08-05",
@@ -107232,17 +107193,6 @@
     "last_tenaamstelling_check_date": "2026-11-15",
     "aantal_zitplaatsen": "2"
   },
-  "L-132-GG": {
-    "expiry": "2027-05-17",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [],
-    "last_check_date": "2026-11-08",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-11-12",
-    "last_tenaamstelling_check_date": "2026-11-15",
-    "aantal_zitplaatsen": "5"
-  },
   "X-036-HR": {
     "expiry": "2027-11-20",
     "checked": true,
@@ -108648,5 +108598,18 @@
     "datum_tenaamstelling_dt": "2026-04-10",
     "last_tenaamstelling_check_date": "2026-11-15",
     "aantal_zitplaatsen": "2"
+  },
+  "BT-BP-61": {
+    "expiry": "2027-06-23",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-11-15",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2024-01-03",
+    "last_tenaamstelling_check_date": "2026-11-15",
+    "aantal_zitplaatsen": "5"
   }
 }

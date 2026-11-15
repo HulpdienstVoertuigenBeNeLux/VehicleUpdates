@@ -197,6 +197,13 @@
         "Regio": "16 - Hollands Midden (VRHM)",
         "Description": "GEEN CMV Berger toegevoegd aan Bodegraven",
         "Time": "15-11-2026 13:03:01"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN IM Berger toegevoegd aan Rotterdam",
+        "Time": "15-11-2026 14:02:53"
       }
     ],
     "removed": [
@@ -234,6 +241,20 @@
         "Regio": "Oost-Vlaanderen Zone - Waasland",
         "Description": "W5 PM verwijderd van Waasmunster",
         "Time": "15-11-2026 11:02:41"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "25 - Flevoland (VRFL)",
+        "Description": "25-5231 TS verwijderd van Lelystad Airport",
+        "Time": "15-11-2026 14:02:53"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Douane",
+        "Regio": "5 - Twente (VRT)",
+        "Description": " DA verwijderd van De Lutte",
+        "Time": "15-11-2026 14:02:53"
       }
     ],
     "changed": [
@@ -362,6 +383,41 @@
         "Regio": "Limburg Zone - Zuid-West",
         "Description": "C03: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Airport fire officer' aangepast",
         "Time": "15-11-2026 12:03:14"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-1501: Kenteken van '7-VFN-81' naar 'ONBEKEND' aangepast",
+        "Time": "15-11-2026 14:02:53"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "'GEEN' omgenummerd naar '13-8871'",
+        "Time": "15-11-2026 14:02:53"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "GEEN: Afkorting van 'LOA' naar 'RH' aangepast",
+        "Time": "15-11-2026 14:02:53"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "GEEN: TypeVoertuig van 'Logistiek aanhanger' naar 'Redteam hoogteverschillen' aangepast",
+        "Time": "15-11-2026 14:02:53"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "GEEN: Kenteken van '35-WV-SZ' naar 'BV-FR-91' aangepast",
+        "Time": "15-11-2026 14:02:53"
       }
     ]
   },
