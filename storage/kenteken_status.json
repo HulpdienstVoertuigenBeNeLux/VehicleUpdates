@@ -108622,5 +108622,31 @@
     "datum_tenaamstelling_dt": "2020-10-26",
     "last_tenaamstelling_check_date": "2026-11-15",
     "aantal_zitplaatsen": "3"
+  },
+  "06-BXB-6": {
+    "expiry": "2027-10-30",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-11-15",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2023-10-30",
+    "last_tenaamstelling_check_date": "2026-11-15",
+    "aantal_zitplaatsen": "6"
+  },
+  "38-BXR-7": {
+    "expiry": "2027-04-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-11-15",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-04-10",
+    "last_tenaamstelling_check_date": "2026-11-15",
+    "aantal_zitplaatsen": "2"
   }
 }
