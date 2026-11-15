@@ -127,6 +127,62 @@
         "Regio": "Oost-Vlaanderen Zone - Waasland",
         "Description": " PM toegevoegd aan Waasmunster",
         "Time": "15-11-2026 11:02:41"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Weginspecteurs",
+        "Regio": "ON-RWS",
+        "Description": "GEEN (DAT) WIS toegevoegd aan Ruurlo",
+        "Time": "15-11-2026 12:02:52"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Douane",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": " DA toegevoegd aan Apeldoorn",
+        "Time": "15-11-2026 12:02:52"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Douane",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": " DB toegevoegd aan Apeldoorn",
+        "Time": "15-11-2026 12:02:52"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Douane",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": " DB toegevoegd aan Apeldoorn",
+        "Time": "15-11-2026 12:02:52"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Douane",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": " DB toegevoegd aan Apeldoorn",
+        "Time": "15-11-2026 12:02:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": "P03 CT toegevoegd aan Florennes",
+        "Time": "15-11-2026 12:03:14"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": "P07 CT toegevoegd aan Florennes",
+        "Time": "15-11-2026 12:03:14"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": "P09 CT toegevoegd aan Florennes",
+        "Time": "15-11-2026 12:03:14"
       }
     ],
     "removed": [
@@ -257,6 +313,41 @@
         "Regio": "West-Vlaanderen Zone - Westhoek",
         "Description": "L464: Kenteken van '1-FYC-480' naar '1-RJL-767' aangepast",
         "Time": "15-11-2026 01:02:22"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Douane",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": ": Afkorting van 'DB' naar '(DA) Drone' aangepast",
+        "Time": "15-11-2026 12:02:52"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Douane",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": ": TypeVoertuig van 'Dienstbus' naar 'Dienstauto Drone' aangepast",
+        "Time": "15-11-2026 12:02:52"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "C03: Adres van 'Tongeren' naar 'Florennes' aangepast",
+        "Time": "15-11-2026 12:03:14"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "C03: Afkorting van 'PM' naar 'AFO' aangepast",
+        "Time": "15-11-2026 12:03:14"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "C03: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Airport fire officer' aangepast",
+        "Time": "15-11-2026 12:03:14"
       }
     ]
   },

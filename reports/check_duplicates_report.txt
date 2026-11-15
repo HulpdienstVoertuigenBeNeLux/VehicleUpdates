@@ -136,10 +136,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,729  (of 10,122 total)
+  Records checked : 6,736  (of 10,129 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  533 value(s) affected
+  Duplicate Roepnummer  --  535 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -1958,6 +1958,16 @@
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : C02
+      Kenteken    : 
+
+  >> 'C03'  (2x)
+      Adres       : Tongeren
+      Hulpdienst  : Brandweer
+      Roepnummer  : C03
+      Kenteken    : 
+      Adres       : Florennes
+      Hulpdienst  : Brandweer
+      Roepnummer  : C03
       Kenteken    : 
 
   >> 'C05'  (2x)
@@ -4638,6 +4648,16 @@
       Roepnummer  : NAMUR 1
       Kenteken    : 
 
+  >> 'P02'  (2x)
+      Adres       : Florennes
+      Hulpdienst  : Brandweer
+      Roepnummer  : P02
+      Kenteken    : 
+      Adres       : Eghezée
+      Hulpdienst  : Brandweer
+      Roepnummer  : P02
+      Kenteken    : 1-NXC-113
+
   >> 'P1'  (6x)
       Adres       : Duffel
       Hulpdienst  : Brandweer
@@ -4704,7 +4724,7 @@
       Roepnummer  : P103
       Kenteken    : 1-KGH-818
 
-  >> 'P11'  (4x)
+  >> 'P11'  (5x)
       Adres       : Scherpenheuvel-Zichem
       Hulpdienst  : Brandweer
       Roepnummer  : P11
@@ -4717,6 +4737,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : P11
       Kenteken    : 1-JLV-416
+      Adres       : Florennes
+      Hulpdienst  : Brandweer
+      Roepnummer  : P11
+      Kenteken    : 
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : P11
