@@ -32358,27 +32358,6 @@
     "technisch_toegestane_maximum_aslast": "2250"
   },
   {
-    "kenteken": "60BGV2",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "wettelijk_toegestane_maximum_aslast": "5100",
-    "technisch_toegestane_maximum_aslast": "5100"
-  },
-  {
-    "kenteken": "60BGV2",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "weggedrag_code": "G",
-    "wettelijk_toegestane_maximum_aslast": "10500",
-    "technisch_toegestane_maximum_aslast": "10500"
-  },
-  {
     "kenteken": "60BDF6",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -32462,6 +32441,27 @@
     "weggedrag_code": "G",
     "wettelijk_toegestane_maximum_aslast": "10000",
     "technisch_toegestane_maximum_aslast": "10000"
+  },
+  {
+    "kenteken": "60BGV2",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "5100",
+    "technisch_toegestane_maximum_aslast": "5100"
+  },
+  {
+    "kenteken": "60BGV2",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "10500",
+    "technisch_toegestane_maximum_aslast": "10500"
   },
   {
     "kenteken": "60BKS2",
@@ -108767,6 +108767,27 @@
     "spoorbreedte": "163",
     "wettelijk_toegestane_maximum_aslast": "1500",
     "technisch_toegestane_maximum_aslast": "1500"
+  },
+  {
+    "kenteken": "KHD97L",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "159",
+    "wettelijk_toegestane_maximum_aslast": "1172",
+    "technisch_toegestane_maximum_aslast": "1172",
+    "afstand_tot_volgende_as_voertuig": "266"
+  },
+  {
+    "kenteken": "KHD97L",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "160",
+    "wettelijk_toegestane_maximum_aslast": "1129",
+    "technisch_toegestane_maximum_aslast": "1129"
   },
   {
     "kenteken": "KHF10B",

@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,097  (of 16,066 total)
+  Records checked : 11,098  (of 16,067 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  8 value(s) affected
@@ -136,10 +136,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,735  (of 10,128 total)
+  Records checked : 6,736  (of 10,129 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  535 value(s) affected
+  Duplicate Roepnummer  --  536 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -1818,6 +1818,16 @@
       Adres       : Leuze-en-Hainaut
       Hulpdienst  : Brandweer
       Roepnummer  : B9
+      Kenteken    : 
+
+  >> 'BE-DW'  (2x)
+      Adres       : Brecht
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE-DW
+      Kenteken    : 1-XMH-894
+      Adres       : Brecht
+      Hulpdienst  : Brandweer
+      Roepnummer  : BE-DW
       Kenteken    : 
 
   >> 'BE1'  (13x)

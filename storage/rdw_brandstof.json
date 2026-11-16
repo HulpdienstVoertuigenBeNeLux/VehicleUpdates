@@ -17826,18 +17826,6 @@
     "actieradius": "0"
   },
   {
-    "kenteken": "60BGV2",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "geluidsniveau_stationair": "90",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*627/2014A",
-    "nettomaximumvermogen": "220.00",
-    "toerental_geluidsniveau": "1650",
-    "uitlaatemissieniveau": "EURO VI A",
-    "co2_emissieklasse": "1"
-  },
-  {
     "kenteken": "60BDF6",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -17881,6 +17869,18 @@
     "uitlaatemissieniveau": "EURO VI B",
     "actieradius_extern_oplaadbaar": "0",
     "actieradius": "0"
+  },
+  {
+    "kenteken": "60BGV2",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_stationair": "90",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*627/2014A",
+    "nettomaximumvermogen": "220.00",
+    "toerental_geluidsniveau": "1650",
+    "uitlaatemissieniveau": "EURO VI A",
+    "co2_emissieklasse": "1"
   },
   {
     "kenteken": "60BKS2",
@@ -63794,6 +63794,19 @@
     "nettomaximumvermogen": "110.00",
     "toerental_geluidsniveau": "2375",
     "uitlaatemissieniveau": "EURO 6 W"
+  },
+  {
+    "kenteken": "KHD97L",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "68",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443AX",
+    "nominaal_continu_maximumvermogen": "50.00",
+    "elektrisch_verbruik_enkel_elektrisch_wltp": "161.00",
+    "actie_radius_enkel_elektrisch_wltp": "462",
+    "netto_max_vermogen_elektrisch": "150.00",
+    "uitlaatemissieniveau": "AX"
   },
   {
     "kenteken": "KHF10B",
