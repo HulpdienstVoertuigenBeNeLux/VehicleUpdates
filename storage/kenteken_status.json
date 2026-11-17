@@ -47871,19 +47871,6 @@
     "last_tenaamstelling_check_date": "2026-11-16",
     "aantal_zitplaatsen": "6"
   },
-  "BS-PH-24": {
-    "expiry": "2027-04-06",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "19-4233"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-02-01",
-    "last_tenaamstelling_check_date": "2026-11-16",
-    "aantal_zitplaatsen": "8"
-  },
   "7-ZSL-81": {
     "expiry": "2027-05-05",
     "checked": true,
@@ -108611,5 +108598,18 @@
     "datum_tenaamstelling_dt": "2026-07-27",
     "last_tenaamstelling_check_date": "2026-11-16",
     "aantal_zitplaatsen": "5"
+  },
+  "BF-925-B": {
+    "expiry": "2027-11-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "19-4233"
+    ],
+    "last_check_date": "2026-11-17",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-11-05",
+    "last_tenaamstelling_check_date": "2026-11-17",
+    "aantal_zitplaatsen": "7"
   }
 }
