@@ -127,6 +127,27 @@
         "Regio": "22 - Brabant-Zuidoost (VRBZO)",
         "Description": "GEEN ICB toegevoegd aan Prorail ICB Eindhoven",
         "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "C631 TW toegevoegd aan Burg-Reuland",
+        "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP642 PM toegevoegd aan Burg-Reuland",
+        "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "V615 LO toegevoegd aan Lontzen",
+        "Time": "18-11-2026 19:03:11"
       }
     ],
     "removed": [
@@ -185,6 +206,13 @@
         "Regio": "5 - Twente (VRT)",
         "Description": "GEEN IM Berger verwijderd van Wierden",
         "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "CX603 TW verwijderd van Burg-Reuland",
+        "Time": "18-11-2026 19:03:11"
       }
     ],
     "changed": [
@@ -418,6 +446,69 @@
         "Regio": "12 - Kennemerland (VRK)",
         "Description": "36-2840: Kenteken van 'FR-PF-19' naar 'ONBEKEND' aangepast",
         "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T837: Kenteken van '' naar '1-WNU-652' aangepast",
+        "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T836: Kenteken van '' naar '2-ANG-208' aangepast",
+        "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "PX661: Kenteken van '' naar '1-KEV-496' aangepast",
+        "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "CL662: Kenteken van '' naar '1-XEM-684' aangepast",
+        "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "EV661: Kenteken van '' naar '1-KEV-553' aangepast",
+        "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "D661: Kenteken van '' naar '1-KEV-514' aangepast",
+        "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP661: Kenteken van '' naar '1-KFH-894' aangepast",
+        "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "'CX611' omgenummerd naar 'CX601'",
+        "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "'VP612' omgenummerd naar 'VP622'",
+        "Time": "18-11-2026 19:03:11"
       }
     ]
   },
