@@ -136,10 +136,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,736  (of 10,129 total)
+  Records checked : 6,735  (of 10,128 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  536 value(s) affected
+  Duplicate Roepnummer  --  538 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -1818,16 +1818,6 @@
       Adres       : Leuze-en-Hainaut
       Hulpdienst  : Brandweer
       Roepnummer  : B9
-      Kenteken    : 
-
-  >> 'BE-DW'  (2x)
-      Adres       : Brecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : BE-DW
-      Kenteken    : 1-XMH-894
-      Adres       : Brecht
-      Hulpdienst  : Brandweer
-      Roepnummer  : BE-DW
       Kenteken    : 
 
   >> 'BE1'  (13x)
@@ -6730,7 +6720,7 @@
       Roepnummer  : T657
       Kenteken    : 
 
-  >> 'T676'  (3x)
+  >> 'T676'  (2x)
       Adres       : kasterlee
       Hulpdienst  : Brandweer
       Roepnummer  : T676
@@ -6738,11 +6728,7 @@
       Adres       : Rijkevorsel
       Hulpdienst  : Brandweer
       Roepnummer  : T676
-      Kenteken    : 
-      Adres       : Rijkevorsel
-      Hulpdienst  : Brandweer
-      Roepnummer  : T676
-      Kenteken    : 
+      Kenteken    : 1-GYS-190
 
   >> 'T7'  (2x)
       Adres       : Tienen
@@ -6763,6 +6749,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : T731
       Kenteken    : 
+
+  >> 'T776'  (2x)
+      Adres       : Rijkevorsel
+      Hulpdienst  : Brandweer
+      Roepnummer  : T776
+      Kenteken    : 2-HQH-916
+      Adres       : Rijkevorsel
+      Hulpdienst  : Brandweer
+      Roepnummer  : T776
+      Kenteken    : 2-HQH-916
 
   >> 'T8'  (3x)
       Adres       : Asse
@@ -6822,11 +6818,31 @@
       Adres       : Rijkevorsel
       Hulpdienst  : Brandweer
       Roepnummer  : T876
-      Kenteken    : 
+      Kenteken    : 1-KRS-525
       Adres       : Rijkevorsel
       Hulpdienst  : Brandweer
       Roepnummer  : T876
       Kenteken    : 
+
+  >> 'T878'  (2x)
+      Adres       : Rijkevorsel
+      Hulpdienst  : Brandweer
+      Roepnummer  : T878
+      Kenteken    : 1-YTA-441
+      Adres       : Rijkevorsel
+      Hulpdienst  : Brandweer
+      Roepnummer  : T878
+      Kenteken    : 
+
+  >> 'T879'  (2x)
+      Adres       : Rijkevorsel
+      Hulpdienst  : Brandweer
+      Roepnummer  : T879
+      Kenteken    : 1-KSD-409
+      Adres       : Rijkevorsel
+      Hulpdienst  : Brandweer
+      Roepnummer  : T879
+      Kenteken    : 1-KSD-409
 
   >> 'T9'  (3x)
       Adres       : Scherpenheuvel-Zichem
@@ -7375,8 +7391,28 @@
       Kenteken    : 2-DAW-513
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  1 value(s) affected
+  Duplicate Kenteken  --  3 value(s) affected
 --------------------------------------------------------------------------------
+
+  >> '1-KSD-409'  (2x)
+      Adres       : Rijkevorsel
+      Hulpdienst  : Brandweer
+      Roepnummer  : T879
+      Kenteken    : 1-KSD-409
+      Adres       : Rijkevorsel
+      Hulpdienst  : Brandweer
+      Roepnummer  : T879
+      Kenteken    : 1-KSD-409
+
+  >> '2-HQH-916'  (2x)
+      Adres       : Rijkevorsel
+      Hulpdienst  : Brandweer
+      Roepnummer  : T776
+      Kenteken    : 2-HQH-916
+      Adres       : Rijkevorsel
+      Hulpdienst  : Brandweer
+      Roepnummer  : T776
+      Kenteken    : 2-HQH-916
 
   >> 'RIB'  (91x)
       Adres       : R1 Leopold
