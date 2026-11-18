@@ -15,6 +15,83 @@
         "Regio": "2 - Fryslân (VRF)",
         "Description": "GEEN MSA toegevoegd aan Balk",
         "Time": "18-11-2026 12:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "GEEN DB toegevoegd aan Cuijk",
+        "Time": "18-11-2026 15:03:09"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "GEEN DA toegevoegd aan Den Bosch",
+        "Time": "18-11-2026 15:03:09"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "GEEN TD toegevoegd aan Oss",
+        "Time": "18-11-2026 15:03:09"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "21-0068 SLH-GW toegevoegd aan Zeeland",
+        "Time": "18-11-2026 15:03:09"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "GEEN DB toegevoegd aan Schaijk",
+        "Time": "18-11-2026 15:03:09"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T877 PM toegevoegd aan Rijkevorsel",
+        "Time": "18-11-2026 15:03:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T976 PM toegevoegd aan Rijkevorsel",
+        "Time": "18-11-2026 15:03:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Noord",
+        "Description": "D01 DW toegevoegd aan Lommel",
+        "Time": "18-11-2026 15:03:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Noord",
+        "Description": "B02 CCFM toegevoegd aan Lommel",
+        "Time": "18-11-2026 15:03:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Noord",
+        "Description": " PM toegevoegd aan Pelt",
+        "Time": "18-11-2026 15:03:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "B09 CCFM toegevoegd aan Tessenderlo",
+        "Time": "18-11-2026 15:03:30"
       }
     ],
     "removed": [
@@ -31,6 +108,13 @@
         "Regio": "Antwerpen Zone - Taxandria",
         "Description": "T976 PM verwijderd van Rijkevorsel",
         "Time": "18-11-2026 11:03:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "B09 CCFM verwijderd van Tessenderlo",
+        "Time": "18-11-2026 15:03:30"
       }
     ],
     "changed": [
@@ -103,6 +187,55 @@
         "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
         "Description": "06-5364: Kenteken van '05-NNL-4' naar 'V-09-NFL' aangepast",
         "Time": "18-11-2026 12:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "21-0063: Adres van 'Rosmalen' naar 'Zeeland' aangepast",
+        "Time": "18-11-2026 15:03:09"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "21-0063: Afkorting van 'SLH-GW' naar 'DPA-GW' aangepast",
+        "Time": "18-11-2026 15:03:09"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "21-0063: TypeVoertuig van 'Slangenhaakarmbak grootschalige watervoorziening' naar 'Dompelpompaanhanger grootschalige watervoorziening' aangepast",
+        "Time": "18-11-2026 15:03:09"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "21-0063: Kenteken van 'GEEN' naar 'ONBEKEND' aangepast",
+        "Time": "18-11-2026 15:03:09"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Noord",
+        "Description": "A5: Kenteken van '' naar '1-JHJ-580' aangepast",
+        "Time": "18-11-2026 15:03:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T878: Kenteken van '' naar '1-YTA-441' aangepast",
+        "Time": "18-11-2026 15:03:30"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Noord",
+        "Description": "V01: Kenteken van '' naar '2-FAS-051' aangepast",
+        "Time": "18-11-2026 15:03:30"
       }
     ]
   },

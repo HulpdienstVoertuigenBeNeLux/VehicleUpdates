@@ -4430,6 +4430,22 @@
     "technisch_toegestane_maximum_aslast": "1350"
   },
   {
+    "kenteken": "09NSJ1",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "spoorbreedte": "163",
+    "wettelijk_toegestane_maximum_aslast": "1575",
+    "technisch_toegestane_maximum_aslast": "1575"
+  },
+  {
+    "kenteken": "09NSJ1",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "spoorbreedte": "163",
+    "wettelijk_toegestane_maximum_aslast": "1600",
+    "technisch_toegestane_maximum_aslast": "1600"
+  },
+  {
     "kenteken": "09BDJ3",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -16217,6 +16233,24 @@
     "spoorbreedte": "163",
     "wettelijk_toegestane_maximum_aslast": "1680",
     "technisch_toegestane_maximum_aslast": "1680"
+  },
+  {
+    "kenteken": "3KFN91",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "plaatscode_as": "V",
+    "spoorbreedte": "143",
+    "wettelijk_toegestane_maximum_aslast": "680",
+    "technisch_toegestane_maximum_aslast": "680"
+  },
+  {
+    "kenteken": "3KFN91",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "plaatscode_as": "A",
+    "spoorbreedte": "142",
+    "wettelijk_toegestane_maximum_aslast": "640",
+    "technisch_toegestane_maximum_aslast": "640"
   },
   {
     "kenteken": "30BBH9",
@@ -88368,6 +88402,27 @@
     "technisch_toegestane_maximum_aslast": "1355"
   },
   {
+    "kenteken": "HJG21L",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "163",
+    "wettelijk_toegestane_maximum_aslast": "1500",
+    "technisch_toegestane_maximum_aslast": "1500",
+    "afstand_tot_volgende_as_voertuig": "328"
+  },
+  {
+    "kenteken": "HJG21L",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "162",
+    "wettelijk_toegestane_maximum_aslast": "1650",
+    "technisch_toegestane_maximum_aslast": "1650"
+  },
+  {
     "kenteken": "HJG09L",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -92932,6 +92987,24 @@
     "spoorbreedte": "150",
     "wettelijk_toegestane_maximum_aslast": "1000",
     "technisch_toegestane_maximum_aslast": "1000"
+  },
+  {
+    "kenteken": "J901LG",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "plaatscode_as": "V",
+    "spoorbreedte": "167",
+    "wettelijk_toegestane_maximum_aslast": "1550",
+    "technisch_toegestane_maximum_aslast": "1550"
+  },
+  {
+    "kenteken": "J901LG",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "plaatscode_as": "A",
+    "spoorbreedte": "165",
+    "wettelijk_toegestane_maximum_aslast": "1750",
+    "technisch_toegestane_maximum_aslast": "1750"
   },
   {
     "kenteken": "J012HP",
@@ -135016,29 +135089,6 @@
     "no_data": true
   },
   {
-    "kenteken": "V09NFL",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "spoorbreedte": "167",
-    "wettelijk_toegestane_maximum_aslast": "1550",
-    "technisch_toegestane_maximum_aslast": "1550",
-    "afstand_tot_volgende_as_voertuig": "320"
-  },
-  {
-    "kenteken": "V09NFL",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "spoorbreedte": "165",
-    "wettelijk_toegestane_maximum_aslast": "1750",
-    "technisch_toegestane_maximum_aslast": "1750"
-  },
-  {
     "kenteken": "V018FN",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -135623,6 +135673,29 @@
     "spoorbreedte": "179",
     "wettelijk_toegestane_maximum_aslast": "2100",
     "technisch_toegestane_maximum_aslast": "2100"
+  },
+  {
+    "kenteken": "V09NFL",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "spoorbreedte": "167",
+    "wettelijk_toegestane_maximum_aslast": "1550",
+    "technisch_toegestane_maximum_aslast": "1550",
+    "afstand_tot_volgende_as_voertuig": "320"
+  },
+  {
+    "kenteken": "V09NFL",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "spoorbreedte": "165",
+    "wettelijk_toegestane_maximum_aslast": "1750",
+    "technisch_toegestane_maximum_aslast": "1750"
   },
   {
     "kenteken": "V09PJG",

@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,100  (of 16,069 total)
+  Records checked : 11,106  (of 16,075 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  8 value(s) affected
@@ -136,10 +136,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,735  (of 10,128 total)
+  Records checked : 6,742  (of 10,132 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  538 value(s) affected
+  Duplicate Roepnummer  --  541 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -462,7 +462,7 @@
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : A01
-      Kenteken    : 
+      Kenteken    : 1-GYY-698
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
       Roepnummer  : A01
@@ -471,6 +471,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A01
       Kenteken    : 1-JPP-849
+
+  >> 'A02'  (2x)
+      Adres       : Lommel
+      Hulpdienst  : Brandweer
+      Roepnummer  : A02
+      Kenteken    : 1-BYY-919
+      Adres       : Bilzen-Hoeselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : A02
+      Kenteken    : 1-CYB-037
 
   >> 'A1'  (2x)
       Adres       : Antwerpen-Noord
@@ -868,7 +878,7 @@
       Roepnummer  : A19
       Kenteken    : 1-JUF-910
 
-  >> 'A2'  (4x)
+  >> 'A2'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A2
@@ -878,10 +888,6 @@
       Roepnummer  : A2
       Kenteken    : 1-JKZ-040
       Adres       : Zoersel
-      Hulpdienst  : Brandweer
-      Roepnummer  : A2
-      Kenteken    : 
-      Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : A2
       Kenteken    : 
@@ -1118,7 +1124,7 @@
       Adres       : Pelt
       Hulpdienst  : Brandweer
       Roepnummer  : A31
-      Kenteken    : 
+      Kenteken    : 1-GYZ-374
       Adres       : Houthalen
       Hulpdienst  : Brandweer
       Roepnummer  : A31
@@ -1270,7 +1276,7 @@
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : A5
-      Kenteken    : 
+      Kenteken    : 1-JHJ-580
 
   >> 'A51'  (2x)
       Adres       : Maaseik
@@ -1596,15 +1602,35 @@
       Roepnummer  : AW15
       Kenteken    : 
 
+  >> 'B01'  (2x)
+      Adres       : Lommel
+      Hulpdienst  : Brandweer
+      Roepnummer  : B01
+      Kenteken    : 2-HLM-545
+      Adres       : Bilzen-Hoeselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : B01
+      Kenteken    : 1-CYB-029
+
   >> 'B03'  (2x)
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : B03
-      Kenteken    : 
+      Kenteken    : 1-JHJ-822
       Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
       Roepnummer  : B03
       Kenteken    : 1-JPP-841
+
+  >> 'B09'  (2x)
+      Adres       : Genk
+      Hulpdienst  : Brandweer
+      Roepnummer  : B09
+      Kenteken    : 
+      Adres       : Tessenderlo
+      Hulpdienst  : Brandweer
+      Roepnummer  : B09
+      Kenteken    : 2-CHE-807
 
   >> 'B101'  (2x)
       Adres       : Hannut
@@ -1708,7 +1734,7 @@
       Adres       : Pelt
       Hulpdienst  : Brandweer
       Roepnummer  : B31
-      Kenteken    : 
+      Kenteken    : 2-HUW-142
       Adres       : Houthalen
       Hulpdienst  : Brandweer
       Roepnummer  : B31
@@ -1748,7 +1774,11 @@
       Roepnummer  : B5
       Kenteken    : 1-KJR-640
 
-  >> 'B51'  (2x)
+  >> 'B51'  (3x)
+      Adres       : Pelt
+      Hulpdienst  : Brandweer
+      Roepnummer  : B51
+      Kenteken    : 1-JHJ-642
       Adres       : Maaseik
       Hulpdienst  : Brandweer
       Roepnummer  : B51
@@ -1940,7 +1970,11 @@
       Roepnummer  : BRASSCHAAT
       Kenteken    : 
 
-  >> 'C01'  (2x)
+  >> 'C01'  (3x)
+      Adres       : Lommel
+      Hulpdienst  : Brandweer
+      Roepnummer  : C01
+      Kenteken    : 2-HGC-767
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
       Roepnummer  : C01
@@ -1950,7 +1984,11 @@
       Roepnummer  : C01
       Kenteken    : 2-BQN-118
 
-  >> 'C02'  (2x)
+  >> 'C02'  (3x)
+      Adres       : Lommel
+      Hulpdienst  : Brandweer
+      Roepnummer  : C02
+      Kenteken    : 2-HDL-919
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
       Roepnummer  : C02
@@ -1980,16 +2018,12 @@
       Roepnummer  : C05
       Kenteken    : 
 
-  >> 'C1'  (15x)
+  >> 'C1'  (14x)
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : C1
       Kenteken    : 2-DTJ-637
       Adres       : Lier
-      Hulpdienst  : Brandweer
-      Roepnummer  : C1
-      Kenteken    : 
-      Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : C1
       Kenteken    : 
@@ -2290,15 +2324,11 @@
       Roepnummer  : C19
       Kenteken    : 1-UJN-960
 
-  >> 'C2'  (10x)
+  >> 'C2'  (9x)
       Adres       : Lier
       Hulpdienst  : Brandweer
       Roepnummer  : C2
       Kenteken    : 
-      Adres       : Lommel
-      Hulpdienst  : Brandweer
-      Roepnummer  : C2
-      Kenteken    : 2-HDL-919
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : C2
@@ -3132,11 +3162,17 @@
       Roepnummer  : DW1
       Kenteken    : 2-AAZ-503
 
-  >> 'E1'  (8x)
+  >> 'E01'  (2x)
       Adres       : Lommel
       Hulpdienst  : Brandweer
-      Roepnummer  : E1
-      Kenteken    : 
+      Roepnummer  : E01
+      Kenteken    : 1-VVK-549
+      Adres       : Bilzen-Hoeselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : E01
+      Kenteken    : 2-CAB-622
+
+  >> 'E1'  (7x)
       Adres       : Ronse
       Hulpdienst  : Brandweer
       Roepnummer  : E1
@@ -3948,7 +3984,7 @@
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : L2
-      Kenteken    : 
+      Kenteken    : 1-JHJ-844
       Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : L2
@@ -4040,7 +4076,7 @@
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : L3
-      Kenteken    : 
+      Kenteken    : 1-JHJ-841
       Adres       : Leuven
       Hulpdienst  : Brandweer
       Roepnummer  : L3
@@ -4060,7 +4096,7 @@
       Adres       : Pelt
       Hulpdienst  : Brandweer
       Roepnummer  : L31
-      Kenteken    : 
+      Kenteken    : 2-JFS-003
       Adres       : Houthalen
       Hulpdienst  : Brandweer
       Roepnummer  : L31
@@ -4092,11 +4128,15 @@
       Roepnummer  : L311
       Kenteken    : 
 
-  >> 'L32'  (2x)
+  >> 'L32'  (3x)
       Adres       : Pelt
       Hulpdienst  : Brandweer
       Roepnummer  : L32
       Kenteken    : 
+      Adres       : Tessenderlo
+      Hulpdienst  : Brandweer
+      Roepnummer  : L32
+      Kenteken    : 2-DXT-447
       Adres       : Landen
       Hulpdienst  : Brandweer
       Roepnummer  : L32
@@ -5846,6 +5886,16 @@
       Roepnummer  : S31
       Kenteken    : 1-LGB-099
 
+  >> 'S32'  (2x)
+      Adres       : Tessenderlo
+      Hulpdienst  : Brandweer
+      Roepnummer  : S32
+      Kenteken    : 2-BUY-642
+      Adres       : Dendermonde
+      Hulpdienst  : Brandweer
+      Roepnummer  : S32
+      Kenteken    : 1-JLH-194
+
   >> 'S34'  (2x)
       Adres       : Heusden-Zolder
       Hulpdienst  : Brandweer
@@ -6108,6 +6158,16 @@
       Adres       : Roeselare
       Hulpdienst  : Brandweer
       Roepnummer  : SW1
+      Kenteken    : 
+
+  >> 'T01'  (2x)
+      Adres       : Lommel
+      Hulpdienst  : Brandweer
+      Roepnummer  : T01
+      Kenteken    : 1-FYN-106
+      Adres       : Tongeren
+      Hulpdienst  : Brandweer
+      Roepnummer  : T01
       Kenteken    : 
 
   >> 'T06'  (2x)
@@ -6510,7 +6570,7 @@
       Adres       : Pelt
       Hulpdienst  : Brandweer
       Roepnummer  : T31
-      Kenteken    : 
+      Kenteken    : 1-JHV-836
       Adres       : Houthalen
       Hulpdienst  : Brandweer
       Roepnummer  : T31
@@ -6540,7 +6600,7 @@
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : T4
-      Kenteken    : 
+      Kenteken    : 1-JHJ-796
       Adres       : Londerzeel
       Hulpdienst  : Brandweer
       Roepnummer  : T4
@@ -6750,16 +6810,6 @@
       Roepnummer  : T731
       Kenteken    : 
 
-  >> 'T776'  (2x)
-      Adres       : Rijkevorsel
-      Hulpdienst  : Brandweer
-      Roepnummer  : T776
-      Kenteken    : 2-HQH-916
-      Adres       : Rijkevorsel
-      Hulpdienst  : Brandweer
-      Roepnummer  : T776
-      Kenteken    : 2-HQH-916
-
   >> 'T8'  (3x)
       Adres       : Asse
       Hulpdienst  : Brandweer
@@ -6823,26 +6873,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : T876
       Kenteken    : 
-
-  >> 'T878'  (2x)
-      Adres       : Rijkevorsel
-      Hulpdienst  : Brandweer
-      Roepnummer  : T878
-      Kenteken    : 1-YTA-441
-      Adres       : Rijkevorsel
-      Hulpdienst  : Brandweer
-      Roepnummer  : T878
-      Kenteken    : 
-
-  >> 'T879'  (2x)
-      Adres       : Rijkevorsel
-      Hulpdienst  : Brandweer
-      Roepnummer  : T879
-      Kenteken    : 1-KSD-409
-      Adres       : Rijkevorsel
-      Hulpdienst  : Brandweer
-      Roepnummer  : T879
-      Kenteken    : 1-KSD-409
 
   >> 'T9'  (3x)
       Adres       : Scherpenheuvel-Zichem
@@ -7391,28 +7421,8 @@
       Kenteken    : 2-DAW-513
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  3 value(s) affected
+  Duplicate Kenteken  --  1 value(s) affected
 --------------------------------------------------------------------------------
-
-  >> '1-KSD-409'  (2x)
-      Adres       : Rijkevorsel
-      Hulpdienst  : Brandweer
-      Roepnummer  : T879
-      Kenteken    : 1-KSD-409
-      Adres       : Rijkevorsel
-      Hulpdienst  : Brandweer
-      Roepnummer  : T879
-      Kenteken    : 1-KSD-409
-
-  >> '2-HQH-916'  (2x)
-      Adres       : Rijkevorsel
-      Hulpdienst  : Brandweer
-      Roepnummer  : T776
-      Kenteken    : 2-HQH-916
-      Adres       : Rijkevorsel
-      Hulpdienst  : Brandweer
-      Roepnummer  : T776
-      Kenteken    : 2-HQH-916
 
   >> 'RIB'  (91x)
       Adres       : R1 Leopold

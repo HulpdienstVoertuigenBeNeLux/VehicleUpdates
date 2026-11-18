@@ -2309,6 +2309,20 @@
     "brandstof_omschrijving": null
   },
   {
+    "kenteken": "09NSJ1",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "8.00",
+    "co2_uitstoot_gecombineerd": "211",
+    "geluidsniveau_stationair": "74",
+    "emissiecode_omschrijving": "5",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*692/2008B",
+    "uitstoot_deeltjes_licht": "0.00039",
+    "nettomaximumvermogen": "103.00",
+    "toerental_geluidsniveau": "2375",
+    "uitlaatemissieniveau": "EURO 5 B"
+  },
+  {
     "kenteken": "09BDJ3",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -8753,6 +8767,19 @@
     "nettomaximumvermogen": "103.00",
     "toerental_geluidsniveau": "2375",
     "uitlaatemissieniveau": "EURO 5 K"
+  },
+  {
+    "kenteken": "3KFN91",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Benzine",
+    "brandstofverbruik_gecombineerd": "4.10",
+    "co2_uitstoot_gecombineerd": "95",
+    "geluidsniveau_rijdend": "71",
+    "geluidsniveau_stationair": "78",
+    "emissiecode_omschrijving": "5",
+    "nettomaximumvermogen": "44.00",
+    "toerental_geluidsniveau": "3750",
+    "uitlaatemissieniveau": "EURO 5"
   },
   {
     "kenteken": "30BBH9",
@@ -47988,6 +48015,19 @@
     "uitlaatemissieniveau": "AX"
   },
   {
+    "kenteken": "HJG21L",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "67",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443AX",
+    "nominaal_continu_maximumvermogen": "62.00",
+    "elektrisch_verbruik_enkel_elektrisch_wltp": "243.00",
+    "actie_radius_enkel_elektrisch_wltp": "343",
+    "netto_max_vermogen_elektrisch": "100.00",
+    "uitlaatemissieniveau": "AX"
+  },
+  {
     "kenteken": "HJG09L",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Elektriciteit",
@@ -51499,6 +51539,23 @@
     "actie_radius_enkel_elektrisch_wltp": "350",
     "netto_max_vermogen_elektrisch": "100.00",
     "uitlaatemissieniveau": "AX"
+  },
+  {
+    "kenteken": "J901LG",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "5.80",
+    "co2_uitstoot_gecombineerd": "151",
+    "geluidsniveau_rijdend": "70",
+    "geluidsniveau_stationair": "80",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832DG",
+    "nettomaximumvermogen": "100.00",
+    "toerental_geluidsniveau": "3300",
+    "emis_deeltjes_type1_wltp": "0.87",
+    "emissie_co2_gecombineerd_wltp": "189",
+    "brandstof_verbruik_gecombineerd_wltp": "7.200",
+    "uitlaatemissieniveau": "EURO 6 DG"
   },
   {
     "kenteken": "J012HP",
@@ -85222,21 +85279,6 @@
     "opgegeven_maximum_snelheid": "60.00"
   },
   {
-    "kenteken": "V09NFL",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "geluidsniveau_rijdend": "69",
-    "geluidsniveau_stationair": "77",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EA",
-    "nettomaximumvermogen": "100.00",
-    "toerental_geluidsniveau": "3300",
-    "emis_deeltjes_type1_wltp": "0.18",
-    "emissie_co2_gecombineerd_wltp": "192",
-    "brandstof_verbruik_gecombineerd_wltp": "7.300",
-    "uitlaatemissieniveau": "EURO 6 EA"
-  },
-  {
     "kenteken": "V018FN",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -85710,6 +85752,21 @@
     "uitlaatemissieniveau": "EURO 6 Y",
     "actieradius_extern_oplaadbaar": "0",
     "actieradius": "0"
+  },
+  {
+    "kenteken": "V09NFL",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_rijdend": "69",
+    "geluidsniveau_stationair": "77",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2023/443EA",
+    "nettomaximumvermogen": "100.00",
+    "toerental_geluidsniveau": "3300",
+    "emis_deeltjes_type1_wltp": "0.18",
+    "emissie_co2_gecombineerd_wltp": "192",
+    "brandstof_verbruik_gecombineerd_wltp": "7.300",
+    "uitlaatemissieniveau": "EURO 6 EA"
   },
   {
     "kenteken": "V09PJG",
