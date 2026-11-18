@@ -148,6 +148,97 @@
         "Regio": "Luik Zone - DG",
         "Description": "V615 LO toegevoegd aan Lontzen",
         "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0004 BM-TES toegevoegd aan Regionaal/Wilhelminakade",
+        "Time": "18-11-2026 21:03:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "GEEN DB toegevoegd aan Someren",
+        "Time": "18-11-2026 21:03:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "GEEN AMBU-HC toegevoegd aan Terneuzen",
+        "Time": "18-11-2026 21:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "414 011 LBC toegevoegd aan Zelzate",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "419 026 LBC toegevoegd aan Zelzate",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "CT101 CT toegevoegd aan Wevelgem",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "CT102 CT toegevoegd aan Wevelgem",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "D103 AFO toegevoegd aan Wevelgem",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "D104 DA toegevoegd aan Wevelgem",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "D105 (DB) PM toegevoegd aan Wevelgem",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "D107 (DB) PM toegevoegd aan Wevelgem",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": " DA toegevoegd aan Ath",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "SN-03 RBA toegevoegd aan Ath",
+        "Time": "18-11-2026 21:04:04"
       }
     ],
     "removed": [
@@ -213,6 +304,13 @@
         "Regio": "Luik Zone - DG",
         "Description": "CX603 TW verwijderd van Burg-Reuland",
         "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0005 BM-TES verwijderd van Regionaal/Wilhelminakade",
+        "Time": "18-11-2026 21:03:40"
       }
     ],
     "changed": [
@@ -509,6 +607,111 @@
         "Regio": "Luik Zone - DG",
         "Description": "'VP612' omgenummerd naar 'VP622'",
         "Time": "18-11-2026 19:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9281: Extra Afkortingen van '' naar 'BU-PDB' aangepast",
+        "Time": "18-11-2026 21:03:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5022: Adres van 'Veldhoven' naar 'Someren' aangepast",
+        "Time": "18-11-2026 21:03:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "24 - Zuid-Limburg (VRZL)",
+        "Description": "24-3422: Kenteken van '8-KNN-04' naar 'V-86-PSH' aangepast",
+        "Time": "18-11-2026 21:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "A25: Adres van 'Bernissart' naar 'Estaimpuis' aangepast",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "A33: Kenteken van '' naar '1-JUJ-375' aangepast",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": ": Afkorting van 'GP/ABC' naar 'BMC' aangepast",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": ": TypeVoertuig van 'Gaspakken / Adembeschermings Container' naar 'Bijzondere Materialen Container' aangepast",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": ": Kenteken van '' naar 'GEEN' aangepast",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "E6: Afkorting van 'LW 24' naar 'LW' aangepast",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "E6: Kenteken van '' naar '1-JUG-246' aangepast",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "E6: Bijzonderheden van '' naar 'Lengte: 24 meter.' aangepast",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "PB2: Kenteken van '' naar '1-CYA-727' aangepast",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "T23: Kenteken van '' naar '1-JXS-382' aangepast",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "VL31: Adres van 'Estaimpuis' naar 'Mouscron' aangepast",
+        "Time": "18-11-2026 21:04:04"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": ": Adres van 'Estaimpuis' naar 'Mouscron' aangepast",
+        "Time": "18-11-2026 21:04:04"
       }
     ]
   },

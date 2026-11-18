@@ -62406,19 +62406,6 @@
     "last_tenaamstelling_check_date": "2026-11-16",
     "aantal_zitplaatsen": "9"
   },
-  "8-KNN-04": {
-    "expiry": "2027-07-15",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "24-3422"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-07-15",
-    "last_tenaamstelling_check_date": "2026-11-16",
-    "aantal_zitplaatsen": "5"
-  },
   "26-BPL-3": {
     "expiry": "2027-02-04",
     "checked": true,
@@ -108611,5 +108598,44 @@
     "datum_tenaamstelling_dt": "2026-07-17",
     "last_tenaamstelling_check_date": "2026-11-18",
     "aantal_zitplaatsen": "5"
+  },
+  "61-ZVJ-1": {
+    "expiry": "2027-03-21",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-11-18",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2013-03-20",
+    "last_tenaamstelling_check_date": "2026-11-18",
+    "aantal_zitplaatsen": "9"
+  },
+  "V-86-PSH": {
+    "expiry": "2029-07-07",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "24-3422"
+    ],
+    "last_check_date": "2026-11-18",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-07-07",
+    "last_tenaamstelling_check_date": "2026-11-18",
+    "aantal_zitplaatsen": "5"
+  },
+  "HPF-09-B": {
+    "expiry": "2027-05-14",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-11-18",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-05-12",
+    "last_tenaamstelling_check_date": "2026-11-18",
+    "aantal_zitplaatsen": "3"
   }
 }

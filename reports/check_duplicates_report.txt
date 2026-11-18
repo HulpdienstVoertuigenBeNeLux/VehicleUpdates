@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,102  (of 16,072 total)
+  Records checked : 11,105  (of 16,075 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  8 value(s) affected
@@ -136,10 +136,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,744  (of 10,134 total)
+  Records checked : 6,759  (of 10,149 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  541 value(s) affected
+  Duplicate Roepnummer  --  542 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -991,7 +991,7 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A25
       Kenteken    : 1-DYG-183
-      Adres       : Bernissart
+      Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : A25
       Kenteken    : 1-JUG-052
@@ -1162,7 +1162,7 @@
       Adres       : Mouscron
       Hulpdienst  : Brandweer
       Roepnummer  : A33
-      Kenteken    : 
+      Kenteken    : 1-JUJ-375
 
   >> 'A34'  (2x)
       Adres       : Linkeroever
@@ -2204,7 +2204,7 @@
       Adres       : Mouscron
       Hulpdienst  : Brandweer
       Roepnummer  : C12
-      Kenteken    : 
+      Kenteken    : 1-JUH-730
       Adres       : Mons
       Hulpdienst  : Brandweer
       Roepnummer  : C12
@@ -3054,6 +3054,16 @@
       Adres       : Waremme
       Hulpdienst  : Brandweer
       Roepnummer  : D102
+      Kenteken    : 
+
+  >> 'D106'  (2x)
+      Adres       : Wevelgem
+      Hulpdienst  : Brandweer
+      Roepnummer  : D106
+      Kenteken    : 
+      Adres       : Erezée
+      Hulpdienst  : Brandweer
+      Roepnummer  : D106
       Kenteken    : 
 
   >> 'D11'  (4x)
@@ -5436,7 +5446,7 @@
       Roepnummer  : R1
       Kenteken    : 
 
-  >> 'R11'  (3x)
+  >> 'R11'  (4x)
       Adres       : Genk
       Hulpdienst  : Brandweer
       Roepnummer  : R11
@@ -5445,6 +5455,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : R11
       Kenteken    : 1-JKV-285
+      Adres       : Estaimpuis
+      Hulpdienst  : Brandweer
+      Roepnummer  : R11
+      Kenteken    : 
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : R11
@@ -6306,7 +6320,7 @@
       Roepnummer  : T12
       Kenteken    : 1-JUH-619
 
-  >> 'T13'  (4x)
+  >> 'T13'  (6x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : T13
@@ -6319,6 +6333,14 @@
       Hulpdienst  : Brandweer
       Roepnummer  : T13
       Kenteken    : 
+      Adres       : Estaimpuis
+      Hulpdienst  : Brandweer
+      Roepnummer  : T13
+      Kenteken    : 1-CYD-241
+      Adres       : Estaimpuis
+      Hulpdienst  : Brandweer
+      Roepnummer  : T13
+      Kenteken    : 1-CYD-241
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : T13
@@ -6542,7 +6564,7 @@
       Adres       : Mouscron
       Hulpdienst  : Brandweer
       Roepnummer  : T3
-      Kenteken    : 
+      Kenteken    : 1-JUJ-267
       Adres       : Quiévrain
       Hulpdienst  : Brandweer
       Roepnummer  : T3
@@ -7421,8 +7443,18 @@
       Kenteken    : 2-DAW-513
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  1 value(s) affected
+  Duplicate Kenteken  --  2 value(s) affected
 --------------------------------------------------------------------------------
+
+  >> '1-CYD-241'  (2x)
+      Adres       : Estaimpuis
+      Hulpdienst  : Brandweer
+      Roepnummer  : T13
+      Kenteken    : 1-CYD-241
+      Adres       : Estaimpuis
+      Hulpdienst  : Brandweer
+      Roepnummer  : T13
+      Kenteken    : 1-CYD-241
 
   >> 'RIB'  (91x)
       Adres       : R1 Leopold
