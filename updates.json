@@ -113,6 +113,20 @@
         "Regio": "Antwerpen Zone - Rivierenland",
         "Description": " CMV Berger toegevoegd aan Lier",
         "Time": "18-11-2026 16:03:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "GEEN RMV toegevoegd aan IJmuiden",
+        "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "GEEN ICB toegevoegd aan Prorail ICB Eindhoven",
+        "Time": "18-11-2026 18:03:11"
       }
     ],
     "removed": [
@@ -136,6 +150,41 @@
         "Regio": "",
         "Description": "B09 CCFM verwijderd van Tessenderlo",
         "Time": "18-11-2026 15:03:30"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI TS-599 TS verwijderd van Kenbri Verhuur",
+        "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "KENBRI TS-625 TS verwijderd van Kenbri Verhuur",
+        "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "GEEN LO-RA verwijderd van Tiel",
+        "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "23 - Limburg-Noord (VRLN)",
+        "Description": "GEEN EH verwijderd van Sportdokters, Maastricht",
+        "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "5 - Twente (VRT)",
+        "Description": "GEEN IM Berger verwijderd van Wierden",
+        "Time": "18-11-2026 18:03:11"
       }
     ],
     "changed": [
@@ -320,6 +369,55 @@
         "Regio": "Antwerpen Zone - Taxandria",
         "Description": "T826: Bijzonderheden van '' naar 'In bruikleen van Civiele Beschermin' aangepast",
         "Time": "18-11-2026 16:03:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9482: Kenteken van 'VN-531-H' naar 'V-06-RPK' aangepast",
+        "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9792: Kenteken van 'KR-330-D' naar 'KTZ-30-K' aangepast",
+        "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-9796: Kenteken van 'GR-009-P' naar 'KRZ-36-B' aangepast",
+        "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-130: Kenteken van 'ZF-626-D' naar 'ONBEKEND' aangepast",
+        "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "20-145: Kenteken van 'K-318-PZ' naar 'ONBEKEND' aangepast",
+        "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "26-8892: Kenteken van 'Z-666-DR' naar 'KBJ-62-S' aangepast",
+        "Time": "18-11-2026 18:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "36-2840: Kenteken van 'FR-PF-19' naar 'ONBEKEND' aangepast",
+        "Time": "18-11-2026 18:03:11"
       }
     ]
   },
