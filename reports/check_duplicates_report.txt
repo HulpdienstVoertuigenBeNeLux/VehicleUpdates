@@ -8,10 +8,10 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,106  (of 16,075 total)
+  Records checked : 11,108  (of 16,077 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  8 value(s) affected
+  Duplicate Roepnummer  --  10 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '01-3903'  (2x)
@@ -98,8 +98,28 @@
       Roepnummer  : 17-9383
       Kenteken    : GEEN
 
+  >> '35-7271'  (2x)
+      Adres       : IJmuiden
+      Hulpdienst  : KNRM
+      Roepnummer  : 35-7271
+      Kenteken    : Koen Oberman
+      Adres       : IJmuiden
+      Hulpdienst  : KNRM
+      Roepnummer  : 35-7271
+      Kenteken    : Koen Oberman
+
+  >> '35-7275'  (2x)
+      Adres       : Callantsoog
+      Hulpdienst  : KNRM
+      Roepnummer  : 35-7275
+      Kenteken    : BZ-NJ-42
+      Adres       : Callantsoog
+      Hulpdienst  : KNRM
+      Roepnummer  : 35-7275
+      Kenteken    : BZ-NJ-42
+
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  3 value(s) affected
+  Duplicate Kenteken  --  5 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '77-BHT-3'  (2x)
@@ -121,6 +141,26 @@
       Hulpdienst  : Brandweer
       Roepnummer  : KENBRI HW-626
       Kenteken    : BT-TR-70
+
+  >> 'BZ-NJ-42'  (2x)
+      Adres       : Callantsoog
+      Hulpdienst  : KNRM
+      Roepnummer  : 35-7275
+      Kenteken    : BZ-NJ-42
+      Adres       : Callantsoog
+      Hulpdienst  : KNRM
+      Roepnummer  : 35-7275
+      Kenteken    : BZ-NJ-42
+
+  >> 'Koen Oberman'  (2x)
+      Adres       : IJmuiden
+      Hulpdienst  : KNRM
+      Roepnummer  : 35-7271
+      Kenteken    : Koen Oberman
+      Adres       : IJmuiden
+      Hulpdienst  : KNRM
+      Roepnummer  : 35-7271
+      Kenteken    : Koen Oberman
 
   >> 'Koos van Messel'  (2x)
       Adres       : IJmuiden

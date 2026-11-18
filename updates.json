@@ -92,6 +92,27 @@
         "Regio": "Limburg Zone - Zuid-West",
         "Description": "B09 CCFM toegevoegd aan Tessenderlo",
         "Time": "18-11-2026 15:03:30"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "GEEN RMV toegevoegd aan IJmuiden",
+        "Time": "18-11-2026 16:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rijkswaterstaat",
+        "Regio": "WNN-RWS",
+        "Description": "GEEN (DA) WAIS toegevoegd aan IJmuiden",
+        "Time": "18-11-2026 16:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " CMV Berger toegevoegd aan Lier",
+        "Time": "18-11-2026 16:03:40"
       }
     ],
     "removed": [
@@ -236,6 +257,69 @@
         "Regio": "Limburg Zone - Noord",
         "Description": "V01: Kenteken van '' naar '2-FAS-051' aangepast",
         "Time": "18-11-2026 15:03:30"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "35-7271: Adres van 'Callantsoog' naar 'IJmuiden' aangepast",
+        "Time": "18-11-2026 16:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "35-7271: Kenteken van 'Veronica' naar 'Koen Oberman' aangepast",
+        "Time": "18-11-2026 16:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "GEEN: Adres van 'Terschelling-Paal 8' naar 'IJmuiden' aangepast",
+        "Time": "18-11-2026 16:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "'21-2111' omgenummerd naar '21-2011'",
+        "Time": "18-11-2026 16:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "'GEEN' omgenummerd naar '35-7271'",
+        "Time": "18-11-2026 16:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "'GEEN' omgenummerd naar '35-7271'",
+        "Time": "18-11-2026 16:03:11"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "GEEN: Kenteken van 'Hendrika Theodora' naar 'Koen Oberman' aangepast",
+        "Time": "18-11-2026 16:03:11"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T826: Kenteken van '' naar '1-AXM-506' aangepast",
+        "Time": "18-11-2026 16:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T826: Bijzonderheden van '' naar 'In bruikleen van Civiele Beschermin' aangepast",
+        "Time": "18-11-2026 16:03:40"
       }
     ]
   },
