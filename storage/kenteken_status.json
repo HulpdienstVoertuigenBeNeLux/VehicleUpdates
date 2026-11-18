@@ -16225,19 +16225,6 @@
     "last_tenaamstelling_check_date": "2026-11-17",
     "aantal_zitplaatsen": "2"
   },
-  "05-NNL-4": {
-    "expiry": "2027-05-20",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "06-5364"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2026-05-26",
-    "last_tenaamstelling_check_date": "2026-11-15",
-    "aantal_zitplaatsen": "9"
-  },
   "BX-TL-79": {
     "expiry": "2027-07-10",
     "checked": true,
@@ -108624,5 +108611,18 @@
     "datum_tenaamstelling_dt": "2016-11-03",
     "last_tenaamstelling_check_date": "2026-11-18",
     "aantal_zitplaatsen": "7"
+  },
+  "V-09-NFL": {
+    "expiry": "2028-09-11",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "06-5364"
+    ],
+    "last_check_date": "2026-11-18",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2025-09-11",
+    "last_tenaamstelling_check_date": "2026-11-18",
+    "aantal_zitplaatsen": "5"
   }
 }

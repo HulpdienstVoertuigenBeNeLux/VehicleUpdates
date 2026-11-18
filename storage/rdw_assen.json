@@ -2915,22 +2915,6 @@
     "technisch_toegestane_maximum_aslast": "9000"
   },
   {
-    "kenteken": "05NNL4",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "spoorbreedte": "163",
-    "wettelijk_toegestane_maximum_aslast": "1575",
-    "technisch_toegestane_maximum_aslast": "1575"
-  },
-  {
-    "kenteken": "05NNL4",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "spoorbreedte": "163",
-    "wettelijk_toegestane_maximum_aslast": "1600",
-    "technisch_toegestane_maximum_aslast": "1600"
-  },
-  {
     "kenteken": "05NXJ4",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -135032,25 +135016,27 @@
     "no_data": true
   },
   {
-    "kenteken": "V75KZH",
+    "kenteken": "V09NFL",
     "as_nummer": "1",
     "aantal_assen": "2",
-    "aangedreven_as": "J",
+    "aangedreven_as": "N",
+    "hefas": "N",
     "plaatscode_as": "V",
-    "spoorbreedte": "154",
-    "wettelijk_toegestane_maximum_aslast": "1450",
-    "technisch_toegestane_maximum_aslast": "1450",
-    "afstand_tot_volgende_as_voertuig": "309"
+    "spoorbreedte": "167",
+    "wettelijk_toegestane_maximum_aslast": "1550",
+    "technisch_toegestane_maximum_aslast": "1550",
+    "afstand_tot_volgende_as_voertuig": "320"
   },
   {
-    "kenteken": "V75KZH",
+    "kenteken": "V09NFL",
     "as_nummer": "2",
     "aantal_assen": "2",
     "aangedreven_as": "J",
+    "hefas": "N",
     "plaatscode_as": "A",
-    "spoorbreedte": "155",
-    "wettelijk_toegestane_maximum_aslast": "1920",
-    "technisch_toegestane_maximum_aslast": "1920"
+    "spoorbreedte": "165",
+    "wettelijk_toegestane_maximum_aslast": "1750",
+    "technisch_toegestane_maximum_aslast": "1750"
   },
   {
     "kenteken": "V018FN",
@@ -140325,6 +140311,27 @@
   },
   {
     "kenteken": "V75FNZ",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "A",
+    "spoorbreedte": "155",
+    "wettelijk_toegestane_maximum_aslast": "1920",
+    "technisch_toegestane_maximum_aslast": "1920"
+  },
+  {
+    "kenteken": "V75KZH",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "V",
+    "spoorbreedte": "154",
+    "wettelijk_toegestane_maximum_aslast": "1450",
+    "technisch_toegestane_maximum_aslast": "1450",
+    "afstand_tot_volgende_as_voertuig": "309"
+  },
+  {
+    "kenteken": "V75KZH",
     "as_nummer": "2",
     "aantal_assen": "2",
     "aangedreven_as": "J",
