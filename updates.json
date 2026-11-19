@@ -8,6 +8,41 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "17-0005 BM-TES toegevoegd aan Regionaal/Wilhelminakade",
         "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0001 BM-TES toegevoegd aan Regionaal/Wilhelminakade",
+        "Time": "19-11-2026 09:03:06"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0002 BM-TES toegevoegd aan Regionaal/Wilhelminakade",
+        "Time": "19-11-2026 09:03:06"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0003 BM-TES toegevoegd aan Regionaal/Wilhelminakade",
+        "Time": "19-11-2026 09:03:06"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0004 BM-TES toegevoegd aan Regionaal/Wilhelminakade",
+        "Time": "19-11-2026 09:03:06"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9393 OO toegevoegd aan Vakbekwaamheid/Breevaartstraat",
+        "Time": "19-11-2026 09:03:06"
       }
     ],
     "removed": [
@@ -17,6 +52,13 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "17-0004 BM-TES verwijderd van Regionaal/Wilhelminakade",
         "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9394 OO verwijderd van Vakbekwaamheid/Breevaartstraat",
+        "Time": "19-11-2026 09:03:06"
       }
     ],
     "changed": [
@@ -222,6 +264,20 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "'GEEN' omgenummerd naar 'OVD1'",
         "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "OVD1: Afkorting van 'DA' naar 'OO' aangepast",
+        "Time": "19-11-2026 09:03:06"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "OVD1: Bijzonderheden van 'Secundaire veiligheidsregio huisstijl. Bezetting: 5 personen.' naar 'Secundaire huisstijl. Voertuig t.b.v. stage OVD-B. Gebruikt 17-939x roepnummer.' aangepast",
+        "Time": "19-11-2026 09:03:06"
       }
     ]
   },
