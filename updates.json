@@ -372,6 +372,13 @@
         "Regio": "12 - Kennemerland (VRK)",
         "Description": "GEEN HA-KR toegevoegd aan IJmuiden",
         "Time": "19-11-2026 16:03:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "7 - Gelderland-Midden (VGGM)",
+        "Description": "GEEN IM Berger toegevoegd aan Arnhem",
+        "Time": "19-11-2026 17:03:57"
       }
     ],
     "removed": [
@@ -465,6 +472,13 @@
         "Regio": "Henegouwen Zone - Hainaut-Centre",
         "Description": "VC30 CO verwijderd van Saint-Ghislain",
         "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-5112 BRV-K verwijderd van Leidschendam-Voorburg",
+        "Time": "19-11-2026 17:03:57"
       }
     ],
     "changed": [
@@ -1153,6 +1167,34 @@
         "Regio": "DH-POL",
         "Description": "DH42 Politiepost Klein Leiden Noord: TypeVoertuig van 'Kooilaan 96, Leiden' naar 'Rhijngeesterstraatweg 13 A, 2342 AN Oegstgeest' aangepast",
         "Time": "19-11-2026 16:03:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-5680: Kenteken van '77-BHT-3' naar 'ONBEKEND' aangepast",
+        "Time": "19-11-2026 17:03:57"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "GEEN: Kenteken van 'ONBEKEND' naar 'GEEN' aangepast",
+        "Time": "19-11-2026 17:03:57"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "4 - IJsselland (VRIJ)",
+        "Description": "04-110: Kenteken van 'ZT-644-V' naar 'KRB-80-F' aangepast",
+        "Time": "19-11-2026 17:03:57"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "6 - Noord- en Oost-Gelderland (VNOG)",
+        "Description": "06-143: Kenteken van 'ONBEKEND' naar 'KXL-55-X' aangepast",
+        "Time": "19-11-2026 17:03:57"
       }
     ]
   },
