@@ -1,9 +1,229 @@
 [
   {
     "date": "2026-11-19",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0005 BM-TES toegevoegd aan Regionaal/Wilhelminakade",
+        "Time": "19-11-2026 08:03:04"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0004 BM-TES verwijderd van Regionaal/Wilhelminakade",
+        "Time": "19-11-2026 08:03:04"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "13 - Amsterdam-Amstelland (VRAA)",
+        "Description": "13-901: TypeVoertuig van 'Mobiel medisch team voertuig' naar 'Mobiel medisch team' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-901: TypeVoertuig van 'Mobiel medisch team voertuig' naar 'Mobiel medisch team' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-902: TypeVoertuig van 'Mobiel medisch team voertuig' naar 'Mobiel medisch team' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "08-903: TypeVoertuig van 'Mobiel medisch team voertuig' naar 'Mobiel medisch team' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "08-904: TypeVoertuig van 'Mobiel medisch team voertuig' naar 'Mobiel medisch team' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-909: TypeVoertuig van 'Mobiel medisch team voertuig' naar 'Mobiel medisch team' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-911: TypeVoertuig van 'Mobiel medisch team voertuig' naar 'Mobiel medisch team' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-901: TypeVoertuig van 'Mobiel medisch team voertuig' naar 'Mobiel medisch team' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "5 - Twente (VRT)",
+        "Description": "05-985: TypeVoertuig van 'Mobiel medisch team voertuig' naar 'Mobiel medisch team' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "14 - Gooi en Vechtstreek (VRGV)",
+        "Description": "GEEN: TypeVoertuig van 'Logistiek' naar 'Logistiek voertuig' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2012: TypeVoertuig van 'Brandweervaartuig middel' naar 'Brandweervaartuig klein' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2014: TypeVoertuig van 'Brandweervaartuig middel' naar 'Brandweervaartuig klein' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2016: TypeVoertuig van 'Brandweervaartuig middel' naar 'Brandweervaartuig klein' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2015: TypeVoertuig van 'Brandweervaartuig middel' naar 'Brandweervaartuig klein' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2113: TypeVoertuig van 'Brandweervaartuig middel' naar 'Brandweervaartuig klein' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "16-2212: TypeVoertuig van 'Brandweervaartuig middel' naar 'Brandweervaartuig klein' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1605: TypeVoertuig van 'Verkenningsvoertuig team digitale verkenning' naar 'Dienstbus' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2667: TypeVoertuig van 'Dompelpomphaakarmbak grootschalige watervoorziening' naar 'Watertankhaakarmbak groot' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9997: TypeVoertuig van 'Verbindingscommando voertuig' naar 'Verbindingscommandowagen' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9998: TypeVoertuig van 'Verbindingscommando voertuig' naar 'Verbindingscommandowagen' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9022: Extra Afkortingen van '' naar 'AGS' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9083: TypeVoertuig van 'Officier van dienst Brandweer' naar 'Dienstauto' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9092: TypeVoertuig van 'Hoofdofficier van dienst Brandweer' naar 'Algemeen commandant Brandweer' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9906: TypeVoertuig van 'Teamleider team digitale verkenning' naar 'Dienstauto' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6513: TypeVoertuig van 'Gereedschap/materieelvoertuig terreinvaardig' naar 'Ondersteuningsteam brandweervaartuig' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6702: TypeVoertuig van 'Trekker klein' naar 'Personeel/materieelvoertuig' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "22 - Brabant-Zuidoost (VRBZO)",
+        "Description": "22-5692: TypeVoertuig van 'Verbindingscommando voertuig' naar 'Verbindingscommandowagen' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-899: TypeVoertuig van 'Commando voertuig regionale ambulancevoorziening' naar 'Technisch centralist verbindingscommando' aangepast",
+        "Time": "19-11-2026 08:03:04"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "'GEEN' omgenummerd naar 'OVD1'",
+        "Time": "19-11-2026 08:03:04"
+      }
+    ]
   },
   {
     "date": "2026-11-18",
