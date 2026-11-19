@@ -197,6 +197,90 @@
         "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
         "Description": "RO-CMDW-2 CO toegevoegd aan Ronse",
         "Time": "19-11-2026 13:02:56"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "30-604 RR-RK toegevoegd aan Medische dienst",
+        "Time": "19-11-2026 14:02:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "",
+        "Description": "19-950 RK toegevoegd aan ONBEKEND",
+        "Time": "19-11-2026 14:02:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "19 - Zeeland (VRZ)",
+        "Description": "GEEN CMV Berger toegevoegd aan Goes",
+        "Time": "19-11-2026 14:02:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH12 Teambureau Overbosch-Wassenaar  toegevoegd aan Wassenaar",
+        "Time": "19-11-2026 14:02:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH12 Politiepost Klein Overbosch-Wassenaar  toegevoegd aan Den Haag",
+        "Time": "19-11-2026 14:02:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH14 Teambureau Segbroek-Loosduinen  toegevoegd aan Den Haag",
+        "Time": "19-11-2026 14:02:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A148 Boot toegevoegd aan Antwerpen-Noord",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T843 PM toegevoegd aan Turnhout",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
+        "Description": "OU-CMDW-3 CO toegevoegd aan Oudenaarde",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "469101 HZA toegevoegd aan Geraardsbergen",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "D651 SH toegevoegd aan La Calamine",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "B661 SIG toegevoegd aan Lontzen",
+        "Time": "19-11-2026 14:03:07"
       }
     ],
     "removed": [
@@ -227,6 +311,34 @@
         "Regio": "Oost-Vlaanderen Zone - Waasland",
         "Description": "N12 PM verwijderd van Sint-Niklaas",
         "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH12 Teambureau Overbosch - Wassenaar  verwijderd van Wassenaar",
+        "Time": "19-11-2026 14:02:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH12 Politiepost Klein Overbosch - Wassenaar  verwijderd van Den Haag",
+        "Time": "19-11-2026 14:02:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH14 Teambureau Segbroek - Loosduinen  verwijderd van Den Haag",
+        "Time": "19-11-2026 14:02:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T819 CO verwijderd van Turnhout",
+        "Time": "19-11-2026 14:03:07"
       }
     ],
     "changed": [
@@ -586,6 +698,146 @@
         "Regio": "Oost-Vlaanderen Zone - Vlaamse Ardennen",
         "Description": ": TypeVoertuig van 'Bijzondere Materialen Aanhanger' naar 'Elektrogeengroep Aanhanger' aangepast",
         "Time": "19-11-2026 13:02:56"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T612: Kenteken van '' naar '1-KRS-080' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T712: Kenteken van '' naar '1-VQF-705' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T813: Afkorting van 'DB' naar 'PM' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T813: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T813: Kenteken van '' naar '1-YTA-560' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T913: Kenteken van '' naar '1-XWB-645' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T912: Kenteken van '' naar '1-KSC-938' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T821: Kenteken van '' naar '1-KRP-890' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T815: Kenteken van '' naar '1-KRP-709' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T818: Kenteken van '' naar '1-KSC-161' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": ": Kenteken van '' naar 'ONBEKEND' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460101: Adres van 'Geraardsbergen' naar 'Aalst' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460101: Kenteken van '1-CYA-770' naar '1-DYT-915' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "TURNHOUT 1: Kenteken van '' naar '2-GBS-522' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "TURNHOUT 2: Kenteken van '' naar '2-BPM-826' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "TURNHOUT 3: Kenteken van '' naar '1-XNC-875' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Civiele Bescherming",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "2326: Kenteken van '' naar '2-BXM-265' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Civiele Bescherming",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "7718: Kenteken van '' naar '1-XPV-627' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Civiele Bescherming",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "1505: Kenteken van '' naar '1-DTM-293' aangepast",
+        "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "'VP642' omgenummerd naar 'VP632'",
+        "Time": "19-11-2026 14:03:07"
       }
     ]
   },
