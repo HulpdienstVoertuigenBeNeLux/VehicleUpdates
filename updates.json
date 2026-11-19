@@ -50,6 +50,83 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "17-9394 OO toegevoegd aan Vakbekwaamheid/Breevaartstraat",
         "Time": "19-11-2026 11:03:39"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "7 - Gelderland-Midden (VGGM)",
+        "Description": "GEEN IM Berger toegevoegd aan Ede",
+        "Time": "19-11-2026 12:03:33"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " TW toegevoegd aan Lier",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " ELV toegevoegd aan Lier",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " CCFM toegevoegd aan Lier",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " CO toegevoegd aan Lier",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " HA toegevoegd aan Lier",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": "VT02 HZA toegevoegd aan Niel",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": " PM toegevoegd aan Rijkevorsel",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "ST-PW-1 PM toegevoegd aan Sint-Niklaas",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "ST-DIENST-1 DA toegevoegd aan Sint-Niklaas",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460722 KPC toegevoegd aan Aalst",
+        "Time": "19-11-2026 12:03:41"
       }
     ],
     "removed": [
@@ -73,6 +150,13 @@
         "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
         "Description": "KENBRI TS-629 TS verwijderd van Kenbri Verhuur",
         "Time": "19-11-2026 11:03:39"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "N12 PM verwijderd van Sint-Niklaas",
+        "Time": "19-11-2026 12:03:41"
       }
     ],
     "changed": [
@@ -292,6 +376,118 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "OVD1: Bijzonderheden van 'Secundaire veiligheidsregio huisstijl. Bezetting: 5 personen.' naar 'Secundaire huisstijl. Voertuig t.b.v. stage OVD-B. Gebruikt 17-939x roepnummer.' aangepast",
         "Time": "19-11-2026 09:03:06"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "15 - Haaglanden (VRH)",
+        "Description": "15-5000: Kenteken van 'ONBEKEND' naar 'KJ-385-Z' aangepast",
+        "Time": "19-11-2026 12:03:33"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T804: Kenteken van '1-KSD-062' naar '2-GGQ-752' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "T01: Kenteken van '' naar '1-BYZ-933' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "C02: Adres van 'Tongeren' naar 'Bilzen-Hoeselt' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "C02: Kenteken van '' naar '2-FUA-231' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S09: Adres van 'Sint-Truiden' naar 'Tongeren' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S09: Afkorting van 'CO' naar 'DA' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S09: TypeVoertuig van 'Commandovoertuig' naar 'Dienstauto' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S09: Kenteken van '' naar '1-JSA-662' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "S21: Kenteken van '' naar '1-JSS-741' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M14: Kenteken van '' naar '1-JSS-737' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "BCON6: Kenteken van '' naar 'GEEN' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "BCON7: Kenteken van '' naar 'GEEN' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460752: Kenteken van '' naar '1-GYQ-092' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460502: Afkorting van 'HV' naar 'HV-KR' aangepast",
+        "Time": "19-11-2026 12:03:41"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460502: TypeVoertuig van 'Hulpverleningsvoertuig' naar 'Hulpverleningsvoertuig (met kraan)' aangepast",
+        "Time": "19-11-2026 12:03:41"
       }
     ]
   },

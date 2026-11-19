@@ -108624,5 +108624,31 @@
     "datum_tenaamstelling_dt": "2025-05-12",
     "last_tenaamstelling_check_date": "2026-11-18",
     "aantal_zitplaatsen": "3"
+  },
+  "KJ-385-Z": {
+    "expiry": "2027-06-05",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "15-5000"
+    ],
+    "last_check_date": "2026-11-19",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2016-11-22",
+    "last_tenaamstelling_check_date": "2026-11-19",
+    "aantal_zitplaatsen": "9"
+  },
+  "BD-012-P": {
+    "expiry": "2027-06-24",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "GEEN"
+    ],
+    "last_check_date": "2026-11-19",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-06-11",
+    "last_tenaamstelling_check_date": "2026-11-19",
+    "aantal_zitplaatsen": "2"
   }
 }

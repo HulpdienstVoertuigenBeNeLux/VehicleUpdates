@@ -136,7 +136,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,759  (of 10,149 total)
+  Records checked : 6,761  (of 10,151 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  542 value(s) affected
@@ -872,7 +872,7 @@
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : A19
-      Kenteken    : 
+      Kenteken    : 1-BYZ-948
       Adres       : Ath
       Hulpdienst  : Brandweer
       Roepnummer  : A19
@@ -1004,7 +1004,7 @@
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : A26
-      Kenteken    : 
+      Kenteken    : 1-DYR-002
       Adres       : Bernissart
       Hulpdienst  : Brandweer
       Roepnummer  : A26
@@ -1940,7 +1940,7 @@
       Adres       : Beveren
       Hulpdienst  : Ambulance
       Roepnummer  : BEVEREN 1
-      Kenteken    : 
+      Kenteken    : 1-KAD-478
       Adres       : Beveren
       Hulpdienst  : Ambulance
       Roepnummer  : BEVEREN 1
@@ -1970,7 +1970,7 @@
       Roepnummer  : BRASSCHAAT
       Kenteken    : 
 
-  >> 'C01'  (3x)
+  >> 'C01'  (4x)
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : C01
@@ -1979,12 +1979,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C01
       Kenteken    : 1-LBY-575
+      Adres       : Tongeren
+      Hulpdienst  : Brandweer
+      Roepnummer  : C01
+      Kenteken    : 1-JSA-924
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : C01
       Kenteken    : 2-BQN-118
 
-  >> 'C02'  (3x)
+  >> 'C02'  (2x)
       Adres       : Lommel
       Hulpdienst  : Brandweer
       Roepnummer  : C02
@@ -1993,10 +1997,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : C02
       Kenteken    : 2-FUA-231
-      Adres       : Tongeren
-      Hulpdienst  : Brandweer
-      Roepnummer  : C02
-      Kenteken    : 
 
   >> 'C03'  (2x)
       Adres       : Tongeren
@@ -3338,7 +3338,7 @@
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : E14
-      Kenteken    : 
+      Kenteken    : 1-DYT-747
       Adres       : Delta
       Hulpdienst  : Brandweer
       Roepnummer  : E14
@@ -4018,7 +4018,7 @@
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : L21
-      Kenteken    : 
+      Kenteken    : 1-SUR-239
       Adres       : Londerzeel
       Hulpdienst  : Brandweer
       Roepnummer  : L21
@@ -5652,7 +5652,7 @@
       Roepnummer  : S02
       Kenteken    : 2-GNK-896
 
-  >> 'S09'  (2x)
+  >> 'S09'  (3x)
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
       Roepnummer  : S09
@@ -5661,6 +5661,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S09
       Kenteken    : 
+      Adres       : Tongeren
+      Hulpdienst  : Brandweer
+      Roepnummer  : S09
+      Kenteken    : 1-JSA-662
 
   >> 'S1'  (7x)
       Adres       : Duffel
@@ -5852,13 +5856,13 @@
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : S21
-      Kenteken    : 
+      Kenteken    : 1-JSS-741
 
   >> 'S23'  (2x)
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : S23
-      Kenteken    : 
+      Kenteken    : 1-PBU-395
       Adres       : Braine-L'Alleud
       Hulpdienst  : Brandweer
       Roepnummer  : S23
@@ -6182,7 +6186,7 @@
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : T01
-      Kenteken    : 
+      Kenteken    : 1-BYZ-933
 
   >> 'T06'  (2x)
       Adres       : Herk-de-Stad
@@ -6320,7 +6324,7 @@
       Roepnummer  : T12
       Kenteken    : 1-JUH-619
 
-  >> 'T13'  (6x)
+  >> 'T13'  (5x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : T13
@@ -6333,10 +6337,6 @@
       Hulpdienst  : Brandweer
       Roepnummer  : T13
       Kenteken    : 
-      Adres       : Estaimpuis
-      Hulpdienst  : Brandweer
-      Roepnummer  : T13
-      Kenteken    : 1-CYD-241
       Adres       : Estaimpuis
       Hulpdienst  : Brandweer
       Roepnummer  : T13
@@ -6368,7 +6368,7 @@
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : T15
-      Kenteken    : 
+      Kenteken    : 1-FYZ-742
       Adres       : Leuven
       Hulpdienst  : Brandweer
       Roepnummer  : T15
@@ -7443,18 +7443,8 @@
       Kenteken    : 2-DAW-513
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  2 value(s) affected
+  Duplicate Kenteken  --  1 value(s) affected
 --------------------------------------------------------------------------------
-
-  >> '1-CYD-241'  (2x)
-      Adres       : Estaimpuis
-      Hulpdienst  : Brandweer
-      Roepnummer  : T13
-      Kenteken    : 1-CYD-241
-      Adres       : Estaimpuis
-      Hulpdienst  : Brandweer
-      Roepnummer  : T13
-      Kenteken    : 1-CYD-241
 
   >> 'RIB'  (91x)
       Adres       : R1 Leopold
