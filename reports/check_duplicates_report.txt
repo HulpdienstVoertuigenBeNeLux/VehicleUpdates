@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,111  (of 16,081 total)
+  Records checked : 11,111  (of 16,082 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  8 value(s) affected
@@ -136,10 +136,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,763  (of 10,153 total)
+  Records checked : 6,767  (of 10,158 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  541 value(s) affected
+  Duplicate Roepnummer  --  544 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -2278,7 +2278,7 @@
       Roepnummer  : C16
       Kenteken    : 
 
-  >> 'C18'  (4x)
+  >> 'C18'  (3x)
       Adres       : Landen
       Hulpdienst  : Brandweer
       Roepnummer  : C18
@@ -2288,10 +2288,6 @@
       Roepnummer  : C18
       Kenteken    : 2-GWA-080
       Adres       : Tournai
-      Hulpdienst  : Brandweer
-      Roepnummer  : C18
-      Kenteken    : 
-      Adres       : Quiévrain
       Hulpdienst  : Brandweer
       Roepnummer  : C18
       Kenteken    : 
@@ -3164,12 +3160,8 @@
       Roepnummer  : E01
       Kenteken    : 2-CAB-622
 
-  >> 'E1'  (6x)
+  >> 'E1'  (5x)
       Adres       : Zottegem
-      Hulpdienst  : Brandweer
-      Roepnummer  : E1
-      Kenteken    : 
-      Adres       : Quiévrain
       Hulpdienst  : Brandweer
       Roepnummer  : E1
       Kenteken    : 
@@ -6716,6 +6708,16 @@
       Roepnummer  : T54
       Kenteken    : 
 
+  >> 'T543'  (2x)
+      Adres       : kasterlee
+      Hulpdienst  : Brandweer
+      Roepnummer  : T543
+      Kenteken    : 1-KRP-666
+      Adres       : Merksplas
+      Hulpdienst  : Brandweer
+      Roepnummer  : T543
+      Kenteken    : 
+
   >> 'T551'  (2x)
       Adres       : Ravels
       Hulpdienst  : Brandweer
@@ -6831,6 +6833,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : T832
       Kenteken    : 
+
+  >> 'T843'  (2x)
+      Adres       : Beerse
+      Hulpdienst  : Brandweer
+      Roepnummer  : T843
+      Kenteken    : 1-KRS-432
+      Adres       : Turnhout
+      Hulpdienst  : Brandweer
+      Roepnummer  : T843
+      Kenteken    : 1-KSC-818
 
   >> 'T851'  (2x)
       Adres       : Ravels
@@ -7364,6 +7376,16 @@
       Roepnummer  : VP643
       Kenteken    : 1-XMN-546
 
+  >> 'VRCH14'  (2x)
+      Adres       : Quiévrain
+      Hulpdienst  : Brandweer
+      Roepnummer  : VRCH14
+      Kenteken    : 1-JUA-943
+      Adres       : Quiévrain
+      Hulpdienst  : Brandweer
+      Roepnummer  : VRCH14
+      Kenteken    : 
+
   >> 'W1'  (2x)
       Adres       : Wuustwezel
       Hulpdienst  : Brandweer
@@ -7409,8 +7431,18 @@
       Kenteken    : 2-DAW-513
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  1 value(s) affected
+  Duplicate Kenteken  --  2 value(s) affected
 --------------------------------------------------------------------------------
+
+  >> '1-LKZ-981'  (2x)
+      Adres       : Mons
+      Hulpdienst  : Brandweer
+      Roepnummer  : BL12
+      Kenteken    : 1-LKZ-981
+      Adres       : Quiévrain
+      Hulpdienst  : Brandweer
+      Roepnummer  : BL15
+      Kenteken    : 1-LKZ-981
 
   >> 'RIB'  (91x)
       Adres       : R1 Leopold

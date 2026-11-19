@@ -281,6 +281,90 @@
         "Regio": "Luik Zone - DG",
         "Description": "B661 SIG toegevoegd aan Lontzen",
         "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH14 Politiepost Klein Segbroek-Loosduinen  toegevoegd aan Den Haag",
+        "Time": "19-11-2026 15:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH81 Bereden Brigade en hondengeleiders  toegevoegd aan Den Haag",
+        "Time": "19-11-2026 15:03:28"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T542 CCFM toegevoegd aan kasterlee",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": " CO toegevoegd aan kasterlee",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T819 CO toegevoegd aan Turnhout",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "AP15 HZA toegevoegd aan Quiévrain",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "CC18 TW toegevoegd aan Quiévrain",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "EL12 LW 24 toegevoegd aan Quiévrain",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "BL15 SIG toegevoegd aan Quiévrain",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "CC28 TW toegevoegd aan Saint-Ghislain",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "VCx30 CO toegevoegd aan Saint-Ghislain",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": " PM toegevoegd aan Saint-Ghislain",
+        "Time": "19-11-2026 15:03:58"
       }
     ],
     "removed": [
@@ -339,6 +423,41 @@
         "Regio": "Antwerpen Zone - Taxandria",
         "Description": "T819 CO verwijderd van Turnhout",
         "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH14 Politiepost Klein Segbroek - Loosduinen  verwijderd van Den Haag",
+        "Time": "19-11-2026 15:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH81 Bereden Brigade  verwijderd van Den Haag",
+        "Time": "19-11-2026 15:03:28"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "MD1 SH verwijderd van Mons",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "C28 TW verwijderd van Saint-Ghislain",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "VC30 CO verwijderd van Saint-Ghislain",
+        "Time": "19-11-2026 15:03:58"
       }
     ],
     "changed": [
@@ -838,6 +957,153 @@
         "Regio": "Luik Zone - DG",
         "Description": "'VP642' omgenummerd naar 'VP632'",
         "Time": "19-11-2026 14:03:07"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH41 Teambureau Kust en Bollenstreek: Adres van 'Katwijk' naar 'Noordwijk' aangepast",
+        "Time": "19-11-2026 15:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH41 Teambureau Kust en Bollenstreek: TypeVoertuig van 'Piet Heinlaan 140, Katwijk ZH' naar 'Duinwetering 101, Noordwijk ZH' aangepast",
+        "Time": "19-11-2026 15:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH42 Teambureau Leiden Noord: Adres van 'Leiden' naar '' aangepast",
+        "Time": "19-11-2026 15:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH42 Teambureau Leiden Noord: TypeVoertuig van 'Kooilaan 96, Leiden' naar 'Langegracht 11, 2312 NV Leiden' aangepast",
+        "Time": "19-11-2026 15:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH42 Politiepost Klein Leiden Noord: Adres van 'Oestgeest' naar 'Leiden' aangepast",
+        "Time": "19-11-2026 15:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH42 Politiepost Klein Leiden Noord: TypeVoertuig van 'Rhijngeesterstraatweg 13 A, 2342 AN Oegstgeest' naar 'Kooilaan 96, Leiden' aangepast",
+        "Time": "19-11-2026 15:03:28"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Politie",
+        "Regio": "DH-POL",
+        "Description": "DH05 Team Verkeer Den Haag: Bijzonderheden van 'DROS infra, 4 waterwerpers, 6 ME pelotons, 3 ME hondengeleiders, 4 AE en 4 TE.' naar 'DROS infra, 4 waterwerpers, 6 ME pelotons, 4 AE en 4 TE.' aangepast",
+        "Time": "19-11-2026 15:03:28"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T611: Kenteken van '' naar '1-FYS-519' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T913: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Dienstbus' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "C18: Adres van 'Quiévrain' naar 'Tournai' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "BL12: Kenteken van '' naar '1-LKZ-981' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "AP23: Kenteken van '' naar '1-SRU-597' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "EC19: Afkorting van 'LW 30' naar 'LW' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "EC19: Kenteken van '' naar '1-JSS-171' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "EC19: Bijzonderheden van '' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "LG31: Kenteken van '' naar '1-JUC-170' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "VL27: Kenteken van '' naar '1-YWY-128' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "LG52: Adres van '' naar 'Saint-Ghislain' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "BL16: Kenteken van '' naar '1-LKZ-993' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "SAINT-GHISLAIN: Kenteken van '' naar '1-TKD-367' aangepast",
+        "Time": "19-11-2026 15:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "QUIEVRAIN: Kenteken van '' naar '1-YRA-051' aangepast",
+        "Time": "19-11-2026 15:03:58"
       }
     ]
   },
