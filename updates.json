@@ -1,9 +1,82 @@
 [
   {
     "date": "2026-11-20",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": " PM toegevoegd aan Saint-Ghislain",
+        "Time": "20-11-2026 10:02:32"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": " PM verwijderd van Saint-Ghislain",
+        "Time": "20-11-2026 10:02:32"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-3701: Kenteken van '53-ZSR-7' naar '21-TZ-RS' aangepast",
+        "Time": "20-11-2026 10:02:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-2380: Adres van 'Benschop' naar 'Kockengen' aangepast",
+        "Time": "20-11-2026 10:02:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "'09-2380' omgenummerd naar '09-3701'",
+        "Time": "20-11-2026 10:02:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-2380: Afkorting van 'PM' naar 'DB' aangepast",
+        "Time": "20-11-2026 10:02:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-2380: TypeVoertuig van 'Personeel/materieelvoertuig' naar 'Dienstbus' aangepast",
+        "Time": "20-11-2026 10:02:24"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "9 - Utrecht (VRU)",
+        "Description": "09-2380: Bijzonderheden van 'Bezetting: 9 personen' naar 'Bezetting: 9 personen.' aangepast",
+        "Time": "20-11-2026 10:02:24"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T909: Kenteken van '' naar '1-KSC-116' aangepast",
+        "Time": "20-11-2026 10:02:32"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "BL12: Kenteken van '1-LKZ-981' naar '' aangepast",
+        "Time": "20-11-2026 10:02:32"
+      }
+    ]
   },
   {
     "date": "2026-11-19",

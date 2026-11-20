@@ -1,14 +1,14 @@
 ==========================================================================================
   Bezetting Check Report
 ==========================================================================================
-  Totaal records                   : 16079
-  Records met parsebare bezetting : 3359
-  Vergeleken met RDW               : 3130
+  Totaal records                   : 16078
+  Records met parsebare bezetting : 3358
+  Vergeleken met RDW               : 3129
   RDW data ontbreekt               : 229
   Onjuist geformatteerde bezetting: 0
   Buiten range (1-12)              : 0
-  Bezetting != RDW zitplaatsen     : 29
-  Bezetting > RDW zitplaatsen      : 10
+  Bezetting != RDW zitplaatsen     : 28
+  Bezetting > RDW zitplaatsen      : 9
   RDW zitplaatsen > bezetting      : 19
 
 ------------------------------------------------------------------------------------------
@@ -22,7 +22,7 @@
    6 personen : 174
    7 personen : 1165
    8 personen : 547
-   9 personen : 366
+   9 personen : 365
   10 personen : 5
   11 personen : 1
 
@@ -42,7 +42,6 @@
   Roepnummer   | Kenteken   | Bezetting |           RDW
   -----------------------------------------------------
   06-5531      | BD-351-Z   |         8 |             7
-  09-3701      | 53-ZSR-7   |         9 |             5
   10-5034      | BD-570-Z   |         8 |             7
   19-4233      | BF-925-B   |         8 |             7
   19-6533      | BD-555-Z   |         8 |             7
