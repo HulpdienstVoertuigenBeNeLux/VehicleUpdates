@@ -36,6 +36,41 @@
         "Regio": "4 - Fryslân (VRF)",
         "Description": "02-555 LO-RA toegevoegd aan Koudum",
         "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": " RMV toegevoegd aan Harlingen",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": " RMV toegevoegd aan Hindeloopen",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": " RMV toegevoegd aan Hindeloopen",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "GEEN RMV toegevoegd aan Lemmer",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": " RMV toegevoegd aan Egmond aan Zee",
+        "Time": "20-11-2026 19:02:32"
       }
     ],
     "removed": [
@@ -52,6 +87,13 @@
         "Regio": "",
         "Description": "02-555 LO-RA verwijderd van Koudum",
         "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "GEEN RMV verwijderd van Lemmer",
+        "Time": "20-11-2026 19:02:32"
       }
     ],
     "changed": [
@@ -845,6 +887,76 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "GEEN: Bijzonderheden van 'T.b.v. clustercommandant. Bezetting: 5 personen.' naar 'T.b.v. clustercommandant Maasmond. Bezetting: 5 personen.' aangepast",
         "Time": "20-11-2026 17:03:43"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "35-7402: Bijzonderheden van 'Type Valentijn' naar 'Type Van Wijk' aangepast",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "35-7372: Kenteken van 'Edzard Jacob' naar 'Anna Dorothea' aangepast",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "35-7372: Bijzonderheden van 'Type Atlantic' naar 'Type Chaterina D' aangepast",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "35-7311: Bijzonderheden van 'Type Atlantic' naar 'Type Chaterina D' aangepast",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "35-7431: Kenteken van 'Anna Dorothea' naar 'Merle' aangepast",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "35-7431: Bijzonderheden van 'Type Valentijn' naar 'Type Chaterina D' aangepast",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "35-7432: Bijzonderheden van 'Type Atlantic' naar 'Type Van Wijk' aangepast",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "10 - Noord-Holland-Noord (VRNHN)",
+        "Description": "35-7271: Adres van 'IJmuiden' naar 'Callantsoog' aangepast",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "GEEN: Adres van 'IJmuiden' naar 'Petten' aangepast",
+        "Time": "20-11-2026 19:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "KNRM",
+        "Regio": "11 - Zaanstreek-Waterland (VRZW)",
+        "Description": "35-7462: Bijzonderheden van 'Type Atlantic' naar 'Type Chaterina D' aangepast",
+        "Time": "20-11-2026 19:02:32"
       }
     ]
   },
