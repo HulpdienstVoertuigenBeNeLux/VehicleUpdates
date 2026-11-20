@@ -29,6 +29,13 @@
         "Regio": "ZN-RWS",
         "Description": "GEEN (DA) OVD-WAIS toegevoegd aan Maasbracht",
         "Time": "20-11-2026 12:03:01"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Ambulance",
+        "Regio": "4 - Fryslân (VRF)",
+        "Description": "02-555 LO-RA toegevoegd aan Koudum",
+        "Time": "20-11-2026 15:03:49"
       }
     ],
     "removed": [
@@ -38,6 +45,13 @@
         "Regio": "",
         "Description": " PM verwijderd van Saint-Ghislain",
         "Time": "20-11-2026 10:02:32"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "02-555 LO-RA verwijderd van Koudum",
+        "Time": "20-11-2026 15:03:49"
       }
     ],
     "changed": [
@@ -642,6 +656,167 @@
         "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
         "Description": "18-5931: Extra Afkortingen van '' naar 'FR-B' aangepast",
         "Time": "20-11-2026 14:03:56"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-1850: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-2150: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-6602: Extra Afkortingen van '' naar 'VK-GS' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "2 - Fryslân (VRF)",
+        "Description": "02-6803: Extra Afkortingen van '' naar 'VK-GS' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-8001: Extra Afkortingen van '' naar 'VK-GS' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-8251: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-8650: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5 - Twente (VRT)",
+        "Description": "05-5151: Extra Afkortingen van '' naar 'RV' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5 - Twente (VRT)",
+        "Description": "GEEN: TypeVoertuig van 'Tankautospuit' naar 'Tankautospuit t.b.v. opleiding, training en oefenen' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-0631: Extra Afkortingen van '' naar 'FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1031: Extra Afkortingen van 'HV' naar 'HV, FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-1131: Extra Afkortingen van '' naar 'FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2731: Extra Afkortingen van 'TS-SK' naar 'TS-SK, FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-2931: Extra Afkortingen van '' naar 'FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3632: Extra Afkortingen van '' naar 'FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-3931: Extra Afkortingen van 'TS-NB' naar 'TS-NB, FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4031: Extra Afkortingen van 'TS-NB, HV' naar 'TS-NB, HV, FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-4531: Extra Afkortingen van '' naar 'FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-8931 (31): Extra Afkortingen van '' naar 'FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "OVD1: TypeVoertuig van 'Dienstauto' naar 'Opleidingsvoertuig' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-5731: Extra Afkortingen van '' naar 'FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6031: Extra Afkortingen van '' naar 'FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "18 - Zuid-Holland-Zuid (VRZHZ)",
+        "Description": "18-6131: Extra Afkortingen van '' naar 'FR-B' aangepast",
+        "Time": "20-11-2026 15:03:49"
       }
     ]
   },
