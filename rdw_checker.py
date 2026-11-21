@@ -20,6 +20,9 @@ def _run_checks(total_budget: int) -> None:
     apk_used = apk_check.run(max_checks=total_budget)
     apk_duration = time.perf_counter() - apk_started
     print(f"APK stap duur: {_format_duration(apk_duration)}")
+    if getattr(apk_check, "rdw_unavailable", False):
+        print("RDW onbereikbaar: tenaamstelling- en bezettingcontrole overgeslagen.")
+        return
 
     remaining_budget = max(0, total_budget - max(0, apk_used))
     if remaining_budget <= 0:

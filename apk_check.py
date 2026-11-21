@@ -108,25 +108,44 @@ def save_kenteken_status(status):
     with open(KENTEKEN_STATUS_FILE, "w", encoding="utf-8") as f:
         json.dump(status, f, indent=2, ensure_ascii=False)
 
+# Na zoveel RDW-fouten op rij (DNS/netwerk/5xx) stopt de batch: RDW of het netwerk ligt eruit.
+MAX_CONSECUTIVE_RDW_ERRORS = int(os.getenv("MAX_CONSECUTIVE_RDW_ERRORS", "5"))
+
+
+# Wordt True als de laatste run stopte omdat RDW onbereikbaar was (rdw_checker slaat dan de rest over).
+rdw_unavailable = False
+
+
+class RDWUnavailable(Exception):
+    """RDW gaf geen bruikbaar antwoord (time-out, netwerkfout, geen 200). Niet hetzelfde als 'niet gevonden'."""
+
+
 # 3. Collect APK info from RDW Open Data API
 def get_apk_info(kenteken):
+    """Geeft het RDW-record, of None als RDW het kenteken echt niet kent. Gooit RDWUnavailable bij een storing."""
     url = f'https://opendata.rdw.nl/resource/m9d7-ebf2.json?kenteken={kenteken.replace("-", "").upper()}'
     try:
         response = requests.get(url, timeout=RDW_REQUEST_TIMEOUT_SECONDS)
-        if response.status_code == 200:
-            data = response.json()
-            if data:
-                return data[0]  # Return first result
-        return None
     except requests.Timeout as e:
         print(f"Time-out bij ophalen APK info voor {kenteken}: {e}")
-        return None
+        raise RDWUnavailable(str(e))
     except requests.ConnectionError as e:
         print(f"Netwerkfout bij ophalen APK info voor {kenteken}: {e}")
-        return None
+        raise RDWUnavailable(str(e))
     except requests.RequestException as e:
         print(f"Fout bij ophalen APK info voor {kenteken}: {e}")
-        return None
+        raise RDWUnavailable(str(e))
+    if response.status_code != 200:
+        print(f"RDW gaf status {response.status_code} voor {kenteken}")
+        raise RDWUnavailable(f"HTTP {response.status_code}")
+    try:
+        data = response.json()
+    except ValueError as e:
+        print(f"Ongeldig RDW-antwoord voor {kenteken}: {e}")
+        raise RDWUnavailable(str(e))
+    if isinstance(data, list) and data:
+        return data[0]  # Return first result
+    return None
 
 # 4. Check if APK is valid
 def is_apk_valid(apk_info):
@@ -175,6 +194,8 @@ def webhook_APK(message):
 
 # 6. Main script
 def run(max_checks=None):
+    global rdw_unavailable
+    rdw_unavailable = False
     ensure_report_path()
     ensure_status_path()
     kenteken_map = collect_kentekens_with_roepnummer()
@@ -206,9 +227,22 @@ def run(max_checks=None):
         to_check = to_check[:run_budget]
     output_lines = []
     print(f"Start batch check van {len(to_check)} kentekens...")
+    consecutive_errors = 0
+    checks_used = 0
     for idx, kenteken in enumerate(to_check, 1):
         print(f"[{idx}/{len(to_check)}] Check {kenteken}...")
-        apk_info = get_apk_info(kenteken)
+        checks_used += 1
+        try:
+            apk_info = get_apk_info(kenteken)
+        except RDWUnavailable:
+            # Storing: status ongemoeid laten (geen 'onbekend', geen melding), volgende run opnieuw
+            consecutive_errors += 1
+            if consecutive_errors >= MAX_CONSECUTIVE_RDW_ERRORS:
+                print(f"RDW {consecutive_errors}x op rij onbereikbaar: APK-batch gestopt, niets op onbekend gezet.")
+                rdw_unavailable = True
+                break
+            continue
+        consecutive_errors = 0
         status[kenteken]["last_check_date"] = today.strftime("%Y-%m-%d")
         previous_expiry = status[kenteken].get("expiry")
         had_known_expiry = previous_expiry not in [None, "None", "null", ""]
@@ -372,7 +406,7 @@ def run(max_checks=None):
         w(SEP)
 
     print(f"Rapport bijgewerkt in {REPORT_FILE}")
-    return len(to_check)
+    return checks_used
 
 
 def main():
