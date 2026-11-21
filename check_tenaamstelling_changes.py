@@ -67,8 +67,12 @@ def fetch_rdw_record(
     roepnummer: str | None = None,
 ) -> tuple[dict | None, bool]:
     url = f"https://opendata.rdw.nl/resource/m9d7-ebf2.json?kenteken={kenteken.replace('-', '').upper()}"
+    # Tweede waarde = tijdelijke fout (time-out, netwerk, geen 200): dan niets opslaan en later opnieuw
     try:
         response = requests.get(url, timeout=RDW_REQUEST_TIMEOUT_SECONDS)
+        if response.status_code != 200:
+            print(f"RDW gaf status {response.status_code} voor {kenteken}")
+            return None, True
         if response.status_code == 200:
             data = response.json()
             if data:
@@ -85,10 +89,13 @@ def fetch_rdw_record(
         return None, True
     except requests.ConnectionError as exc:
         print(f"Netwerkfout bij ophalen RDW info voor {kenteken}: {exc}")
-        return None, False
+        return None, True
+    except ValueError as exc:
+        print(f"Ongeldig RDW-antwoord voor {kenteken}: {exc}")
+        return None, True
     except requests.RequestException as exc:
         print(f"Fout bij ophalen RDW info voor {kenteken}: {exc}")
-        return None, False
+        return None, True
 
 
 def normalize_tenaamstelling(value: str | None) -> str | None:
@@ -214,6 +221,8 @@ def run(max_checks: int | None = None) -> int:
         kentekens = kentekens[:max_checks]
 
     processed_checks = 0
+    consecutive_errors = 0
+    max_consecutive_errors = int(os.getenv("MAX_CONSECUTIVE_RDW_ERRORS", "5"))
 
     print(f"Start controle van datum_tenaamstelling_dt voor {len(kentekens)} kentekens...")
     for index, kenteken in enumerate(kentekens, 1):
@@ -226,7 +235,12 @@ def run(max_checks: int | None = None) -> int:
         processed_checks += 1
 
         if timed_out:
+            consecutive_errors += 1
+            if consecutive_errors >= max_consecutive_errors:
+                print(f"RDW {consecutive_errors}x op rij onbereikbaar: tenaamstelling-controle gestopt.")
+                break
             continue
+        consecutive_errors = 0
 
         entry["last_tenaamstelling_check_date"] = today
 
