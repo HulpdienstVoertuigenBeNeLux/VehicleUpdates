@@ -2,7 +2,22 @@
   {
     "date": "2026-11-21",
     "added": [],
-    "removed": [],
+    "removed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": " IM Berger verwijderd van Leuvense Sleepdienst, Brusselsesteenweg 26 3020 Herent",
+        "Time": "21-11-2026 01:02:53"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Bergingsbedrijf",
+        "Regio": "Namen Zone - Val de Sambre",
+        "Description": "haussée de Nivelles, 130 5140 Sombreffe  verwijderd van Garage Dépannage JJ Gadisseur (hors arrondissement), haussée de Nivelles, 130 5140 Sombreffe",
+        "Time": "21-11-2026 01:02:53"
+      }
+    ],
     "changed": [
       {
         "Land": "BE",
