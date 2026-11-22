@@ -28838,19 +28838,6 @@
     "last_tenaamstelling_check_date": "2026-11-17",
     "aantal_zitplaatsen": "2"
   },
-  "BX-FH-04": {
-    "expiry": "2027-09-25",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "10-5435"
-    ],
-    "last_check_date": "2026-09-26",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-12-24",
-    "last_tenaamstelling_check_date": "2026-11-14",
-    "aantal_zitplaatsen": "8"
-  },
   "T-111-SV": {
     "expiry": "2027-10-18",
     "checked": true,
@@ -108937,6 +108924,18 @@
     "unknown": true,
     "roepnummers": [
       "23-203"
+    ],
+    "last_check_date": null,
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": null
+  },
+  "BF-935-B": {
+    "expiry": null,
+    "checked": false,
+    "unknown": true,
+    "roepnummers": [
+      "10-5435"
     ],
     "last_check_date": null,
     "last_expired_notification_date": null,
