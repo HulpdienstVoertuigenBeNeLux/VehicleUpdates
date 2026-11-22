@@ -17,9 +17,38 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "17-9386 BMH-OTO verwijderd van Vakbekwaamheid/Breevaartstraat",
         "Time": "22-11-2026 10:03:37"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "M124 SH verwijderd van Oostende",
+        "Time": "22-11-2026 12:04:01"
       }
     ],
-    "changed": []
+    "changed": [
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "E106: Adres van 'Oostende' naar 'Middelkerke' aangepast",
+        "Time": "22-11-2026 12:04:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "M150: Afkorting van 'SH' naar 'HV' aangepast",
+        "Time": "22-11-2026 12:04:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "M150: TypeVoertuig van 'Snelle Hulpwagen' naar 'Hulpverleningsvoertuig' aangepast",
+        "Time": "22-11-2026 12:04:01"
+      }
+    ]
   },
   {
     "date": "2026-11-21",
