@@ -13293,19 +13293,6 @@
     "last_tenaamstelling_check_date": "2026-11-15",
     "aantal_zitplaatsen": "4"
   },
-  "39-BBB-6": {
-    "expiry": "2027-10-17",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "05-5261"
-    ],
-    "last_check_date": "2026-10-18",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-11-11",
-    "last_tenaamstelling_check_date": "2026-11-15",
-    "aantal_zitplaatsen": "3"
-  },
   "R-693-TG": {
     "expiry": "2026-11-25",
     "checked": true,
@@ -108936,6 +108923,18 @@
     "unknown": true,
     "roepnummers": [
       "10-5435"
+    ],
+    "last_check_date": null,
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": null
+  },
+  "BF-362-D": {
+    "expiry": null,
+    "checked": false,
+    "unknown": true,
+    "roepnummers": [
+      "05-5261"
     ],
     "last_check_date": null,
     "last_expired_notification_date": null,
