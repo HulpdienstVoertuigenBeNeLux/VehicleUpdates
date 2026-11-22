@@ -33,6 +33,8 @@ jobs:
           pip install requests
 
       - name: Run script
+        env:
+          HVBNL_RESYNC_KEY: ${{ secrets.HVBNL_RESYNC_KEY }}
         run: |
           git pull
           python compare_hulpdienstvoertuigenbenelux.py NL

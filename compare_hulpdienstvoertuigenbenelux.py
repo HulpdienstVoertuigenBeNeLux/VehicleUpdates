@@ -58,6 +58,48 @@ def save_raw_sheet(region: str, data: Any) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+def force_resync(region: str) -> None:
+    """Laat de site de sheet van deze regio eerst opnieuw inlezen (alleen als HVBNL_RESYNC_KEY gezet is, bij de fast syncs).
+
+    Bulkwijzigingen in de sheet (zoeken en vervangen) komen soms niet via het sheet-script bij de site; zonder resync
+    ziet de vergelijking ze dan niet. We wachten tot /fetch-sheet data van na de resync teruggeeft (max 3 minuten).
+    """
+    key = os.environ.get("HVBNL_RESYNC_KEY", "")
+    if not key:
+        return
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo("Europe/Amsterdam")
+    started = datetime.now(tz).replace(microsecond=0)
+    try:
+        r = requests.post(
+            "https://hulpdienstvoertuigenbenelux.nl/api/webhook/sheet-update",
+            json={"type": "resync", "source": region, "sheet": "*", "reason": "fast-sync"},
+            headers={"x-api-key": key, "User-Agent": "VehicleUpdates fast sync"},
+            timeout=120,
+        )
+        print(f"Resync {region} aangevraagd: HTTP {r.status_code} {r.text[:80]}")
+        if r.status_code != 200:
+            return
+    except requests.RequestException as exc:
+        print(f"Resync {region} mislukt ({exc}); ga verder met de huidige data van de site.")
+        return
+    url = f"https://hulpdienstvoertuigenbenelux.nl/fetch-sheet?region={region}"
+    headers = {"User-Agent": "Mozilla/5.0 VehicleUpdates", "Referer": "https://hulpdienstvoertuigenbenelux.nl/",
+               "X-API-Key": os.environ.get("SHEET_API_KEY", "")}
+    for _ in range(22):
+        try:
+            data = requests.get(url, headers=headers, timeout=30).json()
+            cached = data.get("_cachedAt") if isinstance(data, dict) else None
+            if cached and datetime.strptime(cached, "%d-%m-%Y %H:%M:%S").replace(tzinfo=tz) >= started:
+                print(f"Site heeft de nieuwe data van {region} (cache {cached}).")
+                return
+        except (requests.RequestException, ValueError):
+            pass
+        time.sleep(8)
+    print(f"Site gaf na 3 minuten nog geen nieuwe data voor {region}; ga verder met wat er is.")
+
+
 def download_json(url: str, region: Optional[str] = None) -> list:
     headers = {
         # Some hosting layers reject non-browser clients unless common headers are present.
@@ -488,6 +530,7 @@ def run_region(region: str) -> None:
     url = f"https://hulpdienstvoertuigenbenelux.nl/fetch-sheet?region={region}"
 
 
+    force_resync(region)
     print("Downloading latest JSON...")
     try:
         new_json = download_json(url, region)
