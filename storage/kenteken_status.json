@@ -28567,19 +28567,6 @@
     "last_tenaamstelling_check_date": "2026-11-16",
     "aantal_zitplaatsen": "5"
   },
-  "PK-513-S": {
-    "expiry": "2027-03-11",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "10-5105"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2017-08-23",
-    "last_tenaamstelling_check_date": "2026-11-16",
-    "aantal_zitplaatsen": "5"
-  },
   "82-BVG-4": {
     "expiry": "2027-04-20",
     "checked": true,
@@ -81501,19 +81488,6 @@
     "last_tenaamstelling_check_date": "2026-11-19",
     "aantal_zitplaatsen": "4"
   },
-  "G-947-DK": {
-    "expiry": "2027-08-29",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "23-203"
-    ],
-    "last_check_date": "2026-08-30",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2023-05-23",
-    "last_tenaamstelling_check_date": "2026-11-16",
-    "aantal_zitplaatsen": "4"
-  },
   "RB-414-Z": {
     "expiry": "2027-11-11",
     "checked": true,
@@ -108939,6 +108913,30 @@
     "unknown": true,
     "roepnummers": [
       "14-2313"
+    ],
+    "last_check_date": null,
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": null
+  },
+  "NBB-35-R": {
+    "expiry": null,
+    "checked": false,
+    "unknown": true,
+    "roepnummers": [
+      "10-5105"
+    ],
+    "last_check_date": null,
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": null,
+    "last_tenaamstelling_check_date": null
+  },
+  "NDF-05-D": {
+    "expiry": null,
+    "checked": false,
+    "unknown": true,
+    "roepnummers": [
+      "23-203"
     ],
     "last_check_date": null,
     "last_expired_notification_date": null,

@@ -126,7 +126,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,768  (of 10,159 total)
+  Records checked : 6,778  (of 10,170 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  544 value(s) affected
@@ -3232,11 +3232,7 @@
       Roepnummer  : E11
       Kenteken    : 2-EWH-336
 
-  >> 'E110'  (3x)
-      Adres       : Middelkerke
-      Hulpdienst  : Brandweer
-      Roepnummer  : E110
-      Kenteken    : 1-JNC-275
+  >> 'E110'  (2x)
       Adres       : Oostende
       Hulpdienst  : Brandweer
       Roepnummer  : E110
@@ -7425,18 +7421,8 @@
       Kenteken    : 2-DAW-513
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  2 value(s) affected
+  Duplicate Kenteken  --  1 value(s) affected
 --------------------------------------------------------------------------------
-
-  >> '1-JNC-275'  (2x)
-      Adres       : Middelkerke
-      Hulpdienst  : Brandweer
-      Roepnummer  : E110
-      Kenteken    : 1-JNC-275
-      Adres       : Oostende
-      Hulpdienst  : Brandweer
-      Roepnummer  : E110
-      Kenteken    : 1-JNC-275
 
   >> 'RIB'  (91x)
       Adres       : R1 Leopold
