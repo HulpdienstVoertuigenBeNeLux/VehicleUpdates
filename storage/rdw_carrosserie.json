@@ -300,12 +300,6 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "02WHDX",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
     "kenteken": "02BBX5",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -390,6 +384,18 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "02WHDX",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "03BVR7",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
     "kenteken": "03BBB7",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -468,12 +474,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "03BVR7",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "03BXR2",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -502,6 +502,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "04WTFG",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "04BDR1",
@@ -616,24 +622,6 @@
     "no_data": true
   },
   {
-    "kenteken": "04WTFG",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "05WJFB",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "05WNRR",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
     "kenteken": "05BDD3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -740,6 +728,18 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "05WJFB",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "05WNRR",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "05ZDS6",
@@ -904,10 +904,10 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "07WKLH",
+    "kenteken": "07BDR1",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "07BBD3",
@@ -923,12 +923,6 @@
   },
   {
     "kenteken": "07BDN2",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "07BDR1",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -1000,22 +994,16 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "07WKLH",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "07ZSP5",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
     "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
-    "kenteken": "08WDSJ",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "08WNRR",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "08BDB2",
@@ -1144,6 +1132,24 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
+    "kenteken": "08WDSJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "08WNRR",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "09BGT1",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
     "kenteken": "09BDJ3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -1157,12 +1163,6 @@
   },
   {
     "kenteken": "09BFV6",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "09BGT1",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -1272,16 +1272,16 @@
     "no_data": true
   },
   {
-    "kenteken": "10WLFX",
+    "kenteken": "10BNX9",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "10WNRR",
+    "kenteken": "10BSZ3",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "10BBD1",
@@ -1326,12 +1326,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "10BNX9",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "10BRG6",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -1342,12 +1336,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "10BSZ3",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "10BTJ7",
@@ -1392,13 +1380,25 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "10WLFX",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "10WNRR",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "10WXFH",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "11WNRR",
+    "kenteken": "11WVJL",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -1500,7 +1500,7 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "11WVJL",
+    "kenteken": "11WNRR",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -1512,10 +1512,10 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "12WNRR",
+    "kenteken": "12BRT4",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "12BDJ3",
@@ -1596,12 +1596,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "12BRT4",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "12BRZ3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -1668,6 +1662,12 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "12WNRR",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "12ZDH9",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -1680,25 +1680,7 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "13WFXF",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "13WHVH",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "13WNLJ",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "13WNRR",
+    "kenteken": "13WKSV",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -1836,7 +1818,25 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "13WKSV",
+    "kenteken": "13WFXF",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "13WHVH",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "13WNLJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "13WNRR",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -1846,12 +1846,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "14WJXP",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "14BBJ3",
@@ -1980,6 +1974,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "14WJXP",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "14ZDH9",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -2082,6 +2082,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "16BNB8",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
     "kenteken": "16BBL9",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -2143,12 +2149,6 @@
   },
   {
     "kenteken": "16BKX2",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "16BNB8",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -2226,13 +2226,7 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "17WJHD",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "17WJHL",
+    "kenteken": "17WSXK",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -2322,7 +2316,13 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "17WSXK",
+    "kenteken": "17WJHD",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "17WJHL",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -2332,18 +2332,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "18WHSK",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "18WNLS",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "18BBN4",
@@ -2470,6 +2458,18 @@
     "no_data": true
   },
   {
+    "kenteken": "18WHSK",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "18WNLS",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "18WXLX",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
@@ -2480,12 +2480,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "19WDSN",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "19BBN4",
@@ -2612,6 +2606,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "19WDSN",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "19WSBT",
@@ -2776,6 +2776,24 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "2VNH80",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "2VSZ99",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "2VZT72",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
     "kenteken": "20BBP8",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -2900,12 +2918,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "21WPPG",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "21BBS2",
@@ -3052,8 +3064,20 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "21WPPG",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "21ZKN5",
     "no_data": true
+  },
+  {
+    "kenteken": "22BTF2",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "22BBZ3",
@@ -3158,12 +3182,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "22BTF2",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "22BTH4",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -3201,6 +3219,12 @@
   },
   {
     "kenteken": "22VVP8",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "23BVG5",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -3309,12 +3333,6 @@
   },
   {
     "kenteken": "23BRT1",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "23BVG5",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -3554,10 +3572,10 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "26WNNT",
+    "kenteken": "26BKS6",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "26BBH3",
@@ -3585,12 +3603,6 @@
   },
   {
     "kenteken": "26BHX7",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "26BKS6",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -3666,13 +3678,13 @@
     "no_data": true
   },
   {
-    "kenteken": "27WNNS",
+    "kenteken": "26WNNT",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "27WPBJ",
+    "kenteken": "27WZDK",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -3816,13 +3828,31 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "27WZDK",
+    "kenteken": "27WNNS",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "28WNNS",
+    "kenteken": "27WPBJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "28BKL1",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "28BTD8",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "28WZDK",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -3888,12 +3918,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "28BKL1",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "28BKS6",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
@@ -3923,12 +3947,6 @@
   },
   {
     "kenteken": "28BSB8",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "28BTD8",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -3986,13 +4004,7 @@
     "no_data": true
   },
   {
-    "kenteken": "28WZDK",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "29WPTX",
+    "kenteken": "28WNNS",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -4148,6 +4160,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "29WPTX",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "2KLB16",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
@@ -4214,28 +4232,10 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "2VNH80",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "2VSZ99",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "2VZB45",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "2VZT72",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
     "kenteken": "2XST00",
@@ -4302,12 +4302,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "30WDVH",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "30BBH9",
@@ -4428,7 +4422,7 @@
     "no_data": true
   },
   {
-    "kenteken": "31WDVZ",
+    "kenteken": "30WDVH",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -4554,6 +4548,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "31WDVZ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "31WTBG",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
@@ -4564,6 +4564,18 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "32BKF3",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "32BNB3",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "32BHD7",
@@ -4578,12 +4590,6 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "32BKF3",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "32BKL6",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -4591,12 +4597,6 @@
   },
   {
     "kenteken": "32BLR5",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "32BNB3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -4682,12 +4682,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
     "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
-    "kenteken": "33WNGT",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "33BDS5",
@@ -4810,6 +4804,12 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
+    "kenteken": "33WNGT",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "33XDJ1",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
@@ -4820,18 +4820,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "34WGP8",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "34WT54",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "34BBJ8",
@@ -4966,10 +4954,28 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "34WGP8",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "34WT54",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "34ZKH9",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "35BPR5",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "35BFP5",
@@ -5003,12 +5009,6 @@
   },
   {
     "kenteken": "35BNP4",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "35BPR5",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -5074,10 +5074,10 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "36WSHP",
+    "kenteken": "36BTR4",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "36BDJ2",
@@ -5128,12 +5128,6 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "36BTR4",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "36BXG7",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -5176,6 +5170,12 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "36WSHP",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "36WSZH",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
@@ -5188,22 +5188,16 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "37WJR2",
+    "kenteken": "37BTR4",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "37WSHP",
+    "kenteken": "37BZP1",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "37WSXF",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "37BBN2",
@@ -5254,19 +5248,7 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "37BTR4",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "37BXR3",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "37BZP1",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -5282,7 +5264,25 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "37WJR2",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "37WRH8",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "37WSHP",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "37WSXF",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -5294,13 +5294,7 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "38WGJR",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "38WSHP",
+    "kenteken": "38WJRK",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -5408,13 +5402,19 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "38WGJR",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "38WHXH",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "38WJRK",
+    "kenteken": "38WSHP",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -5426,10 +5426,10 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "39WSHP",
+    "kenteken": "39BGL8",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "39BBG8",
@@ -5445,12 +5445,6 @@
   },
   {
     "kenteken": "39BDD4",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "39BGL8",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -5538,6 +5532,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "39WSHP",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "39ZDH9",
@@ -5760,7 +5760,19 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "40WKPK",
+    "kenteken": "4XRZ07",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "40BDD4",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "40WJJG",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -5779,12 +5791,6 @@
   },
   {
     "kenteken": "40BBG8",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "40BDD4",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -5928,7 +5934,7 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "40WJJG",
+    "kenteken": "40WKPK",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -6294,18 +6300,6 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "44WGSZ",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "44WVDR",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
     "kenteken": "44BBB2",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
@@ -6430,6 +6424,18 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "44WGSZ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "44WVDR",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "44WXRK",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
@@ -6466,6 +6472,12 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "45BRB5",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
     "kenteken": "45BJB3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -6485,12 +6497,6 @@
   },
   {
     "kenteken": "45BPR3",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "45BRB5",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -6544,16 +6550,10 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "46WDGT",
+    "kenteken": "46BJN1",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "46WPLF",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "46BDK1",
@@ -6575,12 +6575,6 @@
   },
   {
     "kenteken": "46BJB3",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "46BJN1",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -6652,16 +6646,22 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "46WDGT",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "46WPLF",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "46ZFT5",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "47WPFV",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "47BBG9",
@@ -6766,6 +6766,12 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
+    "kenteken": "47WPFV",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "47WPRJ",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
@@ -6776,24 +6782,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "48WFHL",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "48WKH6",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "48WPFV",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "48BHF5",
@@ -6940,7 +6928,19 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "49WPFV",
+    "kenteken": "48WFHL",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "48WKH6",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "48WPFV",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -7084,6 +7084,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "49WPFV",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "4KKX06",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
@@ -7168,12 +7174,6 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "4XRZ07",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
     "kenteken": "4XVR96",
     "no_data": true
   },
@@ -7184,22 +7184,52 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "50WNVK",
+    "kenteken": "5SFL47",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "50WSKT",
+    "kenteken": "5VGH41",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "5VTD66",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "5VTD67",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "5VTS81",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
     "kenteken": "50BBX1",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "50BLN9",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "50WPFV",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "50BDD9",
@@ -7263,12 +7293,6 @@
   },
   {
     "kenteken": "50BKT7",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "50BLN9",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -7358,13 +7382,13 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "50WPFV",
+    "kenteken": "50WNVK",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "51WTTV",
+    "kenteken": "50WSKT",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -7488,6 +7512,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "51WTTV",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "52BFR5",
@@ -7616,6 +7646,12 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "53BTV5",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
     "kenteken": "53BBF4",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -7682,12 +7718,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "53BTV5",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "53BVT8",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
@@ -7746,16 +7776,10 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "54WDBN",
+    "kenteken": "54BRS5",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "54WZ13",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "54BBV4",
@@ -7824,12 +7848,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "54BRS5",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "54BXG1",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -7870,6 +7888,18 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "54WDBN",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "54WZ13",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "54XPJB",
@@ -8052,6 +8082,12 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "56BRS5",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
     "kenteken": "56BBL9",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -8106,12 +8142,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "56BRS5",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "56BTR3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -8142,10 +8172,16 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "57WKLZ",
+    "kenteken": "57BBR2",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "57BHX9",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "57BBF1",
@@ -8155,12 +8191,6 @@
   },
   {
     "kenteken": "57BBN6",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "57BBR2",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -8220,12 +8250,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "57BHX9",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "57BJR2",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -8280,7 +8304,7 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "58WLJS",
+    "kenteken": "57WKLZ",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -8446,10 +8470,22 @@
     "no_data": true
   },
   {
+    "kenteken": "58WLJS",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "58XBL3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "59BJS9",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "59BDF6",
@@ -8495,12 +8531,6 @@
   },
   {
     "kenteken": "59BJL8",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "59BJS9",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -8604,12 +8634,6 @@
     "no_data": true
   },
   {
-    "kenteken": "5SFL47",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "5SFL49",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
@@ -8634,37 +8658,13 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "5VGH41",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
     "kenteken": "5VKF18",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "5VTD66",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "5VTD67",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
     "kenteken": "5VTS80",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "5VTS81",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
@@ -8713,6 +8713,12 @@
   },
   {
     "kenteken": "5ZLZ28",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "60XBL3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
@@ -8824,28 +8830,22 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "60XBL3",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "60ZVJ1",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "61WNHP",
+    "kenteken": "61BRD6",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "61WRTR",
+    "kenteken": "61XJHJ",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "61BDD9",
@@ -8903,12 +8903,6 @@
   },
   {
     "kenteken": "61BNV2",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "61BRD6",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -8984,10 +8978,16 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "61XJHJ",
+    "kenteken": "61WNHP",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "61WRTR",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "61ZVJ1",
@@ -8996,31 +8996,25 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "62WDTT",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "62WNHP",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "62WS95",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "62BDD9",
+    "kenteken": "62BDL2",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "62BDL2",
+    "kenteken": "62BNZ8",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "62BXD7",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "62BDD9",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -9068,12 +9062,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "62BNZ8",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "62BRR5",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -9110,16 +9098,28 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "62BXD7",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "62TDP2",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
     "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
+    "kenteken": "62WDTT",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "62WNHP",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "62WS95",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "62ZLV2",
@@ -9128,10 +9128,16 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "63WTXL",
+    "kenteken": "63BXD7",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "63BXD8",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "63BBK3",
@@ -9224,18 +9230,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "63BXD7",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "63BXD8",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "63BXZ6",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -9254,6 +9248,12 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "63WTXL",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "63ZFD7",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
@@ -9264,12 +9264,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "64WLSK",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "64BBK6",
@@ -9414,16 +9408,16 @@
     "no_data": true
   },
   {
-    "kenteken": "65WJNJ",
+    "kenteken": "64WLSK",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "65WLND",
+    "kenteken": "65BXD7",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "65BBJ5",
@@ -9498,12 +9492,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "65BXD7",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "65BXJ3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -9530,6 +9518,18 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "65WJNJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "65WLND",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "66BBF9",
@@ -9632,28 +9632,16 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "67WHSG",
+    "kenteken": "67BPF3",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "67WJVL",
+    "kenteken": "67BVK8",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "67WLND",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "67WNRP",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "67BBV4",
@@ -9675,12 +9663,6 @@
   },
   {
     "kenteken": "67BLK1",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "67BPF3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -9710,12 +9692,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "67BVK8",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "67BZT4",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -9728,7 +9704,31 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "67WHSG",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "67WJVL",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "67WLND",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "67WNHV",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "67WNRP",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -9744,6 +9744,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "68BSZ9",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "68BDL6",
@@ -9800,12 +9806,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "68BSZ9",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "68BVG8",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -9836,13 +9836,13 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "69WFLJ",
+    "kenteken": "69BVL5",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "69WTHJ",
+    "kenteken": "69WJVL",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -9914,12 +9914,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "69BVL5",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "69BVZ2",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -9932,7 +9926,13 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "69WJVL",
+    "kenteken": "69WFLJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "69WTHJ",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -10066,22 +10066,22 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "70WDDX",
+    "kenteken": "7VTR76",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "70WKZJ",
+    "kenteken": "7ZLP98",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "70WVHX",
+    "kenteken": "70BRT7",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "70BBK4",
@@ -10144,12 +10144,6 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "70BRT7",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "70BTP3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -10202,22 +10196,28 @@
     "no_data": true
   },
   {
+    "kenteken": "70WDDX",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "70WKZJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "70WVHX",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "70ZST8",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "71WGSG",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "71WVHX",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "71BBK4",
@@ -10290,6 +10290,18 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "71WGSG",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "71WVHX",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "71XVD4",
@@ -10436,12 +10448,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "73WNKS",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
     "kenteken": "73BBN4",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -10518,6 +10524,18 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
     "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
+    "kenteken": "73WNKS",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "74WRJX",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "74BDH5",
@@ -10614,19 +10632,13 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "74WRJX",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "75BBZ9",
+    "kenteken": "75BDH7",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "75BDH7",
+    "kenteken": "75BBZ9",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -10756,12 +10768,6 @@
     "no_data": true
   },
   {
-    "kenteken": "76WKRR",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
     "kenteken": "76BBHG",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
@@ -10880,6 +10886,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "76WKRR",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "76WXLR",
@@ -11040,10 +11052,10 @@
     "no_data": true
   },
   {
-    "kenteken": "78WHSP",
+    "kenteken": "78TGL6",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "78BDH1",
@@ -11184,16 +11196,16 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "78TGL6",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "78VXJ8",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "78WHSP",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "79BDB6",
@@ -11394,12 +11406,6 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "7VTR76",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
     "kenteken": "7VXD70",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
@@ -11437,12 +11443,6 @@
   },
   {
     "kenteken": "7ZLP91",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "7ZLP98",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
@@ -11556,10 +11556,10 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "80WJSJ",
+    "kenteken": "8VBK37",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
     "kenteken": "80BDB9",
@@ -11682,16 +11682,28 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
+    "kenteken": "80WJSJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "80ZPTV",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "81WNZR",
+    "kenteken": "81BDK7",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "81BKF9",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "81BBD5",
@@ -11707,12 +11719,6 @@
   },
   {
     "kenteken": "81BDH3",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "81BDK7",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -11734,12 +11740,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "81BKF9",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "81BKN1",
@@ -11860,6 +11860,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "81WNZR",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "82BDH3",
@@ -11984,10 +11990,10 @@
     "no_data": true
   },
   {
-    "kenteken": "83WSHD",
+    "kenteken": "83BLZ7",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "83BBZ7",
@@ -12051,12 +12057,6 @@
   },
   {
     "kenteken": "83BLZ3",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "83BLZ7",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -12138,13 +12138,19 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "84WGPB",
+    "kenteken": "83WSHD",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "84WVGK",
+    "kenteken": "84BXD8",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "84WTGG",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -12258,12 +12264,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "84BXD8",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "84BXF8",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -12318,13 +12318,13 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "84WTGG",
+    "kenteken": "84WGPB",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "85WKV4",
+    "kenteken": "84WVGK",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -12478,6 +12478,12 @@
     "no_data": true
   },
   {
+    "kenteken": "85WKV4",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "85WLSK",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
@@ -12494,12 +12500,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "86WSPK",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "86BBN1",
@@ -12652,6 +12652,12 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
+    "kenteken": "86WSPK",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "87BDF9",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -12746,10 +12752,10 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "88WZBJ",
+    "kenteken": "88TPH7",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "88BFJ4",
@@ -12806,10 +12812,10 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "88TPH7",
+    "kenteken": "88WZBJ",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "89BBD2",
@@ -12988,12 +12994,6 @@
   {
     "kenteken": "8SVG37",
     "no_data": true
-  },
-  {
-    "kenteken": "8VBK37",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
     "kenteken": "8VFT11",
@@ -13378,13 +13378,13 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "91WHKP",
+    "kenteken": "91JVZ3",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "91WZBF",
+    "kenteken": "91WPL3",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -13480,13 +13480,25 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "91JVZ3",
+    "kenteken": "91WHKP",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "91WPL3",
+    "kenteken": "91WZBF",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "92BXD7",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "92WXZF",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -13582,12 +13594,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "92BXD7",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "92BXK2",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -13595,12 +13601,6 @@
   },
   {
     "kenteken": "92WXRH",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "92WXZF",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -13618,22 +13618,16 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "93WSVK",
+    "kenteken": "93BDB4",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
     "kenteken": "93BBS6",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "93BDB4",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
     "kenteken": "93BDD7",
@@ -13732,10 +13726,22 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "93WSVK",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "94BBP8",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "94WGP6",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "94BBZ1",
@@ -13882,12 +13888,6 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "94WGP6",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
     "kenteken": "94XGZJ",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
@@ -13902,7 +13902,7 @@
     "no_data": true
   },
   {
-    "kenteken": "95WPTP",
+    "kenteken": "95WXPT",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -14028,7 +14028,7 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "95WXPT",
+    "kenteken": "95WPTP",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -14046,10 +14046,10 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "96WTPJ",
+    "kenteken": "96ZTH9",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "96BBF6",
@@ -14164,10 +14164,10 @@
     "no_data": true
   },
   {
-    "kenteken": "96ZTH9",
+    "kenteken": "96WTPJ",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
     "kenteken": "97BBS3",
@@ -14322,7 +14322,13 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "98WGKP",
+    "kenteken": "98BPL6",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "98WTGF",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -14377,12 +14383,6 @@
   },
   {
     "kenteken": "98BNX7",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "98BPL6",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -14472,25 +14472,7 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "98WTGF",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "99WHLK",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "99WNRP",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "99WVDX",
+    "kenteken": "98WGKP",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -14580,7 +14562,25 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "99WHLK",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "99WKL3",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "99WNRP",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "99WVDX",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -14842,6 +14842,36 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "BB537J",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BB587G",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BB832T",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BB839T",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BB941V",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "BB002S",
@@ -15320,12 +15350,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BB537J",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BB541J",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -15381,12 +15405,6 @@
   },
   {
     "kenteken": "BB582L",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BB587G",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -15668,22 +15686,10 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BB832T",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BB832Z",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BC",
     "type_carrosserie_europese_omschrijving": "Opleggertrekker"
-  },
-  {
-    "kenteken": "BB839T",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "BB849T",
@@ -15752,12 +15758,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BB941V",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BB942D",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -15807,6 +15807,24 @@
   },
   {
     "kenteken": "BBHT82",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BD239H",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BD695P",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BDRT36",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -16041,12 +16059,6 @@
   },
   {
     "kenteken": "BD223F",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BD239H",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -16424,12 +16436,6 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "BD695P",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BD720X",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -16580,7 +16586,13 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BDRT36",
+    "kenteken": "BF362D",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BF935B",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -16754,6 +16766,12 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "BLRX10",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
     "kenteken": "BL17HF",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -16809,12 +16827,6 @@
   },
   {
     "kenteken": "BLRT39",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BLRX10",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -17072,6 +17084,12 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "BPDT54",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
     "kenteken": "BPBB40",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -17115,12 +17133,6 @@
   },
   {
     "kenteken": "BPDT35",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BPDT54",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -17420,6 +17432,12 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "BSZV44",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
     "kenteken": "BSBB19",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -17612,12 +17630,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BSZV44",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BSZX61",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -17625,6 +17637,60 @@
   },
   {
     "kenteken": "BSZZ46",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BTGX96",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BTGZ05",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BTHS61",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BTLH98",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BTLZ10",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BTVS39",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BTXZ37",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BTZH28",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BTZT10",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -17780,18 +17846,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BTGX96",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BTGZ05",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BTHG58",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -17828,19 +17882,7 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BTHS61",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BTJJ50",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BTLH98",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -17853,12 +17895,6 @@
   },
   {
     "kenteken": "BTLV36",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BTLZ10",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -17912,12 +17948,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BTVS39",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BTVX57",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -17948,18 +17978,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BTXZ37",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BTZH28",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BTZL96",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -17984,13 +18002,67 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BTZT10",
+    "kenteken": "BTZZ31",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BTZZ31",
+    "kenteken": "BVDR99",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BVDZ28",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BVFG97",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BVFV70",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BVFX04",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BVHD83",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BVSH06",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BVVB97",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BVVF11",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BVZB87",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -18020,18 +18092,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BVDR99",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BVDZ28",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BVFF98",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -18039,12 +18099,6 @@
   },
   {
     "kenteken": "BVFG22",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BVFG97",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -18068,18 +18122,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BVFV70",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BVFX04",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BVGF94",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BC",
@@ -18087,12 +18129,6 @@
   },
   {
     "kenteken": "BVGT91",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BVHD83",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -18350,12 +18386,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BVSH06",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BVSH07",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -18476,19 +18506,7 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BVVB97",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BVVF10",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BVVF11",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -18572,12 +18590,6 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BVZB87",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BVZD32",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -18606,6 +18618,36 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BXNS29",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BXNV64",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BXNZ99",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BXRS53",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "BXVR12",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
     "kenteken": "BX89YH",
@@ -19210,19 +19252,7 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "BXNS29",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "BXNV25",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BXNV64",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -19235,12 +19265,6 @@
   },
   {
     "kenteken": "BXNZ94",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BXNZ99",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -19421,12 +19445,6 @@
   },
   {
     "kenteken": "BXRR75",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BXRS53",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -19718,12 +19736,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "BXVR12",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
     "kenteken": "BXVT44",
@@ -20762,6 +20774,18 @@
     "no_data": true
   },
   {
+    "kenteken": "G488BJ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
+    "kenteken": "G742BT",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
     "kenteken": "G015LX",
     "no_data": true
   },
@@ -20966,12 +20990,6 @@
     "no_data": true
   },
   {
-    "kenteken": "G488BJ",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
     "kenteken": "G513ND",
     "no_data": true
   },
@@ -20998,12 +21016,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "G742BT",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
     "kenteken": "G776HN",
@@ -21280,14 +21292,14 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "GD094X",
-    "no_data": true
-  },
-  {
     "kenteken": "GD807P",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "GD094X",
+    "no_data": true
   },
   {
     "kenteken": "GDB77R",
@@ -21618,6 +21630,24 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "GH698G",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "GH766B",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "GH855F",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
     "kenteken": "GH087N",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
@@ -21676,24 +21706,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "GH698G",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "GH766B",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "GH855F",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
     "kenteken": "GH961B",
@@ -24942,6 +24954,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "HZ324B",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
     "kenteken": "HZ188P",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -24952,12 +24970,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "HZ324B",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
     "kenteken": "HZ596Z",
@@ -25067,6 +25079,66 @@
   },
   {
     "kenteken": "HZT98F",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "J169ZR",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "J181DZ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "J193DZ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "J466JD",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "J476VN",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "J479VN",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "J485VN",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "J486VN",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "J494XV",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "J922SX",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
@@ -25212,19 +25284,7 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "J169ZR",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "J171ZR",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "J181DZ",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
@@ -25240,12 +25300,6 @@
   {
     "kenteken": "J186TB",
     "no_data": true
-  },
-  {
-    "kenteken": "J193DZ",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "J212BK",
@@ -25472,12 +25526,6 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "J466JD",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
     "kenteken": "J473VN",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -25496,19 +25544,7 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "J476VN",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "J478VN",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "J479VN",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
@@ -25544,18 +25580,6 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "J485VN",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "J486VN",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "J492XV",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -25563,12 +25587,6 @@
   },
   {
     "kenteken": "J493XV",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "J494XV",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
@@ -25914,12 +25932,6 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "J922SX",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
     "kenteken": "J923SX",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
@@ -26098,6 +26110,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "JD943P",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
     "kenteken": "JD142P",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -26135,12 +26153,6 @@
   },
   {
     "kenteken": "JD161P",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "JD943P",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
@@ -26456,12 +26468,6 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "JH380V",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "JH389V",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
@@ -26472,6 +26478,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
     "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
+    "kenteken": "JH380V",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "JH682J",
@@ -26856,6 +26868,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "JLL71T",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
     "kenteken": "JLL04R",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
@@ -26875,12 +26893,6 @@
   },
   {
     "kenteken": "JLL70T",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "JLL71T",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
@@ -27850,12 +27862,6 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "JVZ39H",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
     "kenteken": "JVZ40H",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
@@ -27869,6 +27875,12 @@
   },
   {
     "kenteken": "JVZ42H",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "JVZ39H",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
@@ -27946,12 +27958,6 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "JXK31J",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "JXK56V",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
@@ -27962,6 +27968,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "JXK31J",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "JXL75P",
@@ -28156,13 +28168,13 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "JZN85S",
+    "kenteken": "JZN86S",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "JZN86S",
+    "kenteken": "JZN85S",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
@@ -28187,6 +28199,18 @@
   },
   {
     "kenteken": "JZR71R",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
+    "kenteken": "K348GG",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
+    "kenteken": "K913ND",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
     "type_carrosserie_europese_omschrijving": "Stationwagen"
@@ -28374,12 +28398,6 @@
   {
     "kenteken": "K336TF",
     "no_data": true
-  },
-  {
-    "kenteken": "K348GG",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
     "kenteken": "K350LT",
@@ -28736,12 +28754,6 @@
     "no_data": true
   },
   {
-    "kenteken": "K913ND",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
     "kenteken": "K919HP",
     "no_data": true
   },
@@ -29000,6 +29012,12 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "KF819X",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
     "kenteken": "KF125J",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -29114,12 +29132,6 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "KF819X",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
     "kenteken": "KF820X",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
@@ -29180,13 +29192,13 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "KFD90B",
+    "kenteken": "KFD91B",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "KFD91B",
+    "kenteken": "KFD90B",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
@@ -29780,6 +29792,18 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "KK798Z",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
+    "kenteken": "KK799Z",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
     "kenteken": "KK136N",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -29894,18 +29918,6 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "KK798Z",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "KK799Z",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
     "kenteken": "KKN47N",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -29960,13 +29972,13 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "KL993G",
+    "kenteken": "KL994G",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "KL994G",
+    "kenteken": "KL993G",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
@@ -30694,6 +30706,24 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "L359NG",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
+    "kenteken": "L495RL",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
+    "kenteken": "L886KB",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
     "kenteken": "L006ZK",
     "no_data": true
   },
@@ -30902,12 +30932,6 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "L359NG",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
     "kenteken": "L367FX",
     "no_data": true
   },
@@ -30978,12 +31002,6 @@
   {
     "kenteken": "L489ZD",
     "no_data": true
-  },
-  {
-    "kenteken": "L495RL",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
     "kenteken": "L555BB",
@@ -31140,12 +31158,6 @@
     "no_data": true
   },
   {
-    "kenteken": "L886KB",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
     "kenteken": "L903RZ",
     "no_data": true
   },
@@ -31212,6 +31224,24 @@
   {
     "kenteken": "MVHB68",
     "no_data": true
+  },
+  {
+    "kenteken": "N294LT",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "N385ZZ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "N386ZZ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "N005RS",
@@ -31332,12 +31362,6 @@
     "no_data": true
   },
   {
-    "kenteken": "N294LT",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "N301LT",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -31384,18 +31408,6 @@
   {
     "kenteken": "N344FH",
     "no_data": true
-  },
-  {
-    "kenteken": "N385ZZ",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "N386ZZ",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "N389FL",
@@ -31824,6 +31836,12 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "NBB35R",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
     "kenteken": "NBD52Z",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -31840,6 +31858,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "NDF05D",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AG",
+    "type_carrosserie_europese_omschrijving": "Truckstationwagon"
   },
   {
     "kenteken": "NDF11D",
@@ -33056,6 +33080,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "PH941R",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
     "kenteken": "PH049L",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -33096,12 +33126,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "PH941R",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "PH942K",
@@ -33234,6 +33258,24 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "PX084Z",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "PX085Z",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "PX601V",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
     "kenteken": "PX029Z",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -33300,18 +33342,6 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "PX084Z",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "PX085Z",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "PX086Z",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -33324,12 +33354,6 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "PX601V",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
     "kenteken": "PZ621G",
     "no_data": true
   },
@@ -33338,6 +33362,24 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
     "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
+    "kenteken": "R093TF",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "R164TD",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "R450LT",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
     "kenteken": "R018VZ",
@@ -33371,12 +33413,6 @@
   },
   {
     "kenteken": "R070PJ",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "R093TF",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
@@ -33441,12 +33477,6 @@
   },
   {
     "kenteken": "R163ST",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "R164TD",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
@@ -33672,12 +33702,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "R450LT",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
     "kenteken": "R457KZ",
@@ -34042,6 +34066,12 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "RD777V",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
     "kenteken": "RD065N",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
@@ -34091,12 +34121,6 @@
   },
   {
     "kenteken": "RD776V",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
-    "kenteken": "RD777V",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
     "type_carrosserie_europese_omschrijving": "Stationwagen"
@@ -34258,6 +34282,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "RK403V",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
     "kenteken": "RK061D",
     "no_data": true
   },
@@ -34269,12 +34299,6 @@
   },
   {
     "kenteken": "RK402V",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
-    "kenteken": "RK403V",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
     "type_carrosserie_europese_omschrijving": "Stationwagen"
@@ -34400,6 +34424,12 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
+    "kenteken": "RS012D",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
     "kenteken": "RS002D",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -34410,12 +34440,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "RS012D",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
     "kenteken": "RS013D",
@@ -37022,6 +37046,12 @@
     "no_data": true
   },
   {
+    "kenteken": "TT904H",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
     "kenteken": "TT210Z",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -37053,12 +37083,6 @@
   },
   {
     "kenteken": "TT903H",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "TT904H",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
@@ -37236,16 +37260,58 @@
     "no_data": true
   },
   {
-    "kenteken": "V018FN",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BE",
-    "type_carrosserie_europese_omschrijving": "Pick-uptruck"
-  },
-  {
     "kenteken": "V019TJ",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "V062PB",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "V342TG",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "V39DST",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "V428BF",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "V76DXN",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "V792XZ",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "V93NSH",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "V018FN",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BE",
+    "type_carrosserie_europese_omschrijving": "Pick-uptruck"
   },
   {
     "kenteken": "V01NJH",
@@ -37324,12 +37390,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "V062PB",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
     "kenteken": "V066LK",
@@ -37890,12 +37950,6 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "V342TG",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
     "kenteken": "V343TG",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
@@ -38028,12 +38082,6 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "V39DST",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
     "kenteken": "V39FRF",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
@@ -38113,12 +38161,6 @@
   },
   {
     "kenteken": "V41LDK",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "V428BF",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
@@ -38826,12 +38868,6 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "V76DXN",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
     "kenteken": "V76FNZ",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BE",
@@ -38893,12 +38929,6 @@
   },
   {
     "kenteken": "V78HRH",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "V792XZ",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
@@ -39372,6 +39402,12 @@
     "type_carrosserie_europese_omschrijving": "Pick-uptruck"
   },
   {
+    "kenteken": "VB236P",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
     "kenteken": "VB054N",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
@@ -39379,12 +39415,6 @@
   },
   {
     "kenteken": "VB183B",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "VB236P",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
@@ -39810,6 +39840,24 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
+    "kenteken": "VG49GY",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "VG629H",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
+    "kenteken": "VG631H",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
     "kenteken": "VG084R",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
@@ -39826,12 +39874,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "VG49GY",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "VG599K",
@@ -39852,19 +39894,7 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
-    "kenteken": "VG629H",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
     "kenteken": "VG630H",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
-  },
-  {
-    "kenteken": "VG631H",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BA",
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
@@ -40488,13 +40518,19 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "VL198V",
+    "kenteken": "VL348Z",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
-    "kenteken": "VL348Z",
+    "kenteken": "VL702X",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
+    "kenteken": "VL198V",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
@@ -40513,12 +40549,6 @@
   },
   {
     "kenteken": "VL699X",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "VL702X",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
@@ -40602,6 +40632,12 @@
     "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
+    "kenteken": "VN690F",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BB",
+    "type_carrosserie_europese_omschrijving": "Bestelwagen"
+  },
+  {
     "kenteken": "VN133R",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
@@ -40645,12 +40681,6 @@
   },
   {
     "kenteken": "VN688F",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BB",
-    "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "VN690F",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
@@ -41772,6 +41802,12 @@
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
   },
   {
+    "kenteken": "VZ185D",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "BA",
+    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
+  },
+  {
     "kenteken": "VZ001G",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
@@ -41806,12 +41842,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "BB",
     "type_carrosserie_europese_omschrijving": "Bestelwagen"
-  },
-  {
-    "kenteken": "VZ185D",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "BA",
-    "type_carrosserie_europese_omschrijving": "Vrachtwagen"
   },
   {
     "kenteken": "VZ189X",
@@ -42138,17 +42168,17 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "WHGL77",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
     "kenteken": "WH74JS",
     "no_data": true
   },
   {
     "kenteken": "WHBN14",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "WHGL77",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -42178,6 +42208,12 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
+    "kenteken": "WLXT73",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "WLJZ92",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
@@ -42185,12 +42221,6 @@
   },
   {
     "kenteken": "WLVX51",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "WLXT73",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -42208,6 +42238,12 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
+    "kenteken": "WNNN54",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "WNVF13",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
@@ -42220,12 +42256,6 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "WNNN54",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
     "kenteken": "WP48PN",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
@@ -42233,6 +42263,12 @@
   },
   {
     "kenteken": "WP55HB",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "WP70JK",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -42256,12 +42292,6 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "WP70JK",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
     "kenteken": "WR19XT",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
@@ -42274,19 +42304,13 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "WS68GP",
+    "kenteken": "WSFT99",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "WS69GP",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "WSNN09",
+    "kenteken": "WSRG65",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -42316,13 +42340,19 @@
     "no_data": true
   },
   {
-    "kenteken": "WSFT99",
+    "kenteken": "WS68GP",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "WSRG65",
+    "kenteken": "WS69GP",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "WSNN09",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -42424,6 +42454,12 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
+    "kenteken": "WXRD82",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
     "kenteken": "WX14DZ",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
@@ -42448,7 +42484,13 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "WXRD82",
+    "kenteken": "WY23ZG",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "DC",
+    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+  },
+  {
+    "kenteken": "WY83NB",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -42460,13 +42502,7 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "WY23ZG",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
-  },
-  {
-    "kenteken": "WY83NB",
+    "kenteken": "WZRT04",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "DC",
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
@@ -42502,10 +42538,34 @@
     "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
   },
   {
-    "kenteken": "WZRT04",
+    "kenteken": "X152HG",
     "carrosserie_volgnummer": "1",
-    "carrosserietype": "DC",
-    "type_carrosserie_europese_omschrijving": "Middenasaanhangwagen"
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "X154HG",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "X337RN",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "X936JH",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "X943JH",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "X036HR",
@@ -42628,19 +42688,7 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "X152HG",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "X153HG",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "X154HG",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
@@ -42848,12 +42896,6 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "X337RN",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "X338PN",
@@ -43552,18 +43594,6 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "X936JH",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "X943JH",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "X951TR",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -43636,6 +43666,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "XD866K",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
     "kenteken": "XD084F",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -43696,12 +43732,6 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "XD866K",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
     "kenteken": "XD986J",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
@@ -43742,16 +43772,16 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "XL065T",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
     "kenteken": "XL309J",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
     "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
+    "kenteken": "XL065T",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
     "kenteken": "XL658T",
@@ -43838,6 +43868,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "XTLG37",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AF",
+    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
     "kenteken": "XT128L",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -43845,12 +43881,6 @@
   },
   {
     "kenteken": "XT615S",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AF",
-    "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
-  },
-  {
-    "kenteken": "XTLG37",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
@@ -44006,6 +44036,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "Z858NB",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
     "kenteken": "Z001RX",
@@ -44452,12 +44488,6 @@
     "type_carrosserie_europese_omschrijving": "Hatchback"
   },
   {
-    "kenteken": "Z858NB",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
     "kenteken": "Z874KT",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -44500,12 +44530,6 @@
     "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
-    "kenteken": "ZB022H",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AC",
-    "type_carrosserie_europese_omschrijving": "Stationwagen"
-  },
-  {
     "kenteken": "ZB105K",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
@@ -44522,6 +44546,12 @@
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AF",
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
+  },
+  {
+    "kenteken": "ZB022H",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AC",
+    "type_carrosserie_europese_omschrijving": "Stationwagen"
   },
   {
     "kenteken": "ZB108K",
@@ -44608,14 +44638,14 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
-    "kenteken": "ZD369H",
-    "no_data": true
-  },
-  {
     "kenteken": "ZD616F",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
     "type_carrosserie_europese_omschrijving": "Stationwagen"
+  },
+  {
+    "kenteken": "ZD369H",
+    "no_data": true
   },
   {
     "kenteken": "ZD669H",
@@ -44734,6 +44764,12 @@
     "type_carrosserie_europese_omschrijving": "Multipurpose vehicle (MPV)"
   },
   {
+    "kenteken": "ZG286B",
+    "carrosserie_volgnummer": "1",
+    "carrosserietype": "AB",
+    "type_carrosserie_europese_omschrijving": "Hatchback"
+  },
+  {
     "kenteken": "ZG221J",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AC",
@@ -44753,12 +44789,6 @@
   },
   {
     "kenteken": "ZG285B",
-    "carrosserie_volgnummer": "1",
-    "carrosserietype": "AB",
-    "type_carrosserie_europese_omschrijving": "Hatchback"
-  },
-  {
-    "kenteken": "ZG286B",
     "carrosserie_volgnummer": "1",
     "carrosserietype": "AB",
     "type_carrosserie_europese_omschrijving": "Hatchback"
