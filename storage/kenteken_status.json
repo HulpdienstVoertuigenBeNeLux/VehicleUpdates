@@ -28851,19 +28851,6 @@
     "last_tenaamstelling_check_date": "2026-11-23",
     "aantal_zitplaatsen": "6"
   },
-  "BX-NF-84": {
-    "expiry": "2027-04-20",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "10-5432"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-12-24",
-    "last_tenaamstelling_check_date": "2026-11-23",
-    "aantal_zitplaatsen": "8"
-  },
   "BX-NF-43": {
     "expiry": "2027-05-20",
     "checked": true,
@@ -108996,5 +108983,18 @@
     "last_expired_notification_date": null,
     "datum_tenaamstelling_dt": null,
     "last_tenaamstelling_check_date": "2026-11-25"
+  },
+  "BF-232-D": {
+    "expiry": "2027-11-16",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "10-5432"
+    ],
+    "last_check_date": "2026-11-25",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-11-16",
+    "last_tenaamstelling_check_date": "2026-11-25",
+    "aantal_zitplaatsen": "7"
   }
 }
