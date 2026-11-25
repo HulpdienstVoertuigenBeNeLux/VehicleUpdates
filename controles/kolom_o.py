@@ -45,12 +45,18 @@ SOORTEN = {
              15158332),
 }
 
-# Voorwaardelijke opmaak (zelfde regels als SOORTEN); {r} = eerste datarij
+# Voorwaardelijke opmaak (zelfde regels als SOORTEN); {r} = eerste datarij.
+# Per sheet bepaalt "rij" in config/sheets.json wanneer een rij meetelt: "id" (kolom L heeft een ID) of
+# "inhoud" (kolom A, B of D gevuld; sheets zonder ID's zoals Brandweer DE / Ambulance DE).
 RED = {"red": 0.96, "green": 0.6, "blue": 0.6}
-RULES = [
-    '=AND($L{r}<>"",TRIM($O{r})="")',
-    '=AND(TRIM($O{r})="-",TRIM($J{r})<>"")',
-]
+TELT_MEE = {"id": '$L{r}<>""', "inhoud": 'OR($A{r}<>"",$B{r}<>"",$D{r}<>"")'}
+
+
+def rules_for(mode, r):
+    return [
+        f'=AND({TELT_MEE[mode].format(r=r)},TRIM($O{r})="")',
+        f'=AND(TRIM($O{r})="-",TRIM($J{r})<>"")',
+    ]
 
 
 # ---------- Google ----------
@@ -114,24 +120,46 @@ def tab_values(sid, titles, token):
     return {t: vr.get("values", []) for t, vr in zip(titles, data.get("valueRanges", []))}
 
 
-def ensure_red_rules(sid, tabs, start_row, token):
+def is_ours(cf):
+    """Een regel van dit script: eigen formule-vorm, rode vulkleur, alleen kolom O."""
+    rule = cf.get("booleanRule") or {}
+    vals = (rule.get("condition") or {}).get("values") or []
+    f = str(vals[0].get("userEnteredValue", "")) if vals else ""
+    bg = ((rule.get("format") or {}).get("backgroundColor") or {})
+    cols = {(rg.get("startColumnIndex"), rg.get("endColumnIndex")) for rg in cf.get("ranges", [])}
+    return ("TRIM($O" in f and cols == {(COL_O, COL_O + 1)}
+            and abs(bg.get("red", 0) - RED["red"]) < 0.01 and abs(bg.get("green", 0) - RED["green"]) < 0.01)
+
+
+def norm(f):
+    return f.replace(" ", "").replace(";", ",")
+
+
+def ensure_red_rules(sid, tabs, start_row, token, mode="id"):
     """Zet de ontbrekende regels op kolom O van alle tabbladen in één verzoek per sheet (Google staat maar
     60 schrijfverzoeken per minuut toe). Raakt andere opmaakregels niet aan. Geeft het aantal gezette regels terug."""
-    todo = []
+    want = rules_for(mode, start_row)
+    todo, deletes = [], []
     for title, sheet_id, formats in tabs:
         have = set()
-        for cf in formats:
-            for v in (((cf.get("booleanRule") or {}).get("condition") or {}).get("values") or []):
-                have.add(str(v.get("userEnteredValue", "")).replace(" ", "").replace(";", ","))
-        for f in RULES:
-            formula = f.format(r=start_row)
-            if formula.replace(" ", "") not in have:
+        for idx, cf in enumerate(formats):
+            vals = ((cf.get("booleanRule") or {}).get("condition") or {}).get("values") or []
+            f = norm(str(vals[0].get("userEnteredValue", ""))) if vals else ""
+            if is_ours(cf) and f not in {norm(w) for w in want}:
+                deletes.append((sheet_id, idx))           # oude versie van een eigen regel: vervangen
+            else:
+                have.add(f)
+        for formula in want:
+            if norm(formula) not in have:
                 todo.append((sheet_id, formula))
-    if not todo:
+    if not todo and not deletes:
         return 0
+    # Eerst verwijderen (per tabblad van hoge naar lage index), dan toevoegen
+    dels = [{"deleteConditionalFormatRule": {"sheetId": s, "index": i}}
+            for s, i in sorted(deletes, key=lambda x: (x[0], -x[1]))]
     # Formules volgen de taal van de sheet: Nederlands = puntkomma, Engels = komma
     for sep in (";", ","):
-        reqs = [{"addConditionalFormatRule": {"index": 0, "rule": {
+        reqs = dels + [{"addConditionalFormatRule": {"index": 0, "rule": {
             "ranges": [{"sheetId": sheet_id, "startRowIndex": start_row - 1,
                         "startColumnIndex": COL_O, "endColumnIndex": COL_O + 1}],
             "booleanRule": {"condition": {"type": "CUSTOM_FORMULA",
@@ -140,7 +168,7 @@ def ensure_red_rules(sid, tabs, start_row, token):
         r = requests.post(SHEETS_API + sid + ":batchUpdate", headers={"Authorization": f"Bearer {token}"},
                           json={"requests": reqs}, timeout=90)
         if r.ok:
-            return len(reqs)
+            return len(todo)
         if r.status_code != 400:                       # 403 = geen bewerkrechten, 429 = te veel verzoeken
             break
     msg = (r.json().get("error", {}).get("message", "") if r.headers.get("content-type", "").startswith("application/json") else r.text)
@@ -153,11 +181,17 @@ def cell(row, i):
     return str(row[i]).strip() if i < len(row) and row[i] is not None else ""
 
 
-def check_rows(land, sheet, tab, values):
+def check_rows(land, sheet, tab, values, mode="id", start_row=1):
     out = []
     for nr, row in enumerate(values, start=1):          # nr = echte rij in de sheet
+        if nr < start_row:
+            continue
         rid = cell(row, COL_ID)
-        if not (rid.startswith("POST-") or rid.startswith("VEH-")):
+        if mode == "inhoud":
+            if not (cell(row, 0) or cell(row, 1) or cell(row, 3)):
+                continue
+            rid = rid or f"rij {nr}"                       # geen ID in deze sheets: rijnummer als sleutel
+        elif not (rid.startswith("POST-") or rid.startswith("VEH-")):
             continue
         o = cell(row, COL_O)
         if not o:
@@ -255,14 +289,14 @@ def check_land(land, sheets, token):
         tabs = sheet_tabs(sid, sc, token)
         if token:
             try:
-                n = ensure_red_rules(sid, tabs, sc["start_row"], token)
+                n = ensure_red_rules(sid, tabs, sc["start_row"], token, sc.get("rij", "id"))
                 if n:
                     print(f"  {sc['naam']}: {n} opmaakregel(s) gezet")
             except Exception as e:                        # opmaak mislukt: controle en melding gaan door
                 print(f"  {sc['naam']}: {e}")
         values = tab_values(sid, [t[0] for t in tabs], token)
         for title, rows in values.items():
-            found += check_rows(land, sc["naam"], title, rows)
+            found += check_rows(land, sc["naam"], title, rows, sc.get("rij", "id"), sc["start_row"])
     gemeld = load_state(land, sheets)
     bewaar = set()
     for soort in SOORTEN:
