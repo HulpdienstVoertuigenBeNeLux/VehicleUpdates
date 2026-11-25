@@ -5929,15 +5929,6 @@
     "technisch_toegestane_maximum_aslast": "1600"
   },
   {
-    "kenteken": "12WPSF",
-    "as_nummer": "1",
-    "aantal_assen": "1",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "wettelijk_toegestane_maximum_aslast": "1350",
-    "technisch_toegestane_maximum_aslast": "1350"
-  },
-  {
     "kenteken": "12BDJ3",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -6533,6 +6524,15 @@
   },
   {
     "kenteken": "12WNRR",
+    "as_nummer": "1",
+    "aantal_assen": "1",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "wettelijk_toegestane_maximum_aslast": "1350",
+    "technisch_toegestane_maximum_aslast": "1350"
+  },
+  {
+    "kenteken": "12WPSF",
     "as_nummer": "1",
     "aantal_assen": "1",
     "hefas": "N",
@@ -58738,28 +58738,6 @@
     "technisch_toegestane_maximum_aslast": "11500"
   },
   {
-    "kenteken": "BD192V",
-    "as_nummer": "1",
-    "aantal_assen": "2",
-    "aangedreven_as": "N",
-    "hefas": "N",
-    "plaatscode_as": "V",
-    "wettelijk_toegestane_maximum_aslast": "2900",
-    "technisch_toegestane_maximum_aslast": "2900",
-    "afstand_tot_volgende_as_voertuig": "510"
-  },
-  {
-    "kenteken": "BD192V",
-    "as_nummer": "2",
-    "aantal_assen": "2",
-    "aangedreven_as": "J",
-    "hefas": "N",
-    "plaatscode_as": "A",
-    "weggedrag_code": "G",
-    "wettelijk_toegestane_maximum_aslast": "5600",
-    "technisch_toegestane_maximum_aslast": "5600"
-  },
-  {
     "kenteken": "BD004T",
     "as_nummer": "1",
     "aantal_assen": "2",
@@ -59522,6 +59500,28 @@
     "weggedrag_code": "G",
     "wettelijk_toegestane_maximum_aslast": "11500",
     "technisch_toegestane_maximum_aslast": "13000"
+  },
+  {
+    "kenteken": "BD192V",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "2900",
+    "technisch_toegestane_maximum_aslast": "2900",
+    "afstand_tot_volgende_as_voertuig": "510"
+  },
+  {
+    "kenteken": "BD192V",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "5600",
+    "technisch_toegestane_maximum_aslast": "5600"
   },
   {
     "kenteken": "BD193G",
@@ -62004,6 +62004,28 @@
     "weggedrag_code": "A",
     "wettelijk_toegestane_maximum_aslast": "11500",
     "technisch_toegestane_maximum_aslast": "11500"
+  },
+  {
+    "kenteken": "BF495B",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "hefas": "N",
+    "plaatscode_as": "V",
+    "wettelijk_toegestane_maximum_aslast": "8000",
+    "technisch_toegestane_maximum_aslast": "8000",
+    "afstand_tot_volgende_as_voertuig": "550"
+  },
+  {
+    "kenteken": "BF495B",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "hefas": "N",
+    "plaatscode_as": "A",
+    "weggedrag_code": "G",
+    "wettelijk_toegestane_maximum_aslast": "11500",
+    "technisch_toegestane_maximum_aslast": "12000"
   },
   {
     "kenteken": "BF069B",
@@ -79782,6 +79804,26 @@
     "spoorbreedte": "163",
     "wettelijk_toegestane_maximum_aslast": "1720",
     "technisch_toegestane_maximum_aslast": "1720"
+  },
+  {
+    "kenteken": "GBB01B",
+    "as_nummer": "1",
+    "aantal_assen": "2",
+    "aangedreven_as": "N",
+    "plaatscode_as": "V",
+    "spoorbreedte": "159",
+    "wettelijk_toegestane_maximum_aslast": "1050",
+    "technisch_toegestane_maximum_aslast": "1050"
+  },
+  {
+    "kenteken": "GBB01B",
+    "as_nummer": "2",
+    "aantal_assen": "2",
+    "aangedreven_as": "J",
+    "plaatscode_as": "A",
+    "spoorbreedte": "160",
+    "wettelijk_toegestane_maximum_aslast": "1300",
+    "technisch_toegestane_maximum_aslast": "1300"
   },
   {
     "kenteken": "GBF78R",
