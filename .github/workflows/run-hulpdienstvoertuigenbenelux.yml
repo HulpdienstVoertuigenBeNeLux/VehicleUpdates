@@ -43,6 +43,7 @@ jobs:
           RDW_APP_TOKEN: ${{ secrets.RDW_APP_TOKEN }}
           HVNBL_RDW_API_KEY: ${{ secrets.HVNBL_RDW_API_KEY }}
           DISCORD_WEBHOOK_URL_RDW_API_PUSH: ${{ secrets.DISCORD_WEBHOOK_URL_RDW_API_PUSH }}
+          DUPLICATES_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL_ZITPLAATSEN }}
         run: |
           git pull
           python compare_hulpdienstvoertuigenbenelux.py ALL
