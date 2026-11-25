@@ -1,0 +1,61 @@
+{
+    "_uitleg": "Welke Google Sheets bij welk land horen. id_env = naam van het GitHub-secret met het sheet-ID (IDs staan niet in de openbare repo). tabs = lijst met tabbladen of \"*\" voor alle tabbladen behalve exclude. start_row = eerste datarij (onder de kop). rij = \"id\" (rij telt mee als kolom L een POST-/VEH-ID heeft, standaard) of \"inhoud\" (rij telt mee als kolom A, B of D gevuld is; voor sheets zonder ID's).",
+    "NL": [
+        {
+            "naam": "MegaSheetNL",
+            "id_env": "SPREADSHEET_ID_NL",
+            "tabs": [
+                "MegaSheetNL"
+            ],
+            "start_row": 4
+        }
+    ],
+    "BE": [
+        {
+            "naam": "MegaSheetBE",
+            "id_env": "SPREADSHEET_ID_BE",
+            "tabs": [
+                "MegaSheetBE"
+            ],
+            "start_row": 4
+        }
+    ],
+    "LUX": [
+        {
+            "naam": "MegaSheetLUX",
+            "id_env": "SPREADSHEET_ID_LUX",
+            "tabs": [
+                "MegaSheetLUX"
+            ],
+            "start_row": 4
+        }
+    ],
+    "DE": [
+        {
+            "naam": "Megasheet_DE",
+            "id_env": "SPREADSHEET_ID_DE",
+            "tabs": "*",
+            "exclude": [
+                "Abkürzungen",
+                "logSheet"
+            ],
+            "start_row": 3
+        },
+        {
+            "naam": "Brandweer DE",
+            "id_env": "SPREADSHEET_ID_DE_BRANDWEER",
+            "tabs": "*",
+            "exclude": [],
+            "start_row": 2,
+            "rij": "inhoud"
+        },
+        {
+            "naam": "Ambulance DE",
+            "id_env": "SPREADSHEET_ID_DE_AMBULANCE",
+            "tabs": "*",
+            "exclude": [],
+            "start_row": 2,
+            "rij": "inhoud"
+        }
+    ]
+}
