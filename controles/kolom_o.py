@@ -7,6 +7,9 @@ Rijen zonder ID (scheidingsrijen tussen gebouwen) worden overgeslagen.
 
 Melden: per land één Discord-melding (embed + CSV) met alleen de NIEUWE gevallen sinds de vorige run.
 Wat al gemeld is staat per land in landen/<LAND>/kolom_o_gemeld.json.
+Weekoverzicht: elke maandag vanaf 09:00 (eerste run) één bericht met het totaal per land en per land een CSV met
+alle rijen die op dat moment fout zijn; zijn er geen fouten, dan staat dat er. Laatste verzending in
+landen/kolom_o_weekoverzicht.json.
 
 Rood in de sheet: met GOOGLE_SERVICE_ACCOUNT_JSON zorgt het script dat elk tabblad twee regels voor
 voorwaardelijke opmaak op kolom O heeft (dezelfde twee regels als hierboven). Google kleurt een fout vakje dan
@@ -19,6 +22,7 @@ GOOGLE_SHEETS_API_KEY (alleen lezen, terugval zonder serviceaccount), DISCORD_WE
 """
 import base64
 import csv
+import datetime
 import io
 import json
 import os
@@ -313,6 +317,7 @@ def check_land(land, sheets, token):
         # Alleen bewaren wat nu nog speelt en gemeld is; mislukte melding: volgende run opnieuw
         bewaar |= {key(m) for m in nu if ok or key(m) in gemeld}
     save_state(land, bewaar)
+    return found
 
 
 def main():
@@ -326,12 +331,77 @@ def main():
     if not token and not API_KEY:
         print("Geen serviceaccount en geen API-sleutel: kolom O-controle overgeslagen.")
         return
+    alles = {}
     for land, sheets in config.items():
         print(f"{land}:")
         try:
-            check_land(land, sheets, token)
+            alles[land] = check_land(land, sheets, token)
         except Exception as e:                            # één land mislukt: de andere gaan door
             print(f"  {land} overgeslagen: {e}")
+    if len(alles) == len(config):                         # alleen met volledige data, anders volgende run
+        try:
+            weekoverzicht(alles, force=os.getenv("KOLOM_O_WEEKOVERZICHT") == "nu")
+        except Exception as e:
+            print(f"Weekoverzicht mislukt: {e}")
+
+
+WEEK_FILE = os.path.join(ROOT, "landen", "kolom_o_weekoverzicht.json")
+WEEK_DAG, WEEK_UUR = 0, 9          # maandag, vanaf 09:00 (TZ Europe/Amsterdam in de workflow)
+
+
+def csv_bytes(rows):
+    buf = io.StringIO()
+    w = csv.writer(buf, delimiter=";")
+    w.writerow(["Land", "Soort", "Sheet", "Tabblad", "Rij", "ID", "Adres", "Roepnummer", "TypeVoertuig", "Hulpdienst", "Regio", "Foto"])
+    for m in rows:
+        w.writerow([m["land"], "kolom O leeg" if m["soort"] == "leeg" else "\"-\" met foto", m["sheet"], m["tab"], m["rij"],
+                    m["id"], m["adres"], m["roepnummer"], m["type"], m["hulpdienst"], m["regio"], m["foto"]])
+    return buf.getvalue().encode("utf-8-sig")
+
+
+def weekoverzicht(alles, force=False):
+    """Eén keer per week: totaal per land + CSV per land met fouten, of de melding dat er geen fouten zijn."""
+    nu = datetime.datetime.now()
+    vandaag = nu.date().isoformat()
+    try:
+        with open(WEEK_FILE, encoding="utf-8") as f:
+            laatste = json.load(f).get("laatste", "")
+    except (OSError, ValueError):
+        laatste = ""
+    if not force and (nu.weekday() != WEEK_DAG or nu.hour < WEEK_UUR or laatste == vandaag):
+        return
+    if not WEBHOOK:
+        print("Weekoverzicht: geen DISCORD_WEBHOOK_URL_REGIONS ingesteld; niets verstuurd.")
+        return
+    totaal = sum(len(v) for v in alles.values())
+    regels = []
+    for land, rows in alles.items():
+        leeg = sum(1 for m in rows if m["soort"] == "leeg")
+        foto = sum(1 for m in rows if m["soort"] == "foto")
+        if not rows:
+            regels.append(f"✅ **{land}**: geen fouten")
+        else:
+            delen = [f"{leeg} leeg"] if leeg else []
+            if foto:
+                delen.append(f"{foto} \"-\" met foto")
+            regels.append(f"⚠️ **{land}**: {', '.join(delen)}")
+    if totaal == 0:
+        embed = {"title": "✅ Weekoverzicht kolom O: er zijn geen fouten",
+                 "description": "Alle sheets zijn in orde.\n\n" + "\n".join(regels), "color": 3066993}
+    else:
+        embed = {"title": f"📋 Weekoverzicht kolom O: {totaal} fout(en)",
+                 "description": "Alle rijen die nu fout zijn staan per land in de bijlage(n).\n\n" + "\n".join(regels),
+                 "color": 15105570}
+    embed["footer"] = {"text": nu.strftime("Stand %d-%m-%Y %H:%M")}
+    files = {}
+    for n, (land, rows) in enumerate((l, r) for l, r in alles.items() if r):
+        files[f"files[{n}]"] = (f"kolom_o_{land}_{vandaag}.csv", csv_bytes(rows), "text/csv")
+    r = requests.post(WEBHOOK, data={"payload_json": json.dumps({"embeds": [embed]})}, files=files or None, timeout=60)
+    print(f"Weekoverzicht: HTTP {r.status_code}")
+    if r.status_code in (200, 204) and not force:
+        os.makedirs(os.path.dirname(WEEK_FILE), exist_ok=True)
+        with open(WEEK_FILE, "w", encoding="utf-8") as f:
+            json.dump({"laatste": vandaag}, f)
 
 
 if __name__ == "__main__":
