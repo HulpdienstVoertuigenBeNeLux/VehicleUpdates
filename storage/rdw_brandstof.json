@@ -3373,6 +3373,10 @@
     "brandstof_omschrijving": null
   },
   {
+    "kenteken": "12WPSF",
+    "no_data": true
+  },
+  {
     "kenteken": "12ZDH9",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -12102,17 +12106,6 @@
     "uitlaatemissieniveau": "EURO V",
     "actieradius_extern_oplaadbaar": "0",
     "actieradius": "0"
-  },
-  {
-    "kenteken": "41BDJ1",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "emissiecode_omschrijving": "5",
-    "milieuklasse_eg_goedkeuring_zwaar": "2005/55*2008/74K",
-    "uitstoot_deeltjes_zwaar": "0.01300",
-    "nettomaximumvermogen": "135.00",
-    "uitlaatemissieniveau": "EEV K",
-    "co2_emissieklasse": "1"
   },
   {
     "kenteken": "41BGG5",
@@ -32645,6 +32638,18 @@
     "co2_emissieklasse": "3"
   },
   {
+    "kenteken": "BD192V",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Elektriciteit",
+    "geluidsniveau_rijdend": "66",
+    "emissiecode_omschrijving": "Z",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2022/2383E",
+    "nominaal_continu_maximumvermogen": "90.00",
+    "netto_max_vermogen_elektrisch": "140.00",
+    "uitlaatemissieniveau": "EURO VI E",
+    "co2_emissieklasse": "5"
+  },
+  {
     "kenteken": "BD193G",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -33846,18 +33851,6 @@
     "co2_emissieklasse": "1"
   },
   {
-    "kenteken": "BF232D",
-    "brandstof_volgnummer": "1",
-    "brandstof_omschrijving": "Diesel",
-    "geluidsniveau_rijdend": "79",
-    "geluidsniveau_stationair": "87",
-    "emissiecode_omschrijving": "6",
-    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2019/1939E",
-    "nettomaximumvermogen": "220.00",
-    "toerental_geluidsniveau": "1350",
-    "uitlaatemissieniveau": "EURO VI E"
-  },
-  {
     "kenteken": "BF069B",
     "brandstof_volgnummer": "1",
     "brandstof_omschrijving": "Diesel",
@@ -33878,6 +33871,18 @@
     "emissiecode_omschrijving": "6",
     "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2019/1939E",
     "nettomaximumvermogen": "331.00",
+    "toerental_geluidsniveau": "1350",
+    "uitlaatemissieniveau": "EURO VI E"
+  },
+  {
+    "kenteken": "BF232D",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "geluidsniveau_rijdend": "79",
+    "geluidsniveau_stationair": "87",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_zwaar": "595/2009*2019/1939E",
+    "nettomaximumvermogen": "220.00",
     "toerental_geluidsniveau": "1350",
     "uitlaatemissieniveau": "EURO VI E"
   },

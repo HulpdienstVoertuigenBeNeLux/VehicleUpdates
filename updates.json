@@ -141,6 +141,27 @@
         "Regio": "Oost-Vlaanderen Zone - Waasland",
         "Description": "KR-KAR-1 PM toegevoegd aan Kruibeke",
         "Time": "25-11-2026 16:03:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "26-8228 GOH-LO toegevoegd aan Grootegast",
+        "Time": "25-11-2026 19:02:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "26-8124 GOH-DC toegevoegd aan Zuidhorn",
+        "Time": "25-11-2026 19:02:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-3276 VIA toegevoegd aan Middelstum",
+        "Time": "25-11-2026 19:02:36"
       }
     ],
     "removed": [
@@ -178,6 +199,20 @@
         "Regio": "West-Vlaanderen Zone - Westhoek",
         "Description": "A429 HZA verwijderd van Geluwe",
         "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-1224 GOH-LO verwijderd van Grootegast",
+        "Time": "25-11-2026 19:02:36"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-1322 GOH-DC verwijderd van Zuidhorn",
+        "Time": "25-11-2026 19:02:36"
       }
     ],
     "changed": [
@@ -418,6 +453,34 @@
         "Regio": "10 - Noord-Holland-Noord (VRNHN)",
         "Description": "10-5432: Kenteken van 'BX-NF-84' naar 'BF-232-D' aangepast",
         "Time": "25-11-2026 18:04:00"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-9203: Kenteken van '41-BDJ-1' naar 'BD-192-V' aangepast",
+        "Time": "25-11-2026 19:02:36"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": ": Afkorting van 'LBA' naar 'WTC' aangepast",
+        "Time": "25-11-2026 19:02:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": ": TypeVoertuig van 'Laadbak Aanhanger' naar 'Watertank container' aangepast",
+        "Time": "25-11-2026 19:02:59"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": ": Kenteken van '' naar 'GEEN' aangepast",
+        "Time": "25-11-2026 19:02:59"
       }
     ]
   },

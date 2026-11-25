@@ -43604,19 +43604,6 @@
     "last_tenaamstelling_check_date": "2026-11-23",
     "aantal_zitplaatsen": "3"
   },
-  "41-BDJ-1": {
-    "expiry": "2026-11-26",
-    "checked": true,
-    "unknown": false,
-    "roepnummers": [
-      "17-9203"
-    ],
-    "last_check_date": "2026-05-24",
-    "last_expired_notification_date": null,
-    "datum_tenaamstelling_dt": "2013-12-04",
-    "last_tenaamstelling_check_date": "2026-11-23",
-    "aantal_zitplaatsen": "3"
-  },
   "JJG-80-D": {
     "expiry": "2029-11-14",
     "checked": true,
@@ -108996,5 +108983,31 @@
     "datum_tenaamstelling_dt": "2026-11-16",
     "last_tenaamstelling_check_date": "2026-11-25",
     "aantal_zitplaatsen": "7"
+  },
+  "12-WP-SF": {
+    "expiry": "None",
+    "checked": true,
+    "unknown": true,
+    "roepnummers": [
+      "01-3276"
+    ],
+    "last_check_date": "2026-11-25",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2017-01-04",
+    "last_tenaamstelling_check_date": "2026-11-25",
+    "aantal_zitplaatsen": null
+  },
+  "BD-192-V": {
+    "expiry": "2027-10-13",
+    "checked": true,
+    "unknown": false,
+    "roepnummers": [
+      "17-9203"
+    ],
+    "last_check_date": "2026-11-25",
+    "last_expired_notification_date": null,
+    "datum_tenaamstelling_dt": "2026-10-13",
+    "last_tenaamstelling_check_date": "2026-11-25",
+    "aantal_zitplaatsen": "2"
   }
 }
