@@ -8,7 +8,13 @@ Meldt alleen rijen die sinds de vorige run nieuw zonder waarde zijn (storage/kol
 uurlijkse run niet elk uur dezelfde lijst stuurt. Bij een fout (sheet niet bereikbaar e.d.) stopt het script
 stil met exit 0: de rest van de uurlijkse run gaat gewoon door.
 
-Omgevingsvariabelen: GOOGLE_SHEETS_API_KEY, SPREADSHEET_ID_NL/_BE/_LUX, DISCORD_WEBHOOK_URL_REGIONS.
+Rood in de sheet: met GOOGLE_SERVICE_ACCOUNT_JSON (serviceaccount met bewerkrechten) zorgt het script dat elke
+megasheet twee regels voor voorwaardelijke opmaak op kolom O heeft (leeg bij een rij met ID, en "-" met foto).
+Die kleuren een fout vakje meteen rood terwijl iemand typt; ontbreekt een regel (bijv. per ongeluk verwijderd),
+dan zet de volgende run hem terug.
+
+Omgevingsvariabelen: GOOGLE_SHEETS_API_KEY, SPREADSHEET_ID_NL/_BE/_LUX, DISCORD_WEBHOOK_URL_REGIONS,
+GOOGLE_SERVICE_ACCOUNT_JSON (optioneel, voor de rode opmaak).
 """
 import csv
 import io
@@ -16,6 +22,7 @@ import json
 import os
 import sys
 import time
+import base64
 import urllib.parse
 
 import requests
@@ -110,7 +117,80 @@ def send(soort, new, totals):
     return r.status_code in (200, 204)
 
 
+
+# ---- Rode opmaak in de sheet (voorwaardelijke opmaak, via serviceaccount) ----
+RED = {"red": 0.96, "green": 0.6, "blue": 0.6}
+RULES = [
+    '=AND($L4<>"",TRIM($O4)="")',              # rij met ID, kolom O leeg
+    '=AND(TRIM($O4)="-",TRIM($J4)<>"")',       # "-" maar wel een foto
+]
+
+
+def sa_token():
+    raw = os.getenv("GOOGLE_SERVICE_ACCOUNT_JSON", "")
+    if not raw:
+        return None
+    from cryptography.hazmat.primitives import hashes, serialization
+    from cryptography.hazmat.primitives.asymmetric import padding
+    d = json.loads(raw)
+    b64 = lambda b: base64.urlsafe_b64encode(b).rstrip(b"=")
+    now = int(time.time())
+    head = b64(json.dumps({"alg": "RS256", "typ": "JWT"}).encode())
+    claim = b64(json.dumps({"iss": d["client_email"], "scope": "https://www.googleapis.com/auth/spreadsheets",
+                            "aud": d["token_uri"], "iat": now, "exp": now + 3600}).encode())
+    key = serialization.load_pem_private_key(d["private_key"].encode(), None)
+    sig = b64(key.sign(head + b"." + claim, padding.PKCS1v15(), hashes.SHA256()))
+    r = requests.post(d["token_uri"], data={"grant_type": "urn:ietf:params:oauth:grant-type:jwt-bearer",
+                                             "assertion": (head + b"." + claim + b"." + sig).decode()}, timeout=30)
+    r.raise_for_status()
+    return r.json()["access_token"]
+
+
+def ensure_red_rules(token):
+    """Zet de twee regels op kolom O (vanaf rij 4) als ze er nog niet staan. Raakt andere regels niet aan."""
+    hdr = {"Authorization": f"Bearer {token}"}
+    for region, tab in SHEETS.items():
+        sid = os.getenv(f"SPREADSHEET_ID_{region}", "")
+        url = f"https://sheets.googleapis.com/v4/spreadsheets/{sid}"
+        meta = requests.get(url, headers=hdr, timeout=60,
+                            params={"fields": "sheets(properties(title,sheetId),conditionalFormats)"}).json()
+        sheet = next((x for x in meta.get("sheets", []) if x["properties"]["title"] == tab), None)
+        if not sheet:
+            print(f"{region}: tabblad {tab} niet gevonden")
+            continue
+        have = set()
+        for cf in sheet.get("conditionalFormats", []):
+            for v in (((cf.get("booleanRule") or {}).get("condition") or {}).get("values") or []):
+                have.add(str(v.get("userEnteredValue", "")).replace(" ", "").replace(";", ","))
+        missing = [f for f in RULES if f.replace(" ", "") not in have]
+        if not missing:
+            print(f"{region}: opmaakregels kolom O staan er al")
+            continue
+        # Formules volgen de taal van de sheet: Nederlands = puntkomma, Engels = komma
+        for sep in (";", ","):
+            reqs = [{"addConditionalFormatRule": {"index": 0, "rule": {
+                "ranges": [{"sheetId": sheet["properties"]["sheetId"], "startRowIndex": 3,
+                            "startColumnIndex": COL_O, "endColumnIndex": COL_O + 1}],
+                "booleanRule": {"condition": {"type": "CUSTOM_FORMULA",
+                                              "values": [{"userEnteredValue": f.replace(",", sep)}]},
+                                "format": {"backgroundColor": RED}}}}} for f in missing]
+            r = requests.post(url + ":batchUpdate", headers=hdr, json={"requests": reqs}, timeout=60)
+            if r.ok:
+                print(f"{region}: {len(reqs)} opmaakregel(s) gezet")
+                break
+        else:
+            print(f"{region}: opmaakregels zetten mislukt: HTTP {r.status_code} {r.text[:200]}")
+
+
 def main():
+    try:
+        token = sa_token()
+        if token:
+            ensure_red_rules(token)
+        else:
+            print("Geen GOOGLE_SERVICE_ACCOUNT_JSON: rode opmaak overgeslagen.")
+    except Exception as e:                                # opmaak mislukt: melding gaat gewoon door
+        print(f"Rode opmaak overgeslagen: {e}")
     try:
         found = []
         for region in SHEETS:
