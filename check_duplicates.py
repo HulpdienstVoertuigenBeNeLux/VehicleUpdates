@@ -1,8 +1,13 @@
+import csv
+import io
 import json
 import os
 import shutil
 import sys
+import time
 from collections import defaultdict
+
+import requests
 
 REPORTS_DIR = "reports"
 OUTPUT_FILENAME = "check_duplicates_report.txt"
@@ -16,6 +21,13 @@ FILES = {
     "BE": os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_be_raw.json"),
     "LUX": os.path.join(RAW_DIR, "hulpdienstvoertuigenbenelux_lux_raw.json"),
 }
+
+# Discord: alleen NIEUWE dubbelen (secret DISCORD_WEBHOOK_URL_ZITPLAATSEN, in de workflow als DUPLICATES_WEBHOOK
+# doorgegeven zodat check_bezetting.py in de uurlijkse run stil blijft). Wat al gemeld is: landen/<LAND>/dubbelen_gemeld.json
+WEBHOOK = os.getenv("DUPLICATES_WEBHOOK")
+STATE_FILE = os.path.join("landen", "{land}", "dubbelen_gemeld.json")
+MAX_IN_EMBED = 10
+MELD_LANDEN = {"NL"}   # BE/LUX alleen in het rapport (BE heeft veel korte roepnummers per zone)
 
 INVALID_VALUES = {"", "geen", "onbekend", "-"}
 RELEVANT_HULPDIENSTEN = {"brandweer", "ambulance", "rode kruis", "knrm", "reddingsbrigade"}
@@ -85,6 +97,9 @@ def find_duplicates(records: list, field: str, ignored_values: set[str]) -> dict
     return {value: indices for value, indices in seen.items() if len(indices) > 1}
 
 
+FOUND: dict = {}   # land -> {(veld, waarde): [records]} voor de Discord-melding
+
+
 def check_region(region: str, filepath: str, emit, ignored_by_field: dict[str, set[str]]) -> bool:
     emit(header(f"Region: {region}"), console=True)
 
@@ -114,6 +129,8 @@ def check_region(region: str, filepath: str, emit, ignored_by_field: dict[str, s
             continue
 
         found_any = True
+        for value, indices in duplicates.items():
+            FOUND.setdefault(region, {})[(field, value)] = [filtered[i] for i in indices]
         section_line = section(f"Duplicate {field}  --  {len(duplicates)} value(s) affected")
         emit(section_line, console=True)
 
@@ -175,6 +192,67 @@ def main() -> None:
         emit(f"{SEP}\n", console=True)
 
     print(f"Report written to {OUTPUT_FILE}")
+    for region in FILES:
+        if region not in MELD_LANDEN:
+            continue
+        try:
+            notify_new(region, FOUND.get(region, {}))
+        except Exception as e:                       # melding mislukt: rapport is er wel, volgende run opnieuw
+            print(f"Discord-melding dubbelen {region} mislukt: {e}")
+
+
+def _rij(r: dict) -> str:
+    return " · ".join(x for x in (r.get("Adres", "").strip(), r.get("Roepnummer", "").strip(),
+                                  r.get("Kenteken", "").strip(), r.get("TypeVoertuig", "").strip()) if x)
+
+
+def notify_new(region: str, dups: dict) -> None:
+    path = STATE_FILE.format(land=region)
+    first_run = not os.path.exists(path)
+    try:
+        with open(path, encoding="utf-8") as f:
+            gemeld = set(json.load(f))
+    except (OSError, ValueError):
+        gemeld = set()
+    keys = {f"{field}|{value}" for field, value in dups}
+    new = sorted((k for k in dups if f"{k[0]}|{k[1]}" not in gemeld), key=lambda k: (k[0], k[1]))
+    print(f"Dubbelen {region}: {len(dups)} totaal, {len(new)} nieuw")
+    ok = True
+    if new and WEBHOOK:
+        lines = []
+        for field, value in new[:MAX_IN_EMBED]:
+            recs = dups[(field, value)]
+            lines.append(f"**{field} `{value}`** ({len(recs)}x)\n" + "\n".join(f"• {_rij(r)[:110]}" for r in recs[:4]))
+        if len(new) > MAX_IN_EMBED:
+            lines.append(f"… en nog {len(new) - MAX_IN_EMBED} (zie bijlage)")
+        embed = {
+            "title": f"[{region}] Dubbele roepnummers/kentekens: {len(new)} nieuw",
+            "description": ("Eerste controle: alle dubbelen die er nu zijn.\n\n" if first_run else "")
+                           + "\n\n".join(lines)[:3900]
+                           + "\n\nKlopt een dubbele wel? Zet de waarde in `storage/uitzonderingen.json`.",
+            "color": 15105570,
+            "footer": {"text": f"Totaal nu in {region}: {len(dups)} dubbele waarde(n)"},
+        }
+        buf = io.StringIO()
+        w = csv.writer(buf, delimiter=";")
+        w.writerow(["Land", "Veld", "Waarde", "Adres", "Roepnummer", "Kenteken", "TypeVoertuig", "Hulpdienst", "Regio"])
+        for field, value in new:
+            for r in dups[(field, value)]:
+                w.writerow([region, field, value] + [r.get(k, "").strip() for k in
+                                                     ("Adres", "Roepnummer", "Kenteken", "TypeVoertuig", "Hulpdienst", "Regio")])
+        files = {"file": (f"dubbelen_{region}.csv", buf.getvalue().encode("utf-8-sig"), "text/csv")}
+        r = requests.post(WEBHOOK, data={"payload_json": json.dumps({"embeds": [embed]})}, files=files, timeout=30)
+        print(f"Discord dubbelen {region}: HTTP {r.status_code}")
+        ok = r.status_code in (200, 204)
+        time.sleep(2)
+    elif new:
+        print("Geen DUPLICATES_WEBHOOK ingesteld; niets verstuurd.")
+        ok = False
+    # Alleen bewaren wat nu nog dubbel is en gemeld is; mislukte melding: volgende run opnieuw
+    bewaar = keys if ok else (keys & gemeld)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(sorted(bewaar), f, ensure_ascii=False, indent=0)
 
 
 if __name__ == "__main__":
