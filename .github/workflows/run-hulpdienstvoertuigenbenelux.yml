@@ -65,7 +65,10 @@ jobs:
           SPREADSHEET_ID_NL: ${{ secrets.SPREADSHEET_ID_NL }}
           SPREADSHEET_ID_BE: ${{ secrets.SPREADSHEET_ID_BE }}
           SPREADSHEET_ID_LUX: ${{ secrets.SPREADSHEET_ID_LUX }}
-        run: python extra_scripts/check_kolom_o.py
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: |
+          pip install -q cryptography
+          python extra_scripts/check_kolom_o.py
 
       - name: Commit and push changes
         run: |
