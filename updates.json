@@ -1,9 +1,292 @@
 [
   {
     "date": "2026-11-25",
-    "added": [],
-    "removed": [],
-    "changed": []
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Nieuwe Maze HBV toegevoegd aan Rotterdam Port Authority",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "Surveyor 1 HBV toegevoegd aan Rotterdam Port Authority",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "30-133 AMBU-RK toegevoegd aan Medische dienst",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "30-230 AMBU-RK toegevoegd aan Medische dienst",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "30-401 AMBU-RK toegevoegd aan Medische dienst",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "30-402 AMBU-RK toegevoegd aan Medische dienst",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "30-504 LO-RK toegevoegd aan Medische dienst",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "30-505 LO-RK toegevoegd aan Medische dienst",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "30-602 RR-RK toegevoegd aan Medische dienst",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN RBV-WSC toegevoegd aan Strandwacht Hoek van Holland",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "H03 ELV toegevoegd aan Sint-Truiden",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "A459 HZA toegevoegd aan Geluwe",
+        "Time": "25-11-2026 15:05:02"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "",
+        "Description": "10-449 DB-RK verwijderd van Wognum",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "ProRail",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN ICB verwijderd van ProRail ICB Rotterdam",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "A05 HZA verwijderd van Sint-Truiden",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M03 HV verwijderd van Sint-Truiden",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "A429 HZA verwijderd van Geluwe",
+        "Time": "25-11-2026 15:05:02"
+      }
+    ],
+    "changed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5 - Twente (VRT)",
+        "Description": "05-3401: Afkorting van 'DB' naar 'HC' aangepast",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5 - Twente (VRT)",
+        "Description": "05-3401: TypeVoertuig van 'Dienstbus' naar 'Handcrew voertuig' aangepast",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5 - Twente (VRT)",
+        "Description": "05-3401: Bijzonderheden van 'Bezetting: 8 personen.' naar 'T.b.v. handcrew Oost.' aangepast",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "3 - Drenthe (VRD)",
+        "Description": "03-9-30: Kenteken van 'VGV-31-S' naar 'ONBEKEND' aangepast",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "16 - Hollands Midden (VRHM)",
+        "Description": "30-604: Kenteken van '' naar 'T-06-FLV' aangepast",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "",
+        "Description": "17-833: Kenteken van 'XT-LG-37' naar 'ONBEKEND' aangepast",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Reddingsbrigade",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "GEEN: Kenteken van 'GEEN' naar 'ONBEKEND' aangepast",
+        "Time": "25-11-2026 15:04:05"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A55: Kenteken van '' naar '1-VPC-176' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T835: Adres van 'Beerse' naar 'Ravels' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L09: Kenteken van '' naar '1-JSA-611' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M100: Adres van 'Hasselt' naar 'Sint-Truiden' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M100: Afkorting van 'IGS-CMIC' naar 'COC' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M100: TypeVoertuig van 'IGS -CMIC / milieucontainer' naar 'Commando Container' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M194: Adres van 'Hasselt' naar 'Sint-Truiden' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M194: Afkorting van 'DPC' naar 'WTC' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "M194: TypeVoertuig van 'Dompelpomp Conainer' naar 'Watertank container' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "A20: Kenteken van '' naar '1-BYZ-927' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E16: Afkorting van 'LW 30' naar 'LW' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "E16: Bijzonderheden van 'Lengte: 32 meter.' naar 'Lengte: 30 meter.' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L67: Kenteken van '' naar '1-SHR-352' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "468801: Kenteken van '' naar '1-KJJ-275' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "AALST 2: Kenteken van '' naar '2-FJX-794' aangepast",
+        "Time": "25-11-2026 15:05:02"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "'VP-646' omgenummerd naar 'VS645'",
+        "Time": "25-11-2026 15:05:02"
+      }
+    ]
   },
   {
     "date": "2026-11-24",

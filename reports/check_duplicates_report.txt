@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,136  (of 16,105 total)
+  Records checked : 11,141  (of 16,111 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  8 value(s) affected
@@ -126,10 +126,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,779  (of 10,171 total)
+  Records checked : 6,782  (of 10,174 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  544 value(s) affected
+  Duplicate Roepnummer  --  548 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -666,7 +666,7 @@
       Adres       : Lillo
       Hulpdienst  : Brandweer
       Roepnummer  : A115
-      Kenteken    : 
+      Kenteken    : 1-JHF-420
       Adres       : Gistel
       Hulpdienst  : Brandweer
       Roepnummer  : A115
@@ -862,7 +862,7 @@
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A2
-      Kenteken    : 
+      Kenteken    : 1-CYK-728
       Adres       : Duffel
       Hulpdienst  : Brandweer
       Roepnummer  : A2
@@ -1018,11 +1018,15 @@
       Roepnummer  : A28
       Kenteken    : 1-JUJ-233
 
-  >> 'A29'  (2x)
+  >> 'A29'  (3x)
       Adres       : Wilrijk
       Hulpdienst  : Brandweer
       Roepnummer  : A29
       Kenteken    : 
+      Adres       : Sint-Truiden
+      Hulpdienst  : Brandweer
+      Roepnummer  : A29
+      Kenteken    : 1-FYU-923
       Adres       : Warneton
       Hulpdienst  : Brandweer
       Roepnummer  : A29
@@ -1158,7 +1162,7 @@
       Adres       : Lillo
       Hulpdienst  : Brandweer
       Roepnummer  : A35
-      Kenteken    : 
+      Kenteken    : 1-KRS-162
       Adres       : Tournai
       Hulpdienst  : Brandweer
       Roepnummer  : A35
@@ -1282,7 +1286,7 @@
       Adres       : Lillo
       Hulpdienst  : Brandweer
       Roepnummer  : A61
-      Kenteken    : 
+      Kenteken    : 1-JHF-453
       Adres       : Maasmechelen
       Hulpdienst  : Brandweer
       Roepnummer  : A61
@@ -3266,7 +3270,7 @@
       Adres       : Sint-Truiden
       Hulpdienst  : Brandweer
       Roepnummer  : E12
-      Kenteken    : 
+      Kenteken    : 1-JPP-709
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : E12
@@ -3740,7 +3744,7 @@
       Adres       : Sint-Truiden
       Hulpdienst  : Brandweer
       Roepnummer  : L09
-      Kenteken    : 
+      Kenteken    : 1-JSA-611
 
   >> 'L10'  (2x)
       Adres       : Tessenderlo
@@ -3944,7 +3948,7 @@
       Adres       : Sint-Truiden
       Hulpdienst  : Brandweer
       Roepnummer  : L19
-      Kenteken    : 
+      Kenteken    : 1-PYG-434
       Adres       : Overijse
       Hulpdienst  : Brandweer
       Roepnummer  : L19
@@ -4244,6 +4248,16 @@
       Roepnummer  : LW1
       Kenteken    : 2-GED-449
 
+  >> 'M100'  (2x)
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : M100
+      Kenteken    : 
+      Adres       : Sint-Truiden
+      Hulpdienst  : Brandweer
+      Roepnummer  : M100
+      Kenteken    : 
+
   >> 'M101'  (2x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
@@ -4294,11 +4308,15 @@
       Roepnummer  : M109
       Kenteken    : 1-JNP-229
 
-  >> 'M11'  (3x)
+  >> 'M11'  (4x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : M11
       Kenteken    : 1-VEP-636
+      Adres       : Sint-Truiden
+      Hulpdienst  : Brandweer
+      Roepnummer  : M11
+      Kenteken    : 1-JPP-834
       Adres       : Halle
       Hulpdienst  : Brandweer
       Roepnummer  : M11
@@ -4307,6 +4325,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : M11
       Kenteken    : 
+
+  >> 'M118'  (2x)
+      Adres       : Sint-Truiden
+      Hulpdienst  : Brandweer
+      Roepnummer  : M118
+      Kenteken    : 
+      Adres       : Gistel
+      Hulpdienst  : Brandweer
+      Roepnummer  : M118
+      Kenteken    : 1-KAR-518
 
   >> 'M12'  (3x)
       Adres       : Heusden-Zolder
@@ -4332,6 +4360,16 @@
       Roepnummer  : M13
       Kenteken    : 
 
+  >> 'M15'  (2x)
+      Adres       : Sint-Truiden
+      Hulpdienst  : Brandweer
+      Roepnummer  : M15
+      Kenteken    : 
+      Adres       : Londerzeel
+      Hulpdienst  : Brandweer
+      Roepnummer  : M15
+      Kenteken    : 
+
   >> 'M151'  (2x)
       Adres       : Hasselt
       Hulpdienst  : Brandweer
@@ -4350,6 +4388,16 @@
       Adres       : Zaventem
       Hulpdienst  : Brandweer
       Roepnummer  : M19
+      Kenteken    : 
+
+  >> 'M194'  (2x)
+      Adres       : Hasselt
+      Hulpdienst  : Brandweer
+      Roepnummer  : M194
+      Kenteken    : 
+      Adres       : Sint-Truiden
+      Hulpdienst  : Brandweer
+      Roepnummer  : M194
       Kenteken    : 
 
   >> 'M199'  (2x)
@@ -6298,7 +6346,7 @@
       Adres       : Sint-Truiden
       Hulpdienst  : Brandweer
       Roepnummer  : T14
-      Kenteken    : 
+      Kenteken    : 1-WUQ-477
       Adres       : Landen
       Hulpdienst  : Brandweer
       Roepnummer  : T14

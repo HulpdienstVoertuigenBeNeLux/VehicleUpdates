@@ -5013,5 +5013,61 @@
     "emissiecode_omschrijving": "5",
     "nettomaximumvermogen": "308.00",
     "uitlaatemissieniveau": "EURO 5"
+  },
+  {
+    "kenteken": "2TBR07",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "emissiecode_omschrijving": "5",
+    "nettomaximumvermogen": "96.00",
+    "uitlaatemissieniveau": "EURO 5",
+    "actieradius_extern_oplaadbaar": "0",
+    "actieradius": "0"
+  },
+  {
+    "kenteken": "39NSV4",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "9.10",
+    "co2_uitstoot_gecombineerd": "242",
+    "geluidsniveau_stationair": "87",
+    "emissiecode_omschrijving": "4",
+    "milieuklasse_eg_goedkeuring_licht": "70/220*2006/96B",
+    "uitstoot_deeltjes_licht": "0.00250",
+    "nettomaximumvermogen": "110.00",
+    "toerental_geluidsniveau": "2850",
+    "uitlaatemissieniveau": "EURO 4"
+  },
+  {
+    "kenteken": "VJG85B",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "6.00",
+    "co2_uitstoot_gecombineerd": "157",
+    "geluidsniveau_rijdend": "70",
+    "geluidsniveau_stationair": "79",
+    "emissiecode_omschrijving": "6",
+    "milieuklasse_eg_goedkeuring_licht": "715/2007*2018/1832CI",
+    "nettomaximumvermogen": "120.00",
+    "toerental_geluidsniveau": "3300",
+    "emis_deeltjes_type1_wltp": "0.99",
+    "emissie_co2_gecombineerd_wltp": "188",
+    "brandstof_verbruik_gecombineerd_wltp": "7.200",
+    "uitlaatemissieniveau": "EURO 6 CI"
+  },
+  {
+    "kenteken": "XTLG37",
+    "brandstof_volgnummer": "1",
+    "brandstof_omschrijving": "Diesel",
+    "brandstofverbruik_gecombineerd": "10.10",
+    "co2_uitstoot_gecombineerd": "268",
+    "geluidsniveau_rijdend": "75",
+    "geluidsniveau_stationair": "87",
+    "emissiecode_omschrijving": "2",
+    "milieuklasse_eg_goedkeuring_licht": "70/220*1996/69",
+    "uitstoot_deeltjes_licht": "0.14600",
+    "nettomaximumvermogen": "75.00",
+    "toerental_geluidsniveau": "2550",
+    "uitlaatemissieniveau": "EURO 2"
   }
 ]
