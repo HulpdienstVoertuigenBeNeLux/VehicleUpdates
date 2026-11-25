@@ -56,6 +56,17 @@ jobs:
           python validate_regions.py
           python extra_scripts/check_bezetting.py
 
+      # Eigen stap, zodat alleen deze controle de regio-webhook krijgt (validate_regions.py blijft in de uurlijkse run stil)
+      - name: Controle kolom O (DataType)
+        continue-on-error: true
+        env:
+          DISCORD_WEBHOOK_URL_REGIONS: ${{ secrets.DISCORD_WEBHOOK_URL_REGIONS }}
+          GOOGLE_SHEETS_API_KEY: ${{ secrets.GOOGLE_SHEETS_API_KEY }}
+          SPREADSHEET_ID_NL: ${{ secrets.SPREADSHEET_ID_NL }}
+          SPREADSHEET_ID_BE: ${{ secrets.SPREADSHEET_ID_BE }}
+          SPREADSHEET_ID_LUX: ${{ secrets.SPREADSHEET_ID_LUX }}
+        run: python extra_scripts/check_kolom_o.py
+
       - name: Commit and push changes
         run: |
           git add .
