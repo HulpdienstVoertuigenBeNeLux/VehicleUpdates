@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,148  (of 16,120 total)
+  Records checked : 11,149  (of 16,121 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  8 value(s) affected
@@ -126,7 +126,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,831  (of 10,226 total)
+  Records checked : 6,834  (of 10,229 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  553 value(s) affected
@@ -1834,16 +1834,6 @@
       Roepnummer  : B7
       Kenteken    : 
 
-  >> 'B9'  (2x)
-      Adres       : Melsele
-      Hulpdienst  : Brandweer
-      Roepnummer  : B9
-      Kenteken    : 
-      Adres       : Leuze-en-Hainaut
-      Hulpdienst  : Brandweer
-      Roepnummer  : B9
-      Kenteken    : 
-
   >> 'BE1'  (13x)
       Adres       : Ardooie
       Hulpdienst  : Brandweer
@@ -2776,7 +2766,7 @@
       Adres       : Maasmechelen
       Hulpdienst  : Brandweer
       Roepnummer  : C61
-      Kenteken    : 
+      Kenteken    : 1-LBY-596
       Adres       : Maasmechelen
       Hulpdienst  : Brandweer
       Roepnummer  : C61
@@ -2794,7 +2784,11 @@
       Roepnummer  : C61
       Kenteken    : 
 
-  >> 'C62'  (3x)
+  >> 'C62'  (4x)
+      Adres       : Maasmechelen
+      Hulpdienst  : Brandweer
+      Roepnummer  : C62
+      Kenteken    : 1-YSC-481
       Adres       : Aarschot
       Hulpdienst  : Brandweer
       Roepnummer  : C62
@@ -3042,7 +3036,7 @@
       Adres       : Wevelgem
       Hulpdienst  : Brandweer
       Roepnummer  : D106
-      Kenteken    : 
+      Kenteken    : 1-VCF-109
       Adres       : Erezée
       Hulpdienst  : Brandweer
       Roepnummer  : D106
@@ -3696,6 +3690,16 @@
       Roepnummer  : HASSELT 2
       Kenteken    : 
 
+  >> 'I24'  (2x)
+      Adres       : Scherpenheuvel-Zichem
+      Hulpdienst  : Brandweer
+      Roepnummer  : I24
+      Kenteken    : 
+      Adres       : Opwijk
+      Hulpdienst  : Brandweer
+      Roepnummer  : I24
+      Kenteken    : 2-DTX-060
+
   >> 'J11'  (2x)
       Adres       : Tienen
       Hulpdienst  : Brandweer
@@ -4216,7 +4220,11 @@
       Roepnummer  : L61
       Kenteken    : 1-JSC-432
 
-  >> 'L63'  (2x)
+  >> 'L63'  (3x)
+      Adres       : Maasmechelen
+      Hulpdienst  : Brandweer
+      Roepnummer  : L63
+      Kenteken    : 2-FQF-970
       Adres       : Hasselt
       Hulpdienst  : Brandweer
       Roepnummer  : L63
@@ -4726,7 +4734,11 @@
       Roepnummer  : NAMUR 1
       Kenteken    : 
 
-  >> 'P02'  (2x)
+  >> 'P02'  (3x)
+      Adres       : Londerzeel
+      Hulpdienst  : Brandweer
+      Roepnummer  : P02
+      Kenteken    : 1-JRN-194
       Adres       : Florennes
       Hulpdienst  : Brandweer
       Roepnummer  : P02
@@ -4906,11 +4918,7 @@
       Roepnummer  : P19
       Kenteken    : 1-FYN-372
 
-  >> 'P2'  (3x)
-      Adres       : Londerzeel
-      Hulpdienst  : Brandweer
-      Roepnummer  : P2
-      Kenteken    : 
+  >> 'P2'  (2x)
       Adres       : Anderlecht
       Hulpdienst  : Brandweer
       Roepnummer  : P2
@@ -6108,7 +6116,7 @@
       Adres       : Maasmechelen
       Hulpdienst  : Brandweer
       Roepnummer  : S61
-      Kenteken    : 
+      Kenteken    : 1-WVE-457
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : S61
@@ -7884,7 +7892,7 @@
   Region: LUX
 ================================================================================
 
-  Records checked : 0  (of 1,477 total)
+  Records checked : 0  (of 1,478 total)
   Roepnummer     : no duplicates
   Kenteken       : no duplicates
 

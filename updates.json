@@ -386,6 +386,132 @@
         "Regio": "Oost-Vlaanderen Zone - Centrum",
         "Description": "GEEN HZA toegevoegd aan Paulo",
         "Time": "26-11-2026 15:02:35"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Rode Kruis",
+        "Regio": "",
+        "Description": "19-954 RK toegevoegd aan ONBEKEND",
+        "Time": "26-11-2026 16:03:22"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " TW toegevoegd aan Nijlen",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " HV toegevoegd aan Nijlen",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " TW toegevoegd aan Putte",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": " PM toegevoegd aan Oostmalle",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": " DB toegevoegd aan Westmalle",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "PF502 PBC toegevoegd aan Genk",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": "ME-KAR-1 PM toegevoegd aan Melsele",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": " SH toegevoegd aan Philippeville",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - IILE-SRI",
+        "Description": "VC203 CO toegevoegd aan Liège",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - Warche-Amblève-Lienne",
+        "Description": "C503 TW toegevoegd aan Malmedy",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP662 PM toegevoegd aan Lontzen",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "CL672 TW toegevoegd aan Sankt-Vith",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "D671 SH toegevoegd aan Sankt-Vith",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VC612 CO toegevoegd aan Sankt-Vith",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "V673 DA toegevoegd aan Sankt-Vith",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "V117 PM toegevoegd aan Libramont",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "LUX",
+        "Hulpdienst": "Feuerwehr",
+        "Regio": "Central Rescue Zone",
+        "Description": " DB toegevoegd aan Luxembourg",
+        "Time": "26-11-2026 16:04:57"
       }
     ],
     "removed": [
@@ -444,6 +570,20 @@
         "Regio": "Antwerpen Zone - Rand",
         "Description": "22 HZA verwijderd van Ranst",
         "Time": "26-11-2026 15:02:35"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "16 PM verwijderd van Oostmalle",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": "D2 SH verwijderd van Philippeville",
+        "Time": "26-11-2026 16:03:27"
       }
     ],
     "changed": [
@@ -824,6 +964,104 @@
         "Regio": "Oost-Vlaanderen Zone - Centrum",
         "Description": "'419 112' omgenummerd naar '414 112'",
         "Time": "26-11-2026 15:02:35"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Noord",
+        "Description": "S56: Kenteken van '' naar '1-VTY-893' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I24: Adres van 'Scherpenheuvel-Zichem' naar 'Opwijk' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I24: Afkorting van 'DAT' naar 'PM' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I24: TypeVoertuig van 'Diensauto Terreinvaardig' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I24: Kenteken van '' naar '2-DTX-060' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": "D105: Kenteken van '' naar '1-WSF-317' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "LG44: Kenteken van '' naar '1-UXB-686' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "PX674: Kenteken van '' naar '1-DYZ-334' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "P671: Kenteken van '' naar '1-KAT-144' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "MT9: Adres van 'La Louvière' naar 'Mons' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "'MT9' omgenummerd naar 'LG44'",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "MT9: Afkorting van 'DB' naar 'PM' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "MT9: TypeVoertuig van 'Dienstbus' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "'' omgenummerd naar 'VCx24'",
+        "Time": "26-11-2026 16:03:27"
       }
     ]
   },
