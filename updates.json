@@ -1,8 +1,52 @@
 [
   {
     "date": "2026-11-26",
-    "added": [],
-    "removed": [],
+    "added": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "5 - Twente (VRT)",
+        "Description": "GEEN DA toegevoegd aan Enschede Hoofdpost",
+        "Time": "26-11-2026 11:03:58"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "12-1205 DA toegevoegd aan Haarlem West",
+        "Time": "26-11-2026 11:03:58"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "GEEN DB toegevoegd aan Den Bosch",
+        "Time": "26-11-2026 11:03:58"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "GEEN DB toegevoegd aan Cromvoirt",
+        "Time": "26-11-2026 11:03:58"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Kustwacht",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "GEEN KW-Vliegtuig toegevoegd aan Schiphol",
+        "Time": "26-11-2026 11:03:58"
+      }
+    ],
+    "removed": [
+      {
+        "Land": "NL",
+        "Hulpdienst": "Kustwacht",
+        "Regio": "12 - Kennemerland (VRK)",
+        "Description": "GEEN KW-Vliegtuig verwijderd van Schiphol",
+        "Time": "26-11-2026 11:03:58"
+      }
+    ],
     "changed": [
       {
         "Land": "NL",
@@ -10,6 +54,20 @@
         "Regio": "2 - Fryslân (VRF)",
         "Description": "VLI010: Kenteken van 'VV-056-V' naar 'V-76-KZH' aangepast",
         "Time": "26-11-2026 00:03:05"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "1 - Groningen (VRG)",
+        "Description": "01-1000: Kenteken van 'ONBEKEND' naar 'KGP-79-G' aangepast",
+        "Time": "26-11-2026 11:03:58"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "21 - Brabant-Noord (VRBN)",
+        "Description": "21-2081: Kenteken van 'V-59-KVL' naar 'BB-574-V' aangepast",
+        "Time": "26-11-2026 11:03:58"
       }
     ]
   },
