@@ -36,6 +36,118 @@
         "Regio": "12 - Kennemerland (VRK)",
         "Description": "GEEN KW-Vliegtuig toegevoegd aan Schiphol",
         "Time": "26-11-2026 11:03:58"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-9386 LO toegevoegd aan Tiel",
+        "Time": "26-11-2026 12:03:01"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "001 AFO toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "002 CT toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "003 CT toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "004 (DA) CO toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "005 HZA toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "006 HA toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "007 (DB) PM toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "008 DA toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "009 CT toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "010 HA toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": " DA toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "C035 LBC toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "C036 BMC toegevoegd aan Antwerpen",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Luik Zone - Vesdre-Hoëgne & Plateau",
+        "Description": "A405 ZW toegevoegd aan Battice",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Luik Zone - Vesdre-Hoëgne & Plateau",
+        "Description": "A412 ZW toegevoegd aan Battice",
+        "Time": "26-11-2026 12:03:13"
       }
     ],
     "removed": [
@@ -45,6 +157,13 @@
         "Regio": "12 - Kennemerland (VRK)",
         "Description": "GEEN KW-Vliegtuig verwijderd van Schiphol",
         "Time": "26-11-2026 11:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "A412 HZA verwijderd van Nieuwpoort",
+        "Time": "26-11-2026 12:03:13"
       }
     ],
     "changed": [
@@ -68,6 +187,34 @@
         "Regio": "21 - Brabant-Noord (VRBN)",
         "Description": "21-2081: Kenteken van 'V-59-KVL' naar 'BB-574-V' aangepast",
         "Time": "26-11-2026 11:03:58"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "V408: Adres van 'Wervik' naar 'Herve' aangepast",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "V408: Afkorting van 'SIG' naar 'PM' aangepast",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "V408: TypeVoertuig van 'Signalisatievoertuig' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Westhoek",
+        "Description": "V408: Kenteken van '1-NSA-816' naar '1-LUG-786' aangepast",
+        "Time": "26-11-2026 12:03:13"
       }
     ]
   },

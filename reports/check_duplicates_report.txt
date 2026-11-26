@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,146  (of 16,116 total)
+  Records checked : 11,147  (of 16,119 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  8 value(s) affected
@@ -126,10 +126,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,803  (of 10,195 total)
+  Records checked : 6,823  (of 10,215 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  549 value(s) affected
+  Duplicate Roepnummer  --  551 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -1213,6 +1213,16 @@
       Hulpdienst  : Ambulance
       Roepnummer  : A41
       Kenteken    : 1-XVG-719
+
+  >> 'A412'  (2x)
+      Adres       : Nieuwpoort
+      Hulpdienst  : Brandweer
+      Roepnummer  : A412
+      Kenteken    : 1-NPR-920
+      Adres       : Battice
+      Hulpdienst  : Ambulance
+      Roepnummer  : A412
+      Kenteken    : 2-ESC-595
 
   >> 'A42'  (3x)
       Adres       : Antwerpen-Noord
@@ -7277,6 +7287,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : V407
       Kenteken    : 
+
+  >> 'V408'  (2x)
+      Adres       : Wervik
+      Hulpdienst  : Brandweer
+      Roepnummer  : V408
+      Kenteken    : 1-NSA-816
+      Adres       : Herve
+      Hulpdienst  : Brandweer
+      Roepnummer  : V408
+      Kenteken    : 1-LUG-786
 
   >> 'V409'  (2x)
       Adres       : Verviers
