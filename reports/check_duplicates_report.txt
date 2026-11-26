@@ -8,7 +8,7 @@
   Region: NL
 ================================================================================
 
-  Records checked : 11,147  (of 16,119 total)
+  Records checked : 11,148  (of 16,120 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  8 value(s) affected
@@ -126,7 +126,7 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,823  (of 10,215 total)
+  Records checked : 6,823  (of 10,216 total)
 
 --------------------------------------------------------------------------------
   Duplicate Roepnummer  --  551 value(s) affected
@@ -1152,7 +1152,7 @@
       Adres       : Linkeroever
       Hulpdienst  : Brandweer
       Roepnummer  : A34
-      Kenteken    : 
+      Kenteken    : 2-DVL-837
       Adres       : Ath
       Hulpdienst  : Brandweer
       Roepnummer  : A34
@@ -1256,7 +1256,7 @@
       Adres       : Antwerpen-Zuid
       Hulpdienst  : Brandweer
       Roepnummer  : A46
-      Kenteken    : 
+      Kenteken    : 2-JSK-863
       Adres       : Brussel
       Hulpdienst  : Ambulance
       Roepnummer  : A46
@@ -4206,7 +4206,7 @@
       Roepnummer  : L52
       Kenteken    : 
 
-  >> 'L61'  (2x)
+  >> 'L61'  (3x)
       Adres       : Maasmechelen
       Hulpdienst  : Brandweer
       Roepnummer  : L61
@@ -4215,6 +4215,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : L61
       Kenteken    : 1-JSC-432
+      Adres       : Lokeren
+      Hulpdienst  : Brandweer
+      Roepnummer  : L61
+      Kenteken    : 1-KEH-643
 
   >> 'L63'  (2x)
       Adres       : Hasselt
@@ -7499,8 +7503,18 @@
       Kenteken    : 2-DAW-513
 
 --------------------------------------------------------------------------------
-  Duplicate Kenteken  --  1 value(s) affected
+  Duplicate Kenteken  --  2 value(s) affected
 --------------------------------------------------------------------------------
+
+  >> '1-KEH-643'  (2x)
+      Adres       : Lokeren
+      Hulpdienst  : Brandweer
+      Roepnummer  : L61
+      Kenteken    : 1-KEH-643
+      Adres       : Moerbeke
+      Hulpdienst  : Brandweer
+      Roepnummer  : 
+      Kenteken    : 1-KEH-643
 
   >> 'RIB'  (91x)
       Adres       : R1 Leopold

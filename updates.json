@@ -148,6 +148,55 @@
         "Regio": "Luik Zone - Vesdre-Hoëgne & Plateau",
         "Description": "A412 ZW toegevoegd aan Battice",
         "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "28 - Defensie",
+        "Description": "GEEN DB-DF toegevoegd aan ASK 't Harde",
+        "Time": "26-11-2026 13:03:35"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "SI-1H HZA toegevoegd aan Schilde",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": " PM toegevoegd aan Moerbeke",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Fluvia",
+        "Description": " PM toegevoegd aan Kortrijk",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": " CO toegevoegd aan Beauraing",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": "DA19 ZW toegevoegd aan Beauraing",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Academies",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "GEEN LO toegevoegd aan Paulo",
+        "Time": "26-11-2026 13:03:40"
       }
     ],
     "removed": [
@@ -164,6 +213,27 @@
         "Regio": "West-Vlaanderen Zone - Westhoek",
         "Description": "A412 HZA verwijderd van Nieuwpoort",
         "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": " HZA verwijderd van Schilde",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": " CO verwijderd van Beauraing",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": "BEAURAING 1 ZW verwijderd van Beauraing",
+        "Time": "26-11-2026 13:03:40"
       }
     ],
     "changed": [
@@ -215,6 +285,62 @@
         "Regio": "West-Vlaanderen Zone - Westhoek",
         "Description": "V408: Kenteken van '1-NSA-816' naar '1-LUG-786' aangepast",
         "Time": "26-11-2026 12:03:13"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L61: Adres van 'Heusden-Zolder' naar 'Lokeren' aangepast",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L61: Afkorting van 'HA' naar 'PM' aangepast",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L61: TypeVoertuig van 'Haakarmvoertuig' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Zuid-West",
+        "Description": "L61: Kenteken van '1-JSC-432' naar '1-KEH-643' aangepast",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": ": Afkorting van 'PM' naar 'HZA' aangepast",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": ": TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Halfzware Autopomp' aangepast",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": "P82: Kenteken van '' naar '1-GYA-362' aangepast",
+        "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": "T81: Kenteken van '' naar '1-JNP-683' aangepast",
+        "Time": "26-11-2026 13:03:40"
       }
     ]
   },
