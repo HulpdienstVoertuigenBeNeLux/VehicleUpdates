@@ -512,6 +512,97 @@
         "Regio": "Central Rescue Zone",
         "Description": " DB toegevoegd aan Luxembourg",
         "Time": "26-11-2026 16:04:57"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " ZA toegevoegd aan Puurs",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " DB toegevoegd aan Puurs",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": " HZA toegevoegd aan Lint",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": " PM toegevoegd aan Schoten",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "S69 DB toegevoegd aan Maasmechelen",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - West",
+        "Description": "I72 PM toegevoegd aan Halle",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "419 285 CO toegevoegd aan Lochristi",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "419 810 DB toegevoegd aan Lochristi",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "414 660 PM toegevoegd aan Melle",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "419 283 CO toegevoegd aan Melle",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Hainaut-Centre",
+        "Description": "AP16 HZA toegevoegd aan La Louvière",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "D122 PM toegevoegd aan Libramont",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "L810 DAT toegevoegd aan Neufchâteau",
+        "Time": "26-11-2026 17:02:49"
       }
     ],
     "removed": [
@@ -584,6 +675,13 @@
         "Regio": "Namen Zone - Dinaphi",
         "Description": "D2 SH verwijderd van Philippeville",
         "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "V810 DAT verwijderd van Neufchâteau",
+        "Time": "26-11-2026 17:02:49"
       }
     ],
     "changed": [
@@ -1062,6 +1160,139 @@
         "Regio": "Henegouwen Zone - Hainaut-Centre",
         "Description": "'' omgenummerd naar 'VCx24'",
         "Time": "26-11-2026 16:03:27"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": "A1: Adres van 'Duffel' naar 'Mechelen' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": "A1: Kenteken van '1-JKU-794' naar '1-JLA-603' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Nage",
+        "Description": "C11: Kenteken van '' naar '1-NXC-428' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "S62: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Dienstbus' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "468002: Kenteken van '' naar '1-SJT-733' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "L117: Adres van 'Blankenberge' naar 'Libramont' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "L117: Afkorting van 'CO' naar 'PM' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "L117: TypeVoertuig van 'Commandovoertuig' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "L117: Kenteken van '' naar '1-KNZ-129' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "L110: Adres van 'Brugge' naar 'Neufchâteau' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "L110: Afkorting van 'HA-KR' naar 'PM' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "L110: TypeVoertuig van 'Haakarmvoertuig (Met kraan)' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": "L110: Kenteken van '1-JNP-054' naar '1-YNX-912' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "West-Vlaanderen Zone - Midwest",
+        "Description": "HA1: Kenteken van '1-TJA-698' naar '1-JTA-698' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "P210: Kenteken van '' naar '1-KGE-626' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "S620: Adres van 'Arlon' naar 'Libramont' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "S620: TypeVoertuig van 'RISC / GRIMP ( Hoogte Redteam )' naar 'RISC / GRIMP ( Hoogteredding )' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "S620: Kenteken van '' naar '1-UVS-811' aangepast",
+        "Time": "26-11-2026 17:02:49"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luxemburg Zone - Luxemburg",
+        "Description": "C310: Kenteken van '' naar '1-RHL-415' aangepast",
+        "Time": "26-11-2026 17:02:49"
       }
     ]
   },

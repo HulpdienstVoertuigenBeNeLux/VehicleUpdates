@@ -126,10 +126,10 @@
   Region: BE
 ================================================================================
 
-  Records checked : 6,834  (of 10,229 total)
+  Records checked : 6,845  (of 10,240 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  553 value(s) affected
+  Duplicate Roepnummer  --  558 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -462,7 +462,7 @@
       Roepnummer  : A02
       Kenteken    : 1-CYB-037
 
-  >> 'A1'  (2x)
+  >> 'A1'  (3x)
       Adres       : Antwerpen-Noord
       Hulpdienst  : Brandweer
       Roepnummer  : A1
@@ -471,6 +471,10 @@
       Hulpdienst  : Brandweer
       Roepnummer  : A1
       Kenteken    : 1-JKU-794
+      Adres       : Mechelen
+      Hulpdienst  : Brandweer
+      Roepnummer  : A1
+      Kenteken    : 1-JLA-603
 
   >> 'A101'  (4x)
       Adres       : Antwerpen-Noord
@@ -1532,7 +1536,7 @@
       Adres       : Roeselare
       Hulpdienst  : Brandweer
       Roepnummer  : AP2
-      Kenteken    : 1-JTA-625
+      Kenteken    : 
       Adres       : Ruiselede
       Hulpdienst  : Brandweer
       Roepnummer  : AP2
@@ -1554,7 +1558,7 @@
       Adres       : Roeselare
       Hulpdienst  : Brandweer
       Roepnummer  : AP3
-      Kenteken    : 
+      Kenteken    : 1-JTA-625
       Adres       : Philippeville
       Hulpdienst  : Brandweer
       Roepnummer  : AP3
@@ -1982,11 +1986,15 @@
       Roepnummer  : C02
       Kenteken    : 2-FUA-231
 
-  >> 'C03'  (2x)
+  >> 'C03'  (3x)
       Adres       : Tongeren
       Hulpdienst  : Brandweer
       Roepnummer  : C03
       Kenteken    : 
+      Adres       : Londerzeel
+      Hulpdienst  : Brandweer
+      Roepnummer  : C03
+      Kenteken    : 1-KCV-214
       Adres       : Florennes
       Hulpdienst  : Brandweer
       Roepnummer  : C03
@@ -2056,12 +2064,8 @@
       Roepnummer  : C1
       Kenteken    : 
 
-  >> 'C10'  (3x)
+  >> 'C10'  (2x)
       Adres       : Tessenderlo
-      Hulpdienst  : Brandweer
-      Roepnummer  : C10
-      Kenteken    : 
-      Adres       : Londerzeel
       Hulpdienst  : Brandweer
       Roepnummer  : C10
       Kenteken    : 
@@ -2154,7 +2158,7 @@
       Adres       : Namur
       Hulpdienst  : Brandweer
       Roepnummer  : C11
-      Kenteken    : 
+      Kenteken    : 1-NXC-428
 
   >> 'C12'  (9x)
       Adres       : Geel
@@ -3668,7 +3672,7 @@
       Adres       : Roeselare
       Hulpdienst  : Brandweer
       Roepnummer  : HA1
-      Kenteken    : 1-TJA-698
+      Kenteken    : 1-JTA-698
 
   >> 'HA2'  (2x)
       Adres       : Roeselare
@@ -3832,6 +3836,16 @@
       Roepnummer  : L11
       Kenteken    : 1-JNN-800
 
+  >> 'L110'  (2x)
+      Adres       : Brugge
+      Hulpdienst  : Brandweer
+      Roepnummer  : L110
+      Kenteken    : 1-JNP-054
+      Adres       : Neufchâteau
+      Hulpdienst  : Brandweer
+      Roepnummer  : L110
+      Kenteken    : 1-YNX-912
+
   >> 'L112'  (2x)
       Adres       : Torhout
       Hulpdienst  : Brandweer
@@ -3875,6 +3889,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : L116
       Kenteken    : 
+
+  >> 'L117'  (2x)
+      Adres       : Blankenberge
+      Hulpdienst  : Brandweer
+      Roepnummer  : L117
+      Kenteken    : 
+      Adres       : Libramont
+      Hulpdienst  : Brandweer
+      Roepnummer  : L117
+      Kenteken    : 1-KNZ-129
 
   >> 'L12'  (3x)
       Adres       : Genk
@@ -4275,6 +4299,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : LW1
       Kenteken    : 2-GED-449
+
+  >> 'M1'  (2x)
+      Adres       : Mechelen
+      Hulpdienst  : Brandweer
+      Roepnummer  : M1
+      Kenteken    : 1-LRA-407
+      Adres       : Zaventem
+      Hulpdienst  : Brandweer
+      Roepnummer  : M1
+      Kenteken    : 
 
   >> 'M100'  (2x)
       Adres       : Hasselt
@@ -5018,6 +5052,16 @@
       Adres       : Neufchâteau
       Hulpdienst  : Brandweer
       Roepnummer  : P210
+      Kenteken    : 1-KGE-626
+
+  >> 'P214'  (2x)
+      Adres       : Libramont
+      Hulpdienst  : Brandweer
+      Roepnummer  : P214
+      Kenteken    : 1-KGF-258
+      Adres       : Virton
+      Hulpdienst  : Brandweer
+      Roepnummer  : P214
       Kenteken    : 
 
   >> 'P22'  (4x)
@@ -5136,11 +5180,15 @@
       Roepnummer  : P31
       Kenteken    : 1-NXC-089
 
-  >> 'P32'  (4x)
+  >> 'P32'  (5x)
       Adres       : Overijse
       Hulpdienst  : Brandweer
       Roepnummer  : P32
       Kenteken    : 
+      Adres       : Londerzeel
+      Hulpdienst  : Brandweer
+      Roepnummer  : P32
+      Kenteken    : 2-JEG-703
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : P32
@@ -6125,6 +6173,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : S61
       Kenteken    : 
+
+  >> 'S620'  (2x)
+      Adres       : Arlon
+      Hulpdienst  : Brandweer
+      Roepnummer  : S620
+      Kenteken    : 
+      Adres       : Libramont
+      Hulpdienst  : Brandweer
+      Roepnummer  : S620
+      Kenteken    : 1-UVS-811
 
   >> 'S63'  (2x)
       Adres       : Maasmechelen
