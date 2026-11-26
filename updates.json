@@ -197,6 +197,111 @@
         "Regio": "Oost-Vlaanderen Zone - Centrum",
         "Description": "GEEN LO toegevoegd aan Paulo",
         "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " HZA toegevoegd aan Nijlen",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rivierenland",
+        "Description": " PM toegevoegd aan Nijlen",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Rand",
+        "Description": "OO-1H HZA toegevoegd aan Oostmalle",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "418 032 SVC toegevoegd aan Zelzate",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "418 033 GPC toegevoegd aan Zelzate",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "419 006 DPC toegevoegd aan Zelzate",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": " PM toegevoegd aan Lebbeke",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": " PM toegevoegd aan Lokeren",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": "P71 HZA toegevoegd aan Moerbeke",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Waasland",
+        "Description": " DB toegevoegd aan Melsele",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460008 PM toegevoegd aan Moorsel",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": " DA toegevoegd aan Philippeville",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Namen Zone - Dinaphi",
+        "Description": " DA toegevoegd aan Philippeville",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Luik Zone - DG",
+        "Description": "VP672 PM toegevoegd aan Sankt-Vith",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": " MUG toegevoegd aan Brugge",
+        "Time": "26-11-2026 14:02:31"
       }
     ],
     "removed": [
@@ -234,6 +339,20 @@
         "Regio": "Namen Zone - Dinaphi",
         "Description": "BEAURAING 1 ZW verwijderd van Beauraing",
         "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": " HZA verwijderd van Moerbeke",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "West-Vlaanderen Zone - 1",
+        "Description": " MUG verwijderd van Brugge",
+        "Time": "26-11-2026 14:02:31"
       }
     ],
     "changed": [
@@ -341,6 +460,132 @@
         "Regio": "Oost-Vlaanderen Zone - Oost",
         "Description": "T81: Kenteken van '' naar '1-JNP-683' aangepast",
         "Time": "26-11-2026 13:03:40"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A85: Afkorting van 'DB' naar 'DA' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A85: TypeVoertuig van 'Dienstbus Personeel / Materiaal' naar 'Dienstauto' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Antwerpen",
+        "Description": "A85: Kenteken van '' naar '2-DPG-626' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Antwerpen Zone - Taxandria",
+        "Description": "T814: Kenteken van '' naar '2-JAY-655' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": "L61: Adres van 'Lokeren' naar 'Heusden-Zolder' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": "L61: Afkorting van 'PM' naar 'HA' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": "L61: TypeVoertuig van 'Personeel / Materiaal Voertuig' naar 'Haakarmvoertuig' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": "L61: Kenteken van '1-KEH-643' naar '1-JSC-432' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "L71: Adres van 'Voeren' naar 'Moerbeke' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "L71: Afkorting van 'DAT' naar 'PM' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "L71: TypeVoertuig van 'Diensauto Terreinvaardig' naar 'Personeel / Materiaal Voertuig' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Limburg Zone - Oost",
+        "Description": "L71: Kenteken van '' naar '1-KEH-643' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Vlaams-Brabant Zone - Oost",
+        "Description": "I55: Kenteken van '' naar '2-DEQ-483' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Zuid Oost-Vlaanderen",
+        "Description": "460001: Kenteken van '' naar '1-WXX-079' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Henegouwen Zone - Wallonie Picarde",
+        "Description": "VL11: Kenteken van '1-SPF-449' naar '1-KJR-489' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Centrum",
+        "Description": "201000: Kenteken van '' naar '1-XVN-866' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Ambulance",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": "LOKEREN 1: Kenteken van '' naar '1-YBC-276' aangepast",
+        "Time": "26-11-2026 14:02:31"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen Zone - Oost",
+        "Description": "'' omgenummerd naar 'L71'",
+        "Time": "26-11-2026 14:02:31"
       }
     ]
   },
