@@ -129,7 +129,7 @@
   Records checked : 6,845  (of 10,240 total)
 
 --------------------------------------------------------------------------------
-  Duplicate Roepnummer  --  558 value(s) affected
+  Duplicate Roepnummer  --  559 value(s) affected
 --------------------------------------------------------------------------------
 
   >> '1'  (2x)
@@ -928,7 +928,7 @@
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : A22
-      Kenteken    : 1-JHJ-801
+      Kenteken    : 1-JUU-687
       Adres       : Bilzen-Hoeselt
       Hulpdienst  : Brandweer
       Roepnummer  : A22
@@ -2396,7 +2396,7 @@
       Adres       : Leopoldsburg
       Hulpdienst  : Brandweer
       Roepnummer  : C22
-      Kenteken    : 
+      Kenteken    : 2-HDL-987
       Adres       : Héliport
       Hulpdienst  : Brandweer
       Roepnummer  : C22
@@ -5940,11 +5940,7 @@
       Roepnummer  : S23
       Kenteken    : 1-LES-263
 
-  >> 'S3'  (4x)
-      Adres       : Leopoldsburg
-      Hulpdienst  : Brandweer
-      Roepnummer  : S3
-      Kenteken    : 
+  >> 'S3'  (3x)
       Adres       : Vilvoorde
       Hulpdienst  : Brandweer
       Roepnummer  : S3
@@ -6354,11 +6350,7 @@
       Roepnummer  : T10
       Kenteken    : 
 
-  >> 'T11'  (10x)
-      Adres       : Bree
-      Hulpdienst  : Brandweer
-      Roepnummer  : T11
-      Kenteken    : 1-JUU-722
+  >> 'T11'  (9x)
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : T11
@@ -6396,7 +6388,11 @@
       Roepnummer  : T11
       Kenteken    : 
 
-  >> 'T12'  (6x)
+  >> 'T12'  (7x)
+      Adres       : Bree
+      Hulpdienst  : Brandweer
+      Roepnummer  : T12
+      Kenteken    : 1-JUU-722
       Adres       : Bree
       Hulpdienst  : Brandweer
       Roepnummer  : T12
@@ -7261,6 +7257,16 @@
       Hulpdienst  : Brandweer
       Roepnummer  : V19
       Kenteken    : 
+
+  >> 'V21'  (2x)
+      Adres       : Leopoldsburg
+      Hulpdienst  : Brandweer
+      Roepnummer  : V21
+      Kenteken    : 2-FAS-035
+      Adres       : Héliport
+      Hulpdienst  : Brandweer
+      Roepnummer  : V21
+      Kenteken    : RNA-190
 
   >> 'V25'  (2x)
       Adres       : Héliport
