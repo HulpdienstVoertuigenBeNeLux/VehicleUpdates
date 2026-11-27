@@ -127,16 +127,31 @@ def notify_push_summary(pushed: int, failures: list[tuple[str, str]], prefix: st
 # GENERIEKE API FETCH & DATA LOADERS
 # ==========================================
 
+# De site stopt na 5 minuten zonder verzoeken en start bij het volgende verzoek opnieuw op.
+# Tijdens dat opstarten komt er soms een lege/HTML-pagina terug; daarom met wachttijd opnieuw proberen.
+FETCH_WAITS_SECONDS = (0, 20, 45, 90)
+
+
 def fetch_vehicles() -> list:
     last_error: Exception | None = None
-    for attempt in range(1, 3):
+    attempts = len(FETCH_WAITS_SECONDS)
+    for attempt, wait in enumerate(FETCH_WAITS_SECONDS, start=1):
+        if wait:
+            time.sleep(wait)
         try:
             response = requests.get(API_URL_VEHICLES, timeout=REQUEST_TIMEOUT_SECONDS)
             response.raise_for_status()
-            return response.json()
-        except (requests.RequestException, requests.exceptions.JSONDecodeError) as exc:
+            try:
+                return response.json()
+            except ValueError as exc:
+                start = response.text[:120].replace("\n", " ")
+                raise ValueError(
+                    f"geen JSON (HTTP {response.status_code}, {response.headers.get('Content-Type', '?')}, "
+                    f"{len(response.content)} bytes, begin: {start!r})"
+                ) from exc
+        except (requests.RequestException, ValueError) as exc:
             last_error = exc
-            print(f"Ophalen mislukt (poging {attempt}/2): {exc}")
+            print(f"Ophalen mislukt (poging {attempt}/{attempts}): {exc}")
 
     raise RuntimeError(f"Ophalen van {API_URL_VEHICLES} definitief mislukt: {last_error}") from last_error
 
