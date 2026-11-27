@@ -1,3 +1,4 @@
+import hashlib
 import json
 import os
 import time
@@ -14,6 +15,9 @@ AIRCRAFT_DATA_FILE = os.path.join(PROJECT_ROOT, "storage", "aircraft_data.json")
 
 # API Endpoint (beide maken gebruik van hetzelfde endpoint)
 API_URL_VEHICLES = "https://hulpdienstvoertuigenbenelux.nl/api/rdw/vehicles"
+API_URL_BULK = API_URL_VEHICLES + "/bulk"
+API_URL_LOOKUP = API_URL_VEHICLES + "/lookup"
+BATCH_SIZE = 200  # records per bulk-/lookup-verzoek (site staat max 500 toe)
 
 REQUEST_TIMEOUT_SECONDS = 30
 RED_COLOR = 15158332
@@ -132,14 +136,14 @@ def notify_push_summary(pushed: int, failures: list[tuple[str, str]], prefix: st
 FETCH_WAITS_SECONDS = (0, 20, 45, 90)
 
 
-def fetch_vehicles() -> list:
+def _get_json(url: str, **kwargs) -> Any:
     last_error: Exception | None = None
     attempts = len(FETCH_WAITS_SECONDS)
     for attempt, wait in enumerate(FETCH_WAITS_SECONDS, start=1):
         if wait:
             time.sleep(wait)
         try:
-            response = requests.get(API_URL_VEHICLES, timeout=REQUEST_TIMEOUT_SECONDS)
+            response = requests.get(url, timeout=REQUEST_TIMEOUT_SECONDS, **kwargs)
             response.raise_for_status()
             try:
                 return response.json()
@@ -153,7 +157,83 @@ def fetch_vehicles() -> list:
             last_error = exc
             print(f"Ophalen mislukt (poging {attempt}/{attempts}): {exc}")
 
-    raise RuntimeError(f"Ophalen van {API_URL_VEHICLES} definitief mislukt: {last_error}") from last_error
+    raise RuntimeError(f"Ophalen van {url} definitief mislukt: {last_error}") from last_error
+
+
+def _js_string(value: Any) -> str | None:
+    """Zoals de site een waarde opslaat (String() in JavaScript)."""
+    if value is None:
+        return None
+    if isinstance(value, bool):
+        return "true" if value else "false"
+    if isinstance(value, float) and value.is_integer():
+        return str(int(value))
+    if isinstance(value, (str, int, float)):
+        return str(value)
+    return json.dumps(value, ensure_ascii=False)
+
+
+def rdw_hash(record: dict[str, Any]) -> str:
+    """Controlegetal per record; moet gelijk blijven aan rdwHash() in WebsiteData/routes/rdw.js."""
+    parts = []
+    for key in sorted(record):
+        if key in ("kenteken", "updated_at"):
+            continue
+        value = _js_string(record[key])
+        if value is None:
+            continue
+        value = value.strip()
+        if value in ("", "0") or value.lower() == "null":
+            continue
+        parts.append(f"{key}\x01{value}")
+    return hashlib.md5("\x02".join(parts).encode("utf-8")).hexdigest()
+
+
+class SiteData:
+    """Stand van de site, één keer per run opgehaald en gedeeld door de RDW- en Aircraft-sync.
+
+    Nieuwe site: alleen kenteken -> controlegetal, en volledige records alleen voor wat afwijkt.
+    Oude site (zonder ?format=hash): de volledige lijst, zoals voorheen.
+    """
+
+    def __init__(self) -> None:
+        data = _get_json(API_URL_VEHICLES, params={"format": "hash"})
+        self.records: dict[str, dict[str, Any]] = {}
+        self.hashes: dict[str, str] = {}
+        self._raw_kenteken: dict[str, str] = {}
+        if isinstance(data, dict) and isinstance(data.get("hashes"), dict):
+            self.mode = "hash"
+            for kenteken, value in data["hashes"].items():
+                norm = _normalize_kenteken(kenteken)
+                if norm:
+                    self.hashes[norm] = value
+                    self._raw_kenteken[norm] = kenteken
+        elif isinstance(data, list):
+            self.mode = "volledig"
+            self.records = _kentekens_by_record(data)
+        else:
+            raise RuntimeError(f"Onverwacht antwoord van {API_URL_VEHICLES}: {type(data).__name__}")
+
+    @property
+    def kentekens(self) -> set[str]:
+        return set(self.hashes) if self.mode == "hash" else set(self.records)
+
+    def __len__(self) -> int:
+        return len(self.kentekens)
+
+    def records_for(self, kentekens: set[str], file_by_kenteken: dict[str, dict[str, Any]]) -> dict[str, dict[str, Any]]:
+        """Volledige site-records voor de kentekens die (mogelijk) afwijken van het bestand."""
+        if self.mode == "volledig":
+            return {k: self.records[k] for k in kentekens}
+        afwijkend = [k for k in kentekens if self.hashes.get(k) != rdw_hash(file_by_kenteken[k])]
+        result: dict[str, dict[str, Any]] = {}
+        for i in range(0, len(afwijkend), BATCH_SIZE):
+            batch = [self._raw_kenteken[k] for k in afwijkend[i:i + BATCH_SIZE]]
+            response = requests.post(API_URL_LOOKUP, json={"kentekens": batch}, timeout=REQUEST_TIMEOUT_SECONDS)
+            response.raise_for_status()
+            result.update(_kentekens_by_record(response.json()))
+        print(f"Controlegetal wijkt af bij {len(afwijkend)} van {len(kentekens)}; die records volledig opgehaald")
+        return result
 
 
 def load_full_combined() -> list:
@@ -170,40 +250,67 @@ def load_aircraft_data() -> list:
 # RDW VOERTUIGEN LOGICA
 # ==========================================
 
-def push_vehicle(record: dict[str, Any]) -> None:
-    api_key = os.getenv("HVNBL_RDW_API_KEY", "")
-    headers = {"X-RDW-API-Key": api_key}
-    response = requests.post(API_URL_VEHICLES, headers=headers, json=record, timeout=REQUEST_TIMEOUT_SECONDS)
+def _post_record(payload: dict[str, Any]) -> None:
+    headers = {"X-RDW-API-Key": os.getenv("HVNBL_RDW_API_KEY", "")}
+    response = requests.post(API_URL_VEHICLES, headers=headers, json=payload, timeout=REQUEST_TIMEOUT_SECONDS)
+    if not response.ok:
+        print(f"Server respons ({response.status_code}) voor {payload.get('kenteken')}: {response.text[:300]}")
     response.raise_for_status()
 
 
-def compare_vehicles_with_api() -> None:
-    try:
-        vehicles = fetch_vehicles()
-    except RuntimeError as exc:
-        print(str(exc))
-        notify_fetch_failure(str(exc), prefix="RDW Voertuigen", target_url=API_URL_VEHICLES)
-        return
+_bulk_supported = True
 
-    print(f"Opgehaald: {len(vehicles)} voertuigen van {API_URL_VEHICLES}")
-    if not vehicles:
-        message = f"Lege lijst ontvangen van {API_URL_VEHICLES}, sync overgeslagen (niets gepusht)."
-        print(message)
-        notify_fetch_failure(message, prefix="RDW Voertuigen", target_url=API_URL_VEHICLES)
-        return
 
-    api_by_kenteken = _kentekens_by_record(vehicles)
+def push_records(payloads: list[dict[str, Any]]) -> tuple[int, list[tuple[str, str]]]:
+    """Stuurt records in batches naar de site; valt terug op één verzoek per record als /bulk ontbreekt."""
+    global _bulk_supported
+    headers = {"X-RDW-API-Key": os.getenv("HVNBL_RDW_API_KEY", "")}
+    pushed = 0
+    failures: list[tuple[str, str]] = []
+    rest = list(payloads)
+    while rest and _bulk_supported:
+        batch, rest = rest[:BATCH_SIZE], rest[BATCH_SIZE:]
+        try:
+            response = requests.post(API_URL_BULK, headers=headers, json=batch, timeout=REQUEST_TIMEOUT_SECONDS * 4)
+            if response.status_code in (404, 405):
+                print("Site heeft nog geen /bulk; terugval op los pushen")
+                _bulk_supported = False
+                rest = batch + rest
+                break
+            response.raise_for_status()
+            body = response.json()
+            for item in body.get("results", []):
+                print(f"Gepusht naar API: {item.get('kenteken')}")
+            pushed += int(body.get("saved", 0))
+            failures += [(str(e.get("kenteken")), str(e.get("error"))) for e in body.get("errors", [])]
+        except (requests.RequestException, ValueError) as exc:
+            print(f"Bulk-push mislukt ({len(batch)} records): {exc}")
+            failures += [(str(p.get("kenteken")), str(exc)) for p in batch]
+    for payload in rest:
+        try:
+            _post_record(payload)
+            print(f"Gepusht naar API: {payload.get('kenteken')}")
+            pushed += 1
+        except requests.RequestException as exc:
+            print(f"Push mislukt voor {payload.get('kenteken')}: {exc}")
+            failures.append((str(payload.get("kenteken")), str(exc)))
+    return pushed, failures
+
+
+def compare_vehicles_with_api(site: SiteData) -> None:
     combined_by_kenteken = _kentekens_by_record(load_full_combined())
+    site_kentekens = site.kentekens
 
-    shared = set(api_by_kenteken) & set(combined_by_kenteken)
-    only_in_combined = set(combined_by_kenteken) - set(api_by_kenteken)
-    only_in_api = set(api_by_kenteken) - set(combined_by_kenteken)
+    shared = site_kentekens & set(combined_by_kenteken)
+    only_in_combined = set(combined_by_kenteken) - site_kentekens
+    only_in_api = site_kentekens - set(combined_by_kenteken)
 
-    same = 0
+    # Alleen records waarvan het controlegetal afwijkt worden volledig vergeleken
+    api_by_kenteken = site.records_for(shared, combined_by_kenteken)
+
     different_kentekens: set[str] = set()
     diffs_by_kenteken: dict[str, set[str]] = {}
-    for kenteken in shared:
-        api_record = api_by_kenteken[kenteken]
+    for kenteken, api_record in api_by_kenteken.items():
         combined_record = combined_by_kenteken[kenteken]
         changed_keys = {
             key for key in set(api_record) | set(combined_record)
@@ -212,8 +319,7 @@ def compare_vehicles_with_api() -> None:
         if changed_keys:
             different_kentekens.add(kenteken)
             diffs_by_kenteken[kenteken] = changed_keys
-        else:
-            same += 1
+    same = len(shared) - len(different_kentekens)
 
     print("\n--- RDW VOERTUIGEN SUMMARY ---")
     print(f"Zelfde in beide: {same}")
@@ -232,18 +338,8 @@ def compare_vehicles_with_api() -> None:
             combined_display = json.dumps("null" if combined_value is None else combined_value, ensure_ascii=False)
             print(f"  {key}: API={api_display} FullCombined={combined_display}")
 
-    pushed = 0
-    failures: list[tuple[str, str]] = []
-    for kenteken in only_in_combined | different_kentekens:
-        record = combined_by_kenteken[kenteken]
-        try:
-            push_vehicle(record)
-            print(f"Gepusht naar API: {record.get('kenteken')}")
-            pushed += 1
-        except requests.RequestException as exc:
-            print(f"Push mislukt voor {record.get('kenteken')}: {exc}")
-            failures.append((str(record.get("kenteken")), str(exc)))
-
+    payloads = [combined_by_kenteken[k] for k in sorted(only_in_combined | different_kentekens)]
+    pushed, failures = push_records(payloads)
     if pushed + len(failures) > 0:
         notify_push_summary(pushed, failures, prefix="RDW Voertuigen", target_url=API_URL_VEHICLES)
 
@@ -251,28 +347,6 @@ def compare_vehicles_with_api() -> None:
 # ==========================================
 # LUCHTVAARTUIGEN (AIRCRAFT) LOGICA
 # ==========================================
-
-def push_aircraft(record: dict[str, Any]) -> None:
-    api_key = os.getenv("HVNBL_RDW_API_KEY", "")
-    headers = {"X-RDW-API-Key": api_key}
-
-    payload = {}
-    for key, val in record.items():
-        clean_val = val.strip() if isinstance(val, str) else val
-        mapped_key = AIRCRAFT_FIELD_MAP.get(key, key)
-        payload[mapped_key] = clean_val
-
-    if "kenteken" not in payload or not payload["kenteken"]:
-        reg_val = record.get("registration") or record.get("kenteken")
-        payload["kenteken"] = reg_val.strip() if isinstance(reg_val, str) else reg_val
-
-    response = requests.post(API_URL_VEHICLES, headers=headers, json=payload, timeout=REQUEST_TIMEOUT_SECONDS)
-    
-    if not response.ok:
-        print(f"Server respons ({response.status_code}) voor {record.get('registration')}: {response.text}")
-        
-    response.raise_for_status()
-
 
 def _aircraft_record_to_api_format(record: dict[str, Any]) -> dict[str, Any]:
     mapped = {}
@@ -288,38 +362,25 @@ def _aircraft_record_to_api_format(record: dict[str, Any]) -> dict[str, Any]:
     return mapped
 
 
-def compare_aircraft_with_api() -> None:
-    try:
-        vehicles = fetch_vehicles()
-    except RuntimeError as exc:
-        print(str(exc))
-        notify_fetch_failure(str(exc), prefix="Aircraft", target_url=API_URL_VEHICLES)
-        return
-
-    print(f"\nOpgehaald: {len(vehicles)} records van API voor Aircraft-vergelijking")
-
-    api_by_kenteken = _kentekens_by_record(vehicles)
-    
-    raw_aircraft_data = load_aircraft_data()
-    file_by_kenteken = {}
-    for record in raw_aircraft_data:
+def compare_aircraft_with_api(site: SiteData) -> None:
+    file_by_kenteken: dict[str, dict[str, Any]] = {}
+    for record in load_aircraft_data():
         if isinstance(record, dict):
             formatted_record = _aircraft_record_to_api_format(record)
-            kenteken = formatted_record.get("kenteken")
+            kenteken = _normalize_kenteken(formatted_record.get("kenteken"))
             if kenteken:
                 file_by_kenteken[kenteken] = formatted_record
 
-    shared = set(api_by_kenteken) & set(file_by_kenteken)
-    only_in_file = set(file_by_kenteken) - set(api_by_kenteken)
+    site_kentekens = site.kentekens
+    shared = site_kentekens & set(file_by_kenteken)
+    only_in_file = set(file_by_kenteken) - site_kentekens
 
-    same = 0
+    api_by_kenteken = site.records_for(shared, file_by_kenteken)
+
     different_kentekens: set[str] = set()
     diffs_by_kenteken: dict[str, set[str]] = {}
-
-    for kenteken in shared:
-        api_record = api_by_kenteken[kenteken]
+    for kenteken, api_record in api_by_kenteken.items():
         file_record = file_by_kenteken[kenteken]
-        
         changed_keys = {
             key for key in set(file_record)
             if _normalize_value(api_record.get(key)) != _normalize_value(file_record.get(key))
@@ -327,8 +388,7 @@ def compare_aircraft_with_api() -> None:
         if changed_keys:
             different_kentekens.add(kenteken)
             diffs_by_kenteken[kenteken] = changed_keys
-        else:
-            same += 1
+    same = len(shared) - len(different_kentekens)
 
     print("\n--- AIRCRAFT SUMMARY ---")
     print(f"Zelfde in beide: {same}")
@@ -340,22 +400,10 @@ def compare_aircraft_with_api() -> None:
         file_record = file_by_kenteken[kenteken]
         print(f"Verschil voor {kenteken}:")
         for key in sorted(diffs_by_kenteken[kenteken]):
-            api_value = api_record.get(key)
-            file_value = file_record.get(key)
-            print(f"  {key}: API={json.dumps(api_value)} File={json.dumps(file_value)}")
+            print(f"  {key}: API={json.dumps(api_record.get(key))} File={json.dumps(file_record.get(key))}")
 
-    pushed = 0
-    failures: list[tuple[str, str]] = []
-    for kenteken in only_in_file | different_kentekens:
-        record = file_by_kenteken[kenteken]
-        try:
-            push_aircraft(record)
-            print(f"Gepusht naar API: {kenteken}")
-            pushed += 1
-        except requests.RequestException as exc:
-            print(f"Push mislukt voor {kenteken}: {exc}")
-            failures.append((kenteken, str(exc)))
-
+    payloads = [file_by_kenteken[k] for k in sorted(only_in_file | different_kentekens)]
+    pushed, failures = push_records(payloads)
     if pushed + len(failures) > 0:
         notify_push_summary(pushed, failures, prefix="Aircraft", target_url=API_URL_VEHICLES)
 
@@ -365,11 +413,34 @@ def compare_aircraft_with_api() -> None:
 # ==========================================
 
 def run() -> None:
+    # Eén keer ophalen voor beide syncs (scheelt een verzoek en dus kans op blokkade)
+    try:
+        site = SiteData()
+    except RuntimeError as exc:
+        print(str(exc))
+        notify_fetch_failure(str(exc), prefix="RDW Voertuigen + Aircraft", target_url=API_URL_VEHICLES)
+        return
+
+    print(f"Opgehaald: {len(site)} records van {API_URL_VEHICLES} (modus: {site.mode})")
+    if len(site) == 0:
+        message = f"Lege lijst ontvangen van {API_URL_VEHICLES}, sync overgeslagen (niets gepusht)."
+        print(message)
+        notify_fetch_failure(message, prefix="RDW Voertuigen + Aircraft", target_url=API_URL_VEHICLES)
+        return
+
     print(">>> Starten RDW Voertuigen sync...")
-    compare_vehicles_with_api()
+    try:
+        compare_vehicles_with_api(site)
+    except (requests.RequestException, ValueError) as exc:
+        print(f"RDW Voertuigen sync mislukt: {exc}")
+        notify_fetch_failure(str(exc), prefix="RDW Voertuigen", target_url=API_URL_VEHICLES)
 
     print("\n>>> Starten Aircraft sync...")
-    compare_aircraft_with_api()
+    try:
+        compare_aircraft_with_api(site)
+    except (requests.RequestException, ValueError) as exc:
+        print(f"Aircraft sync mislukt: {exc}")
+        notify_fetch_failure(str(exc), prefix="Aircraft", target_url=API_URL_VEHICLES)
 
 
 if __name__ == "__main__":
