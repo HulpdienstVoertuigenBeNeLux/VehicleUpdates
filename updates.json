@@ -106,6 +106,27 @@
         "Regio": "West-Vlaanderen Zone - 1",
         "Description": " DAT-RB toegevoegd aan B7",
         "Time": "27-11-2026 13:03:40"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN HBV toegevoegd aan Rotterdam Port Authority",
+        "Time": "27-11-2026 15:03:54"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "20 - Midden en West-Brabant (VRMWB)",
+        "Description": "20-1663 BRV-G toegevoegd aan Dinteloord",
+        "Time": "27-11-2026 15:03:54"
+      },
+      {
+        "Land": "BE",
+        "Hulpdienst": "Brandweer",
+        "Regio": "Oost-Vlaanderen",
+        "Description": " ZW toegevoegd aan Gent",
+        "Time": "27-11-2026 15:04:15"
       }
     ],
     "removed": [
@@ -250,6 +271,34 @@
         "Regio": "17 - Rotterdam-Rijnmond (VRR)",
         "Description": "17-8785 / RPA5: Bijzonderheden van 'Toezicht- en handhavingsvaartuig.' naar 'Toezicht- en handhavingsvaartuig. Ligplaats: Madroelhaven.' aangepast",
         "Time": "27-11-2026 02:02:27"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-9061: Bijzonderheden van 'De Batouwe. Ligplaats in de haven van Nijmegen' naar 'De Gelderland. Ligplaats in de haven van Nijmegen' aangepast",
+        "Time": "27-11-2026 15:03:54"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "8 - Gelderland-Zuid (VRGZ)",
+        "Description": "08-9062: Bijzonderheden van 'De Gelderland. Ligplaats in de haven van Tiel.' naar 'De Batouwe. Ligplaats verkeerstpost RWS Tiel' aangepast",
+        "Time": "27-11-2026 15:03:54"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "Brandweer",
+        "Regio": "17 - Rotterdam-Rijnmond (VRR)",
+        "Description": "17-8788: Bijzonderheden van 'Toezicht- en handhavingsvaartuig. Ligplaats: 1e Eemhaven, Madroelhaven of Pistoolhaven.' naar 'Toezicht- en handhavingsvaartuig. Ligplaats: Onbekend (Swinhaven).' aangepast",
+        "Time": "27-11-2026 15:03:54"
+      },
+      {
+        "Land": "NL",
+        "Hulpdienst": "",
+        "Regio": "",
+        "Description": "GEEN: Bijzonderheden van '' naar 'Ligplaats: Scheurhaven' aangepast",
+        "Time": "27-11-2026 15:03:54"
       }
     ]
   },
