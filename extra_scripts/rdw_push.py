@@ -63,11 +63,21 @@ def _kentekens_by_record(records: list) -> dict[str, dict[str, Any]]:
 # DISCORD NOTIFICATIES
 # ==========================================
 
+def _runner_ip() -> str:
+    """Publiek IP van de runner, zodat een blokkade bij de hoster te melden is.
+    Alleen voor de Discord-melding; bewust niet in de (openbare) log."""
+    try:
+        return requests.get("https://api.ipify.org", timeout=5).text.strip()[:45] or "onbekend"
+    except requests.RequestException:
+        return "onbekend"
+
+
 def notify_fetch_failure(error: str, prefix: str, target_url: str) -> None:
     webhook_url = os.getenv("DISCORD_WEBHOOK_URL_RDW_API_PUSH", "")
     if not webhook_url:
         print(f"Discord notificatie overgeslagen: geen webhook URL ({error})")
         return
+    error = f"{error}\nRunner-IP: {_runner_ip()}"
 
     payload = {
         "username": f"HulpdienstVoertuigenBeNeLux {prefix} Push",
