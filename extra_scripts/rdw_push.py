@@ -1,6 +1,8 @@
 import hashlib
+import html
 import json
 import os
+import re
 import time
 from typing import Any
 
@@ -78,6 +80,8 @@ def notify_fetch_failure(error: str, prefix: str, target_url: str) -> None:
         print(f"Discord notificatie overgeslagen: geen webhook URL ({error})")
         return
     error = f"{error}\nRunner-IP: {_runner_ip()}"
+    if _last_html:
+        error += "\nVolledige pagina: zie bijlage."
 
     payload = {
         "username": f"HulpdienstVoertuigenBeNeLux {prefix} Push",
@@ -90,7 +94,15 @@ def notify_fetch_failure(error: str, prefix: str, target_url: str) -> None:
         ],
     }
     try:
-        requests.post(webhook_url, json=payload, timeout=10)
+        if _last_html:
+            requests.post(
+                webhook_url,
+                data={"payload_json": json.dumps(payload)},
+                files={"files[0]": ("pagina.html", _last_html.encode("utf-8"), "text/plain")},
+                timeout=20,
+            )
+        else:
+            requests.post(webhook_url, json=payload, timeout=10)
     except requests.RequestException as exc:
         print(f"Discord notificatie mislukt: {exc}")
     finally:
@@ -146,6 +158,22 @@ def notify_push_summary(pushed: int, failures: list[tuple[str, str]], prefix: st
 FETCH_WAITS_SECONDS = (0, 20, 45, 90)
 
 
+# Laatst ontvangen HTML-pagina (bijv. een botcontrole van de hosting); gaat als bijlage mee naar Discord
+_last_html: str | None = None
+
+
+def _describe_html(text: str) -> str:
+    """Titel + zichtbare tekst van een HTML-pagina, zodat te zien is wát er terugkwam."""
+    title_match = re.search(r"<title[^>]*>(.*?)</title>", text, re.I | re.S)
+    title = html.unescape(title_match.group(1)).strip() if title_match else ""
+    body = re.sub(r"<(script|style|noscript)[^>]*>.*?</\1>", " ", text, flags=re.I | re.S)
+    body = html.unescape(re.sub(r"<[^>]+>", " ", body))
+    body = re.sub(r"\s+", " ", body).strip()
+    if title and body.startswith(title):
+        body = body[len(title):].strip()
+    return f"titel: {title or '-'!r}, tekst: {body[:300] or '-'!r}"
+
+
 def _get_json(url: str, **kwargs) -> Any:
     last_error: Exception | None = None
     attempts = len(FETCH_WAITS_SECONDS)
@@ -158,10 +186,11 @@ def _get_json(url: str, **kwargs) -> Any:
             try:
                 return response.json()
             except ValueError as exc:
-                start = response.text[:120].replace("\n", " ")
+                global _last_html
+                _last_html = response.text
                 raise ValueError(
                     f"geen JSON (HTTP {response.status_code}, {response.headers.get('Content-Type', '?')}, "
-                    f"{len(response.content)} bytes, begin: {start!r})"
+                    f"{len(response.content)} bytes) {_describe_html(response.text)}"
                 ) from exc
         except (requests.RequestException, ValueError) as exc:
             last_error = exc
