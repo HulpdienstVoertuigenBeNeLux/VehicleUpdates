@@ -11,6 +11,11 @@ import time
 RAW_DIR = "raw"
 RAW_SHEETS_DIR = os.path.join(RAW_DIR, "sheets")
 
+# De site zet de /fetch-sheet-data zelf op GitHub (branch site-cache, WebsiteData/utils/siteSync.js),
+# zodat deze runner de site niet hoeft aan te roepen: de hosting zet runner-IP's soms achter een botcontrole.
+SITE_CACHE_REPO = "HulpdienstVoertuigenBeNeLux/VehicleUpdates"
+SITE_CACHE_BRANCH = "site-cache"
+
 
 REGION_CONFIGS = {
     "NL": {
@@ -58,15 +63,16 @@ def save_raw_sheet(region: str, data: Any) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def force_resync(region: str) -> None:
+def force_resync(region: str) -> Optional[dict]:
     """Laat de site de sheet van deze regio eerst opnieuw inlezen (alleen als HVBNL_RESYNC_KEY gezet is, bij de fast syncs).
 
     Bulkwijzigingen in de sheet (zoeken en vervangen) komen soms niet via het sheet-script bij de site; zonder resync
-    ziet de vergelijking ze dan niet. We wachten tot /fetch-sheet data van na de resync teruggeeft (max 3 minuten).
+    ziet de vergelijking ze dan niet. We wachten tot /fetch-sheet data van na de resync teruggeeft (max 3 minuten)
+    en geven die terug. Blokkeert de hosting ons (HTML i.p.v. JSON), dan meteen None: dan geldt de site-cache op GitHub.
     """
     key = os.environ.get("HVBNL_RESYNC_KEY", "")
     if not key:
-        return
+        return None
     from datetime import datetime
     from zoneinfo import ZoneInfo
     tz = ZoneInfo("Europe/Amsterdam")
@@ -78,12 +84,15 @@ def force_resync(region: str) -> None:
             headers={"x-api-key": key, "User-Agent": "VehicleUpdates fast sync"},
             timeout=120,
         )
+        if "json" not in r.headers.get("Content-Type", ""):
+            print(f"Resync {region}: geen JSON terug (HTTP {r.status_code}, hosting blokkeert?); gebruik de site-cache.")
+            return None
         print(f"Resync {region} aangevraagd: HTTP {r.status_code} {r.text[:80]}")
         if r.status_code != 200:
-            return
+            return None
     except requests.RequestException as exc:
-        print(f"Resync {region} mislukt ({exc}); ga verder met de huidige data van de site.")
-        return
+        print(f"Resync {region} mislukt ({exc}); gebruik de site-cache.")
+        return None
     url = f"https://hulpdienstvoertuigenbenelux.nl/fetch-sheet?region={region}"
     headers = {"User-Agent": "Mozilla/5.0 VehicleUpdates", "Referer": "https://hulpdienstvoertuigenbenelux.nl/",
                "X-API-Key": os.environ.get("SHEET_API_KEY", "")}
@@ -93,14 +102,55 @@ def force_resync(region: str) -> None:
             cached = data.get("_cachedAt") if isinstance(data, dict) else None
             if cached and datetime.strptime(cached, "%d-%m-%Y %H:%M:%S").replace(tzinfo=tz) >= started:
                 print(f"Site heeft de nieuwe data van {region} (cache {cached}).")
-                return
+                return data
         except (requests.RequestException, ValueError):
             pass
         time.sleep(8)
-    print(f"Site gaf na 3 minuten nog geen nieuwe data voor {region}; ga verder met wat er is.")
+    print(f"Site gaf na 3 minuten nog geen nieuwe data voor {region}; gebruik de site-cache.")
+    return None
 
 
-def download_json(url: str, region: Optional[str] = None) -> list:
+def fetch_site_cache(region: str) -> Optional[dict]:
+    """De sheetdata zoals de site die op GitHub heeft gezet; None als dat (nog) niet lukt."""
+    token = os.environ.get("GITHUB_TOKEN", "")
+    if token:
+        url = f"https://api.github.com/repos/{SITE_CACHE_REPO}/contents/sheets/{region}.json?ref={SITE_CACHE_BRANCH}"
+        headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github.raw+json"}
+    else:
+        url = f"https://raw.githubusercontent.com/{SITE_CACHE_REPO}/{SITE_CACHE_BRANCH}/sheets/{region}.json"
+        headers = {}
+    for attempt in range(1, 4):
+        try:
+            response = requests.get(url, headers=headers, timeout=60)
+            if response.status_code == 404:
+                print(f"Site-cache {region}: nog niet gepubliceerd.")
+                return None
+            response.raise_for_status()
+            data = response.json()
+            if isinstance(data, dict) and isinstance(data.get("values"), list) and len(data["values"]) > 1:
+                print(f"Site-cache {region} van GitHub (site-cache {data.get('_cachedAt', '?')}).")
+                return data
+            print(f"Site-cache {region}: onverwachte inhoud.")
+            return None
+        except (requests.RequestException, ValueError) as exc:
+            print(f"Site-cache {region} ophalen mislukt (poging {attempt}/3): {exc}")
+            time.sleep(10)
+    return None
+
+
+def download_json(url: str, region: Optional[str] = None, prefetched: Optional[dict] = None) -> list:
+    data = prefetched
+    if data is None and region:
+        data = fetch_site_cache(region)
+    if data is None:
+        data = download_site_json(url)
+    if region:
+        save_raw_sheet(region, data)
+    return parse_sheet_json(data)
+
+
+def download_site_json(url: str) -> Any:
+    """Terugval: rechtstreeks bij de site (/fetch-sheet)."""
     headers = {
         # Some hosting layers reject non-browser clients unless common headers are present.
         "User-Agent": (
@@ -148,10 +198,10 @@ def download_json(url: str, region: Optional[str] = None) -> list:
 
     if data is None:
         raise RuntimeError(f"Failed to download JSON after {max_attempts} attempts: {url}")
+    return data
 
-    if region:
-        save_raw_sheet(region, data)
 
+def parse_sheet_json(data: Any) -> list:
     # Support both spreadsheet-style payloads ({"values": [[...], ...]}) and
     # direct list payloads from fallback/proxy responses.
     if isinstance(data, list) and all(isinstance(row, dict) for row in data):
@@ -530,10 +580,10 @@ def run_region(region: str) -> None:
     url = f"https://hulpdienstvoertuigenbenelux.nl/fetch-sheet?region={region}"
 
 
-    force_resync(region)
+    fresh = force_resync(region)
     print("Downloading latest JSON...")
     try:
-        new_json = download_json(url, region)
+        new_json = download_json(url, region, prefetched=fresh)
     except (requests.RequestException, RuntimeError, ValueError) as exc:
         print(f"Failed to download or parse online JSON for region {region}: {exc}")
         print("Skipping this region for now so the workflow can continue.")
