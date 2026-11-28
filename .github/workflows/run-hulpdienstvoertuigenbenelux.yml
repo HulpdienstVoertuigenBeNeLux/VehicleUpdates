@@ -44,6 +44,7 @@ jobs:
           HVNBL_RDW_API_KEY: ${{ secrets.HVNBL_RDW_API_KEY }}
           DISCORD_WEBHOOK_URL_RDW_API_PUSH: ${{ secrets.DISCORD_WEBHOOK_URL_RDW_API_PUSH }}
           DUPLICATES_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL_ZITPLAATSEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # site-cache lezen zonder CDN-vertraging
         run: |
           git pull
           python compare_hulpdienstvoertuigenbenelux.py ALL
@@ -53,7 +54,7 @@ jobs:
           python fetch_rdw_subdata.py
           python combine_data.py
           python extra_scripts/combine_rdw_subdata.py
-          python extra_scripts/rdw_push.py
+          python extra_scripts/rdw_export.py  # site haalt RDW zelf op (site_sync/rdw); rdw_push.py blijft als handmatige terugval
           python validate_regions.py
           python extra_scripts/check_bezetting.py
 

@@ -35,6 +35,7 @@ jobs:
       - name: Run script
         env:
           HVBNL_RESYNC_KEY: ${{ secrets.HVBNL_RESYNC_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # site-cache lezen zonder CDN-vertraging
         run: |
           git pull
           python compare_hulpdienstvoertuigenbenelux.py BE
