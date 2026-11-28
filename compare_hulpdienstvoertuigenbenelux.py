@@ -63,8 +63,8 @@ def save_raw_sheet(region: str, data: Any) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def force_resync(region: str) -> Optional[dict]:
-    """Laat de site de sheet van deze regio eerst opnieuw inlezen (alleen als HVBNL_RESYNC_KEY gezet is, bij de fast syncs).
+def resync_via_webhook(region: str) -> Optional[dict]:
+    """Oude route (terugval): laat de site de sheet van deze regio eerst opnieuw inlezen (alleen als HVBNL_RESYNC_KEY gezet is, bij de fast syncs).
 
     Bulkwijzigingen in de sheet (zoeken en vervangen) komen soms niet via het sheet-script bij de site; zonder resync
     ziet de vergelijking ze dan niet. We wachten tot /fetch-sheet data van na de resync teruggeeft (max 3 minuten)
@@ -106,8 +106,85 @@ def force_resync(region: str) -> Optional[dict]:
         except (requests.RequestException, ValueError):
             pass
         time.sleep(8)
-    print(f"Site gaf na 3 minuten nog geen nieuwe data voor {region}; gebruik de site-cache.")
+    print(f"Site gaf na 3 minuten nog geen nieuwe data voor {region}.")
     return None
+
+
+class ResyncFailed(RuntimeError):
+    pass
+
+
+def _github_api(method: str, path: str, **kwargs) -> requests.Response:
+    headers = {"Authorization": f"Bearer {os.environ.get('GITHUB_TOKEN', '')}", "Accept": "application/vnd.github+json"}
+    headers.update(kwargs.pop("headers", {}))
+    return requests.request(method, f"https://api.github.com/repos/{SITE_CACHE_REPO}/{path}", headers=headers, timeout=60, **kwargs)
+
+
+def resync_via_github(region: str) -> Optional[dict]:
+    """Resync aanvragen via branch site-cache: de site leest de sheet opnieuw in en meldt in status/<REGIO>.json
+    wanneer de gepubliceerde data bij is. Zo hoeft de runner de hosting niet aan te roepen (botcontrole)."""
+    if not os.environ.get("GITHUB_TOKEN"):
+        return None
+    import base64
+    request_id = f"{os.environ.get('GITHUB_RUN_ID', 'lokaal')}-{region}-{int(time.time())}"
+    path = f"requests/{region}.json"
+    body = json.dumps({"id": request_id, "requested_at": datetime.datetime.now(datetime.UTC).isoformat()})
+    try:
+        for _ in range(3):
+            current = _github_api("GET", f"contents/{path}?ref={SITE_CACHE_BRANCH}")
+            sha = current.json().get("sha") if current.status_code == 200 else None
+            put = _github_api("PUT", f"contents/{path}", json={
+                "message": f"Resync {region} aangevraagd ({request_id})", "branch": SITE_CACHE_BRANCH,
+                "content": base64.b64encode(body.encode()).decode(), **({"sha": sha} if sha else {}),
+            })
+            if put.status_code in (200, 201):
+                break
+            if put.status_code not in (409, 422):
+                print(f"Resync {region} via GitHub: verzoek plaatsen mislukt (HTTP {put.status_code} {put.text[:120]})")
+                return None
+        else:
+            print(f"Resync {region} via GitHub: verzoek bleef botsen")
+            return None
+    except requests.RequestException as exc:
+        print(f"Resync {region} via GitHub: {exc}")
+        return None
+
+    print(f"Resync {region} via GitHub aangevraagd ({request_id}); wachten op de site...")
+    deadline = time.time() + 300
+    while time.time() < deadline:
+        time.sleep(10)
+        try:
+            res = _github_api("GET", f"contents/status/{region}.json?ref={SITE_CACHE_BRANCH}",
+                              headers={"Accept": "application/vnd.github.raw+json"})
+            status = res.json() if res.status_code == 200 else {}
+        except (requests.RequestException, ValueError):
+            continue
+        if status.get("id") != request_id:
+            continue
+        if not status.get("ok"):
+            print(f"Resync {region} via GitHub mislukt bij de site: {status.get('detail')}")
+            return None
+        print(f"Site heeft {region} opnieuw ingelezen ({status.get('detail')}; {status.get('published')}, "
+              f"cache {status.get('cachedAt')}, {round((status.get('durationMs') or 0) / 1000)} s).")
+        return fetch_site_cache(region)
+    print(f"Resync {region} via GitHub: site reageerde niet binnen 5 minuten.")
+    return None
+
+
+def force_resync(region: str) -> Optional[dict]:
+    """Fast sync (HVBNL_RESYNC_KEY gezet): verse sheetdata van na een resync, eerst via GitHub, anders via de webhook.
+
+    Lukt geen van beide, dan ResyncFailed: liever deze regio overslaan dan met oude data vergelijken, want een gemiste
+    wijziging zou de uurlijkse run daarna alsnog melden (precies wat de fast sync moet voorkomen).
+    """
+    if not os.environ.get("HVBNL_RESYNC_KEY", ""):
+        return None
+    data = resync_via_github(region)
+    if data is None:
+        data = resync_via_webhook(region)
+    if data is None:
+        raise ResyncFailed(f"geen verse data voor {region} (resync via GitHub en via de webhook mislukt)")
+    return data
 
 
 def fetch_site_cache(region: str) -> Optional[dict]:
@@ -580,7 +657,11 @@ def run_region(region: str) -> None:
     url = f"https://hulpdienstvoertuigenbenelux.nl/fetch-sheet?region={region}"
 
 
-    fresh = force_resync(region)
+    try:
+        fresh = force_resync(region)
+    except ResyncFailed as exc:
+        print(f"{exc}; {region} overgeslagen (niet vergeleken met oude data).")
+        return
     print("Downloading latest JSON...")
     try:
         new_json = download_json(url, region, prefetched=fresh)
