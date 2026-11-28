@@ -1,6 +1,7 @@
 import os
 import datetime
 import json
+import re
 import requests
 import sys
 import shutil
@@ -11,10 +12,11 @@ import time
 RAW_DIR = "raw"
 RAW_SHEETS_DIR = os.path.join(RAW_DIR, "sheets")
 
-# De site zet de /fetch-sheet-data zelf op GitHub (branch site-cache, WebsiteData/utils/siteSync.js),
-# zodat deze runner de site niet hoeft aan te roepen: de hosting zet runner-IP's soms achter een botcontrole.
+# De site zet de /fetch-sheet-data zelf op GitHub als bijlagen van release 'site-cache' (WebsiteData
+# utils/siteSync.js), zodat deze runner de site niet hoeft aan te roepen: de hosting zet runner-IP's soms
+# achter een botcontrole. Bijlagen i.p.v. commits: geen git-geschiedenis die de hele dag groeit.
 SITE_CACHE_REPO = "HulpdienstVoertuigenBeNeLux/VehicleUpdates"
-SITE_CACHE_BRANCH = "site-cache"
+SITE_CACHE_RELEASE = "site-cache"
 
 
 REGION_CONFIGS = {
@@ -115,37 +117,32 @@ class ResyncFailed(RuntimeError):
 
 
 def _github_api(method: str, path: str, **kwargs) -> requests.Response:
-    headers = {"Authorization": f"Bearer {os.environ.get('GITHUB_TOKEN', '')}", "Accept": "application/vnd.github+json"}
+    headers = {"Accept": "application/vnd.github+json"}
+    if os.environ.get("GITHUB_TOKEN"):
+        headers["Authorization"] = f"Bearer {os.environ['GITHUB_TOKEN']}"
     headers.update(kwargs.pop("headers", {}))
     return requests.request(method, f"https://api.github.com/repos/{SITE_CACHE_REPO}/{path}", headers=headers, timeout=60, **kwargs)
 
 
 def resync_via_github(region: str) -> Optional[dict]:
-    """Resync aanvragen via branch site-cache: de site leest de sheet opnieuw in en meldt in status/<REGIO>.json
-    wanneer de gepubliceerde data bij is. Zo hoeft de runner de hosting niet aan te roepen (botcontrole)."""
+    """Resync aanvragen via een bijlage van release site-cache: de site leest de sheet opnieuw in, publiceert
+    en zet status-<REGIO>-<id>.json terug. Zo hoeft de runner de hosting niet aan te roepen (botcontrole)."""
     if not os.environ.get("GITHUB_TOKEN"):
         return None
-    import base64
-    request_id = f"{os.environ.get('GITHUB_RUN_ID', 'lokaal')}-{region}-{int(time.time())}"
-    path = f"requests/{region}.json"
-    body = json.dumps({"id": request_id, "requested_at": datetime.datetime.now(datetime.UTC).isoformat()})
+    request_id = f"{os.environ.get('GITHUB_RUN_ID', 'lokaal')}-{int(time.time())}"
     try:
-        for _ in range(3):
-            current = _github_api("GET", f"contents/{path}?ref={SITE_CACHE_BRANCH}")
-            sha = current.json().get("sha") if current.status_code == 200 else None
-            put = _github_api("PUT", f"contents/{path}", json={
-                "message": f"Resync {region} aangevraagd ({request_id})", "branch": SITE_CACHE_BRANCH,
-                "content": base64.b64encode(body.encode()).decode(), **({"sha": sha} if sha else {}),
-            })
-            if put.status_code in (200, 201):
-                break
-            if put.status_code not in (409, 422):
-                print(f"Resync {region} via GitHub: verzoek plaatsen mislukt (HTTP {put.status_code} {put.text[:120]})")
-                return None
-        else:
-            print(f"Resync {region} via GitHub: verzoek bleef botsen")
+        _site_cache_assets()  # zet _release_id
+        body = json.dumps({"id": request_id, "requested_at": datetime.datetime.now(datetime.UTC).isoformat()})
+        res = requests.post(
+            f"https://uploads.github.com/repos/{SITE_CACHE_REPO}/releases/{_release_id}/assets?name=request-{region}-{request_id}.json",
+            data=body.encode(), timeout=60,
+            headers={"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}", "Content-Type": "application/json",
+                     "Accept": "application/vnd.github+json"},
+        )
+        if res.status_code not in (200, 201):
+            print(f"Resync {region} via GitHub: verzoek plaatsen mislukt (HTTP {res.status_code} {res.text[:120]})")
             return None
-    except requests.RequestException as exc:
+    except (requests.RequestException, ValueError, KeyError) as exc:
         print(f"Resync {region} via GitHub: {exc}")
         return None
 
@@ -154,12 +151,12 @@ def resync_via_github(region: str) -> Optional[dict]:
     while time.time() < deadline:
         time.sleep(10)
         try:
-            res = _github_api("GET", f"contents/status/{region}.json?ref={SITE_CACHE_BRANCH}",
-                              headers={"Accept": "application/vnd.github.raw+json"})
-            status = res.json() if res.status_code == 200 else {}
-        except (requests.RequestException, ValueError):
-            continue
-        if status.get("id") != request_id:
+            match = [a for a in _site_cache_assets() if a["name"] == f"status-{region}-{request_id}.json"]
+            if not match:
+                continue
+            status = _download_asset(match[0])
+            _github_api("DELETE", f"releases/assets/{match[0]['id']}")
+        except (requests.RequestException, ValueError, KeyError):
             continue
         if not status.get("ok"):
             print(f"Resync {region} via GitHub mislukt bij de site: {status.get('detail')}")
@@ -187,29 +184,48 @@ def force_resync(region: str) -> Optional[dict]:
     return data
 
 
+_release_id: Optional[int] = None
+
+
+def _site_cache_assets() -> list:
+    """Bijlagen van release site-cache (met GITHUB_TOKEN als die er is, anders anoniem)."""
+    global _release_id
+    if _release_id is None:
+        res = _github_api("GET", f"releases/tags/{SITE_CACHE_RELEASE}")
+        res.raise_for_status()
+        _release_id = res.json()["id"]
+    res = _github_api("GET", f"releases/{_release_id}/assets?per_page=100")
+    res.raise_for_status()
+    return res.json()
+
+
+def _asset_stamp(name: str) -> int:
+    match = re.search(r"-(\d+)\.json$", name)
+    return int(match.group(1)) if match else 0
+
+
+def _download_asset(asset: dict) -> Any:
+    res = _github_api("GET", f"releases/assets/{asset['id']}", headers={"Accept": "application/octet-stream"})
+    res.raise_for_status()
+    return res.json()
+
+
 def fetch_site_cache(region: str) -> Optional[dict]:
-    """De sheetdata zoals de site die op GitHub heeft gezet; None als dat (nog) niet lukt."""
-    token = os.environ.get("GITHUB_TOKEN", "")
-    if token:
-        url = f"https://api.github.com/repos/{SITE_CACHE_REPO}/contents/sheets/{region}.json?ref={SITE_CACHE_BRANCH}"
-        headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github.raw+json"}
-    else:
-        url = f"https://raw.githubusercontent.com/{SITE_CACHE_REPO}/{SITE_CACHE_BRANCH}/sheets/{region}.json"
-        headers = {}
+    """De sheetdata zoals de site die op GitHub heeft gezet (nieuwste bijlage); None als dat (nog) niet lukt."""
     for attempt in range(1, 4):
         try:
-            response = requests.get(url, headers=headers, timeout=60)
-            if response.status_code == 404:
+            sheets = [a for a in _site_cache_assets() if a["name"].startswith(f"sheet-{region}-")]
+            if not sheets:
                 print(f"Site-cache {region}: nog niet gepubliceerd.")
                 return None
-            response.raise_for_status()
-            data = response.json()
+            newest = max(sheets, key=lambda a: _asset_stamp(a["name"]))
+            data = _download_asset(newest)
             if isinstance(data, dict) and isinstance(data.get("values"), list) and len(data["values"]) > 1:
-                print(f"Site-cache {region} van GitHub (site-cache {data.get('_cachedAt', '?')}).")
+                print(f"Site-cache {region} van GitHub ({newest['name']}, cache {data.get('_cachedAt', '?')}).")
                 return data
             print(f"Site-cache {region}: onverwachte inhoud.")
             return None
-        except (requests.RequestException, ValueError) as exc:
+        except (requests.RequestException, ValueError, KeyError) as exc:
             print(f"Site-cache {region} ophalen mislukt (poging {attempt}/3): {exc}")
             time.sleep(10)
     return None
